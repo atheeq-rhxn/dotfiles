@@ -1,5 +1,5 @@
 
-- **Terminal**: WezTerm  
+- **Terminal**: Ghostty
 - **Shell**: Nushell  
 - **Editor**: Helix  
 - **File Manager**: Yazi  
