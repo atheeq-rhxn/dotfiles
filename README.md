@@ -11,3 +11,9 @@ elixir lsp setup for fedora:
 ```
 sudo bash -c "$(curl -fsSL https://raw.githubusercontent.com/atheeq-rhxn/.dotfiles/main/elixir-ls-installer.sh)"
 ```
+Usage:
+```
+cd ~/dotfiles
+stow -t ~/.config .config
+stow -t ~ home
+```
