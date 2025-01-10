@@ -1,5 +1,5 @@
 default_shell "nu"
-
+pane_frames false
 theme "catppuccin-mocha"
 themes {
   catppuccin-mocha {

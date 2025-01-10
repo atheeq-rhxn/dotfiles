@@ -1,2 +1,5 @@
 [plugin]
-deps = [{ use = "yazi-rs/plugins:no-status", rev = "ad52adf" }, { use = "yazi-rs/plugins:smart-enter", rev = "40eafa3" }]
+deps = [{ use = "yazi-rs/plugins:smart-enter", rev = "600614a" }, { use = "yazi-rs/plugins:full-border", rev = "600614a" }, { use = "yazi-rs/plugins:max-preview", rev = "600614a" }, { use = "yazi-rs/plugins:no-status", rev = "600614a" }, { use = "yazi-rs/plugins:chmod", rev = "600614a" }, { use = "boydaihungst/restore", rev = "ffc209e" }]
+
+[flavor]
+deps = []

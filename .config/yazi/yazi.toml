@@ -1,13 +1,42 @@
 [manager]
+ratio = [0,1,0]
+title_format = ""
 show_hidden = true
 
 [opener]
 edit = [
   { run = 'hx "$@"', block = true}
 ]
+extract = [
+	{ run = 'ouch d -y "$@"', desc = "Extract here with ouch"},
+]
 
 [open]
 prepend_rules = [
 	{ name = "*.json", use = "edit" },
 	{ name = "*.html", use = "edit" },
+]
+
+[plugin]
+prepend_previewers = [
+	# Archive previewer
+	{ mime = "application/*zip",            run = "ouch" },
+	{ mime = "application/x-tar",           run = "ouch" },
+	{ mime = "application/x-bzip2",         run = "ouch" },
+	{ mime = "application/x-7z-compressed", run = "ouch" },
+	{ mime = "application/x-rar",           run = "ouch" },
+	{ mime = "application/x-xz",            run = "ouch" },
+
+	# Image previewer
+	{ mime = "image/svg+xml", run = "magick" },
+	{ mime = "image/heic",    run = "magick" },
+	{ mime = "image/jxl",     run = "magick" },
+	{ mime = "image/*", run = "allmytoes" },
+]
+
+prepend_preloaders = [
+	{ mime = "image/svg+xml", run = "magick" },
+	{ mime = "image/heic",    run = "magick" },
+	{ mime = "image/jxl",     run = "magick" },
+	{ mime = "image/*", run = "allmytoes" },
 ]

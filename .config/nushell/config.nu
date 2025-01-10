@@ -916,3 +916,8 @@ def c [] {
 def e [] {
     exit
 }
+
+source ~/.zoxide.nu
+
+# [env]
+# _ZO_ECHO = "1"

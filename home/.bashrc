@@ -24,17 +24,12 @@ if [ -d ~/.bashrc.d ]; then
 fi
 unset rc
 
-# eval "$(starship init bash)"
+eval "$(starship init bash)"
 
 . "$HOME/.cargo/env"
 
-
 function z() {
 	zellij
-}
-
-function x() {
-	zellij --config-dir ~/.config/yazelix/zellij	
 }
 
 function y() {
@@ -54,3 +49,7 @@ function e() {
   exit
 }
 
+alias cb="flatpak run app.getclipboard.Clipboard"
+
+eval "$(zoxide init --cmd cd bash)"
+export _ZO_ECHO='1'
