@@ -1,5 +1,3 @@
-default_shell "nu"
-pane_frames false
 theme "catppuccin-mocha"
 themes {
   catppuccin-mocha {
@@ -17,16 +15,15 @@ themes {
   }
 }
 
-default_layout "compact"
 
+default_shell "nu"
+// default_layout "compact"
 mouse_mode true
-
-ui {
-    pane_frames {
-        rounded_corners true
-        hide_session_name true
-    }
-}
-
 disable_session_metadata true
-
+pane_frames false
+ui {
+	pane_frames {
+		rounded_corners true
+        hide_session_name true
+	}
+}

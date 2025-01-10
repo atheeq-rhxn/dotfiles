@@ -14,6 +14,6 @@ sudo bash -c "$(curl -fsSL https://raw.githubusercontent.com/atheeq-rhxn/.dotfil
 Usage:
 ```
 cd ~/dotfiles
-stow -t ~/.config .config
+stow -t ~/.config config
 stow -t ~ home
 ```
