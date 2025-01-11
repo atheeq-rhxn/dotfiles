@@ -23,7 +23,6 @@ disable_session_metadata true
 pane_frames false
 ui {
 	pane_frames {
-		rounded_corners true
         hide_session_name true
 	}
 }
