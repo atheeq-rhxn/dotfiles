@@ -1,9 +1,9 @@
 
-- **Terminal**: Ghostty
+- **Terminal**: Wezterm
 - **Shell**: Nushell  
 - **Editor**: Helix  
 - **File Manager**: Yazi  
-- **Git Interface**: GitUI  
+- **Git Interface**: Gitui  
 - **Multiplexer**: Zellij  
 - **Prompt**: Starship  
 

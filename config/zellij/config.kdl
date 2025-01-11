@@ -17,7 +17,7 @@ themes {
 
 
 default_shell "nu"
-// default_layout "compact"
+default_layout "compact"
 mouse_mode true
 disable_session_metadata true
 pane_frames false
