@@ -2,6 +2,10 @@ theme = "catppuccin_mocha"
 
 [editor]
 line-number = "relative"
+end-of-line-diagnostics = "hint"
+
+[editor.inline-diagnostics]
+cursor-line = "error"
 
 [keys.normal.space.w]
 a = ":wa"

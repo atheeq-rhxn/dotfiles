@@ -1,8 +1,42 @@
 [[language]]
 name = "html"
-file-types = ["html"]
-formatter = { command = "/usr/local/bin/prettier", args = ["--stdin-filepath", "%file"] }
-language-servers = ["vscode-html-language-server"]
+scope = "source.html"
+injection-regex = "html"
+file-types = ["html", "htm"]
+roots = []
+language-servers = ["html-lsp", "emmet-ls"]
+formatter = { command = "prettier", args = ["--parser", "html"] }
+
+[[language]]
+name = "css"
+scope = "source.css"
+injection-regex = "css"
+file-types = ["css", "scss"]
+roots = []
+language-servers = ["css-lsp"]
+formatter = { command = "prettier", args = ["--parser", "css"] }
+
+[language-server.html-lsp]
+command = "vscode-html-language-server"
+args = ["--stdio"]
+
+[language-server.html-lsp.config]
+provideFormatter = true
+completion = { completeFunctionCalls = true }
+validation = { styles = true, scripts = true }
+
+[language-server.css-lsp]
+command = "vscode-css-language-server"
+args = ["--stdio"]
+
+[language-server.css-lsp.config]
+provideFormatter = true
+completion = { completeFunctionCalls = true }
+validation = { validate = true }
+
+[language-server.emmet-ls]
+command = "emmet-ls"
+args = ["--stdio"]
 
 [[language]]
 name = "elixir"
