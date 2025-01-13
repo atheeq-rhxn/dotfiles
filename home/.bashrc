@@ -49,6 +49,10 @@ function e() {
   exit
 }
 
+function r() {
+  systemctl --user restart xremap.service
+}
+
 alias cb="flatpak run app.getclipboard.Clipboard"
 
 eval "$(zoxide init --cmd cd bash)"
