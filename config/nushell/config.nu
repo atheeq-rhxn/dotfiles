@@ -917,6 +917,9 @@ def e [] {
     exit
 }
 
+def r [] {
+  systemctl --user restart xremap.service
+}
 source ~/.zoxide.nu
 
 # [env]

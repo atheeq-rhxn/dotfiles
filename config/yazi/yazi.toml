@@ -15,6 +15,7 @@ extract = [
 prepend_rules = [
 	{ name = "*.json", use = "edit" },
 	{ name = "*.html", use = "edit" },
+	{ name = "*.md", use = "edit" },
 ]
 
 [plugin]
