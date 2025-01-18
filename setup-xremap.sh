@@ -9,10 +9,10 @@ sudo dnf copr enable -y blakegardner/xremap
 sudo dnf install -y xremap
 
 # Create the config directory if it doesn't exist
-mkdir -p ~/.config/xremap
+mkdir -p ~/dotfiles/config/xremap
 
 # Create the xremap configuration file
-cat > ~/.config/xremap/config.yml << 'EOL'
+cat > ~/dotfiles/config/xremap << 'EOL'
 modmap:
   - name: Global
     remap:
@@ -40,7 +40,7 @@ Description=xremap key remapping daemon
 After=network.target
 
 [Service]
-ExecStart=/usr/bin/xremap /home/${USER}/.config/xremap/config.yml
+ExecStart=/usr/bin/xremap /home/${USER}/dotfiles/config/xremap/config.yml
 Restart=always
 Environment=DISPLAY=:0
 

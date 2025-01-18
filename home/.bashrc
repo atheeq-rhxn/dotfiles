@@ -53,7 +53,6 @@ function r() {
   systemctl --user restart xremap.service
 }
 
-alias cb="flatpak run app.getclipboard.Clipboard"
+export HELIX_RUNTIME=~/src/helix/runtime
 
 eval "$(zoxide init --cmd cd bash)"
-export _ZO_ECHO='1'

@@ -6,14 +6,17 @@
 - **Git Interface**: Gitui  
 - **Multiplexer**: Zellij  
 - **Prompt**: Starship  
+- **Other**:
+  - xremap
+  - zoxide
+  - fzf
 
-elixir lsp setup for fedora:
-```
-sudo bash -c "$(curl -fsSL https://raw.githubusercontent.com/atheeq-rhxn/.dotfiles/main/elixir-ls-installer.sh)"
-```
 Usage:
 ```
+git clone https://github.com/atheeq-rhxn/dotfiles.git
 cd ~/dotfiles
 stow -t ~/.config config
 stow -t ~ home
+./setup-xremap.sh
+./elixir-lsp-setup.sh
 ```

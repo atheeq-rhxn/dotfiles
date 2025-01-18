@@ -921,6 +921,3 @@ def r [] {
   systemctl --user restart xremap.service
 }
 source ~/.zoxide.nu
-
-# [env]
-# _ZO_ECHO = "1"
