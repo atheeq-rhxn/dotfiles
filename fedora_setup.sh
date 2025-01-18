@@ -49,7 +49,7 @@ log_msg "Installing system utilities..."
 install_packages \
     file ffmpeg p7zip jq poppler-utils fd-find ripgrep fzf zoxide \
     ImageMagick xclip wl-clipboard xsel jetbrains-mono-fonts-all \
-    gtk3-devel clang ninja-build git stow
+    gtk3-devel clang ninja-build git stow openssh
 
 # Clone and set up dotfiles
 log_msg "Setting up dotfiles..."

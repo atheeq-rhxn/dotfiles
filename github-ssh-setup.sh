@@ -1,9 +1,5 @@
 #!/bin/bash
 
-# Install required packages if not present
-echo "Installing required packages..."
-sudo dnf install -y git xclip openssh
-
 # Generate SSH key
 echo "Generating SSH key..."
 ssh-keygen -t ed25519 -C "atheeq.rhxn@gmail.com"
