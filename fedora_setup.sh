@@ -83,7 +83,7 @@ refresh_env  # Refresh after installing Rust
 
 # Install Cargo packages in a batch
 log_msg "Installing Cargo packages..."
-cargo install --locked yazi-fm yazi-cli nu starship ouch zellij || { log_msg "Cargo package installation failed"; exit 1; }
+cargo install --locked yazi-fm yazi-cli nu starship ouch gitui zellij || { log_msg "Cargo package installation failed"; exit 1; }
 refresh_env  # Refresh after Cargo packages
 
 # Install xremap

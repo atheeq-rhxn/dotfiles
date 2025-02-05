@@ -56,3 +56,5 @@ function r() {
 export HELIX_RUNTIME=~/src/helix/runtime
 
 eval "$(zoxide init --cmd cd bash)"
+export PATH="$PATH":~/.local/bin
+export PATH="$PATH":"$HOME/.pub-cache/bin"
