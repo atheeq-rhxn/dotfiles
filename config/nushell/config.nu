@@ -917,6 +917,10 @@ def e [] {
     exit
 }
 
+def z [] {
+    zellij
+}
+
 def r [] {
   systemctl --user restart xremap.service
 }

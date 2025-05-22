@@ -1,5 +1,32 @@
-[plugin]
-deps = [{ use = "yazi-rs/plugins:smart-enter", rev = "600614a" }, { use = "yazi-rs/plugins:full-border", rev = "600614a" }, { use = "yazi-rs/plugins:max-preview", rev = "600614a" }, { use = "yazi-rs/plugins:no-status", rev = "600614a" }, { use = "yazi-rs/plugins:chmod", rev = "600614a" }, { use = "boydaihungst/restore", rev = "ffc209e" }]
+[[plugin.deps]]
+use = "yazi-rs/plugins:smart-enter"
+rev = "600614a"
+hash = "c1a2739e9ef2d837030ccb4267be3ed1"
+
+[[plugin.deps]]
+use = "yazi-rs/plugins:full-border"
+rev = "600614a"
+hash = "882ed23839778f82dc137248979c8681"
+
+[[plugin.deps]]
+use = "yazi-rs/plugins:max-preview"
+rev = "600614a"
+hash = "9bc26d10d2f6e2aa93b10905b1b76979"
+
+[[plugin.deps]]
+use = "yazi-rs/plugins:no-status"
+rev = "600614a"
+hash = "26907959d4d45f6258487f9bfe54a9c4"
+
+[[plugin.deps]]
+use = "yazi-rs/plugins:chmod"
+rev = "600614a"
+hash = "4c7e8fd0266eedee7b619d966bd2d025"
+
+[[plugin.deps]]
+use = "boydaihungst/restore"
+rev = "ffc209e"
+hash = "4b2069c1c73aa22f0d5c1548e32027a8"
 
 [flavor]
 deps = []
