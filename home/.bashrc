@@ -62,5 +62,5 @@ export LANG=en_US.utf8
 export LC_ALL=en_US.utf8
 export FUNCTIONS_DISCOVERY_TIMEOUT=240
 export SKIP_PACKAGE_CHECK=1
-# export JAVA_HOME=~/jdks/jdk-21.0.7+6
-# export PATH=$JAVA_HOME/bin:$PATH
+export JAVA_HOME=~/jdks/jdk-21.0.7+6
+export PATH=$JAVA_HOME/bin:$PATH

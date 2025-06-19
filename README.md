@@ -1,6 +1,6 @@
 
-- **Terminal**: Ghostty
-- **Shell**: Bash, nushell
+- **Terminal**: Ghostty/Wezterm
+- **Shell**: Bash/nushell
 - **Editor**: Helix  
 - **File Manager**: Yazi  
 - **Git Interface**: Gitui  

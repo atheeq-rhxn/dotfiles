@@ -15,6 +15,11 @@ f = ":q!"
 [editor.soft-wrap]
 enable = true
 
+[editor.indent-guides]
+render = true
+character = "▏"
+skip-levels = 1
+
 [keys.normal.space]
 e = [
   ':sh rm -f /tmp/unique-file',
