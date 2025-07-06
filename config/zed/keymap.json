@@ -1,0 +1,32 @@
+// Zed keymap
+//
+// For information on binding keys, see the Zed
+// documentation: https://zed.dev/docs/key-bindings
+//
+// To see the default key bindings run `zed: open default keymap`
+// from the command palette.
+[
+  {
+    "context": "Workspace",
+    "bindings": {
+      "space e": "workspace::ToggleLeftDock"
+    }
+  },
+  {
+    "bindings": {
+      "l": "project_panel::Open",
+      "a": "project_panel::NewFile",
+      "d": "project_panel::Delete"
+    }
+  },
+  {
+    "context": "Editor",
+    "bindings": {
+      "space w a": "workspace::SaveAll",
+      "alt-h": "workspace::ActivatePaneLeft",
+      "alt-l": "workspace::ActivatePaneRight",
+      "alt-n": "pane::SplitVertical",
+      "ctrl-x": "pane::CloseActiveItem"
+    }
+  }
+]

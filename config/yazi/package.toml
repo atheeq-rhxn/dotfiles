@@ -1,32 +1,32 @@
 [[plugin.deps]]
-use = "yazi-rs/plugins:smart-enter"
-rev = "600614a"
-hash = "c1a2739e9ef2d837030ccb4267be3ed1"
+use = "yazi-rs/plugins:chmod"
+rev = "5eea960"
+hash = "a030fe48d91b04341ad2fba9be957df"
 
 [[plugin.deps]]
 use = "yazi-rs/plugins:full-border"
-rev = "600614a"
-hash = "882ed23839778f82dc137248979c8681"
-
-[[plugin.deps]]
-use = "yazi-rs/plugins:max-preview"
-rev = "600614a"
-hash = "9bc26d10d2f6e2aa93b10905b1b76979"
+rev = "5eea960"
+hash = "3996fc74044bc44144b323686f887e1"
 
 [[plugin.deps]]
 use = "yazi-rs/plugins:no-status"
-rev = "600614a"
-hash = "26907959d4d45f6258487f9bfe54a9c4"
+rev = "5eea960"
+hash = "3e023d31f29201efdac2a6ae35fedb78"
 
 [[plugin.deps]]
-use = "yazi-rs/plugins:chmod"
-rev = "600614a"
-hash = "4c7e8fd0266eedee7b619d966bd2d025"
+use = "ndtoan96/ouch"
+rev = "1ee69a5"
+hash = "63679f3daf8551ff8755be38b5ced0f"
 
 [[plugin.deps]]
 use = "boydaihungst/restore"
-rev = "ffc209e"
-hash = "4b2069c1c73aa22f0d5c1548e32027a8"
+rev = "97ebcc3"
+hash = "f997349417b30488a8ccd0e64d476bd8"
+
+[[plugin.deps]]
+use = "yazi-rs/plugins:smart-enter"
+rev = "5eea960"
+hash = "56fdabc96fc1f4d53c96eb884b02a5be"
 
 [flavor]
 deps = []

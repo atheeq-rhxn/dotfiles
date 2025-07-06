@@ -1,5 +1,4 @@
-[manager]
-ratio = [0,1,0]
+[mgr]
 title_format = ""
 show_hidden = false
 

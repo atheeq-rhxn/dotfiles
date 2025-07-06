@@ -11,12 +11,3 @@
   - zoxide
   - fzf
 
-Usage:
-```
-git clone https://github.com/atheeq-rhxn/dotfiles.git
-cd ~/dotfiles
-stow -t ~/.config config
-stow -t ~ home
-./setup-xremap.sh
-./elixir-lsp-setup.sh
-```
