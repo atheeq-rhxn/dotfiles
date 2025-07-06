@@ -24,43 +24,54 @@ if [ -d ~/.bashrc.d ]; then
 fi
 unset rc
 
-eval "$(starship init bash)"
-
 . "$HOME/.cargo/env"
 
-function z() {
-	zellij
+alias c='clear'
+
+function cmt() {
+  ts=$(date '+%Y%m%d%H%M%S')
+  if [ -z "$1" ]; then
+    jj new -m "$ts"
+  else
+    jj new -m "$ts ($1)"
+  fi
 }
+
+
+alias e='exit'
+alias x='opencode'
 
 function y() {
 	local tmp="$(mktemp -t "yazi-cwd.XXXXXX")" cwd
 	yazi "$@" --cwd-file="$tmp"
-	if cwd="$(command cat -- "$tmp")" && [ -n "$cwd" ] && [ "$cwd" != "$PWD" ]; then
-		builtin cd -- "$cwd"
-	fi
+	IFS= read -r -d '' cwd < "$tmp"
+	[ -n "$cwd" ] && [ "$cwd" != "$PWD" ] && builtin cd -- "$cwd"
 	rm -f -- "$tmp"
 }
 
-function c() {
-  clear
-}
+alias z='zellij'
 
-function e() {
-  exit
-}
+RUSTFLAGS="-C target-feature=-crt-static"
 
-function r() {
-  systemctl --user restart xremap.service
-}
-
-export HELIX_RUNTIME="~/src/helix/runtime"
+eval "$(starship init bash)"
 eval "$(zoxide init --cmd cd bash)"
-export PATH="$PATH":~/.local/bin
-export PATH="$PATH":"$HOME/.pub-cache/bin"
 
-export LANG=en_US.utf8
-export LC_ALL=en_US.utf8
-export FUNCTIONS_DISCOVERY_TIMEOUT=240
-export SKIP_PACKAGE_CHECK=1
-export JAVA_HOME=~/jdks/jdk-21.0.7+6
-export PATH=$JAVA_HOME/bin:$PATH
+export NVM_DIR="$HOME/.nvm"
+[ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"
+[ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"
+
+# >>> conda initialize >>>
+# !! Contents within this block are managed by 'conda init' !!
+__conda_setup="$('/usr/bin/conda' 'shell.bash' 'hook' 2> /dev/null)"
+if [ $? -eq 0 ]; then
+    eval "$__conda_setup"
+else
+    if [ -f "/usr/etc/profile.d/conda.sh" ]; then
+        . "/usr/etc/profile.d/conda.sh"
+    else
+        export PATH="/usr/bin:$PATH"
+    fi
+fi
+unset __conda_setup
+# <<< conda initialize <<<
+
