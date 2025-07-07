@@ -1,0 +1,145 @@
+y
+yazi
+c
+exit
+y
+cd
+c
+source $"($nu.home-path)/.cargo/env.nu"
+bash
+c
+y
+c
+hx
+c
+y
+c
+z
+y
+c
+z
+c
+y
+cd
+c
+y
+starship preset jetpack -o ~/.config/starship.toml
+cargo install gitui --locked
+c
+y
+c
+y
+c
+y
+c
+gitui
+y
+c
+gitui
+c
+y
+c
+y
+#!/bin/bash<\n><\n># Generate SSH key<\n>echo "Generating SSH key..."<\n>ssh-keygen -t ed25519 -C "atheeq.rhxn@gmail.com"<\n><\n># Start SSH agent<\n>echo "Starting SSH agent..."<\n>eval "$(ssh-agent -s)"<\n><\n># Add SSH key to agent<\n>echo "Adding SSH key to agent..."<\n>ssh-add ~/.ssh/id_ed25519<\n><\n># Copy public key to clipboard<\n>echo "Copying public key to clipboard..."<\n>xclip -sel clip < ~/.ssh/id_ed25519.pub<\n>
+bash
+x
+opencode
+y
+c
+y
+c
+opencode
+c
+curl -fsSL https://bun.sh/install | bash
+# Download and install nvm:<\n>curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.40.3/install.sh | bash<\n><\n># in lieu of restarting the shell<\n>\. "$HOME/.nvm/nvm.sh"<\n><\n># Download and install Node.js:<\n>nvm install 22<\n><\n># Verify the Node.js version:<\n>node -v # Should print "v22.17.0".<\n>nvm current # Should print "v22.17.0".<\n><\n># Verify npm version:<\n>npm -v # Should print "10.9.2".<\n>
+x
+bash
+x
+c
+bun install -g opencode-ai
+x
+c
+bash
+x
+y
+opencode
+gemini
+c
+cd
+c
+x
+opencode
+gemini
+y
+c
+x
+y
+x
+c
+nu
+./cargo/bin/nu
+y
+cd
+y
+c
+y
+c
+gemin
+cd
+c
+x
+gemini
+y
+c
+bash
+gemini
+npx uninstall gemini-cli
+cd
+bas
+bash
+nu
+gemini
+bash
+npm
+nu
+x
+gemini
+c
+y
+c
+y
+c
+y
+c
+y
+c
+curl -f https://zed.dev/install.sh | sh<\n>
+c
+y
+c
+flatpak install flathub com.discordapp.Discord
+flatpak install flathub md.obsidian.Obsidian
+flatpak install flathub dev.zed.Zed
+y
+c
+y
+c
+y
+c
+y
+c
+y
+c
+y
+stow -t ~/dotfiles/config/helix src/helix/runtime
+stow -t ~/dotfiles/config/helix src/helix/runtime/
+stow -t ~/.config config<\n>y
+y
+stow -t ~/dotfiles/config/helix -d src helix/runtime<\n>
+stow -t ~/dotfiles/config/helix -d ~/src/helix/runtime<\n>
+y
+c
+stow -t ~/.config/helix -d . runtime<\n>
+stow -t ~/dotfiles/config/helix -d . runtime<\n>
+y
+c

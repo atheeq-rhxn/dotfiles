@@ -1,32 +1,42 @@
 [[plugin.deps]]
-use = "yazi-rs/plugins:chmod"
-rev = "5eea960"
-hash = "a030fe48d91b04341ad2fba9be957df"
-
-[[plugin.deps]]
 use = "yazi-rs/plugins:full-border"
-rev = "5eea960"
+rev = "b886025"
 hash = "3996fc74044bc44144b323686f887e1"
 
 [[plugin.deps]]
+use = "yazi-rs/plugins:smart-enter"
+rev = "b886025"
+hash = "56fdabc96fc1f4d53c96eb884b02a5be"
+
+[[plugin.deps]]
+use = "yazi-rs/plugins:toggle-pane"
+rev = "b886025"
+hash = "d6f60c24d8c0cf57a855bf46115b2502"
+
+[[plugin.deps]]
 use = "yazi-rs/plugins:no-status"
-rev = "5eea960"
+rev = "b886025"
 hash = "3e023d31f29201efdac2a6ae35fedb78"
 
 [[plugin.deps]]
-use = "ndtoan96/ouch"
-rev = "1ee69a5"
-hash = "63679f3daf8551ff8755be38b5ced0f"
+use = "yazi-rs/plugins:chmod"
+rev = "b886025"
+hash = "1adc12c2b2b025411ab61eb8f0879574"
+
+[[plugin.deps]]
+use = "TD-Sky/sudo"
+rev = "af70636"
+hash = "a94dcbe9266512806c677138e8591ddb"
 
 [[plugin.deps]]
 use = "boydaihungst/restore"
-rev = "97ebcc3"
-hash = "f997349417b30488a8ccd0e64d476bd8"
+rev = "2c2802d"
+hash = "6513e9224b29ac1e2b3a7326ff648e81"
 
 [[plugin.deps]]
-use = "yazi-rs/plugins:smart-enter"
-rev = "5eea960"
-hash = "56fdabc96fc1f4d53c96eb884b02a5be"
+use = "ndtoan96/ouch"
+rev = "bb941c4"
+hash = "956b02fe8213e7b92e21a941b9abe764"
 
 [flavor]
 deps = []

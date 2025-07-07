@@ -26,7 +26,15 @@ unset rc
 
 . "$HOME/.cargo/env"
 
+
 alias c='clear'
+
+
+
+
+alias e='exit'
+alias x='opencode'
+alias z='zellij'
 
 function cmt() {
   ts=$(date '+%Y%m%d%H%M%S')
@@ -37,10 +45,6 @@ function cmt() {
   fi
 }
 
-
-alias e='exit'
-alias x='opencode'
-
 function y() {
 	local tmp="$(mktemp -t "yazi-cwd.XXXXXX")" cwd
 	yazi "$@" --cwd-file="$tmp"
@@ -49,29 +53,13 @@ function y() {
 	rm -f -- "$tmp"
 }
 
-alias z='zellij'
-
-RUSTFLAGS="-C target-feature=-crt-static"
-
 eval "$(starship init bash)"
 eval "$(zoxide init --cmd cd bash)"
 
+# bun
+export BUN_INSTALL="$HOME/.bun"
+export PATH="$BUN_INSTALL/bin:$PATH"
+
 export NVM_DIR="$HOME/.nvm"
-[ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"
-[ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"
-
-# >>> conda initialize >>>
-# !! Contents within this block are managed by 'conda init' !!
-__conda_setup="$('/usr/bin/conda' 'shell.bash' 'hook' 2> /dev/null)"
-if [ $? -eq 0 ]; then
-    eval "$__conda_setup"
-else
-    if [ -f "/usr/etc/profile.d/conda.sh" ]; then
-        . "/usr/etc/profile.d/conda.sh"
-    else
-        export PATH="/usr/bin:$PATH"
-    fi
-fi
-unset __conda_setup
-# <<< conda initialize <<<
-
+[ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm
+[ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"  # This loads nvm bash_completion

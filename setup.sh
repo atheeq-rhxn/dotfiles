@@ -14,6 +14,3 @@ cargo install zoxide --locked
 git clone https://github.com/helix-editor/helix
 cd helix
 cargo install --path helix-term --locked
-ln -Ts $PWD/runtime ~/.config/helix/runtime
-
-

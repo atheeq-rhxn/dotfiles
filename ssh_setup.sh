@@ -15,7 +15,3 @@ ssh-add ~/.ssh/id_ed25519
 # Copy public key to clipboard
 echo "Copying public key to clipboard..."
 xclip -sel clip < ~/.ssh/id_ed25519.pub
-
-# Test connection
-echo "Testing connection to GitHub..."
-ssh -T git@github.com
