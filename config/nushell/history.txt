@@ -143,3 +143,63 @@ stow -t ~/.config/helix -d . runtime<\n>
 stow -t ~/dotfiles/config/helix -d . runtime<\n>
 y
 c
+bash
+y
+c
+curl -f https://zed.dev/install.sh | sh
+zed
+.
+zed
+y
+c
+y
+c
+cd
+c
+# To install the latest release<\n>cargo install --locked --bin jj jj-cli
+y
+c
+jj
+jj config set --user user.name "atheeq-rhxn"<\n>jj config set --user user.email "atheeq.rhxn@gmail.com"<\n>
+y
+jj
+c
+y
+jj
+y
+c
+jj
+jj git init --colocate
+cmt "changes"
+git push
+git push -u origin main
+gitui
+c
+y
+c
+jj
+cmt
+c
+git push
+git add .
+y
+git commit "changes"
+jj
+c
+git push
+jj push
+y
+git
+gitui
+c
+git add .
+git commit "changes"
+y
+c
+y
+c
+git add .
+git commit "changes"
+y
+git push
+gitui

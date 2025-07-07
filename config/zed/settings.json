@@ -12,6 +12,7 @@
   "relative_line_numbers": true,
   "pane_split_direction_vertical": "right",
   "theme": {
+    "light": "Catppuccin Latte",
     "dark": "Catppuccin Mocha"
   },
   "diagnostics": {
