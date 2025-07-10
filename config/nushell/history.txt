@@ -1217,3 +1217,14 @@ c
 gitui
 c
 ch
+ch -p
+y
+gitui
+c
+y
+gitui
+c
+y
+c
+y
+c
