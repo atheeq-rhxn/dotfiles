@@ -1,31 +1,29 @@
 ## 🛠️ Overview
 
 **Terminal & Shell:**
-- **Ghostty** - Modern terminal emulator
-- **Nu** - Modern shell with structured data
-- **Starship** - Cross-shell prompt
+- **Ghostty**
+- **Nu**
+- **Starship**
 
 **Editors:**
-- **Helix** - Modal text editor
-- **Zed** - Collaborative code editor
+- **Helix**
+- **Zed**
 
 **File Management:**
-- **Yazi** - Terminal file manager with plugins
+- **Yazi**
 
 **Development Tools:**
-- **Zellij** - Terminal workspace manager
-- **Git + JJ** - Traditional + modern version control
-- **GitUI** - Terminal-based git interface
-- **Zoxide** - Smart directory jumper
+- **Zellij**
+- **Git**
+- **GitUI**
+- **Zoxide**
 
 **Applications:**
-- **Zen Browser** - Privacy-focused browser
-- **Obsidian** - Knowledge management
-- **Discord** - Communication platform
+- **Zen Browser**
+- **Obsidian**
+- **Discord**
 
 ## 🧰 System Update & Essential Tools
-
-**Package Manager:** `dnf` (Fedora's package manager)
 
 ```bash
 sudo dnf update -y
@@ -45,8 +43,6 @@ sudo dnf install -y \
 
 ## 🧠 GNOME Configuration
 
-**Desktop Environment:** GNOME settings via `gsettings`
-
 ```bash
 # Swap Caps Lock and Escape
 gsettings set org.gnome.desktop.input-sources xkb-options \
@@ -54,8 +50,6 @@ gsettings set org.gnome.desktop.input-sources xkb-options \
 ```
 
 ## 🦀 Rust & CLI Tools
-
-**Package Manager:** `cargo` (Rust package manager)
 
 ```bash
 # Install Rust
@@ -69,12 +63,9 @@ cargo install --locked zellij
 cargo install --locked gitui
 cargo install --locked zoxide
 cargo install --git https://github.com/astral-sh/uv uv
-cargo install --locked --bin jj jj-cli
 ```
 
 ## 🧬 Editor & IDE Setup
-
-**Installation Methods:** Direct install scripts and source compilation
 
 ```bash
 # Helix
@@ -88,8 +79,6 @@ curl -f https://zed.dev/install.sh | sh
 ```
 
 ## 🎛️ Yazi Plugins
-
-**Plugin Manager:** `ya` (Yazi's built-in plugin manager) and `uv` (Python package installer)
 
 ```bash
 uv tool install ouch
@@ -106,30 +95,21 @@ ya pkg add ndtoan96/ouch
 
 ## 📽️ Manim Dependencies
 
-**Package Manager:** `dnf` for system libraries
-
 ```bash
 sudo dnf install -y python3-devel pkg-config cairo-devel pango-devel
 sudo dnf install -y texlive-scheme-full
 ```
 
-## 🧾 Git & JJ Configuration
+## 🧾 Git Configuration
 
-**Version Control:** Git and JJ (Jujutsu) configuration
+**Version Control:** Git configuration
 
 ```bash
 git config --global user.email "atheeq.rhxn@gmail.com"
 git config --global user.name "atheeq-rhxn"
-jj config set --user user.name "atheeq-rhxn"
-jj config set --user user.email "atheeq.rhxn@gmail.com"
-
-# Git & JJ integration:
-jj git init --colocate
 ```
 
 ## 📦 Flatpak Applications
-
-**Package Manager:** `flatpak` (Universal Linux packages)
 
 ```bash
 flatpak install -y flathub \
