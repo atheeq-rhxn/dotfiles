@@ -203,3 +203,1017 @@ git commit "changes"
 y
 git push
 gitui
+y
+c
+y
+c
+uv run main.py
+y
+uv run main.py
+y
+c
+gemini
+c
+uv run main.py
+y
+c
+gemini
+c
+y
+c
+z
+c
+gemini
+c
+y
+c
+uv run main.py
+y
+c
+y
+c
+y
+c
+y
+c
+uv run main.py
+y
+manim -qh /home/atheeq/Documents/gluoxus/ai/video/generations/scenes/7d11dc25-17d5-4b35-bb91-793b4995b6c0/7d11dc25-17d5-4b35-bb91-793b4995b6c0.py
+manim
+y
+overlay 
+c
+y
+c
+y
+c
+uv init
+uv venv
+y
+c
+y
+c
+overlay use .venv/bin/activate.nu
+c
+manim
+y
+c
+python manim
+manim -qh /home/atheeq/Documents/gluoxus/ai/video/generations/scenes/7d11dc25-17d5-4b35-bb91-793b4995b6c0/7d11dc25-17d5-4b35-bb91-793b4995b6c0.py
+bash
+c
+y
+c
+z
+c
+y
+c
+manim
+overlay use .venv/bin/activate.nu
+c
+manim
+c
+y
+c
+uv tool install pyright
+uv tool install ruff
+c
+z
+y
+cd doc
+c
+y
+c
+pyright
+overlay use .venv/bin/activate.nu
+pyright 
+y
+c
+pyright .
+y
+c
+deactivate
+c
+y
+c
+y
+c
+uv add kokoro
+c
+y
+manim
+uv tool install manim
+manim
+c
+y
+c
+uv tool install kokoro
+uv tool install soundfile
+c
+y
+c
+manim -qh /home/atheeq/Documents/gluoxus/ai/video/generations/scenes/7d11dc25-17d5-4b35-bb91-793b4995b6c0/7d11dc25-17d5-4b35-bb91-793b4995b6c0.py
+c
+y
+c
+uv run main.py
+uv tool install pip
+v
+c
+y
+c
+uv run main.py
+uv add pip
+c
+uv run main.py
+y
+c
+zj
+c
+y
+c
+y
+uv run recurring.py
+y
+qc
+z
+y
+c
+y
+c
+y
+c
+git remote add origin git@github.com:gluoxus/video.git<\n>git branch -M main
+cmt
+y
+cd video
+c
+y
+c
+cmt
+y
+c
+y
+cd video
+c
+gitui
+c
+y
+cmt
+y
+git commit -m 
+y
+c
+cd video
+c
+cmt
+cd video
+c
+cmt
+git push
+git push -u origin main
+c
+y
+c
+git clone https://github.com/rzmk/commit-helper.git
+y
+c
+cargo install --path . --bin ch
+y
+cargo install --path . --bin ch
+y
+gitui
+c
+y
+c
+y
+c
+cargo install --path . --bin ch
+z
+c
+gemini
+c
+y
+c
+cargo install --path . --bin ch
+ch
+y
+gitui
+c
+y
+c
+gemini
+c
+y
+c
+cargo install --path . --bin ch
+ch
+gitui
+ch
+gitui
+c
+ch
+git logs
+git log
+hx
+c
+y
+exit
+cd src
+git clone https://github.com/rzmk/commit-helper.git
+c
+y
+c
+cargo add serde --features derive<\n>cargo add serde_json<\n>
+c
+y
+c
+y
+c
+cargo install --path . --bin ch
+cd src
+y
+c
+ch
+y
+gitui
+y
+c
+y
+c
+git clone https://github.com/rzmk/commit-helper.git
+y
+c
+git clone https://github.com/rzmk/commit-helper.git
+y
+c
+y
+c
+ch
+y
+c
+cargo install --path . --bin ch
+ch
+y
+c
+ch
+cd
+ch
+y
+c
+y
+cargo install --path . --bin ch
+z
+y
+c
+ch
+y
+cargo install --path . --bin ch
+y
+cargo install --path . --bin ch
+y
+cargo install --path . --bin ch
+y
+cargo install --path . --bin ch
+y
+cargo install --path . --bin ch
+y
+c
+y
+c
+y
+c
+y
+c
+cargo install --path . --bin ch
+y
+c
+ch
+c
+y
+c
+ch
+gitui
+y
+c
+cd
+cargo install --git https://github.com/rzmk/commit-helper
+cd video
+ch
+gitui
+git log
+y
+c
+y
+git clone https://github.com/rzmk/commit-helper.git
+y
+c
+ch -h
+ch -a
+gitui
+git -p
+ch -h
+ch -p
+gitui
+ch -h
+gitui
+ch
+ch -a
+ch -apm "feat: new feature"
+gitui
+y
+c
+gemini
+c
+y
+c
+y
+c
+cd video
+c
+cd src/old
+y
+c
+dc
+cd
+c
+npm i -g gitmoji-cli
+cd video
+c
+gitmoji
+gitmoji -c
+gitui
+gitmoji -p
+git push
+y
+c
+cd src/old/commit-helper
+cargo install --path . --bin ch
+ch
+y
+c
+ch -a
+gitui
+ch -p
+c
+cd
+c
+cargo install --git https://github.com/rzmk/commit-helper
+c
+y
+c
+git clone https://github.com/rzmk/commit-helper.git
+cd commit-helper
+gemini
+c
+gemini
+c
+z
+c
+y
+cargo run
+cargo install --path . --bin ch
+y
+ch
+c
+cd video
+y
+ch
+ch -p
+gitui
+y
+c
+y
+gitui
+c
+y
+gitui
+c
+y
+gitui
+c
+y
+c
+y
+gitui
+c
+y
+c
+y
+c
+cargo install --path . --bin ch
+y
+cargo install --path . --bin ch
+cd video
+y
+c
+ch
+ch -p
+y
+cd commit-helper
+y
+c
+gitui
+c
+gitui
+c
+y
+gitui
+c
+y
+c
+gitui
+c
+y
+gitui
+c
+y
+c
+cargo install --path . --bin ch
+y
+gitui
+c
+gitui
+c
+y
+c
+cargo install --path . --bin ch
+cd video
+ch
+git push
+y
+git clone git@github.com:atheeq-rhxn/commit-helper.git
+y
+c
+cd x/video
+cd ~/x/video
+cd ~/x/commit-helper
+cd ~/x
+cd x
+cd commit-helper
+y
+c
+ch
+y
+gitui
+c
+hx
+c
+y
+c
+ch
+git push
+y
+gitui
+c
+y
+c
+ch
+y
+c
+gitui
+c
+y
+c
+ch
+git push
+c
+git log
+c
+y
+c
+y
+c
+y
+c
+cargo install --path . --bin ch
+c
+y
+c
+y
+c
+y
+c
+git init
+y
+git init branch -m main
+y
+git config --global init.defaultBranch main
+git init
+y
+c
+git remote add origin git@github.com:gluoxus/video.git
+ch
+git add .
+git commit -m "🎉 init: first commit"
+git push
+git branch -M main<\n>git push -u origin main
+u
+y
+uv
+uv remove dotenv
+uv add dotenv
+uv remove dotenv
+y
+c
+overlay use .venv/bin/activate.nu
+c
+y
+c
+python --version
+c
+y
+which python
+source
+bash
+y
+c
+cd video
+c
+overlay use .venv/bin/activate.nu
+c
+which python
+c
+python --version
+py
+y
+c
+overlay use .venv/bin/activate.nu
+c
+deactivate
+overlay use .venv/bin/activate.nu
+c
+cd src
+pyright .
+uv tool install genai
+c
+pyright .
+uv tool install google-genai
+uv tool install genai
+uv tool -h
+uv list
+uv tool list
+pyright .
+deactivate
+pyright .
+y
+pyright .
+c
+overlay use .venv/bin/activate.nu
+c
+uv pyright src
+uv tool install pyright
+uv run pyright
+y
+uv run pyright
+ruff check .
+y
+c
+pyright .
+pyright
+uv run pyright
+uv run pyright --active
+pyright --active
+uv -h
+pyright -h
+pyright src --active
+uv run pyright
+uv run --active pyright<\n>
+deactive
+deactivate
+uv run --active pyright<\n>
+c
+cd src
+c
+y
+c
+cd video
+c
+y
+c
+pyright
+uv run pyright
+y
+overlay use .venv/bin/activate.nu
+pyright
+which python
+c
+y
+c
+y
+c
+uv run --env-file .env main.py
+c
+y
+c
+deactivate
+uv activate
+uv --activate
+uv -h
+uv tree
+uv -h
+y
+c
+uv -h
+y
+uv pip -h
+uv pip freeze
+uv pip freeze > requirements.txt
+uv pip freeze > requirements.txt<\n>
+uv pip freeze -h
+uv help pip freeze
+uv pip freeze > requirements.txt<\n>
+bashuv pip freeze | save requirements.txt<\n>
+uv pip freeze | save requirements.txt
+uv pip freeze | save requirements.txt -f
+y
+uv -h
+uv lock<\n>
+uv sync<\n>
+c
+y
+uv pip freeze | save requirements.txt -f
+c
+gitui
+c
+y
+c
+uv run --env-file .env main.py
+y
+cd video
+overlay use .venv/bin/activate.nu
+which python
+y
+c
+curl -L https://nixos.org/nix/install | sh -s -- --daemon
+nix
+c
+y
+npm uninstall gitmoji
+y
+gitmoji
+c
+gitmoji
+node uninstall gitmoji
+npm uninstall gitmoji
+nvm uninstall gitmoji
+bash
+y
+c
+cd
+c
+y
+c
+cd
+c
+ch
+x
+x auth
+x auth login
+x
+c
+ch
+c
+y
+c
+ch
+c
+y
+c
+hx
+c
+ch
+y
+c
+y
+c
+y
+c
+cargo install --path . --bin ch
+ch
+c
+ch
+git push
+c
+y
+c
+y
+c
+ch
+c
+y
+c
+ch
+c
+y
+c
+ch
+c
+y
+c
+y
+c
+env
+editor
+y
+c
+bas
+bash
+cd documents
+c
+y
+c
+uv tool install plotly
+c
+y
+uv run x.py
+uv tool list
+c
+y
+cd documents
+c
+uv run x.py
+uv pip install plotly
+uv tool install plotly --system
+uv tool install plotly -- --system
+c
+y
+c
+uv init
+uv add plotly numpy
+uv run x.py
+c
+y
+uv run x.py
+y
+uv run x.py
+y
+uv run x.py
+hx x.py
+uv run x.py
+y
+uv run x.py
+y
+uv run x.py
+c
+pymol
+dnf search pymol
+sudo dnf install pymol
+c
+pymol
+y
+pymol -c -q -r x.py
+y
+pymol -c -q -r x.py
+y
+pymol
+c
+y
+pymol x.py
+y
+pymol x.py
+c
+y
+c
+y
+c
+cd
+c
+cargo uninstall jj
+y
+c
+jj
+cc
+cd
+c
+cargo list
+cargo --list
+cargo search jj
+cargo uninstall jujutsu
+cargo uninstall jj
+cargo uninstall jj-cli jj
+c
+z
+jj
+c
+y
+c
+y
+c
+x run "**Your Role**: Lead agent in multi-agent educational content system. Transform learning concepts into pedagogically optimized lesson structures.<\n><\n>**System Context**: Coordinates with STORYBOARD_AGENT and ANIMATOR_AGENT for content production pipeline.<\n><\n>## Optimization Principles<\n>- **Cognitive Load**: Respect 7±2 working memory limits<\n>- **Bloom's Taxonomy**: Progress from basic to complex thinking<\n>- **Duration Balance**: Distribute time optimally across scenes<\n>- **Agent Handoff**: Structure data for downstream processing<\n><\n>{<\n>  "prompt": "Create a short, engaging animated video script explaining the basic concept of a black hole, focusing on gravity.",<\n>  "audience": {<\n>    "age_group": "12-14",<\n>    "education_level": "Middle School",<\n>    "prior_knowledge": ["Basic understanding of planets and stars", "Concept of gravity"],<\n>    "learning_style_preferences": ["Visual", "Narrative-driven"]<\n>  },<\n>  "max_duration": 90,<\n>  "learning_context": {<\n>    "subject_area": "Astronomy",<\n>    "lesson_type": "Introduction",<\n>    "difficulty_level": "Beginner",<\n>    "teaching_approach": "Analogical"<\n>  },<\n>  "constraints": {<\n>    "min_scenes": 3,<\n>    "max_scenes": 5,<\n>    "required_bloom_levels": ["Remember", "Understand"],<\n>    "cognitive_load_limits": {<\n>      "max_high_load_scenes": 1,<\n>      "preferred_load_distribution": "ramping up"<\n>    }<\n>  }<\n>}<\n><\n><\n>output schema:<\n>{<\n>  "lesson_metadata": {<\n>    "concept": "",<\n>    "total_duration": 0,<\n>    "target_audience": {<\n>      "age_group": "",<\n>      "education_level": "",<\n>      "assumed_knowledge": []<\n>    },<\n>    "pedagogical_approach": "",<\n>    "lesson_type": ""<\n>  },<\n>  "learning_objectives": [<\n>    {<\n>      "objective": "",<\n>      "bloom_level": "",<\n>      "measurable_outcome": "",<\n>      "assessment_criteria": "",<\n>      "linked_scenes": []<\n>    }<\n>  ],<\n>  "scenes": [<\n>    {<\n>      "scene_no": 1,<\n>      "title": "",<\n>      "objective": "",<\n>      "key_concepts": [],<\n>      "bloom_level": "",<\n>      "duration": 15,<\n>      "cognitive_load": "",<\n>      "pedagogical_elements": {<\n>        "engagement_hooks": [],<\n>        "scaffolding_techniques": [],<\n>        "reinforcement_strategies": []<\n>      },<\n>      "content_structure": {<\n>        "introduction_approach": "",<\n>        "main_content_flow": "",<\n>        "conclusion_method": ""<\n>      },<\n>      "context": {<\n>        "subject": "",<\n>        "grade_level": "",<\n>        "prerequisites": [],<\n>        "real_world_connections": []<\n>      }<\n>    }<\n>  ],<\n>  "lesson_flow": {<\n>    "scene_transitions": [<\n>      {<\n>        "from_scene": 0,<\n>        "to_scene": 0,<\n>        "transition_type": "",<\n>        "rationale": "",<\n>        "bridging_elements": []<\n>      }<\n>    ],<\n>    "pacing_strategy": {<\n>      "overall_rhythm": "",<\n>      "attention_management": "",<\n>      "cognitive_breaks": [<\n>        {<\n>          "after_scene": 0,<\n>          "type": "",<\n>          "duration": 0<\n>        }<\n>      ]<\n>    },<\n>    "cognitive_load_progression": {<\n>      "load_distribution": [<\n>        {<\n>          "scene_no": 0,<\n>          "cognitive_load": "",<\n>          "justification": ""<\n>        }<\n>      ],<\n>      "complexity_curve": ""<\n>    }<\n>  },<\n>  "quality_assurance": {<\n>    "pedagogical_checks": [],<\n>    "bloom_level_coverage": {},<\n>    "duration_validation": {<\n>      "total_duration": 0,<\n>      "within_constraints": false,<\n>      "scene_duration_range": ""<\n>    },<\n>    "coherence_score": 0<\n>  }<\n>}<\n>"
+y
+c
+opencode run "**Your Role**: Transform educational scenes into production-ready visual narratives for animation. Part of multi-agent system coordinating with PLANNER_AGENT and ANIMATOR_AGENT.<\n><\n>**Segmentation**: Scenes >20 seconds are automatically split into segments for optimal animation generation.<\n><\n>## Design Principles<\n>- **Visual-Audio Sync**: Align narration with visual elements<\n>- **Cognitive Load**: Match visual complexity to scene's load level<\n>- **Educational Focus**: Support the specific learning objective<\n>- **Technical Feasibility**: Ensure Manim compatibility<\n><\n>input:<\n><\n>{<\n>  "scene_no": 1,<\n>  "title": "What is a Black Hole?",<\n>  "objective": "Define a black hole.",<\n>  "key_concepts": [<\n>    "Black Hole",<\n>    "Gravity",<\n>    "Singularity"<\n>  ],<\n>  "bloom_level": "Remember",<\n>  "duration": 20,<\n>  "cognitive_load": "Low",<\n>  "pedagogical_elements": {<\n>    "engagement_hooks": [<\n>      "Visual metaphor of a drain in space."<\n>    ],<\n>    "scaffolding_techniques": [<\n>      "Simple definitions, clear visuals."<\n>    ],<\n>    "reinforcement_strategies": [<\n>      "Repeating the definition."<\n>    ]<\n>  },<\n>  "content_structure": {<\n>    "introduction_approach": "Start with a captivating visual.",<\n>    "main_content_flow": "Define black hole, mention gravity briefly.",<\n>    "conclusion_method": "Summarize the definition."<\n>  },<\n>  "context": {<\n>    "subject": "Astronomy",<\n>    "grade_level": "Middle School",<\n>    "prerequisites": [],<\n>    "real_world_connections": [<\n>      "Mention how scientists study black holes."<\n>    ]<\n>  }<\n>}<\n><\n><\n>output_schema:<\n>{<\n>  "scene_no": "",<\n>  "total_duration": "",<\n>  "segments": [<\n>    {<\n>      "segment_id": "",<\n>      "duration": "",<\n>      "visual_narrative": {<\n>        "description": "",<\n>        "key_visuals": [<\n>          {<\n>            "element": "",<\n>            "purpose": "",<\n>            "timing": ""<\n>          }<\n>        ],<\n>        "visual_flow": ""<\n>      },<\n>      "narration": {<\n>        "script": "",<\n>        "pacing": "",<\n>        "emphasis_points": [<\n>          {<\n>            "text": "",<\n>            "timing": "",<\n>            "emphasis_type": ""<\n>          }<\n>        ]<\n>      },<\n>      "technical_specs": {<\n>        "manim_objects": [<\n>          {<\n>            "type": "",<\n>            "properties": {},<\n>            "animations": [""]<\n>          }<\n>        ],<\n>        "animation_sequence": [<\n>          {<\n>            "step": "",<\n>            "action": "",<\n>            "timing": "",<\n>            "objects": [""]<\n>          }<\n>        ],<\n>        "timing_breakdown": {<\n>          "phases": [<\n>            {<\n>              "phase_name": "",<\n>              "start_time": ,<\n>              "end_time": ,<\n>              "activities": [""]<\n>            }<\n>          ]<\n>        },<\n>        "complexity_level": ""<\n>      }<\n>    }<\n>  ],<\n>  "segment_transitions": [<\n>    {<\n>      "from_segment": "",<\n>      "to_segment": "",<\n>      "transition_type": "",<\n>      "duration": "",<\n>      "description": ""<\n>    }<\n>  ],<\n>  "metadata": {<\n>    "segmentation_rationale": "",<\n>    "educational_alignment": {<\n>      "bloom_level_achieved": "",<\n>      "cognitive_load_distribution": [<\n>        {<\n>          "segment_id": "",<\n>          "cognitive_load": ""<\n>        }<\n>      ]<\n>    },<\n>    "production_notes": {<\n>      "estimated_complexity": "",<\n>      "special_requirements": [""],<\n>      "quality_checkpoints": [""]<\n>    }<\n>  }<\n>}<\n><\n>"
+y
+c
+y
+opencode -m "gemini-2.5-flash" run "**Your Role**: Transform educational scenes into production-ready visual narratives for animation. Part of multi-agent system coordinating with PLANNER_AGENT and ANIMATOR_AGENT.<\n><\n>**Segmentation**: Scenes >20 seconds are automatically split into segments for optimal animation generation.<\n><\n>## Design Principles<\n>- **Visual-Audio Sync**: Align narration with visual elements<\n>- **Cognitive Load**: Match visual complexity to scene's load level<\n>- **Educational Focus**: Support the specific learning objective<\n>- **Technical Feasibility**: Ensure Manim compatibility<\n><\n>input:<\n><\n>{<\n>  "scene_no": 1,<\n>  "title": "What is a Black Hole?",<\n>  "objective": "Define a black hole.",<\n>  "key_concepts": [<\n>    "Black Hole",<\n>    "Gravity",<\n>    "Singularity"<\n>  ],<\n>  "bloom_level": "Remember",<\n>  "duration": 20,<\n>  "cognitive_load": "Low",<\n>  "pedagogical_elements": {<\n>    "engagement_hooks": [<\n>      "Visual metaphor of a drain in space."<\n>    ],<\n>    "scaffolding_techniques": [<\n>      "Simple definitions, clear visuals."<\n>    ],<\n>    "reinforcement_strategies": [<\n>      "Repeating the definition."<\n>    ]<\n>  },<\n>  "content_structure": {<\n>    "introduction_approach": "Start with a captivating visual.",<\n>    "main_content_flow": "Define black hole, mention gravity briefly.",<\n>    "conclusion_method": "Summarize the definition."<\n>  },<\n>  "context": {<\n>    "subject": "Astronomy",<\n>    "grade_level": "Middle School",<\n>    "prerequisites": [],<\n>    "real_world_connections": [<\n>      "Mention how scientists study black holes."<\n>    ]<\n>  }<\n>}<\n><\n><\n>output_schema:<\n>{<\n>  "scene_no": "",<\n>  "total_duration": "",<\n>  "segments": [<\n>    {<\n>      "segment_id": "",<\n>      "duration": "",<\n>      "visual_narrative": {<\n>        "description": "",<\n>        "key_visuals": [<\n>          {<\n>            "element": "",<\n>            "purpose": "",<\n>            "timing": ""<\n>          }<\n>        ],<\n>        "visual_flow": ""<\n>      },<\n>      "narration": {<\n>        "script": "",<\n>        "pacing": "",<\n>        "emphasis_points": [<\n>          {<\n>            "text": "",<\n>            "timing": "",<\n>            "emphasis_type": ""<\n>          }<\n>        ]<\n>      },<\n>      "technical_specs": {<\n>        "manim_objects": [<\n>          {<\n>            "type": "",<\n>            "properties": {},<\n>            "animations": [""]<\n>          }<\n>        ],<\n>        "animation_sequence": [<\n>          {<\n>            "step": "",<\n>            "action": "",<\n>            "timing": "",<\n>            "objects": [""]<\n>          }<\n>        ],<\n>        "timing_breakdown": {<\n>          "phases": [<\n>            {<\n>              "phase_name": "",<\n>              "start_time": ,<\n>              "end_time": ,<\n>              "activities": [""]<\n>            }<\n>          ]<\n>        },<\n>        "complexity_level": ""<\n>      }<\n>    }<\n>  ],<\n>  "segment_transitions": [<\n>    {<\n>      "from_segment": "",<\n>      "to_segment": "",<\n>      "transition_type": "",<\n>      "duration": "",<\n>      "description": ""<\n>    }<\n>  ],<\n>  "metadata": {<\n>    "segmentation_rationale": "",<\n>    "educational_alignment": {<\n>      "bloom_level_achieved": "",<\n>      "cognitive_load_distribution": [<\n>        {<\n>          "segment_id": "",<\n>          "cognitive_load": ""<\n>        }<\n>      ]<\n>    },<\n>    "production_notes": {<\n>      "estimated_complexity": "",<\n>      "special_requirements": [""],<\n>      "quality_checkpoints": [""]<\n>    }<\n>  }<\n>}<\n><\n>"
+opencode -m "google/gemini-2.5-flash" run "hi"
+opencode -m "google/gemini-2.5-flash" run "**Your Role**: Transform educational scenes into production-ready visual narratives for animation. Part of multi-agent system coordinating with PLANNER_AGENT and ANIMATOR_AGENT.<\n><\n>**Segmentation**: Scenes >20 seconds are automatically split into segments for optimal animation generation.<\n><\n>## Design Principles<\n>- **Visual-Audio Sync**: Align narration with visual elements<\n>- **Cognitive Load**: Match visual complexity to scene's load level<\n>- **Educational Focus**: Support the specific learning objective<\n>- **Technical Feasibility**: Ensure Manim compatibility<\n><\n>input:<\n><\n>{<\n>  "scene_no": 1,<\n>  "title": "What is a Black Hole?",<\n>  "objective": "Define a black hole.",<\n>  "key_concepts": [<\n>    "Black Hole",<\n>    "Gravity",<\n>    "Singularity"<\n>  ],<\n>  "bloom_level": "Remember",<\n>  "duration": 20,<\n>  "cognitive_load": "Low",<\n>  "pedagogical_elements": {<\n>    "engagement_hooks": [<\n>      "Visual metaphor of a drain in space."<\n>    ],<\n>    "scaffolding_techniques": [<\n>      "Simple definitions, clear visuals."<\n>    ],<\n>    "reinforcement_strategies": [<\n>      "Repeating the definition."<\n>    ]<\n>  },<\n>  "content_structure": {<\n>    "introduction_approach": "Start with a captivating visual.",<\n>    "main_content_flow": "Define black hole, mention gravity briefly.",<\n>    "conclusion_method": "Summarize the definition."<\n>  },<\n>  "context": {<\n>    "subject": "Astronomy",<\n>    "grade_level": "Middle School",<\n>    "prerequisites": [],<\n>    "real_world_connections": [<\n>      "Mention how scientists study black holes."<\n>    ]<\n>  }<\n>}<\n><\n><\n>output_schema:<\n>{<\n>  "scene_no": "",<\n>  "total_duration": "",<\n>  "segments": [<\n>    {<\n>      "segment_id": "",<\n>      "duration": "",<\n>      "visual_narrative": {<\n>        "description": "",<\n>        "key_visuals": [<\n>          {<\n>            "element": "",<\n>            "purpose": "",<\n>            "timing": ""<\n>          }<\n>        ],<\n>        "visual_flow": ""<\n>      },<\n>      "narration": {<\n>        "script": "",<\n>        "pacing": "",<\n>        "emphasis_points": [<\n>          {<\n>            "text": "",<\n>            "timing": "",<\n>            "emphasis_type": ""<\n>          }<\n>        ]<\n>      },<\n>      "technical_specs": {<\n>        "manim_objects": [<\n>          {<\n>            "type": "",<\n>            "properties": {},<\n>            "animations": [""]<\n>          }<\n>        ],<\n>        "animation_sequence": [<\n>          {<\n>            "step": "",<\n>            "action": "",<\n>            "timing": "",<\n>            "objects": [""]<\n>          }<\n>        ],<\n>        "timing_breakdown": {<\n>          "phases": [<\n>            {<\n>              "phase_name": "",<\n>              "start_time": ,<\n>              "end_time": ,<\n>              "activities": [""]<\n>            }<\n>          ]<\n>        },<\n>        "complexity_level": ""<\n>      }<\n>    }<\n>  ],<\n>  "segment_transitions": [<\n>    {<\n>      "from_segment": "",<\n>      "to_segment": "",<\n>      "transition_type": "",<\n>      "duration": "",<\n>      "description": ""<\n>    }<\n>  ],<\n>  "metadata": {<\n>    "segmentation_rationale": "",<\n>    "educational_alignment": {<\n>      "bloom_level_achieved": "",<\n>      "cognitive_load_distribution": [<\n>        {<\n>          "segment_id": "",<\n>          "cognitive_load": ""<\n>        }<\n>      ]<\n>    },<\n>    "production_notes": {<\n>      "estimated_complexity": "",<\n>      "special_requirements": [""],<\n>      "quality_checkpoints": [""]<\n>    }<\n>  }<\n>}<\n><\n>"
+y
+c
+y
+c
+y
+c
+y
+c
+y
+gitui
+c
+y
+gitui
+c
+y
+gitui
+c
+y
+gitui
+c
+y
+gitui
+c
+y
+exit
+y
+overlay use .venv/bin/activate.nu
+c
+cd video
+overlay use .venv/bin/activate.nu
+c
+cd src
+hx workflow.py
+c
+y
+c
+gitui
+c
+y
+gitui
+c
+y
+c
+gitui
+c
+y
+cd video
+c
+gitui
+c
+ch
+y
+c
+ch
+ch -p
+y
+c
+y
+c
+gitui
+c
+ch
+ch -p
+y
+c
+z
+y
+cd video
+c
+y
+c
+y
+c
+uv run main.py
+y
+c
+y
+c
+uv run main.py
+y
+c
+uv run main.py
+y
+c
+y
+c
+gemini
+c
+hc
+c
+uv run main.py
+y
+cd video
+overlay use .venv/bin/activate.nu
+which python
+y
+c
+y
+c
+manim -qh x.py
+y
+manim -qh x.py
+y
+c
+y
+c
+y
+c
+c
+y
+c
+uv run main.py
+uv run main.pyy
+y
+c
+uv run main.py
+y
+c
+y
+c
+uv run main.py
+y
+c
+y
+c
+y
+c
+y
+c
+uv run main.py
+y
+c
+gemini
+c
+y
+c
+z
+c
+overlay use .venv/bin/activate.nu
+c
+uv run --env-file .env main.py
+uv --activate
+uv run --activate --env-file .env main.py
+deactivate
+c
+uv run --activate
+uv run --active
+uv run main.py
+overlay use .venv/bin/activate.nu
+c
+y
+c
+c
+uv run main.py
+y
+c
+uv run main.py
+y
+y
+cd video
+overlay use .venv/bin/activate.nu
+manim -qh /home/atheeq/Documents/gluoxus/ai/video/generations/scenes/c1c2e2a2-8c35-4a1c-a84e-9f319be0d83f/c1c2e2a2-8c35-4a1c-a84e-9f319be0d83f.py
+y
+c
+c
+y
+c
+y
+c
+y
+c
+uv run main.py
+y
+c
+z
+c
+y
+c
+z
+c
+y
+c
+z
+c
+y
+c
+y
+c
+y
+c
+gitui
+c
+z
+c
+y
+c
+z
+c
+y
+c
+y
+c
+y
+c
+gitui
+c
+ch

@@ -28,22 +28,9 @@ unset rc
 
 
 alias c='clear'
-
-
-
-
 alias e='exit'
 alias x='opencode'
 alias z='zellij'
-
-function cmt() {
-  ts=$(date '+%Y%m%d%H%M%S')
-  if [ -z "$1" ]; then
-    jj new -m "$ts"
-  else
-    jj new -m "$ts ($1)"
-  fi
-}
 
 function y() {
 	local tmp="$(mktemp -t "yazi-cwd.XXXXXX")" cwd
@@ -56,6 +43,8 @@ function y() {
 eval "$(starship init bash)"
 eval "$(zoxide init --cmd cd bash)"
 
+export EDITOR=hx
+
 # bun
 export BUN_INSTALL="$HOME/.bun"
 export PATH="$BUN_INSTALL/bin:$PATH"
@@ -63,3 +52,5 @@ export PATH="$BUN_INSTALL/bin:$PATH"
 export NVM_DIR="$HOME/.nvm"
 [ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm
 [ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"  # This loads nvm bash_completion
+
+
