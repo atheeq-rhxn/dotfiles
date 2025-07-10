@@ -130,8 +130,6 @@ stow -t ~ home
 
 ## 🔑 SSH Key Setup
 
-**SSH Key Generation:** `ssh-keygen` with Ed25519 algorithm
-
 ```bash
 echo "Generating SSH key..."
 ssh-keygen -t ed25519 -C "atheeq.rhxn@gmail.com"

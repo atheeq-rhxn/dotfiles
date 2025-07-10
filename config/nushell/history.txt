@@ -1232,3 +1232,5 @@ ch -p
 c
 y
 c
+ch -p
+y
