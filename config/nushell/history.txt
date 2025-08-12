@@ -1234,3 +1234,2905 @@ y
 c
 ch -p
 y
+ch -p
+c
+y
+c
+y
+cd video
+c
+y
+c
+cd .
+cd ..
+c
+overlay use .venv/bin/activate.nu
+c
+cd src
+c
+which python
+c
+y
+c
+x
+c
+x -h
+x auth
+x auth ls
+y
+cd video
+c
+y
+c
+cd video
+c
+y
+c
+y
+c
+y
+c
+uv run main.py
+c
+uv run --env-file .env main.py
+y
+c
+y
+c
+y
+c
+cd video
+c
+y
+c
+manim -qh /home/atheeq/Documents/gluoxus/ai/video/generations/scenes/ef4b66d9-9bf4-4c29-828e-836f28fb1d1f/ef4b66d9-9bf4-4c29-828e-836f28fb1d1f.py
+y
+c
+y
+c
+cd video
+c
+overlay use .venv/bin/activate.nu
+c
+uv run --env-file .env main.py
+y
+uv run x.py
+uv run --env-file .env x.py
+c
+y
+c
+y
+c
+overlay use .venv/bin/activate.nu
+cd video
+c
+overlay use .venv/bin/activate.nu
+c
+cd video
+c
+y
+c
+uv run --env-file .env main.py
+c
+y
+c
+uv run --env-file .env main.py
+c
+y
+c
+uv run --env-file .env main.py
+y
+c
+y
+c
+uv run --env-file .env main.py
+;33Ry
+y
+c
+y
+c
+y
+c
+uv run --env-file .env main.py
+y
+c
+y
+c
+y
+c
+uv run --env-file .env main.py
+c
+y
+c
+uv run --env-file .env main.py
+cd video
+c
+uv run --env-file .env main.py
+y
+cd video
+overlay use .venv/bin/activate.nu
+c
+y
+c
+c
+uv run --env-file .env main.py
+y
+cd ..
+cd ...
+overlay use .venv/bin/activate.nu
+y
+c
+uv run --env-file .env main.py
+x
+c
+x
+c
+y
+cd video
+c
+y
+c
+uv run --env-file .env main.py
+3;33R
+y
+c
+y
+cd video/src
+c
+y
+c
+z
+c
+cd video
+c
+uv run --env-file .env main.py
+y
+c
+ch -p
+y
+c
+tree 
+y
+c
+git log
+y
+c
+git reset --soft HEAD~1<\n>git push origin main --force-with-lease<\n>
+c
+y
+c
+ch -p
+gitui
+c
+z
+y
+cd
+cd video
+c
+y
+c
+uv run --env-file .env main.py
+c
+y
+c
+cd .
+cd ..
+c
+uv run --env-file .env main.py
+c
+y
+c
+uv run --env-file .env main.py
+c
+overlay use .venv/bin/activate.nu
+c
+uv run --env-file .env main.py
+c
+y
+c
+y
+c
+y
+c
+z
+y
+c
+y
+c
+y
+c
+uv run --env-file .env x.py
+y
+c
+uv run --env-file .env x.py
+c
+y
+c
+y
+c
+y
+c
+uv run --env-file .env main.py
+c
+y
+c
+y
+c
+cd ..
+c
+uv run --env-file .env main.py
+c
+overlay use .venv/bin/activate.nu
+c
+y
+c
+y
+c
+y
+c
+y
+c
+uv run --env-file .env main.py
+c
+y
+c
+uv run --env-file .env main.py
+cd ..
+c
+uv run --env-file .env main.py
+y
+c
+c
+uv run --env-file .env main.py
+c
+y
+y
+c
+c
+y
+c
+y
+c
+uv run --env-file .env main.py
+y
+c
+c
+y
+c
+cd ..
+uv run --env-file .env main.py
+y
+c
+c
+y
+c
+y
+c
+uv run --env-file .env main.py
+y
+y
+c
+y
+c
+c
+uv run --env-file .env main.py
+cd ..
+c
+uv run --env-file .env main.py
+c
+y
+pyright .
+c
+y
+c
+z
+c
+pyright .
+cd src
+pyright .
+y
+c
+uv run --env-file .env main.py
+cd ..
+c
+uv run --env-file .env main.py
+uv --activate
+uv run --activate
+uv run --env-file .env main.py --activate
+y
+uv run --env-file .env main.py --active
+c
+z
+cd video
+c
+cd src
+c
+y
+c
+cd ..c
+cd ..
+c
+uv run --env-file .env main.py --active
+c
+y
+c
+y
+exit
+z
+c
+uv activate
+overlay use .venv/bin/activate.nu
+uv run --env-file .env main.py
+uv run --active --env-file .env main.py
+c
+z
+c
+y
+gitui
+c
+y
+c
+cd ..
+c
+z
+cd video
+c
+uv run --active --env-file .env main.py
+y
+cd vide
+c
+overlay use .venv/bin/activate.nu
+c
+y
+c
+c
+uv run --active --env-file .env main.py
+c
+y
+c
+y
+c
+uv run --active --env-file .env main.py
+c
+y
+c
+uv run --active --env-file .env main.py
+cd video
+c
+uv run --active --env-file .env main.py
+y
+overlay use .venv/bin/activate.nu
+c
+uv run --active --env-file .env main.py
+uv run --env-file .env main.py
+c
+z
+y
+cd video
+c
+y
+gitui
+c
+y
+c
+uv run --active --env-file .env main.py
+y
+c
+y
+gitui
+c
+y
+c
+y
+c
+uv run --active --env-file .env main.py
+hx
+c
+y
+c
+uv run --active --env-file .env main.py
+y
+c
+y
+c
+uv run --active --env-file .env main.py
+y
+c
+y
+c
+y
+c
+c
+uv run --active --env-file .env main.py
+c
+uv run --active --env-file .env main.py
+x
+c
+y
+c
+z
+cd vidoe
+cd video
+c
+uv run --active --env-file .env main.py
+y
+c
+y
+c
+y
+c
+y
+c
+uv run --active --env-file .env main.py
+y
+c
+hx
+c
+y
+c
+uv run --active --env-file .env main.py
+y
+pyright .
+overlay use .venv/bin/activate.nu
+cd ..
+overlay use .venv/bin/activate.nu
+cd src
+pyright .
+y
+pyright .
+y
+c
+cd video
+c
+y
+pyright .
+y
+cd .. 
+overlay use .venv/bin/activate.nu
+cd src
+overlay use .venv/bin/activate.nu
+pyright .
+c
+y
+c
+y
+c
+y
+c
+uv tool list
+uv tool upgrade
+uv tool upgrade pyright
+c
+cd video
+c
+uv run --active --env-file .env main.py
+c
+y
+c
+gemini
+c
+uv run --active --env-file .env main.py
+y
+c
+uv run --active --env-file .env main.py
+y
+c
+uv run --active --env-file .env main.py
+y
+c
+y
+c
+y
+pyright
+c
+y
+c
+y
+c
+uv run --active --env-file .env main.py
+y
+c
+y
+c
+cd video
+c
+z
+c
+y
+c
+y
+c
+uv run --active --env-file .env main.py
+y
+c
+gemini
+c
+y
+c
+uv run --active --env-file .env main.py
+y
+c
+c
+y
+gitui
+y
+c
+ch -p
+c
+cd video
+c
+x
+c
+x
+c
+cd src
+c
+y
+c
+x
+c
+y
+c
+cd video
+c
+y
+gitui
+c
+y
+c
+y
+c
+node --version]
+node --version
+c
+y
+c
+cd video
+c
+y
+c
+cd
+c
+y
+c
+y
+c
+y
+c
+z
+cd video
+c
+y
+c
+y
+c
+uv run --active --env-file .env main.py
+y
+c
+uv run --active --env-file .env main.py
+y
+hx
+y
+c
+hx
+c
+y
+c
+y
+c
+y
+c
+uv run --active --env-file .env main.py
+y
+c
+y
+uv run x.py
+y
+uv run x.py
+y
+uv run x.py
+y
+c
+y
+c
+z
+y
+cd vidoe
+cd video
+c
+y
+c
+y
+c
+npx create-react-app video-gallery<\n>cd video-gallery
+npx shadcn-ui@latest init
+npm install lucide-react
+y
+c
+npm start
+c
+y
+cd ..
+c
+npm start
+c
+npx shadcn-ui@latest add input<\n>npx shadcn-ui@latest add card<\n>npx shadcn-ui@latest add button<\n>
+npx shadcn@latest add input card button
+y
+exit
+z
+cd
+c
+y
+c
+# Create new React project with Vite (faster than create-react-app)<\n>npm create vite@latest video-gallery -- --template react-ts<\n>cd video-gallery<\n>npm install<\n><\n># Initialize shadcn/ui with latest version<\n>npx shadcn@latest init<\n><\n># Install additional dependencies<\n>npm install lucide-react clsx tailwind-merge<\n>
+# Add required shadcn components<\n>npx shadcn@latest add input<\n>npx shadcn@latest add card<\n>npx shadcn@latest add button<\n>npx shadcn@latest add badge<\n>
+cnpm install tailwindcss @tailwindcss/vite<\n>
+npm install tailwindcss @tailwindcss/vite<\n>
+y
+# Install Tailwind CSS<\n>npm install tailwindcss @tailwindcss/vite<\n><\n># Install @types/node for path resolution<\n>npm install -D @types/node<\n><\n># Now initialize shadcn/ui (this should work after the above fixes)<\n>npx shadcn@latest init<\n><\n># Add your components<\n>npx shadcn@latest add input<\n>npx shadcn@latest add card<\n>npx shadcn@latest add button<\n>npx shadcn@latest add badge<\n>
+y
+# Install Tailwind CSS<\n>npm install tailwindcss @tailwindcss/vite<\n><\n># Install @types/node for path resolution<\n>npm install -D @types/node<\n><\n># Now initialize shadcn/ui (this should work after the above fixes)<\n>npx shadcn@latest init<\n><\n># Add your components<\n>npx shadcn@latest add input<\n>npx shadcn@latest add card<\n>npx shadcn@latest add button<\n>npx shadcn@latest add badge<\n>
+y
+c
+exit
+cd video
+y
+gitui
+c
+y
+c
+ch -p
+c
+y
+cd video
+c
+y
+c
+y
+c
+cd video
+c
+y
+gitui
+c
+hx todo.md
+c
+y
+c
+uv run --active --env-file .env main.py
+y
+c
+uv run --active --env-file .env main.py
+y
+c
+uv run --active --env-file .env main.py
+y
+c
+y
+c
+y
+c
+uv run --active --env-file .env main.py
+y
+c
+y
+c
+y
+c
+y
+c
+uv run cleanup_generations.py
+y
+c
+y
+c
+y
+c
+y
+c
+uv run cleanup.py
+y
+c
+uv run cleanup.py
+y
+c
+y
+c
+uv run cleanup.py
+c
+z
+y
+c
+y
+gitui
+c
+y
+c
+gitui
+c
+y
+c
+y
+c
+x
+y
+c
+x
+x auth
+x auth login
+x
+c
+cd video
+y
+c
+y
+gitui
+c
+y
+c
+y
+c
+uv run --active --env-file .env main.py
+y
+cd ..
+uv run --active --env-file .env main.py
+y
+c
+uv run --active --env-file .env main.py
+y
+c
+cd video
+c
+y
+hx
+c
+y
+uv run --active --env-file .env main.py
+y
+c
+gitui
+c
+y
+c
+y
+c
+gitui
+c
+ch -p
+y
+c
+ch -p
+c
+y
+c
+clear -h
+c
+y
+c
+uv run --active --env-file .env main.py
+y
+c
+cd ..
+uv run --active --env-file .env main.py
+y
+c
+latex -v
+tlmgr update --self --all
+sudo dnf update texlive
+dnf search TeXLive
+sudo dnf update texlive-scheme-full
+c
+cd video
+c
+uv run --active --env-file .env main.py
+y
+c
+cd ..
+uv run cleanup.py
+c
+cd video
+gitui
+c
+ch -p
+g
+c
+y
+c
+cd video
+c
+y
+c
+x run "**Role:** Manim animation generator that converts storyboard specifications into executable animation code matching precise visual flow and timing requirements.<\n><\n>## **Core Animation Rules**<\n>### **Timing & Flow**<\n>- Animation duration must **exactly match** input `duration`<\n>- Use `self.play(..., run_time=X)` and `self.wait(Y)` where X, Y > 0<\n>- **Gap Handling:** Auto-insert `self.wait(gap_duration)` between non-consecutive animations<\n>- **Overlap Resolution:** Later animations override earlier ones at same timestamp<\n>- Maintain continuous flow with proper transitions<\n><\n>### **Syntax & Objects**<\n>- `Text()` for labels, `MathTex()` for equations (use raw strings: `r"\frac{a}{b}"`)<\n>- Group synchronized animations with `VGroup()`<\n>- **Never use** `.set_bold()` → use `weight=BOLD` in constructor<\n>- **Never use** `.submobjects[index]` → use explicit MathTex parts: `MathTex(r"A", "B", "C")`<\n><\n>### **Positioning & Colors**<\n>**Relative:** `obj.next_to(other, direction, buff=0.5)`  <\n>**Absolute:** `.move_to(position)` or `.to_edge(direction)`  <\n>**Center:** Use `get_center()` (not `get_up()`)<\n><\n>**Position Constants:** `ORIGIN`, `UP`, `DOWN`, `RIGHT`, `LEFT`, `UL`, `UR`, `DL`, `DR`<\n><\n>**Colors:** `BLUE`, `TEAL`, `GREEN`, `YELLOW`, `GOLD`, `RED`, `MAROON`, `PURPLE`, `GREY`, `WHITE`, `BLACK`  <\n>**Variations:** Add `_A` (lightest) through `_E` (darkest): `BLUE_C`, `GOLD_D`  <\n>**Usage:** `Text("Hello", color=BLUE_C)`, `text.animate.set_color(GOLD)`<\n><\n>## **Action Mapping**<\n>- **FadeIn** → `self.play(FadeIn(object), run_time=X)`<\n>- **Write** → `self.play(Write(object), run_time=X)`<\n>- **Create** → `self.play(Create(object), run_time=X)`<\n>- **Transform** → `self.play(Transform(old, new), run_time=X)` *(old becomes new)*<\n>- **Indicate** → `self.play(Indicate(object), run_time=X)` *(temporary effect)*<\n>- **Circumscribe** → `self.play(Circumscribe(object), run_time=X)` *(temporary effect)*<\n><\n>## **Object Lifecycle Management**<\n>### **Transform Rules**<\n>- After `Transform(A, B)`: reference object A (B is destroyed)<\n>- A inherits all properties of B but keeps A's variable name<\n>- Position updates: A moves to B's position automatically<\n><\n>### **State Persistence**<\n>- **Temporary effects** (Indicate, Circumscribe): revert after animation<\n>- **Permanent changes** (Transform, animate.set_color): persist until overridden<\n>- **Reference tracking**: always use original variable name post-Transform<\n><\n>## **Example Output**<\n><\n>```json<\n>{<\n>  "duration": 20,<\n>  "scene_name": "ElectricFluxIntroduction",<\n>  "code": "from manim import *\n\nclass ElectricFluxIntroduction(Scene):\n    def construct(self):\n        # 0-3s: FadeIn title\n        title = Text(\"Electric Flux\", font_size=60, color=BLUE).move_to(UP)\n        self.play(FadeIn(title), run_time=2.0)\n        self.wait(1.0)  # Gap: 3-2=1s\n\n        # 3-6s: FadeIn electric_field and Create area_vector\n        electric_field = Text(\"Electric Field (E)\", font_size=48, color=WHITE).move_to(LEFT)\n        area_vector = Text(\"Area Vector (A)\", font_size=48, color=WHITE).move_to(RIGHT)\n        self.play(FadeIn(electric_field), Create(area_vector), run_time=1.5)\n        self.wait(1.5)  # Gap: 6-4.5=1.5s\n\n        # 6-12s: Write flux_formula\n        flux_formula = MathTex(r\"\\Phi_E = E \\cdot A = EA\\cos\\theta\", font_size=54, color=YELLOW).move_to(ORIGIN)\n        self.play(Write(flux_formula), run_time=5.0)\n\n        # 12-16s: Indicate flux_formula\n        self.play(Indicate(flux_formula, color=RED), run_time=3.0)\n        self.wait(1.0)  # Gap: 16-15=1s\n\n        # 16-20s: FadeIn units\n        units = Text(\"Units: Nm\u00b2/C\", font_size=48, color=GREEN).move_to(DOWN)\n        self.play(FadeIn(units), run_time=3.0)\n        # Total: 2+1+1.5+1.5+5+3+3 = 17s. Missing 3s. Adding wait at the end\n        self.wait(1.0)\n"<\n>}```<\n><\n>**Process:**<\n>{<\n>  "duration": 20,<\n>  "description": "Introduce and define electric flux, including the formula and units.",<\n>  "visual_flow": [<\n>    {<\n>      "start_time": 0,<\n>      "end_time": 3,<\n>      "action": "FadeIn",<\n>      "target_id": "title",<\n>      "content": "Electric Flux",<\n>      "object_type": "Text",<\n>      "run_time": 2.0,<\n>      "style": {<\n>        "font_size": 60,<\n>        "color": "BLUE"<\n>      },<\n>      "position": {<\n>        "type": "absolute",<\n>        "location": "UP"<\n>      },<\n>      "pedagogical_purpose": "Establish the main topic."<\n>    },<\n>    {<\n>      "start_time": 3,<\n>      "end_time": 6,<\n>      "action": "FadeIn",<\n>      "target_id": "electric_field",<\n>      "content": "Electric Field (E)",<\n>      "object_type": "Text",<\n>      "run_time": 1.5,<\n>      "style": {<\n>        "font_size": 48,<\n>        "color": "WHITE"<\n>      },<\n>      "position": {<\n>        "type": "absolute",<\n>        "location": "LEFT"<\n>      },<\n>      "pedagogical_purpose": "Introduce the first component of flux."<\n>    },<\n>    {<\n>      "start_time": 3,<\n>      "end_time": 6,<\n>      "action": "Create",<\n>      "target_id": "area_vector",<\n>      "content": "Area Vector (A)",<\n>      "object_type": "Text",<\n>      "run_time": 1.5,<\n>      "style": {<\n>        "font_size": 48,<\n>        "color": "WHITE"<\n>      },<\n>      "position": {<\n>        "type": "absolute",<\n>        "location": "RIGHT"<\n>      },<\n>      "pedagogical_purpose": "Introduce the second component of flux."<\n>    },<\n>    {<\n>      "start_time": 6,<\n>      "end_time": 12,<\n>      "action": "Write",<\n>      "target_id": "flux_formula",<\n>      "content": "\\Phi_E = E \\cdot A = EA\\cos\\theta",<\n>      "object_type": "MathTex",<\n>      "run_time": 5.0,<\n>      "style": {<\n>        "font_size": 54,<\n>        "color": "YELLOW"<\n>      },<\n>      "position": {<\n>        "type": "absolute",<\n>        "location": "ORIGIN"<\n>      },<\n>      "pedagogical_purpose": "Present the electric flux formula."<\n>    },<\n>    {<\n>      "start_time": 12,<\n>      "end_time": 16,<\n>      "action": "Indicate",<\n>      "target_id": "flux_formula",<\n>      "content": "EA\\cos\\theta",<\n>      "object_type": "MathTex",<\n>      "run_time": 3.0,<\n>      "style": {<\n>        "color": "RED"<\n>      },<\n>      "position": {<\n>        "type": "absolute",<\n>        "location": "ORIGIN"<\n>      },<\n>      "pedagogical_purpose": "Highlight the components of the formula."<\n>    },<\n>    {<\n>      "start_time": 16,<\n>      "end_time": 20,<\n>      "action": "FadeIn",<\n>      "target_id": "units",<\n>      "content": "Units: Nm\u00b2/C",<\n>      "object_type": "Text",<\n>      "run_time": 3.0,<\n>      "style": {<\n>        "font_size": 48,<\n>        "color": "GREEN"<\n>      },<\n>      "position": {<\n>        "type": "absolute",<\n>        "location": "DOWN"<\n>      },<\n>      "pedagogical_purpose": "State the units of electric flux."<\n>    }<\n>  ],<\n>  "narration": "Electric flux. It depends on the electric field and the area vector. The formula is Phi equals E dot A, which is EA cos theta. The units are Newton meters squared per Coulomb."<\n>}<\n>"
+x run " **Role:** Manim animation generator that converts storyboard specifications into executable animation code matching precise visual flow and timing requirements.<\n><\n>## **Core Animation Rules**<\n>### **Timing & Flow**<\n>- Animation duration must **exactly match** input `duration`<\n>- Use `self.play(..., run_time=X)` and `self.wait(Y)` where X, Y > 0<\n>- **Gap Handling:** Auto-insert `self.wait(gap_duration)` between non-consecutive animations<\n>- **Overlap Resolution:** Later animations override earlier ones at same timestamp<\n>- Maintain continuous flow with proper transitions<\n><\n>### **Syntax & Objects**<\n>- `Text()` for labels, `MathTex()` for equations (use raw strings: `r"\frac{a}{b}"`)<\n>- Group synchronized animations with `VGroup()`<\n>- **Never use** `.set_bold()` → use `weight=BOLD` in constructor<\n>- **Never use** `.submobjects[index]` → use explicit MathTex parts: `MathTex(r"A", "B", "C")`<\n><\n>### **Positioning & Colors**<\n>**Relative:** `obj.next_to(other, direction, buff=0.5)`  <\n>**Absolute:** `.move_to(position)` or `.to_edge(direction)`  <\n>**Center:** Use `get_center()` (not `get_up()`)<\n><\n>**Position Constants:** `ORIGIN`, `UP`, `DOWN`, `RIGHT`, `LEFT`, `UL`, `UR`, `DL`, `DR`<\n><\n>**Colors:** `BLUE`, `TEAL`, `GREEN`, `YELLOW`, `GOLD`, `RED`, `MAROON`, `PURPLE`, `GREY`, `WHITE`, `BLACK`  <\n>**Variations:** Add `_A` (lightest) through `_E` (darkest): `BLUE_C`, `GOLD_D`  <\n>**Usage:** `Text("Hello", color=BLUE_C)`, `text.animate.set_color(GOLD)`<\n><\n>## **Action Mapping**<\n>- **FadeIn** → `self.play(FadeIn(object), run_time=X)`<\n>- **Write** → `self.play(Write(object), run_time=X)`<\n>- **Create** → `self.play(Create(object), run_time=X)`<\n>- **Transform** → `self.play(Transform(old, new), run_time=X)` *(old becomes new)*<\n>- **Indicate** → `self.play(Indicate(object), run_time=X)` *(temporary effect)*<\n>- **Circumscribe** → `self.play(Circumscribe(object), run_time=X)` *(temporary effect)*<\n><\n>## **Object Lifecycle Management**<\n>### **Transform Rules**<\n>- After `Transform(A, B)`: reference object A (B is destroyed)<\n>- A inherits all properties of B but keeps A's variable name<\n>- Position updates: A moves to B's position automatically<\n><\n>### **State Persistence**<\n>- **Temporary effects** (Indicate, Circumscribe): revert after animation<\n>- **Permanent changes** (Transform, animate.set_color): persist until overridden<\n>- **Reference tracking**: always use original variable name post-Transform<\n><\n>## **Example Output**<\n><\n>```json<\n>{<\n>  "duration": 20,<\n>  "scene_name": "ElectricFluxIntroduction",<\n>  "code": "from manim import *\n\nclass ElectricFluxIntroduction(Scene):\n    def construct(self):\n        # 0-3s: FadeIn title\n        title = Text(\"Electric Flux\", font_size=60, color=BLUE).move_to(UP)\n        self.play(FadeIn(title), run_time=2.0)\n        self.wait(1.0)  # Gap: 3-2=1s\n\n        # 3-6s: FadeIn electric_field and Create area_vector\n        electric_field = Text(\"Electric Field (E)\", font_size=48, color=WHITE).move_to(LEFT)\n        area_vector = Text(\"Area Vector (A)\", font_size=48, color=WHITE).move_to(RIGHT)\n        self.play(FadeIn(electric_field), Create(area_vector), run_time=1.5)\n        self.wait(1.5)  # Gap: 6-4.5=1.5s\n\n        # 6-12s: Write flux_formula\n        flux_formula = MathTex(r\"\\Phi_E = E \\cdot A = EA\\cos\\theta\", font_size=54, color=YELLOW).move_to(ORIGIN)\n        self.play(Write(flux_formula), run_time=5.0)\n\n        # 12-16s: Indicate flux_formula\n        self.play(Indicate(flux_formula, color=RED), run_time=3.0)\n        self.wait(1.0)  # Gap: 16-15=1s\n\n        # 16-20s: FadeIn units\n        units = Text(\"Units: Nm\u00b2/C\", font_size=48, color=GREEN).move_to(DOWN)\n        self.play(FadeIn(units), run_time=3.0)\n        # Total: 2+1+1.5+1.5+5+3+3 = 17s. Missing 3s. Adding wait at the end\n        self.wait(1.0)\n"<\n>}<\n>```<\n><\n>**Process:**<\n>{<\n>  "duration": 20,<\n>  "description": "Introduce and define electric flux, including the formula and units.",<\n>  "visual_flow": [<\n>    {<\n>      "start_time": 0,<\n>      "end_time": 3,<\n>      "action": "FadeIn",<\n>      "target_id": "title",<\n>      "content": "Electric Flux",<\n>      "object_type": "Text",<\n>      "run_time": 2.0,<\n>      "style": {<\n>        "font_size": 60,<\n>        "color": "BLUE"<\n>      },<\n>      "position": {<\n>        "type": "absolute",<\n>        "location": "UP"<\n>      },<\n>      "pedagogical_purpose": "Establish the main topic."<\n>    },<\n>    {<\n>      "start_time": 3,<\n>      "end_time": 6,<\n>      "action": "FadeIn",<\n>      "target_id": "electric_field",<\n>      "content": "Electric Field (E)",<\n>      "object_type": "Text",<\n>      "run_time": 1.5,<\n>      "style": {<\n>        "font_size": 48,<\n>        "color": "WHITE"<\n>      },<\n>      "position": {<\n>        "type": "absolute",<\n>        "location": "LEFT"<\n>      },<\n>      "pedagogical_purpose": "Introduce the first component of flux."<\n>    },<\n>    {<\n>      "start_time": 3,<\n>      "end_time": 6,<\n>      "action": "Create",<\n>      "target_id": "area_vector",<\n>      "content": "Area Vector (A)",<\n>      "object_type": "Text",<\n>      "run_time": 1.5,<\n>      "style": {<\n>        "font_size": 48,<\n>        "color": "WHITE"<\n>      },<\n>      "position": {<\n>        "type": "absolute",<\n>        "location": "RIGHT"<\n>      },<\n>      "pedagogical_purpose": "Introduce the second component of flux."<\n>    },<\n>    {<\n>      "start_time": 6,<\n>      "end_time": 12,<\n>      "action": "Write",<\n>      "target_id": "flux_formula",<\n>      "content": "\\Phi_E = E \\cdot A = EA\\cos\\theta",<\n>      "object_type": "MathTex",<\n>      "run_time": 5.0,<\n>      "style": {<\n>        "font_size": 54,<\n>        "color": "YELLOW"<\n>      },<\n>      "position": {<\n>        "type": "absolute",<\n>        "location": "ORIGIN"<\n>      },<\n>      "pedagogical_purpose": "Present the electric flux formula."<\n>    },<\n>    {<\n>      "start_time": 12,<\n>      "end_time": 16,<\n>      "action": "Indicate",<\n>      "target_id": "flux_formula",<\n>      "content": "EA\\cos\\theta",<\n>      "object_type": "MathTex",<\n>      "run_time": 3.0,<\n>      "style": {<\n>        "color": "RED"<\n>      },<\n>      "position": {<\n>        "type": "absolute",<\n>        "location": "ORIGIN"<\n>      },<\n>      "pedagogical_purpose": "Highlight the components of the formula."<\n>    },<\n>    {<\n>      "start_time": 16,<\n>      "end_time": 20,<\n>      "action": "FadeIn",<\n>      "target_id": "units",<\n>      "content": "Units: Nm\u00b2/C",<\n>      "object_type": "Text",<\n>      "run_time": 3.0,<\n>      "style": {<\n>        "font_size": 48,<\n>        "color": "GREEN"<\n>      },<\n>      "position": {<\n>        "type": "absolute",<\n>        "location": "DOWN"<\n>      },<\n>      "pedagogical_purpose": "State the units of electric flux."<\n>    }<\n>  ],<\n>  "narration": "Electric flux. It depends on the electric field and the area vector. The formula is Phi equals E dot A, which is EA cos theta. The units are Newton meters squared per Coulomb."<\n>}<\n>"
+x run "**Role:** Manim animation generator that converts storyboard specifications into executable animation code matching precise visual flow and timing requirements.<\n><\n>## **Core Animation Rules**<\n>### **Timing & Flow**<\n>- Animation duration must **exactly match** input `duration`<\n>- Use `self.play(..., run_time=X)` and `self.wait(Y)` where X, Y > 0<\n>- **Gap Handling:** Auto-insert `self.wait(gap_duration)` between non-consecutive animations<\n>- **Overlap Resolution:** Later animations override earlier ones at same timestamp<\n>- Maintain continuous flow with proper transitions<\n><\n>### **Syntax & Objects**<\n>- `Text()` for labels, `MathTex()` for equations (use raw strings: `r"\frac{a}{b}"`)<\n>- Group synchronized animations with `VGroup()`<\n>- **Never use** `.set_bold()` → use `weight=BOLD` in constructor<\n>- **Never use** `.submobjects[index]` → use explicit MathTex parts: `MathTex(r"A", "B", "C")`<\n><\n>### **Positioning & Colors**<\n>**Relative:** `obj.next_to(other, direction, buff=0.5)`  <\n>**Absolute:** `.move_to(position)` or `.to_edge(direction)`  <\n>**Center:** Use `get_center()` (not `get_up()`)<\n><\n>**Position Constants:** `ORIGIN`, `UP`, `DOWN`, `RIGHT`, `LEFT`, `UL`, `UR`, `DL`, `DR`<\n><\n>**Colors:** `BLUE`, `TEAL`, `GREEN`, `YELLOW`, `GOLD`, `RED`, `MAROON`, `PURPLE`, `GREY`, `WHITE`, `BLACK`  <\n>**Variations:** Add `_A` (lightest) through `_E` (darkest): `BLUE_C`, `GOLD_D`  <\n>**Usage:** `Text("Hello", color=BLUE_C)`, `text.animate.set_color(GOLD)`<\n><\n>## **Action Mapping**<\n>- **FadeIn** → `self.play(FadeIn(object), run_time=X)`<\n>- **Write** → `self.play(Write(object), run_time=X)`<\n>- **Create** → `self.play(Create(object), run_time=X)`<\n>- **Transform** → `self.play(Transform(old, new), run_time=X)` *(old becomes new)*<\n>- **Indicate** → `self.play(Indicate(object), run_time=X)` *(temporary effect)*<\n>- **Circumscribe** → `self.play(Circumscribe(object), run_time=X)` *(temporary effect)*<\n><\n>## **Object Lifecycle Management**<\n>### **Transform Rules**<\n>- After `Transform(A, B)`: reference object A (B is destroyed)<\n>- A inherits all properties of B but keeps A's variable name<\n>- Position updates: A moves to B's position automatically<\n><\n>### **State Persistence**<\n>- **Temporary effects** (Indicate, Circumscribe): revert after animation<\n>- **Permanent changes** (Transform, animate.set_color): persist until overridden<\n>- **Reference tracking**: always use original variable name post-Transform<\n><\n>## **Example Input→Output**<\n><\n>**Input Storyboard:**<\n>```json<\n>{<\n>  "duration": 12,<\n>  "visual_flow": [<\n>    {<\n>      "start_time": 0,<\n>      "end_time": 3,<\n>      "action": "FadeIn",<\n>      "target_id": "title",<\n>      "content": "Fundamental Theorem",<\n>      "object_type": "Text",<\n>      "run_time": 2.0,<\n>      "style": {"font_size": 48, "color": "WHITE", "weight": "BOLD"},<\n>      "position": {"type": "absolute", "location": "UP"}<\n>    },<\n>    {<\n>      "start_time": 3,<\n>      "end_time": 7,<\n>      "action": "Write",<\n>      "target_id": "formula",<\n>      "content": "\\int_{a}^{b} f(x) dx = F(b) - F(a)",<\n>      "object_type": "MathTex",<\n>      "run_time": 3.0,<\n>      "style": {"font_size": 40, "color": "BLUE_C"},<\n>      "position": {"type": "relative_to", "reference": "title", "offset": "DOWN", "buff": 1.0}<\n>    },<\n>    {<\n>      "start_time": 7,<\n>      "end_time": 10,<\n>      "action": "Transform",<\n>      "target_id": "example",<\n>      "content": "\\int_{0}^{\\pi} \\sin(x) dx = 2",<\n>      "object_type": "MathTex",<\n>      "run_time": 2.5,<\n>      "style": {"font_size": 36, "color": "GREEN_C"},<\n>      "position": {"type": "replace", "reference": "formula"}<\n>    },<\n>    {<\n>      "start_time": 10,<\n>      "end_time": 12,<\n>      "action": "Indicate",<\n>      "target_id": "example",<\n>      "run_time": 2.0,<\n>      "style": {"color": "GOLD_D", "scale": 1.2}<\n>    }<\n>  ]<\n>}<\n>```<\n><\n>**Output Animation:**<\n>```json<\n>{<\n>  "duration": 12,<\n>  "scene_name": "FundamentalTheoremDemo",<\n>  "code": "from manim import *\n\nclass FundamentalTheoremDemo(Scene):\n    def construct(self):\n        # 0-3s: FadeIn title\n        title = Text(\"Fundamental Theorem\", font_size=48, color=WHITE, weight=BOLD).move_to(UP)\n        self.play(FadeIn(title), run_time=2.0)\n        self.wait(1.0)  # Gap: 3-2=1s\n        \n        # 3-7s: Write formula\n        formula = MathTex(r\"\\int_{a}^{b} f(x) dx = F(b) - F(a)\", font_size=40, color=BLUE_C).next_to(title, DOWN, buff=1.0)\n        self.play(Write(formula), run_time=3.0)\n        self.wait(1.0)  # Gap: 7-6=1s\n        \n        # 7-10s: Transform formula to example\n        example = MathTex(r\"\\int_{0}^{\\pi} \\sin(x) dx = 2\", font_size=36, color=GREEN_C).move_to(formula.get_center())\n        self.play(Transform(formula, example), run_time=2.5)\n        self.wait(0.5)  # Gap: 10-9.5=0.5s\n        \n        # 10-12s: Indicate formula (now contains example)\n        self.play(Indicate(formula, scale_factor=1.2, color=GOLD_D), run_time=2.0)\n        # Total: 2+1+3+1+2.5+0.5+2 = 12s ✓"<\n>}<\n>```<\n><\n>**Process:**<\n>{<\n>  "duration": 20,<\n>  "description": "Introduce and define electric flux, including the formula and units.",<\n>  "visual_flow": [<\n>    {<\n>      "start_time": 0,<\n>      "end_time": 3,<\n>      "action": "FadeIn",<\n>      "target_id": "title",<\n>      "content": "Electric Flux",<\n>      "object_type": "Text",<\n>      "run_time": 2.0,<\n>      "style": {<\n>        "font_size": 60,<\n>        "color": "BLUE"<\n>      },<\n>      "position": {<\n>        "type": "absolute",<\n>        "location": "UP"<\n>      },<\n>      "pedagogical_purpose": "Establish the main topic."<\n>    },<\n>    {<\n>      "start_time": 3,<\n>      "end_time": 6,<\n>      "action": "FadeIn",<\n>      "target_id": "electric_field",<\n>      "content": "Electric Field (E)",<\n>      "object_type": "Text",<\n>      "run_time": 1.5,<\n>      "style": {<\n>        "font_size": 48,<\n>        "color": "WHITE"<\n>      },<\n>      "position": {<\n>        "type": "absolute",<\n>        "location": "LEFT"<\n>      },<\n>      "pedagogical_purpose": "Introduce the first component of flux."<\n>    },<\n>    {<\n>      "start_time": 3,<\n>      "end_time": 6,<\n>      "action": "Create",<\n>      "target_id": "area_vector",<\n>      "content": "Area Vector (A)",<\n>      "object_type": "Text",<\n>      "run_time": 1.5,<\n>      "style": {<\n>        "font_size": 48,<\n>        "color": "WHITE"<\n>      },<\n>      "position": {<\n>        "type": "absolute",<\n>        "location": "RIGHT"<\n>      },<\n>      "pedagogical_purpose": "Introduce the second component of flux."<\n>    },<\n>    {<\n>      "start_time": 6,<\n>      "end_time": 12,<\n>      "action": "Write",<\n>      "target_id": "flux_formula",<\n>      "content": "\\Phi_E = E \\cdot A = EA\\cos\\theta",<\n>      "object_type": "MathTex",<\n>      "run_time": 5.0,<\n>      "style": {<\n>        "font_size": 54,<\n>        "color": "YELLOW"<\n>      },<\n>      "position": {<\n>        "type": "absolute",<\n>        "location": "ORIGIN"<\n>      },<\n>      "pedagogical_purpose": "Present the electric flux formula."<\n>    },<\n>    {<\n>      "start_time": 12,<\n>      "end_time": 16,<\n>      "action": "Indicate",<\n>      "target_id": "flux_formula",<\n>      "content": "EA\\cos\\theta",<\n>      "object_type": "MathTex",<\n>      "run_time": 3.0,<\n>      "style": {<\n>        "color": "RED"<\n>      },<\n>      "position": {<\n>        "type": "absolute",<\n>        "location": "ORIGIN"<\n>      },<\n>      "pedagogical_purpose": "Highlight the components of the formula."<\n>    },<\n>    {<\n>      "start_time": 16,<\n>      "end_time": 20,<\n>      "action": "FadeIn",<\n>      "target_id": "units",<\n>      "content": "Units: Nm\u00b2/C",<\n>      "object_type": "Text",<\n>      "run_time": 3.0,<\n>      "style": {<\n>        "font_size": 48,<\n>        "color": "GREEN"<\n>      },<\n>      "position": {<\n>        "type": "absolute",<\n>        "location": "DOWN"<\n>      },<\n>      "pedagogical_purpose": "State the units of electric flux."<\n>    }<\n>  ],<\n>  "narration": "Electric flux. It depends on the electric field and the area vector. The formula is Phi equals E dot A, which is EA cos theta. The units are Newton meters squared per Coulomb."<\n>}<\n>"
+x run "<\n>**Role:** Manim animation generator that converts storyboard specifications into executable animation code matching precise visual flow and timing requirements.<\n><\n>## **Core Animation Rules**<\n>### **Timing & Flow**<\n>- Animation duration must **exactly match** input `duration`<\n>- Use `self.play(..., run_time=X)` and `self.wait(Y)` where X, Y > 0<\n>- **Gap Handling:** Auto-insert `self.wait(gap_duration)` between non-consecutive animations<\n>- **Overlap Resolution:** Later animations override earlier ones at same timestamp<\n>- Maintain continuous flow with proper transitions<\n><\n>### **Syntax & Objects**<\n>- `Text()` for labels, `MathTex()` for equations (use raw strings: `r"\frac{a}{b}"`)<\n>- Group synchronized animations with `VGroup()`<\n>- **Never use** `.set_bold()` → use `weight=BOLD` in constructor<\n>- **Never use** `.submobjects[index]` → use explicit MathTex parts: `MathTex(r"A", "B", "C")`<\n><\n>### **Positioning & Colors**<\n>**Relative:** `obj.next_to(other, direction, buff=0.5)`  <\n>**Absolute:** `.move_to(position)` or `.to_edge(direction)`  <\n>**Center:** Use `get_center()` (not `get_up()`)<\n><\n>**Position Constants:** `ORIGIN`, `UP`, `DOWN`, `RIGHT`, `LEFT`, `UL`, `UR`, `DL`, `DR`<\n><\n>**Colors:** `BLUE`, `TEAL`, `GREEN`, `YELLOW`, `GOLD`, `RED`, `MAROON`, `PURPLE`, `GREY`, `WHITE`, `BLACK`  <\n>**Variations:** Add `_A` (lightest) through `_E` (darkest): `BLUE_C`, `GOLD_D`  <\n>**Usage:** `Text("Hello", color=BLUE_C)`, `text.animate.set_color(GOLD)`<\n><\n>## **Action Mapping**<\n>- **FadeIn** → `self.play(FadeIn(object), run_time=X)`<\n>- **Write** → `self.play(Write(object), run_time=X)`<\n>- **Create** → `self.play(Create(object), run_time=X)`<\n>- **Transform** → `self.play(Transform(old, new), run_time=X)` *(old becomes new)*<\n>- **Indicate** → `self.play(Indicate(object), run_time=X)` *(temporary effect)*<\n>- **Circumscribe** → `self.play(Circumscribe(object), run_time=X)` *(temporary effect)*<\n><\n>## **Object Lifecycle Management**<\n>### **Transform Rules**<\n>- After `Transform(A, B)`: reference object A (B is destroyed)<\n>- A inherits all properties of B but keeps A's variable name<\n>- Position updates: A moves to B's position automatically<\n><\n>### **State Persistence**<\n>- **Temporary effects** (Indicate, Circumscribe): revert after animation<\n>- **Permanent changes** (Transform, animate.set_color): persist until overridden<\n>- **Reference tracking**: always use original variable name post-Transform<\n><\n>## **Example Input→Output**<\n><\n>**Input Storyboard:**<\n>```json<\n>{<\n>  "duration": 12,<\n>  "visual_flow": [<\n>    {<\n>      "start_time": 0,<\n>      "end_time": 3,<\n>      "action": "FadeIn",<\n>      "target_id": "title",<\n>      "content": "Fundamental Theorem",<\n>      "object_type": "Text",<\n>      "run_time": 2.0,<\n>      "style": {"font_size": 48, "color": "WHITE", "weight": "BOLD"},<\n>      "position": {"type": "absolute", "location": "UP"}<\n>    },<\n>    {<\n>      "start_time": 3,<\n>      "end_time": 7,<\n>      "action": "Write",<\n>      "target_id": "formula",<\n>      "content": "\\int_{a}^{b} f(x) dx = F(b) - F(a)",<\n>      "object_type": "MathTex",<\n>      "run_time": 3.0,<\n>      "style": {"font_size": 40, "color": "BLUE_C"},<\n>      "position": {"type": "relative_to", "reference": "title", "offset": "DOWN", "buff": 1.0}<\n>    },<\n>    {<\n>      "start_time": 7,<\n>      "end_time": 10,<\n>      "action": "Transform",<\n>      "target_id": "example",<\n>      "content": "\\int_{0}^{\\pi} \\sin(x) dx = 2",<\n>      "object_type": "MathTex",<\n>      "run_time": 2.5,<\n>      "style": {"font_size": 36, "color": "GREEN_C"},<\n>      "position": {"type": "replace", "reference": "formula"}<\n>    },<\n>    {<\n>      "start_time": 10,<\n>      "end_time": 12,<\n>      "action": "Indicate",<\n>      "target_id": "example",<\n>      "run_time": 2.0,<\n>      "style": {"color": "GOLD_D", "scale": 1.2}<\n>    }<\n>  ]<\n>}<\n>```<\n><\n>**Output Animation:**<\n>```json<\n>{<\n>  "duration": 12,<\n>  "scene_name": "FundamentalTheoremDemo",<\n>  "code": "from manim import *\n\nclass FundamentalTheoremDemo(Scene):\n    def construct(self):\n        # 0-3s: FadeIn title\n        title = Text(\"Fundamental Theorem\", font_size=48, color=WHITE, weight=BOLD).move_to(UP)\n        self.play(FadeIn(title), run_time=2.0)\n        self.wait(1.0)  # Gap: 3-2=1s\n        \n        # 3-7s: Write formula\n        formula = MathTex(r\"\\int_{a}^{b} f(x) dx = F(b) - F(a)\", font_size=40, color=BLUE_C).next_to(title, DOWN, buff=1.0)\n        self.play(Write(formula), run_time=3.0)\n        self.wait(1.0)  # Gap: 7-6=1s\n        \n        # 7-10s: Transform formula to example\n        example = MathTex(r\"\\int_{0}^{\\pi} \\sin(x) dx = 2\", font_size=36, color=GREEN_C).move_to(formula.get_center())\n        self.play(Transform(formula, example), run_time=2.5)\n        self.wait(0.5)  # Gap: 10-9.5=0.5s\n        \n        # 10-12s: Indicate formula (now contains example)\n        self.play(Indicate(formula, scale_factor=1.2, color=GOLD_D), run_time=2.0)\n        # Total: 2+1+3+1+2.5+0.5+2 = 12s ✓"<\n>}<\n>```<\n><\n>**Process:**<\n>{<\n>  "duration": 20,<\n>  "description": "Introduce and define electric flux, including the formula and units.",<\n>  "visual_flow": [<\n>    {<\n>      "start_time": 0,<\n>      "end_time": 3,<\n>      "action": "FadeIn",<\n>      "target_id": "title",<\n>      "content": "Electric Flux",<\n>      "object_type": "Text",<\n>      "run_time": 2.0,<\n>      "style": {<\n>        "font_size": 60,<\n>        "color": "BLUE"<\n>      },<\n>      "position": {<\n>        "type": "absolute",<\n>        "location": "UP"<\n>      },<\n>      "pedagogical_purpose": "Establish the main topic."<\n>    },<\n>    {<\n>      "start_time": 3,<\n>      "end_time": 6,<\n>      "action": "FadeIn",<\n>      "target_id": "electric_field",<\n>      "content": "Electric Field (E)",<\n>      "object_type": "Text",<\n>      "run_time": 1.5,<\n>      "style": {<\n>        "font_size": 48,<\n>        "color": "WHITE"<\n>      },<\n>      "position": {<\n>        "type": "absolute",<\n>        "location": "LEFT"<\n>      },<\n>      "pedagogical_purpose": "Introduce the first component of flux."<\n>    },<\n>    {<\n>      "start_time": 3,<\n>      "end_time": 6,<\n>      "action": "Create",<\n>      "target_id": "area_vector",<\n>      "content": "Area Vector (A)",<\n>      "object_type": "Text",<\n>      "run_time": 1.5,<\n>      "style": {<\n>        "font_size": 48,<\n>        "color": "WHITE"<\n>      },<\n>      "position": {<\n>        "type": "absolute",<\n>        "location": "RIGHT"<\n>      },<\n>      "pedagogical_purpose": "Introduce the second component of flux."<\n>    },<\n>    {<\n>      "start_time": 6,<\n>      "end_time": 12,<\n>      "action": "Write",<\n>      "target_id": "flux_formula",<\n>      "content": "\\Phi_E = E \\cdot A = EA\\cos\\theta",<\n>      "object_type": "MathTex",<\n>      "run_time": 5.0,<\n>      "style": {<\n>        "font_size": 54,<\n>        "color": "YELLOW"<\n>      },<\n>      "position": {<\n>        "type": "absolute",<\n>        "location": "ORIGIN"<\n>      },<\n>      "pedagogical_purpose": "Present the electric flux formula."<\n>    },<\n>    {<\n>      "start_time": 12,<\n>      "end_time": 16,<\n>      "action": "Indicate",<\n>      "target_id": "flux_formula",<\n>      "content": "EA\\cos\\theta",<\n>      "object_type": "MathTex",<\n>      "run_time": 3.0,<\n>      "style": {<\n>        "color": "RED"<\n>      },<\n>      "position": {<\n>        "type": "absolute",<\n>        "location": "ORIGIN"<\n>      },<\n>      "pedagogical_purpose": "Highlight the components of the formula."<\n>    },<\n>    {<\n>      "start_time": 16,<\n>      "end_time": 20,<\n>      "action": "FadeIn",<\n>      "target_id": "units",<\n>      "content": "Units: Nm\u00b2/C",<\n>      "object_type": "Text",<\n>      "run_time": 3.0,<\n>      "style": {<\n>        "font_size": 48,<\n>        "color": "GREEN"<\n>      },<\n>      "position": {<\n>        "type": "absolute",<\n>        "location": "DOWN"<\n>      },<\n>      "pedagogical_purpose": "State the units of electric flux."<\n>    }<\n>  ],<\n>  "narration": "Electric flux. It depends on the electric field and the area vector. The formula is Phi equals E dot A, which is EA cos theta. The units are Newton meters squared per Coulomb."<\n>}<\n>"
+x run **Role:** Manim animation generator that converts storyboard specifications into executable animation code matching precise visual flow and timing requirements.<\n><\n>## **Core Animation Rules**<\n>### **Timing & Flow**<\n>- Animation duration must **exactly match** input `duration`<\n>- Use `self.play(..., run_time=X)` and `self.wait(Y)` where X, Y > 0<\n>- **Gap Handling:** Auto-insert `self.wait(gap_duration)` between non-consecutive animations<\n>- **Overlap Resolution:** Later animations override earlier ones at same timestamp<\n>- Maintain continuous flow with proper transitions<\n><\n>### **Syntax & Objects**<\n>- `Text()` for labels, `MathTex()` for equations (use raw strings: `r"\frac{a}{b}"`)<\n>- Group synchronized animations with `VGroup()`<\n>- **Never use** `.set_bold()` → use `weight=BOLD` in constructor<\n>- **Never use** `.submobjects[index]` → use explicit MathTex parts: `MathTex(r"A", "B", "C")`<\n><\n>### **Positioning & Colors**<\n>**Relative:** `obj.next_to(other, direction, buff=0.5)`  <\n>**Absolute:** `.move_to(position)` or `.to_edge(direction)`  <\n>**Center:** Use `get_center()` (not `get_up()`)<\n><\n>**Position Constants:** `ORIGIN`, `UP`, `DOWN`, `RIGHT`, `LEFT`, `UL`, `UR`, `DL`, `DR`<\n><\n>**Colors:** `BLUE`, `TEAL`, `GREEN`, `YELLOW`, `GOLD`, `RED`, `MAROON`, `PURPLE`, `GREY`, `WHITE`, `BLACK`  <\n>**Variations:** Add `_A` (lightest) through `_E` (darkest): `BLUE_C`, `GOLD_D`  <\n>**Usage:** `Text("Hello", color=BLUE_C)`, `text.animate.set_color(GOLD)`<\n><\n>## **Action Mapping**<\n>- **FadeIn** → `self.play(FadeIn(object), run_time=X)`<\n>- **Write** → `self.play(Write(object), run_time=X)`<\n>- **Create** → `self.play(Create(object), run_time=X)`<\n>- **Transform** → `self.play(Transform(old, new), run_time=X)` *(old becomes new)*<\n>- **Indicate** → `self.play(Indicate(object), run_time=X)` *(temporary effect)*<\n>- **Circumscribe** → `self.play(Circumscribe(object), run_time=X)` *(temporary effect)*<\n><\n>## **Object Lifecycle Management**<\n>### **Transform Rules**<\n>- After `Transform(A, B)`: reference object A (B is destroyed)<\n>- A inherits all properties of B but keeps A's variable name<\n>- Position updates: A moves to B's position automatically<\n><\n>### **State Persistence**<\n>- **Temporary effects** (Indicate, Circumscribe): revert after animation<\n>- **Permanent changes** (Transform, animate.set_color): persist until overridden<\n>- **Reference tracking**: always use original variable name post-Transform<\n><\n>## **Example Input→Output**<\n><\n>**Input Storyboard:**<\n>```json<\n>{<\n>  "duration": 12,<\n>  "visual_flow": [<\n>    {<\n>      "start_time": 0,<\n>      "end_time": 3,<\n>      "action": "FadeIn",<\n>      "target_id": "title",<\n>      "content": "Fundamental Theorem",<\n>      "object_type": "Text",<\n>      "run_time": 2.0,<\n>      "style": {"font_size": 48, "color": "WHITE", "weight": "BOLD"},<\n>      "position": {"type": "absolute", "location": "UP"}<\n>    },<\n>    {<\n>      "start_time": 3,<\n>      "end_time": 7,<\n>      "action": "Write",<\n>      "target_id": "formula",<\n>      "content": "\\int_{a}^{b} f(x) dx = F(b) - F(a)",<\n>      "object_type": "MathTex",<\n>      "run_time": 3.0,<\n>      "style": {"font_size": 40, "color": "BLUE_C"},<\n>      "position": {"type": "relative_to", "reference": "title", "offset": "DOWN", "buff": 1.0}<\n>    },<\n>    {<\n>      "start_time": 7,<\n>      "end_time": 10,<\n>      "action": "Transform",<\n>      "target_id": "example",<\n>      "content": "\\int_{0}^{\\pi} \\sin(x) dx = 2",<\n>      "object_type": "MathTex",<\n>      "run_time": 2.5,<\n>      "style": {"font_size": 36, "color": "GREEN_C"},<\n>      "position": {"type": "replace", "reference": "formula"}<\n>    },<\n>    {<\n>      "start_time": 10,<\n>      "end_time": 12,<\n>      "action": "Indicate",<\n>      "target_id": "example",<\n>      "run_time": 2.0,<\n>      "style": {"color": "GOLD_D", "scale": 1.2}<\n>    }<\n>  ]<\n>}<\n>```<\n><\n>**Output Animation:**<\n>```json<\n>{<\n>  "duration": 12,<\n>  "scene_name": "FundamentalTheoremDemo",<\n>  "code": "from manim import *\n\nclass FundamentalTheoremDemo(Scene):\n    def construct(self):\n        # 0-3s: FadeIn title\n        title = Text(\"Fundamental Theorem\", font_size=48, color=WHITE, weight=BOLD).move_to(UP)\n        self.play(FadeIn(title), run_time=2.0)\n        self.wait(1.0)  # Gap: 3-2=1s\n        \n        # 3-7s: Write formula\n        formula = MathTex(r\"\\int_{a}^{b} f(x) dx = F(b) - F(a)\", font_size=40, color=BLUE_C).next_to(title, DOWN, buff=1.0)\n        self.play(Write(formula), run_time=3.0)\n        self.wait(1.0)  # Gap: 7-6=1s\n        \n        # 7-10s: Transform formula to example\n        example = MathTex(r\"\\int_{0}^{\\pi} \\sin(x) dx = 2\", font_size=36, color=GREEN_C).move_to(formula.get_center())\n        self.play(Transform(formula, example), run_time=2.5)\n        self.wait(0.5)  # Gap: 10-9.5=0.5s\n        \n        # 10-12s: Indicate formula (now contains example)\n        self.play(Indicate(formula, scale_factor=1.2, color=GOLD_D), run_time=2.0)\n        # Total: 2+1+3+1+2.5+0.5+2 = 12s ✓"<\n>}<\n>```<\n><\n>**Process:**<\n>{<\n>  "duration": 20,<\n>  "description": "Introduce and define electric flux, including the formula and units.",<\n>  "visual_flow": [<\n>    {<\n>      "start_time": 0,<\n>      "end_time": 3,<\n>      "action": "FadeIn",<\n>      "target_id": "title",<\n>      "content": "Electric Flux",<\n>      "object_type": "Text",<\n>      "run_time": 2.0,<\n>      "style": {<\n>        "font_size": 60,<\n>        "color": "BLUE"<\n>      },<\n>      "position": {<\n>        "type": "absolute",<\n>        "location": "UP"<\n>      },<\n>      "pedagogical_purpose": "Establish the main topic."<\n>    },<\n>    {<\n>      "start_time": 3,<\n>      "end_time": 6,<\n>      "action": "FadeIn",<\n>      "target_id": "electric_field",<\n>      "content": "Electric Field (E)",<\n>      "object_type": "Text",<\n>      "run_time": 1.5,<\n>      "style": {<\n>        "font_size": 48,<\n>        "color": "WHITE"<\n>      },<\n>      "position": {<\n>        "type": "absolute",<\n>        "location": "LEFT"<\n>      },<\n>      "pedagogical_purpose": "Introduce the first component of flux."<\n>    },<\n>    {<\n>      "start_time": 3,<\n>      "end_time": 6,<\n>      "action": "Create",<\n>      "target_id": "area_vector",<\n>      "content": "Area Vector (A)",<\n>      "object_type": "Text",<\n>      "run_time": 1.5,<\n>      "style": {<\n>        "font_size": 48,<\n>        "color": "WHITE"<\n>      },<\n>      "position": {<\n>        "type": "absolute",<\n>        "location": "RIGHT"<\n>      },<\n>      "pedagogical_purpose": "Introduce the second component of flux."<\n>    },<\n>    {<\n>      "start_time": 6,<\n>      "end_time": 12,<\n>      "action": "Write",<\n>      "target_id": "flux_formula",<\n>      "content": "\\Phi_E = E \\cdot A = EA\\cos\\theta",<\n>      "object_type": "MathTex",<\n>      "run_time": 5.0,<\n>      "style": {<\n>        "font_size": 54,<\n>        "color": "YELLOW"<\n>      },<\n>      "position": {<\n>        "type": "absolute",<\n>        "location": "ORIGIN"<\n>      },<\n>      "pedagogical_purpose": "Present the electric flux formula."<\n>    },<\n>    {<\n>      "start_time": 12,<\n>      "end_time": 16,<\n>      "action": "Indicate",<\n>      "target_id": "flux_formula",<\n>      "content": "EA\\cos\\theta",<\n>      "object_type": "MathTex",<\n>      "run_time": 3.0,<\n>      "style": {<\n>        "color": "RED"<\n>      },<\n>      "position": {<\n>        "type": "absolute",<\n>        "location": "ORIGIN"<\n>      },<\n>      "pedagogical_purpose": "Highlight the components of the formula."<\n>    },<\n>    {<\n>      "start_time": 16,<\n>      "end_time": 20,<\n>      "action": "FadeIn",<\n>      "target_id": "units",<\n>      "content": "Units: Nm\u00b2/C",<\n>      "object_type": "Text",<\n>      "run_time": 3.0,<\n>      "style": {<\n>        "font_size": 48,<\n>        "color": "GREEN"<\n>      },<\n>      "position": {<\n>        "type": "absolute",<\n>        "location": "DOWN"<\n>      },<\n>      "pedagogical_purpose": "State the units of electric flux."<\n>    }<\n>  ],<\n>  "narration": "Electric flux. It depends on the electric field and the area vector. The formula is Phi equals E dot A, which is EA cos theta. The units are Newton meters squared per Coulomb."<\n>}<\n>
+x run scene_1.md
+x run execute scene_1.md
+c
+y
+c
+z
+sudo dnf uninstall pymol
+sudo dnf remove pymol
+c
+y
+c
+gitui
+c
+z
+curl http://127.0.0.1:4096<\n>
+c
+x serve
+c
+opencode -h
+curl http://127.0.0.1:4096<\n>
+bash
+opencode serve
+c
+curl -X POST http://127.0.0.1:4096/run \<\n>-H "Content-Type: application/json" \<\n>-d '{<\n>  "model": "google/gemini-2.0-flash",<\n>  "message": "Write a python script to list all files in the current directory"<\n>}'<\n>
+bash
+curl http://127.0.0.1:4096<\n>
+bash
+opencode serve --print-logs
+c
+curl -X POST http://127.0.0.1:4096/session<\n>
+opencode serve --print-logs
+c
+bash
+opencode serve --print-logs
+c
+y
+c
+hx
+c
+y
+./run_opencode.sh
+./run_opencode.sh "Write a short bash script that prints 'Hello, World!'"<\n>
+opencode run hi --print-logs
+z
+c
+y
+c
+x
+c
+x
+c
+flatpak install flathub org.shotcut.Shotcut
+c
+y
+c
+ffmpeg -ss 00:03:00 -i videoplayback.mp4 -t 00:01:00 -c copy output_clip.mp4<\n>
+y
+c
+sudo dnf remove shotcut
+sudo dnf remove shortcut
+dnf remove shotcut
+sudo dnf search
+flatpak uninstall flathub org.shotcut.Shotcut
+sudo dnf remove Shotcut
+c
+y
+c
+cd video
+c
+E
+y
+c
+z
+c
+y
+c
+z
+y
+c
+z
+c
+y
+c
+y
+c
+z
+c
+y
+c
+z
+c
+y
+c
+cd video
+c
+z
+c
+z
+c
+y
+c
+z
+c
+y
+c
+cargo update zellij
+cd
+c
+cargo
+cargo list
+cargo search zellij
+zellij -v
+zellij --version
+zellij -h
+zellij list-sessions
+zelijj -h
+zellij list-sessions
+zellij -h
+zellij delete-all-sessions
+c
+y
+c
+y
+c
+y
+c
+ls
+c
+x
+c
+y
+c
+cd video
+c
+y
+c
+uv run cleanup.py
+c
+y
+c
+pyright
+c
+overlay use .venv/bin/activate.nu
+c
+pyright
+c
+deactivate
+c
+uv activate
+uv run --active
+uv --active
+c
+overlay use .venv/bin/activate.nu
+c
+which python
+c
+deactivate
+c
+bash
+deactivate
+c
+type python<\n>
+bash
+c
+y
+c
+mkdir x
+cd x
+c
+uv init
+uv add kokoro
+c
+y
+c
+overlay use .venv/bin/activate.nu
+c
+which python
+cd video
+cd
+which -a python<\n>
+pyenv which python<\n>
+bash
+c
+cd video
+c
+uv venv
+overlay use .venv/bin/activate.nu
+which python
+c
+pyright
+y
+c
+uv lock
+uv sync
+c
+uv run --env-file .env main.py
+y
+c
+y
+c
+pyright .
+pyright src --active
+pyright -h
+pyright .
+c
+y
+c
+pyright .
+c
+y
+c
+y
+c
+pyright .
+c
+y
+c
+pyright
+c
+y
+c
+gitui
+c
+uv run main.py
+uv run --env-file .env main.py
+y
+manim -qh /home/atheeq/Documents/gluoxus/ai/video/generations/scenes/0447a4f3-5920-4194-8d02-1cf87acebdb9/0447a4f3-5920-4194-8d02-1cf87acebdb9.py
+y
+c
+uv run cleanup.py
+c
+uv run --env-file .env main.py
+y
+c
+uv run cleanup.py
+c
+cd dotfiles
+c
+y
+c
+y
+hx
+y
+c
+y
+c
+y
+c
+y
+c
+open
+open video
+open Documents
+open bashrc
+open .bashrc
+yes | sudo dnf upgrade discord
+sudo dnf upgrade discord
+sudo dnf install pymol
+yes | sudo dnf install pymol
+c
+sudo dnf remove pymol
+c
+cd video
+c
+y
+gitui
+c
+y
+c
+gitui
+c
+ch -p
+gitui
+ch -p
+cd src
+c
+y
+c
+cd video
+c
+y
+c
+y
+c
+hx
+c
+y
+c
+x run "<\n>Create pedagogically-optimized visual sequences for educational content<\n><\n>## **Output Format**<\n>{<\n>  "duration": 10,<\n>  "description": "Brief pedagogical flow overview",<\n>  "visual_flow": [<\n>    {<\n>      "start_time": 0,<\n>      "end_time": 3,<\n>      "action": "FadeIn",<\n>      "content": "Display text or formula",<\n>	  "elements": [],<\n>      "run_time": 2.0,<\n>      "style": {"font_size": 48, "color": "WHITE"},<\n>      "position": {"type": "absolute", "location": "UP"},<\n>      "pedagogical_purpose": "Why this step aids learning"<\n>    }<\n>  ],<\n>  "narration": "Synchronized explanation matching visual timing"<\n>}<\n><\n><\n># **Input**<\n>{<\n>  "objective": "Define 'Neural Network'",<\n>  "description": "Clearly define what a neural network is, using simple language and analogies.",<\n>  "key_concepts": [<\n>    "Neurons",<\n>    "Layers",<\n>    "Connections"<\n>  ],<\n>  "duration": 20<\n>}<\n>"
+y
+x run "**Role:** Manim animation generator that converts storyboard specifications into executable animation code matching precise visual flow and timing requirements.<\n><\n>## **Core Animation Rules**<\n>### **Timing & Flow**<\n>- Animation duration must **exactly match** input `duration`<\n>- Use `self.play(..., run_time=X)` and `self.wait(Y)` where X, Y > 0<\n>- Objects persist until explicitly removed<\n>- Maintain continuous flow with proper transitions<\n><\n>### **Syntax & Objects**<\n>- `Text()` for labels, `MathTex()` for equations (use raw strings: `r"\frac{a}{b}"`)<\n>- Group synchronized animations with `VGroup()`<\n>- **Never use** `.set_bold()` → use `weight=BOLD` in constructor<\n>- **Never use** `.submobjects[index]` → use explicit MathTex parts: `MathTex(r"A", "B", "C")`<\n><\n>### **Positioning & Colors**<\n>**Relative:** `obj.next_to(other, direction, buff=0.5)`  <\n>**Absolute:** `.move_to(position)` or `.to_edge(direction)`  <\n>**Center:** Use `get_center()` (not `get_up()`)<\n><\n>**Position Constants:** `ORIGIN`, `UP`, `DOWN`, `RIGHT`, `LEFT`, `UL`, `UR`, `DL`, `DR`<\n><\n>**Colors:** `BLUE`, `TEAL`, `GREEN`, `YELLOW`, `GOLD`, `RED`, `MAROON`, `PURPLE`, `GREY`, `WHITE`, `BLACK`  <\n>**Variations:** Add `_A` (lightest) through `_E` (darkest): `BLUE_C`, `GOLD_D`  <\n>**Usage:** `Text("Hello", color=BLUE_C)`, `text.animate.set_color(GOLD)`<\n><\n>## **Action Mapping**<\n>- **FadeIn** → `self.play(FadeIn(object), run_time=X)`<\n>- **Write** → `self.play(Write(object), run_time=X)`<\n>- **Create** → `self.play(Create(object), run_time=X)`<\n>- **Transform** → `self.play(Transform(old, new), run_time=X)`<\n>- **Indicate** → `self.play(Indicate(object), run_time=X)`<\n>- **Circumscribe** → `self.play(Circumscribe(object), run_time=X)`<\n><\n>## **Object Types**<\n>- **Text** → `Text("content", font_size=48, color=WHITE)`<\n>- **MathTex** → `MathTex(r"content", font_size=36, color=BLUE)`<\n>- **Rectangle** → `Rectangle(width=2, height=1, color=GREEN)`<\n>- **Circle** → `Circle(radius=1, color=YELLOW)`<\n>- **Arrow** → `Arrow(start_point, end_point, color=RED)`<\n>- **Line** → `Line(start_point, end_point, color=PURPLE)`<\n><\n>## **Position Conversion**<\n>- **ORIGIN** → `ORIGIN`<\n>- **UP/DOWN/LEFT/RIGHT** → Direct constants<\n>- **UL/UR/DL/DR** → Direct constants<\n>- **relative_to** → `.next_to(reference_object, direction, buff=0.5)`<\n><\n>## **Example Input→Output**<\n><\n>**Input Storyboard:**<\n>```json<\n>{<\n>  "duration": 10,<\n>  "visual_flow": [<\n>    {<\n>      "start_time": 0,<\n>      "end_time": 4,<\n>      "action": "FadeIn",<\n>      "target_id": "title",<\n>      "content": "Main Concept",<\n>      "object_type": "Text",<\n>      "run_time": 2.0,<\n>      "style": {"font_size": 48, "color": "WHITE"},<\n>      "position": {"type": "absolute", "location": "ORIGIN"}<\n>    },<\n>    {<\n>      "start_time": 4,<\n>      "end_time": 8,<\n>      "action": "Write",<\n>      "target_id": "formula",<\n>      "content": "A = B \\times C",<\n>      "object_type": "MathTex",<\n>      "run_time": 2.5,<\n>      "style": {"font_size": 36, "color": "BLUE"},<\n>      "position": {"type": "relative_to", "reference": "title", "offset": "DOWN", "buff": 0.5}<\n>    },<\n>    {<\n>      "start_time": 8,<\n>      "end_time": 10,<\n>      "action": "Indicate",<\n>      "target_id": "formula",<\n>      "run_time": 1.5,<\n>      "style": {"color": "GOLD"}<\n>    }<\n>  ]<\n>}<\n>```<\n><\n>**Output Animation:**<\n>```json<\n>{<\n>  "duration": 10,<\n>  "scene_name": "EducationalScene",<\n>  "code": "from manim import *\n\nclass EducationalScene(Scene):\n    def construct(self):\n        # Main Concept (0-4s)\n        title = Text(\"Main Concept\", font_size=48, color=WHITE).move_to(ORIGIN)\n        self.play(FadeIn(title), run_time=4)\n        \n        # Formula (4-8s)\n        formula = MathTex(r\"A = B \\times C\", font_size=36, color=BLUE).next_to(title, DOWN, buff=0.5)\n        self.play(Write(formula), run_time=4)\n        \n        # Emphasis (8-10s)\n        self.play(Indicate(formula, color=GOLD), run_time=2)"<\n>}<\n>```<\n><\n>**Critical Rules:**<\n>- Use `weight=BOLD` in constructor, never `.set_bold()`<\n>- Use explicit MathTex parts: `MathTex(r"A", "B", "C")` not `.submobjects[index]`<\n>- Raw strings for MathTex: `r"\frac{a}{b}"`<\n>- Exact timing match with `run_time` and `self.wait()`<\n><\n>**Process:**<\n>{<\n>  "duration": 20,<\n>  "description": "Introduce neural networks by building from basic components: neurons, layers, and connections.",<\n>  "visual_flow": [<\n>    {<\n>      "start_time": 0,<\n>      "end_time": 5,<\n>      "action": "FadeIn",<\n>      "content": "What is a Neural Network?",<\n>      "elements": [],<\n>      "run_time": 1.5,<\n>      "style": {<\n>        "font_size": 56,<\n>        "color": "WHITE"<\n>      },<\n>      "position": {<\n>        "type": "absolute",<\n>        "location": "UP"<\n>      },<\n>      "pedagogical_purpose": "Introduce the topic with a clear, engaging question."<\n>    },<\n>    {<\n>      "start_time": 5,<\n>      "end_time": 10,<\n>      "action": "Build",<\n>      "content": "Neurons: Basic building blocks",<\n>      "elements": [<\n>        "Single circle representing a neuron"<\n>      ],<\n>      "run_time": 2.0,<\n>      "style": {<\n>        "font_size": 48,<\n>        "color": "WHITE"<\n>      },<\n>      "position": {<\n>        "type": "absolute",<\n>        "location": "MIDDLE"<\n>      },<\n>      "pedagogical_purpose": "Introduce the fundamental unit of a neural network."<\n>    },<\n>    {<\n>      "start_time": 10,<\n>      "end_time": 15,<\n>      "action": "Animate",<\n>      "content": "Layers: Neurons organized in groups",<\n>      "elements": [<\n>        "Multiple circles arranged in vertical columns"<\n>      ],<\n>      "run_time": 2.5,<\n>      "style": {<\n>        "font_size": 48,<\n>        "color": "WHITE"<\n>      },<\n>      "position": {<\n>        "type": "absolute",<\n>        "location": "MIDDLE"<\n>      },<\n>      "pedagogical_purpose": "Show how neurons form layers to process information."<\n>    },<\n>    {<\n>      "start_time": 15,<\n>      "end_time": 20,<\n>      "action": "Connect",<\n>      "content": "Connections: Links between neurons",<\n>      "elements": [<\n>        "Lines connecting neurons in adjacent layers"<\n>      ],<\n>      "run_time": 3.0,<\n>      "style": {<\n>        "font_size": 48,<\n>        "color": "WHITE"<\n>      },<\n>      "position": {<\n>        "type": "absolute",<\n>        "location": "MIDDLE"<\n>      },<\n>      "pedagogical_purpose": "Illustrate how neurons communicate through weighted connections."<\n>    }<\n>  ],<\n>  "narration": "A neural network is a computational model inspired by the structure and function of the human brain. It consists of interconnected neurons organized in layers. These neurons process information and pass it along through connections, allowing the network to learn complex patterns."<\n>}<\n>"
+y
+ch run "<\n>**Role:** Manim animation generator that converts storyboard specifications into executable animation code matching precise visual flow and timing requirements.<\n><\n>## **Core Animation Rules**<\n>### **Timing & Flow**<\n>- Animation duration must **exactly match** input `duration`<\n>- Use `self.play(..., run_time=X)` and `self.wait(Y)` where X, Y > 0<\n>- Objects persist until explicitly removed<\n>- Maintain continuous flow with proper transitions<\n><\n>### **Syntax & Objects**<\n>- `Text()` for labels, `MathTex()` for equations (use raw strings: `r"\frac{a}{b}"`)<\n>- Group synchronized animations with `VGroup()`<\n>- **Never use** `.set_bold()` → use `weight=BOLD` in constructor<\n>- **Never use** `.submobjects[index]` → use explicit MathTex parts: `MathTex(r"A", "B", "C")`<\n><\n>### **Positioning & Colors**<\n>**Relative:** `obj.next_to(other, direction, buff=0.5)`  <\n>**Absolute:** `.move_to(position)` or `.to_edge(direction)`  <\n>**Center:** Use `get_center()` (not `get_up()`)<\n><\n>**Position Constants:** `ORIGIN`, `UP`, `DOWN`, `RIGHT`, `LEFT`, `UL`, `UR`, `DL`, `DR`<\n><\n>**Colors:** `BLUE`, `TEAL`, `GREEN`, `YELLOW`, `GOLD`, `RED`, `MAROON`, `PURPLE`, `GREY`, `WHITE`, `BLACK`  <\n>**Variations:** Add `_A` (lightest) through `_E` (darkest): `BLUE_C`, `GOLD_D`  <\n>**Usage:** `Text("Hello", color=BLUE_C)`, `text.animate.set_color(GOLD)`<\n><\n>## **Action Mapping**<\n>- **FadeIn** → `self.play(FadeIn(object), run_time=X)`<\n>- **Write** → `self.play(Write(object), run_time=X)`<\n>- **Create** → `self.play(Create(object), run_time=X)`<\n>- **Transform** → `self.play(Transform(old, new), run_time=X)`<\n>- **Indicate** → `self.play(Indicate(object), run_time=X)`<\n>- **Circumscribe** → `self.play(Circumscribe(object), run_time=X)`<\n><\n>## **Object Types**<\n>- **Text** → `Text("content", font_size=48, color=WHITE)`<\n>- **MathTex** → `MathTex(r"content", font_size=36, color=BLUE)`<\n>- **Rectangle** → `Rectangle(width=2, height=1, color=GREEN)`<\n>- **Circle** → `Circle(radius=1, color=YELLOW)`<\n>- **Arrow** → `Arrow(start_point, end_point, color=RED)`<\n>- **Line** → `Line(start_point, end_point, color=PURPLE)`<\n><\n>## **Position Conversion**<\n>- **ORIGIN** → `ORIGIN`<\n>- **UP/DOWN/LEFT/RIGHT** → Direct constants<\n>- **UL/UR/DL/DR** → Direct constants<\n>- **relative_to** → `.next_to(reference_object, direction, buff=0.5)`<\n><\n>## **Example Input→Output**<\n><\n>**Input Storyboard:**<\n>```json<\n>{<\n>  "duration": 10,<\n>  "visual_flow": [<\n>    {<\n>      "start_time": 0,<\n>      "end_time": 4,<\n>      "action": "FadeIn",<\n>      "target_id": "title",<\n>      "content": "Main Concept",<\n>      "object_type": "Text",<\n>      "run_time": 2.0,<\n>      "style": {"font_size": 48, "color": "WHITE"},<\n>      "position": {"type": "absolute", "location": "ORIGIN"}<\n>    },<\n>    {<\n>      "start_time": 4,<\n>      "end_time": 8,<\n>      "action": "Write",<\n>      "target_id": "formula",<\n>      "content": "A = B \\times C",<\n>      "object_type": "MathTex",<\n>      "run_time": 2.5,<\n>      "style": {"font_size": 36, "color": "BLUE"},<\n>      "position": {"type": "relative_to", "reference": "title", "offset": "DOWN", "buff": 0.5}<\n>    },<\n>    {<\n>      "start_time": 8,<\n>      "end_time": 10,<\n>      "action": "Indicate",<\n>      "target_id": "formula",<\n>      "run_time": 1.5,<\n>      "style": {"color": "GOLD"}<\n>    }<\n>  ]<\n>}<\n>```<\n><\n>**Output Animation:**<\n>```json<\n>{<\n>  "duration": 10,<\n>  "scene_name": "EducationalScene",<\n>  "code": "from manim import *\n\nclass EducationalScene(Scene):\n    def construct(self):\n        # Main Concept (0-4s)\n        title = Text(\"Main Concept\", font_size=48, color=WHITE).move_to(ORIGIN)\n        self.play(FadeIn(title), run_time=4)\n        \n        # Formula (4-8s)\n        formula = MathTex(r\"A = B \\times C\", font_size=36, color=BLUE).next_to(title, DOWN, buff=0.5)\n        self.play(Write(formula), run_time=4)\n        \n        # Emphasis (8-10s)\n        self.play(Indicate(formula, color=GOLD), run_time=2)"<\n>}<\n>```<\n><\n>**Critical Rules:**<\n>- Use `weight=BOLD` in constructor, never `.set_bold()`<\n>- Use explicit MathTex parts: `MathTex(r"A", "B", "C")` not `.submobjects[index]`<\n>- Raw strings for MathTex: `r"\frac{a}{b}"`<\n>- Exact timing match with `run_time` and `self.wait()`<\n><\n>**Process:** {<\n>  "duration": 20,<\n>  "description": "Defining Neural Networks with simple visuals.",<\n>  "visual_flow": [<\n>    {<\n>      "start_time": 0,<\n>      "end_time": 4,<\n>      "action": "FadeIn",<\n>      "target_id": "title",<\n>      "content": "Neural Network",<\n>      "object_type": "Text",<\n>      "run_time": 2.0,<\n>      "style": {<\n>        "font_size": 60,<\n>        "color": "BLUE"<\n>      },<\n>      "position": {<\n>        "type": "absolute",<\n>        "location": "UP"<\n>      },<\n>      "pedagogical_purpose": "Establish the main topic."<\n>    },<\n>    {<\n>      "start_time": 4,<\n>      "end_time": 8,<\n>      "action": "Create",<\n>      "target_id": "neuron1",<\n>      "content": "",<\n>      "object_type": "Circle",<\n>      "run_time": 1.5,<\n>      "style": {<\n>        "radius": 0.5,<\n>        "color": "GREEN"<\n>      },<\n>      "position": {<\n>        "type": "absolute",<\n>        "location": "ORIGIN"<\n>      },<\n>      "pedagogical_purpose": "Introduce the basic unit: a neuron."<\n>    },<\n>    {<\n>      "start_time": 8,<\n>      "end_time": 12,<\n>      "action": "Create",<\n>      "target_id": "neuron2",<\n>      "content": "",<\n>      "object_type": "Circle",<\n>      "run_time": 1.5,<\n>      "style": {<\n>        "radius": 0.5,<\n>        "color": "GREEN"<\n>      },<\n>      "position": {<\n>        "type": "relative_to",<\n>        "reference": "neuron1",<\n>        "offset": "RIGHT",<\n>        "buff": 2<\n>      },<\n>      "pedagogical_purpose": "Show multiple neurons."<\n>    },<\n>    {<\n>      "start_time": 12,<\n>      "end_time": 16,<\n>      "action": "Create",<\n>      "target_id": "connection",<\n>      "content": "",<\n>      "object_type": "Arrow",<\n>      "run_time": 1.0,<\n>      "style": {<\n>        "color": "GREY"<\n>      },<\n>      "position": {<\n>        "type": "relative_to",<\n>        "reference": "neuron1",<\n>        "offset": "RIGHT",<\n>        "buff": 0.5<\n>      },<\n>      "pedagogical_purpose": "Illustrate connections between neurons."<\n>    },<\n>    {<\n>      "start_time": 16,<\n>      "end_time": 20,<\n>      "action": "FadeIn",<\n>      "target_id": "definition",<\n>      "content": "Network of connected neurons",<\n>      "object_type": "Text",<\n>      "run_time": 2.0,<\n>      "style": {<\n>        "font_size": 40,<\n>        "color": "WHITE"<\n>      },<\n>      "position": {<\n>        "type": "absolute",<\n>        "location": "DOWN"<\n>      },<\n>      "pedagogical_purpose": "Summarize the definition."<\n>    }<\n>  ],<\n>  "narration": "A Neural Network. Is a network. Of connected neurons."<\n>}<\n>"
+ch run **Role:** Manim animation generator that converts storyboard specifications into executable animation code matching precise visual flow and timing requirements.<\n><\n>## **Core Animation Rules**<\n>### **Timing & Flow**<\n>- Animation duration must **exactly match** input `duration`<\n>- Use `self.play(..., run_time=X)` and `self.wait(Y)` where X, Y > 0<\n>- Objects persist until explicitly removed<\n>- Maintain continuous flow with proper transitions<\n><\n>### **Syntax & Objects**<\n>- `Text()` for labels, `MathTex()` for equations (use raw strings: `r"\frac{a}{b}"`)<\n>- Group synchronized animations with `VGroup()`<\n>- **Never use** `.set_bold()` → use `weight=BOLD` in constructor<\n>- **Never use** `.submobjects[index]` → use explicit MathTex parts: `MathTex(r"A", "B", "C")`<\n><\n>### **Positioning & Colors**<\n>**Relative:** `obj.next_to(other, direction, buff=0.5)`  <\n>**Absolute:** `.move_to(position)` or `.to_edge(direction)`  <\n>**Center:** Use `get_center()` (not `get_up()`)<\n><\n>**Position Constants:** `ORIGIN`, `UP`, `DOWN`, `RIGHT`, `LEFT`, `UL`, `UR`, `DL`, `DR`<\n><\n>**Colors:** `BLUE`, `TEAL`, `GREEN`, `YELLOW`, `GOLD`, `RED`, `MAROON`, `PURPLE`, `GREY`, `WHITE`, `BLACK`  <\n>**Variations:** Add `_A` (lightest) through `_E` (darkest): `BLUE_C`, `GOLD_D`  <\n>**Usage:** `Text("Hello", color=BLUE_C)`, `text.animate.set_color(GOLD)`<\n><\n>## **Action Mapping**<\n>- **FadeIn** → `self.play(FadeIn(object), run_time=X)`<\n>- **Write** → `self.play(Write(object), run_time=X)`<\n>- **Create** → `self.play(Create(object), run_time=X)`<\n>- **Transform** → `self.play(Transform(old, new), run_time=X)`<\n>- **Indicate** → `self.play(Indicate(object), run_time=X)`<\n>- **Circumscribe** → `self.play(Circumscribe(object), run_time=X)`<\n><\n>## **Object Types**<\n>- **Text** → `Text("content", font_size=48, color=WHITE)`<\n>- **MathTex** → `MathTex(r"content", font_size=36, color=BLUE)`<\n>- **Rectangle** → `Rectangle(width=2, height=1, color=GREEN)`<\n>- **Circle** → `Circle(radius=1, color=YELLOW)`<\n>- **Arrow** → `Arrow(start_point, end_point, color=RED)`<\n>- **Line** → `Line(start_point, end_point, color=PURPLE)`<\n><\n>## **Position Conversion**<\n>- **ORIGIN** → `ORIGIN`<\n>- **UP/DOWN/LEFT/RIGHT** → Direct constants<\n>- **UL/UR/DL/DR** → Direct constants<\n>- **relative_to** → `.next_to(reference_object, direction, buff=0.5)`<\n><\n>## **Example Input→Output**<\n><\n>**Input Storyboard:**<\n>```json<\n>{<\n>  "duration": 10,<\n>  "visual_flow": [<\n>    {<\n>      "start_time": 0,<\n>      "end_time": 4,<\n>      "action": "FadeIn",<\n>      "target_id": "title",<\n>      "content": "Main Concept",<\n>      "object_type": "Text",<\n>      "run_time": 2.0,<\n>      "style": {"font_size": 48, "color": "WHITE"},<\n>      "position": {"type": "absolute", "location": "ORIGIN"}<\n>    },<\n>    {<\n>      "start_time": 4,<\n>      "end_time": 8,<\n>      "action": "Write",<\n>      "target_id": "formula",<\n>      "content": "A = B \\times C",<\n>      "object_type": "MathTex",<\n>      "run_time": 2.5,<\n>      "style": {"font_size": 36, "color": "BLUE"},<\n>      "position": {"type": "relative_to", "reference": "title", "offset": "DOWN", "buff": 0.5}<\n>    },<\n>    {<\n>      "start_time": 8,<\n>      "end_time": 10,<\n>      "action": "Indicate",<\n>      "target_id": "formula",<\n>      "run_time": 1.5,<\n>      "style": {"color": "GOLD"}<\n>    }<\n>  ]<\n>}<\n>```<\n><\n>**Output Animation:**<\n>```json<\n>{<\n>  "duration": 10,<\n>  "scene_name": "EducationalScene",<\n>  "code": "from manim import *\n\nclass EducationalScene(Scene):\n    def construct(self):\n        # Main Concept (0-4s)\n        title = Text(\"Main Concept\", font_size=48, color=WHITE).move_to(ORIGIN)\n        self.play(FadeIn(title), run_time=4)\n        \n        # Formula (4-8s)\n        formula = MathTex(r\"A = B \\times C\", font_size=36, color=BLUE).next_to(title, DOWN, buff=0.5)\n        self.play(Write(formula), run_time=4)\n        \n        # Emphasis (8-10s)\n        self.play(Indicate(formula, color=GOLD), run_time=2)"<\n>}<\n>```<\n><\n>**Critical Rules:**<\n>- Use `weight=BOLD` in constructor, never `.set_bold()`<\n>- Use explicit MathTex parts: `MathTex(r"A", "B", "C")` not `.submobjects[index]`<\n>- Raw strings for MathTex: `r"\frac{a}{b}"`<\n>- Exact timing match with `run_time` and `self.wait()`<\n><\n>**Process:** {<\n>  "duration": 20,<\n>  "description": "Defining Neural Networks with simple visuals.",<\n>  "visual_flow": [<\n>    {<\n>      "start_time": 0,<\n>      "end_time": 4,<\n>      "action": "FadeIn",<\n>      "target_id": "title",<\n>      "content": "Neural Network",<\n>      "object_type": "Text",<\n>      "run_time": 2.0,<\n>      "style": {<\n>        "font_size": 60,<\n>        "color": "BLUE"<\n>      },<\n>      "position": {<\n>        "type": "absolute",<\n>        "location": "UP"<\n>      },<\n>      "pedagogical_purpose": "Establish the main topic."<\n>    },<\n>    {<\n>      "start_time": 4,<\n>      "end_time": 8,<\n>      "action": "Create",<\n>      "target_id": "neuron1",<\n>      "content": "",<\n>      "object_type": "Circle",<\n>      "run_time": 1.5,<\n>      "style": {<\n>        "radius": 0.5,<\n>        "color": "GREEN"<\n>      },<\n>      "position": {<\n>        "type": "absolute",<\n>        "location": "ORIGIN"<\n>      },<\n>      "pedagogical_purpose": "Introduce the basic unit: a neuron."<\n>    },<\n>    {<\n>      "start_time": 8,<\n>      "end_time": 12,<\n>      "action": "Create",<\n>      "target_id": "neuron2",<\n>      "content": "",<\n>      "object_type": "Circle",<\n>      "run_time": 1.5,<\n>      "style": {<\n>        "radius": 0.5,<\n>        "color": "GREEN"<\n>      },<\n>      "position": {<\n>        "type": "relative_to",<\n>        "reference": "neuron1",<\n>        "offset": "RIGHT",<\n>        "buff": 2<\n>      },<\n>      "pedagogical_purpose": "Show multiple neurons."<\n>    },<\n>    {<\n>      "start_time": 12,<\n>      "end_time": 16,<\n>      "action": "Create",<\n>      "target_id": "connection",<\n>      "content": "",<\n>      "object_type": "Arrow",<\n>      "run_time": 1.0,<\n>      "style": {<\n>        "color": "GREY"<\n>      },<\n>      "position": {<\n>        "type": "relative_to",<\n>        "reference": "neuron1",<\n>        "offset": "RIGHT",<\n>        "buff": 0.5<\n>      },<\n>      "pedagogical_purpose": "Illustrate connections between neurons."<\n>    },<\n>    {<\n>      "start_time": 16,<\n>      "end_time": 20,<\n>      "action": "FadeIn",<\n>      "target_id": "definition",<\n>      "content": "Network of connected neurons",<\n>      "object_type": "Text",<\n>      "run_time": 2.0,<\n>      "style": {<\n>        "font_size": 40,<\n>        "color": "WHITE"<\n>      },<\n>      "position": {<\n>        "type": "absolute",<\n>        "location": "DOWN"<\n>      },<\n>      "pedagogical_purpose": "Summarize the definition."<\n>    }<\n>  ],<\n>  "narration": "A Neural Network. Is a network. Of connected neurons."<\n>}<\n>
+x run **Role:** Manim animation generator that converts storyboard specifications into executable animation code matching precise visual flow and timing requirements.<\n><\n>## **Core Animation Rules**<\n>### **Timing & Flow**<\n>- Animation duration must **exactly match** input `duration`<\n>- Use `self.play(..., run_time=X)` and `self.wait(Y)` where X, Y > 0<\n>- Objects persist until explicitly removed<\n>- Maintain continuous flow with proper transitions<\n><\n>### **Syntax & Objects**<\n>- `Text()` for labels, `MathTex()` for equations (use raw strings: `r"\frac{a}{b}"`)<\n>- Group synchronized animations with `VGroup()`<\n>- **Never use** `.set_bold()` → use `weight=BOLD` in constructor<\n>- **Never use** `.submobjects[index]` → use explicit MathTex parts: `MathTex(r"A", "B", "C")`<\n><\n>### **Positioning & Colors**<\n>**Relative:** `obj.next_to(other, direction, buff=0.5)`  <\n>**Absolute:** `.move_to(position)` or `.to_edge(direction)`  <\n>**Center:** Use `get_center()` (not `get_up()`)<\n><\n>**Position Constants:** `ORIGIN`, `UP`, `DOWN`, `RIGHT`, `LEFT`, `UL`, `UR`, `DL`, `DR`<\n><\n>**Colors:** `BLUE`, `TEAL`, `GREEN`, `YELLOW`, `GOLD`, `RED`, `MAROON`, `PURPLE`, `GREY`, `WHITE`, `BLACK`  <\n>**Variations:** Add `_A` (lightest) through `_E` (darkest): `BLUE_C`, `GOLD_D`  <\n>**Usage:** `Text("Hello", color=BLUE_C)`, `text.animate.set_color(GOLD)`<\n><\n>## **Action Mapping**<\n>- **FadeIn** → `self.play(FadeIn(object), run_time=X)`<\n>- **Write** → `self.play(Write(object), run_time=X)`<\n>- **Create** → `self.play(Create(object), run_time=X)`<\n>- **Transform** → `self.play(Transform(old, new), run_time=X)`<\n>- **Indicate** → `self.play(Indicate(object), run_time=X)`<\n>- **Circumscribe** → `self.play(Circumscribe(object), run_time=X)`<\n><\n>## **Object Types**<\n>- **Text** → `Text("content", font_size=48, color=WHITE)`<\n>- **MathTex** → `MathTex(r"content", font_size=36, color=BLUE)`<\n>- **Rectangle** → `Rectangle(width=2, height=1, color=GREEN)`<\n>- **Circle** → `Circle(radius=1, color=YELLOW)`<\n>- **Arrow** → `Arrow(start_point, end_point, color=RED)`<\n>- **Line** → `Line(start_point, end_point, color=PURPLE)`<\n><\n>## **Position Conversion**<\n>- **ORIGIN** → `ORIGIN`<\n>- **UP/DOWN/LEFT/RIGHT** → Direct constants<\n>- **UL/UR/DL/DR** → Direct constants<\n>- **relative_to** → `.next_to(reference_object, direction, buff=0.5)`<\n><\n>## **Example Input→Output**<\n><\n>**Input Storyboard:**<\n>```json<\n>{<\n>  "duration": 10,<\n>  "visual_flow": [<\n>    {<\n>      "start_time": 0,<\n>      "end_time": 4,<\n>      "action": "FadeIn",<\n>      "target_id": "title",<\n>      "content": "Main Concept",<\n>      "object_type": "Text",<\n>      "run_time": 2.0,<\n>      "style": {"font_size": 48, "color": "WHITE"},<\n>      "position": {"type": "absolute", "location": "ORIGIN"}<\n>    },<\n>    {<\n>      "start_time": 4,<\n>      "end_time": 8,<\n>      "action": "Write",<\n>      "target_id": "formula",<\n>      "content": "A = B \\times C",<\n>      "object_type": "MathTex",<\n>      "run_time": 2.5,<\n>      "style": {"font_size": 36, "color": "BLUE"},<\n>      "position": {"type": "relative_to", "reference": "title", "offset": "DOWN", "buff": 0.5}<\n>    },<\n>    {<\n>      "start_time": 8,<\n>      "end_time": 10,<\n>      "action": "Indicate",<\n>      "target_id": "formula",<\n>      "run_time": 1.5,<\n>      "style": {"color": "GOLD"}<\n>    }<\n>  ]<\n>}<\n>```<\n><\n>**Output Animation:**<\n>```json<\n>{<\n>  "duration": 10,<\n>  "scene_name": "EducationalScene",<\n>  "code": "from manim import *\n\nclass EducationalScene(Scene):\n    def construct(self):\n        # Main Concept (0-4s)\n        title = Text(\"Main Concept\", font_size=48, color=WHITE).move_to(ORIGIN)\n        self.play(FadeIn(title), run_time=4)\n        \n        # Formula (4-8s)\n        formula = MathTex(r\"A = B \\times C\", font_size=36, color=BLUE).next_to(title, DOWN, buff=0.5)\n        self.play(Write(formula), run_time=4)\n        \n        # Emphasis (8-10s)\n        self.play(Indicate(formula, color=GOLD), run_time=2)"<\n>}<\n>```<\n><\n>**Critical Rules:**<\n>- Use `weight=BOLD` in constructor, never `.set_bold()`<\n>- Use explicit MathTex parts: `MathTex(r"A", "B", "C")` not `.submobjects[index]`<\n>- Raw strings for MathTex: `r"\frac{a}{b}"`<\n>- Exact timing match with `run_time` and `self.wait()`<\n><\n>**Process:** {<\n>  "duration": 20,<\n>  "description": "Defining Neural Networks with simple visuals.",<\n>  "visual_flow": [<\n>    {<\n>      "start_time": 0,<\n>      "end_time": 4,<\n>      "action": "FadeIn",<\n>      "target_id": "title",<\n>      "content": "Neural Network",<\n>      "object_type": "Text",<\n>      "run_time": 2.0,<\n>      "style": {<\n>        "font_size": 60,<\n>        "color": "BLUE"<\n>      },<\n>      "position": {<\n>        "type": "absolute",<\n>        "location": "UP"<\n>      },<\n>      "pedagogical_purpose": "Establish the main topic."<\n>    },<\n>    {<\n>      "start_time": 4,<\n>      "end_time": 8,<\n>      "action": "Create",<\n>      "target_id": "neuron1",<\n>      "content": "",<\n>      "object_type": "Circle",<\n>      "run_time": 1.5,<\n>      "style": {<\n>        "radius": 0.5,<\n>        "color": "GREEN"<\n>      },<\n>      "position": {<\n>        "type": "absolute",<\n>        "location": "ORIGIN"<\n>      },<\n>      "pedagogical_purpose": "Introduce the basic unit: a neuron."<\n>    },<\n>    {<\n>      "start_time": 8,<\n>      "end_time": 12,<\n>      "action": "Create",<\n>      "target_id": "neuron2",<\n>      "content": "",<\n>      "object_type": "Circle",<\n>      "run_time": 1.5,<\n>      "style": {<\n>        "radius": 0.5,<\n>        "color": "GREEN"<\n>      },<\n>      "position": {<\n>        "type": "relative_to",<\n>        "reference": "neuron1",<\n>        "offset": "RIGHT",<\n>        "buff": 2<\n>      },<\n>      "pedagogical_purpose": "Show multiple neurons."<\n>    },<\n>    {<\n>      "start_time": 12,<\n>      "end_time": 16,<\n>      "action": "Create",<\n>      "target_id": "connection",<\n>      "content": "",<\n>      "object_type": "Arrow",<\n>      "run_time": 1.0,<\n>      "style": {<\n>        "color": "GREY"<\n>      },<\n>      "position": {<\n>        "type": "relative_to",<\n>        "reference": "neuron1",<\n>        "offset": "RIGHT",<\n>        "buff": 0.5<\n>      },<\n>      "pedagogical_purpose": "Illustrate connections between neurons."<\n>    },<\n>    {<\n>      "start_time": 16,<\n>      "end_time": 20,<\n>      "action": "FadeIn",<\n>      "target_id": "definition",<\n>      "content": "Network of connected neurons",<\n>      "object_type": "Text",<\n>      "run_time": 2.0,<\n>      "style": {<\n>        "font_size": 40,<\n>        "color": "WHITE"<\n>      },<\n>      "position": {<\n>        "type": "absolute",<\n>        "location": "DOWN"<\n>      },<\n>      "pedagogical_purpose": "Summarize the definition."<\n>    }<\n>  ],<\n>  "narration": "A Neural Network. Is a network. Of connected neurons."<\n>}<\n>
+x run "<\n>**Role:** Manim animation generator that converts storyboard specifications into executable animation code matching precise visual flow and timing requirements.<\n><\n>## **Core Animation Rules**<\n>### **Timing & Flow**<\n>- Animation duration must **exactly match** input `duration`<\n>- Use `self.play(..., run_time=X)` and `self.wait(Y)` where X, Y > 0<\n>- Objects persist until explicitly removed<\n>- Maintain continuous flow with proper transitions<\n><\n>### **Syntax & Objects**<\n>- `Text()` for labels, `MathTex()` for equations (use raw strings: `r"\frac{a}{b}"`)<\n>- Group synchronized animations with `VGroup()`<\n>- **Never use** `.set_bold()` → use `weight=BOLD` in constructor<\n>- **Never use** `.submobjects[index]` → use explicit MathTex parts: `MathTex(r"A", "B", "C")`<\n><\n>### **Positioning & Colors**<\n>**Relative:** `obj.next_to(other, direction, buff=0.5)`  <\n>**Absolute:** `.move_to(position)` or `.to_edge(direction)`  <\n>**Center:** Use `get_center()` (not `get_up()`)<\n><\n>**Position Constants:** `ORIGIN`, `UP`, `DOWN`, `RIGHT`, `LEFT`, `UL`, `UR`, `DL`, `DR`<\n><\n>**Colors:** `BLUE`, `TEAL`, `GREEN`, `YELLOW`, `GOLD`, `RED`, `MAROON`, `PURPLE`, `GREY`, `WHITE`, `BLACK`  <\n>**Variations:** Add `_A` (lightest) through `_E` (darkest): `BLUE_C`, `GOLD_D`  <\n>**Usage:** `Text("Hello", color=BLUE_C)`, `text.animate.set_color(GOLD)`<\n><\n>## **Action Mapping**<\n>- **FadeIn** → `self.play(FadeIn(object), run_time=X)`<\n>- **Write** → `self.play(Write(object), run_time=X)`<\n>- **Create** → `self.play(Create(object), run_time=X)`<\n>- **Transform** → `self.play(Transform(old, new), run_time=X)`<\n>- **Indicate** → `self.play(Indicate(object), run_time=X)`<\n>- **Circumscribe** → `self.play(Circumscribe(object), run_time=X)`<\n><\n>## **Object Types**<\n>- **Text** → `Text("content", font_size=48, color=WHITE)`<\n>- **MathTex** → `MathTex(r"content", font_size=36, color=BLUE)`<\n>- **Rectangle** → `Rectangle(width=2, height=1, color=GREEN)`<\n>- **Circle** → `Circle(radius=1, color=YELLOW)`<\n>- **Arrow** → `Arrow(start_point, end_point, color=RED)`<\n>- **Line** → `Line(start_point, end_point, color=PURPLE)`<\n><\n>## **Position Conversion**<\n>- **ORIGIN** → `ORIGIN`<\n>- **UP/DOWN/LEFT/RIGHT** → Direct constants<\n>- **UL/UR/DL/DR** → Direct constants<\n>- **relative_to** → `.next_to(reference_object, direction, buff=0.5)`<\n><\n>## **Example Input→Output**<\n><\n>**Input Storyboard:**<\n>```json<\n>{<\n>  "duration": 10,<\n>  "visual_flow": [<\n>    {<\n>      "start_time": 0,<\n>      "end_time": 4,<\n>      "action": "FadeIn",<\n>      "target_id": "title",<\n>      "content": "Main Concept",<\n>      "object_type": "Text",<\n>      "run_time": 2.0,<\n>      "style": {"font_size": 48, "color": "WHITE"},<\n>      "position": {"type": "absolute", "location": "ORIGIN"}<\n>    },<\n>    {<\n>      "start_time": 4,<\n>      "end_time": 8,<\n>      "action": "Write",<\n>      "target_id": "formula",<\n>      "content": "A = B \\times C",<\n>      "object_type": "MathTex",<\n>      "run_time": 2.5,<\n>      "style": {"font_size": 36, "color": "BLUE"},<\n>      "position": {"type": "relative_to", "reference": "title", "offset": "DOWN", "buff": 0.5}<\n>    },<\n>    {<\n>      "start_time": 8,<\n>      "end_time": 10,<\n>      "action": "Indicate",<\n>      "target_id": "formula",<\n>      "run_time": 1.5,<\n>      "style": {"color": "GOLD"}<\n>    }<\n>  ]<\n>}<\n>```<\n><\n>**Output Animation:**<\n>```json<\n>{<\n>  "duration": 10,<\n>  "scene_name": "EducationalScene",<\n>  "code": "from manim import *\n\nclass EducationalScene(Scene):\n    def construct(self):\n        # Main Concept (0-4s)\n        title = Text(\"Main Concept\", font_size=48, color=WHITE).move_to(ORIGIN)\n        self.play(FadeIn(title), run_time=4)\n        \n        # Formula (4-8s)\n        formula = MathTex(r\"A = B \\times C\", font_size=36, color=BLUE).next_to(title, DOWN, buff=0.5)\n        self.play(Write(formula), run_time=4)\n        \n        # Emphasis (8-10s)\n        self.play(Indicate(formula, color=GOLD), run_time=2)"<\n>}<\n>```<\n><\n>**Critical Rules:**<\n>- Use `weight=BOLD` in constructor, never `.set_bold()`<\n>- Use explicit MathTex parts: `MathTex(r"A", "B", "C")` not `.submobjects[index]`<\n>- Raw strings for MathTex: `r"\frac{a}{b}"`<\n>- Exact timing match with `run_time` and `self.wait()`<\n><\n>**Process:** {<\n>  "duration": 20,<\n>  "description": "Defining Neural Networks with simple visuals.",<\n>  "visual_flow": [<\n>    {<\n>      "start_time": 0,<\n>      "end_time": 4,<\n>      "action": "FadeIn",<\n>      "target_id": "title",<\n>      "content": "Neural Network",<\n>      "object_type": "Text",<\n>      "run_time": 2.0,<\n>      "style": {<\n>        "font_size": 60,<\n>        "color": "BLUE"<\n>      },<\n>      "position": {<\n>        "type": "absolute",<\n>        "location": "UP"<\n>      },<\n>      "pedagogical_purpose": "Establish the main topic."<\n>    },<\n>    {<\n>      "start_time": 4,<\n>      "end_time": 8,<\n>      "action": "Create",<\n>      "target_id": "neuron1",<\n>      "content": "",<\n>      "object_type": "Circle",<\n>      "run_time": 1.5,<\n>      "style": {<\n>        "radius": 0.5,<\n>        "color": "GREEN"<\n>      },<\n>      "position": {<\n>        "type": "absolute",<\n>        "location": "ORIGIN"<\n>      },<\n>      "pedagogical_purpose": "Introduce the basic unit: a neuron."<\n>    },<\n>    {<\n>      "start_time": 8,<\n>      "end_time": 12,<\n>      "action": "Create",<\n>      "target_id": "neuron2",<\n>      "content": "",<\n>      "object_type": "Circle",<\n>      "run_time": 1.5,<\n>      "style": {<\n>        "radius": 0.5,<\n>        "color": "GREEN"<\n>      },<\n>      "position": {<\n>        "type": "relative_to",<\n>        "reference": "neuron1",<\n>        "offset": "RIGHT",<\n>        "buff": 2<\n>      },<\n>      "pedagogical_purpose": "Show multiple neurons."<\n>    },<\n>    {<\n>      "start_time": 12,<\n>      "end_time": 16,<\n>      "action": "Create",<\n>      "target_id": "connection",<\n>      "content": "",<\n>      "object_type": "Arrow",<\n>      "run_time": 1.0,<\n>      "style": {<\n>        "color": "GREY"<\n>      },<\n>      "position": {<\n>        "type": "relative_to",<\n>        "reference": "neuron1",<\n>        "offset": "RIGHT",<\n>        "buff": 0.5<\n>      },<\n>      "pedagogical_purpose": "Illustrate connections between neurons."<\n>    },<\n>    {<\n>      "start_time": 16,<\n>      "end_time": 20,<\n>      "action": "FadeIn",<\n>      "target_id": "definition",<\n>      "content": "Network of connected neurons",<\n>      "object_type": "Text",<\n>      "run_time": 2.0,<\n>      "style": {<\n>        "font_size": 40,<\n>        "color": "WHITE"<\n>      },<\n>      "position": {<\n>        "type": "absolute",<\n>        "location": "DOWN"<\n>      },<\n>      "pedagogical_purpose": "Summarize the definition."<\n>    }<\n>  ],<\n>  "narration": "A Neural Network. Is a network. Of connected neurons."<\n>}<\n>"
+opencode run "<\n>**Role:** Manim animation generator that converts storyboard specifications into executable animation code matching precise visual flow and timing requirements.<\n><\n>## **Core Animation Rules**<\n>### **Timing & Flow**<\n>- Animation duration must **exactly match** input `duration`<\n>- Use `self.play(..., run_time=X)` and `self.wait(Y)` where X, Y > 0<\n>- Objects persist until explicitly removed<\n>- Maintain continuous flow with proper transitions<\n><\n>### **Syntax & Objects**<\n>- `Text()` for labels, `MathTex()` for equations (use raw strings: `r"\frac{a}{b}"`)<\n>- Group synchronized animations with `VGroup()`<\n>- **Never use** `.set_bold()` → use `weight=BOLD` in constructor<\n>- **Never use** `.submobjects[index]` → use explicit MathTex parts: `MathTex(r"A", "B", "C")`<\n><\n>### **Positioning & Colors**<\n>**Relative:** `obj.next_to(other, direction, buff=0.5)`  <\n>**Absolute:** `.move_to(position)` or `.to_edge(direction)`  <\n>**Center:** Use `get_center()` (not `get_up()`)<\n><\n>**Position Constants:** `ORIGIN`, `UP`, `DOWN`, `RIGHT`, `LEFT`, `UL`, `UR`, `DL`, `DR`<\n><\n>**Colors:** `BLUE`, `TEAL`, `GREEN`, `YELLOW`, `GOLD`, `RED`, `MAROON`, `PURPLE`, `GREY`, `WHITE`, `BLACK`  <\n>**Variations:** Add `_A` (lightest) through `_E` (darkest): `BLUE_C`, `GOLD_D`  <\n>**Usage:** `Text("Hello", color=BLUE_C)`, `text.animate.set_color(GOLD)`<\n><\n>## **Action Mapping**<\n>- **FadeIn** → `self.play(FadeIn(object), run_time=X)`<\n>- **Write** → `self.play(Write(object), run_time=X)`<\n>- **Create** → `self.play(Create(object), run_time=X)`<\n>- **Transform** → `self.play(Transform(old, new), run_time=X)`<\n>- **Indicate** → `self.play(Indicate(object), run_time=X)`<\n>- **Circumscribe** → `self.play(Circumscribe(object), run_time=X)`<\n><\n>## **Object Types**<\n>- **Text** → `Text("content", font_size=48, color=WHITE)`<\n>- **MathTex** → `MathTex(r"content", font_size=36, color=BLUE)`<\n>- **Rectangle** → `Rectangle(width=2, height=1, color=GREEN)`<\n>- **Circle** → `Circle(radius=1, color=YELLOW)`<\n>- **Arrow** → `Arrow(start_point, end_point, color=RED)`<\n>- **Line** → `Line(start_point, end_point, color=PURPLE)`<\n><\n>## **Position Conversion**<\n>- **ORIGIN** → `ORIGIN`<\n>- **UP/DOWN/LEFT/RIGHT** → Direct constants<\n>- **UL/UR/DL/DR** → Direct constants<\n>- **relative_to** → `.next_to(reference_object, direction, buff=0.5)`<\n><\n>## **Example Input→Output**<\n><\n>**Input Storyboard:**<\n>```json<\n>{<\n>  "duration": 10,<\n>  "visual_flow": [<\n>    {<\n>      "start_time": 0,<\n>      "end_time": 4,<\n>      "action": "FadeIn",<\n>      "target_id": "title",<\n>      "content": "Main Concept",<\n>      "object_type": "Text",<\n>      "run_time": 2.0,<\n>      "style": {"font_size": 48, "color": "WHITE"},<\n>      "position": {"type": "absolute", "location": "ORIGIN"}<\n>    },<\n>    {<\n>      "start_time": 4,<\n>      "end_time": 8,<\n>      "action": "Write",<\n>      "target_id": "formula",<\n>      "content": "A = B \\times C",<\n>      "object_type": "MathTex",<\n>      "run_time": 2.5,<\n>      "style": {"font_size": 36, "color": "BLUE"},<\n>      "position": {"type": "relative_to", "reference": "title", "offset": "DOWN", "buff": 0.5}<\n>    },<\n>    {<\n>      "start_time": 8,<\n>      "end_time": 10,<\n>      "action": "Indicate",<\n>      "target_id": "formula",<\n>      "run_time": 1.5,<\n>      "style": {"color": "GOLD"}<\n>    }<\n>  ]<\n>}<\n>```<\n><\n>**Output Animation:**<\n>```json<\n>{<\n>  "duration": 10,<\n>  "scene_name": "EducationalScene",<\n>  "code": "from manim import *\n\nclass EducationalScene(Scene):\n    def construct(self):\n        # Main Concept (0-4s)\n        title = Text(\"Main Concept\", font_size=48, color=WHITE).move_to(ORIGIN)\n        self.play(FadeIn(title), run_time=4)\n        \n        # Formula (4-8s)\n        formula = MathTex(r\"A = B \\times C\", font_size=36, color=BLUE).next_to(title, DOWN, buff=0.5)\n        self.play(Write(formula), run_time=4)\n        \n        # Emphasis (8-10s)\n        self.play(Indicate(formula, color=GOLD), run_time=2)"<\n>}<\n>```<\n><\n>**Critical Rules:**<\n>- Use `weight=BOLD` in constructor, never `.set_bold()`<\n>- Use explicit MathTex parts: `MathTex(r"A", "B", "C")` not `.submobjects[index]`<\n>- Raw strings for MathTex: `r"\frac{a}{b}"`<\n>- Exact timing match with `run_time` and `self.wait()`<\n><\n>**Process:** {<\n>  "duration": 20,<\n>  "description": "Defining Neural Networks with simple visuals.",<\n>  "visual_flow": [<\n>    {<\n>      "start_time": 0,<\n>      "end_time": 4,<\n>      "action": "FadeIn",<\n>      "target_id": "title",<\n>      "content": "Neural Network",<\n>      "object_type": "Text",<\n>      "run_time": 2.0,<\n>      "style": {<\n>        "font_size": 60,<\n>        "color": "BLUE"<\n>      },<\n>      "position": {<\n>        "type": "absolute",<\n>        "location": "UP"<\n>      },<\n>      "pedagogical_purpose": "Establish the main topic."<\n>    },<\n>    {<\n>      "start_time": 4,<\n>      "end_time": 8,<\n>      "action": "Create",<\n>      "target_id": "neuron1",<\n>      "content": "",<\n>      "object_type": "Circle",<\n>      "run_time": 1.5,<\n>      "style": {<\n>        "radius": 0.5,<\n>        "color": "GREEN"<\n>      },<\n>      "position": {<\n>        "type": "absolute",<\n>        "location": "ORIGIN"<\n>      },<\n>      "pedagogical_purpose": "Introduce the basic unit: a neuron."<\n>    },<\n>    {<\n>      "start_time": 8,<\n>      "end_time": 12,<\n>      "action": "Create",<\n>      "target_id": "neuron2",<\n>      "content": "",<\n>      "object_type": "Circle",<\n>      "run_time": 1.5,<\n>      "style": {<\n>        "radius": 0.5,<\n>        "color": "GREEN"<\n>      },<\n>      "position": {<\n>        "type": "relative_to",<\n>        "reference": "neuron1",<\n>        "offset": "RIGHT",<\n>        "buff": 2<\n>      },<\n>      "pedagogical_purpose": "Show multiple neurons."<\n>    },<\n>    {<\n>      "start_time": 12,<\n>      "end_time": 16,<\n>      "action": "Create",<\n>      "target_id": "connection",<\n>      "content": "",<\n>      "object_type": "Arrow",<\n>      "run_time": 1.0,<\n>      "style": {<\n>        "color": "GREY"<\n>      },<\n>      "position": {<\n>        "type": "relative_to",<\n>        "reference": "neuron1",<\n>        "offset": "RIGHT",<\n>        "buff": 0.5<\n>      },<\n>      "pedagogical_purpose": "Illustrate connections between neurons."<\n>    },<\n>    {<\n>      "start_time": 16,<\n>      "end_time": 20,<\n>      "action": "FadeIn",<\n>      "target_id": "definition",<\n>      "content": "Network of connected neurons",<\n>      "object_type": "Text",<\n>      "run_time": 2.0,<\n>      "style": {<\n>        "font_size": 40,<\n>        "color": "WHITE"<\n>      },<\n>      "position": {<\n>        "type": "absolute",<\n>        "location": "DOWN"<\n>      },<\n>      "pedagogical_purpose": "Summarize the definition."<\n>    }<\n>  ],<\n>  "narration": "A Neural Network. Is a network. Of connected neurons."<\n>}<\n>"
+bash
+bash
+c
+ch 
+ch -p
+c
+x run hi
+ec
+c
+cd video
+c
+uv run --env-file .env main.py
+c
+y
+gitui
+c
+y
+c
+y
+uv run --env-file .env main.py
+gemini
+uv run --env-file .env main.py
+y
+y
+c
+uv run --env-file .env main.py
+c
+y
+c
+uv run --env-file .env main.py
+y
+c
+config nu --doc
+y
+yh
+y
+c
+y
+c
+nu
+nu
+nu
+nu
+y
+cd nushell
+c
+y
+c
+nu
+y
+nu
+cd
+| cd
+config nu --doc
+cd nushell
+c
+y
+c
+y
+cd nushell
+y
+c
+y
+cd nushell
+c
+y
+c
+y
+c
+cd ghostty
+y
+c
+y
+c
+y
+c
+y
+c
+cd
+nu
+nu
+y
+c
+y
+c
+y
+c
+y
+cd zellij
+c
+y
+c
+y
+c
+cd video
+c
+cd video
+c
+y
+c
+y
+gitui
+c
+y
+c
+uv run --env-file .env main.py
+y
+gitui
+y
+gitui
+c
+y
+c
+uv run cleanup.py
+c
+y
+c
+c
+cd video
+c
+uv run --env-file .env main.py
+c
+y
+cd video
+c
+y
+c
+gitui
+uv run --env-file .env main.py
+y
+c
+y
+c
+c
+uv run --env-file .env main.py
+c
+cd video
+c
+uv run --env-file .env main.py
+y
+c
+y
+c
+gitui
+c
+c
+y
+c
+y
+c
+cd ..
+c
+uv run --env-file .env main.py
+y
+c
+y
+c
+uv run --env-file .env main.py
+y
+c
+gitui
+c
+y
+c
+gitui
+y
+gitu
+gitui
+c
+y
+gitui
+c
+gitui
+c
+c
+y
+c
+cd gluoxus
+c
+hx todo.md
+c
+y
+c
+cd video
+y
+c
+uv run --env-file .env main.py
+c
+y
+cd ..
+c
+y
+c
+uv run --env-file .env main.py
+c
+uv run --env-file .env main.py
+y
+c
+cd video
+c
+y
+c
+y
+c
+gitu
+gitui
+c
+y
+c
+gemini
+c
+gemini
+c
+y
+c
+gemini
+c
+y
+c
+yes | sudo dnf update
+c
+gemini
+c
+y
+w
+cd video
+c
+y
+c
+cd
+c
+yes | sudo dnf update
+c
+yes | sudo dnf update
+c
+y
+c
+cargo update zellij
+y
+c
+cargo update zellij
+y
+c
+cargo list 
+cargo --list
+cargo update yazi-cli
+c
+cd video
+c
+y
+c
+y
+c
+y
+c
+gitui
+c
+y
+c
+gitui
+c
+ch -p
+c
+y
+c
+gitui
+c
+hx
+c
+hx
+c
+y
+c
+cd video
+c
+y
+c
+y
+c
+y
+c
+gitui
+c
+y
+c
+pytright
+c
+pyright
+y
+c
+uv add pytest
+c
+y
+c
+uv run --env-file .env main.py
+y
+uv run --env-file .env main.py
+c
+y
+pytest tests/test_stages.py
+uv run pytest tests/test_stages.py
+y
+c
+uv run pytest tests/test_stages.py
+y
+uv run pytest tests/test_stages.py
+y
+uv run --env-file .env pytest
+c
+y
+c
+uv run --env-file .env pytest
+cd video
+uv run --env-file .env pytest
+y
+c
+fzi
+fz
+bash
+c
+fzf
+c
+uv add loguru
+c
+pyright .
+y
+c
+uv run --env-file .env main.py
+y
+c
+y
+c
+ruff check .
+blac
+black
+uv run black
+uv add tool black
+black
+source
+c
+refersh
+c
+black
+uv run black
+c
+y
+c
+uv run black src
+c
+y
+c
+y
+c
+y
+c
+y
+c
+y
+c
+y
+c
+y
+c
+pyright .
+y
+c
+y
+c
+y
+c
+uv run --env-file .env main.py
+c
+y
+c
+y
+c
+y
+c
+uv run --env-file .env main.py
+y
+c
+python cleanup.py
+c
+y
+c
+cd video
+python cleanup.py
+c
+y
+c
+y
+c
+uv run cleanup.py
+c
+y
+c
+gitui
+c
+gemini
+c
+gemini 
+c
+npm install -g @google/gemini-cli
+gemini --version
+cd video
+c
+npm install -g @google/gemini-cli
+npm fund
+npm install -g @google/gemini-cli
+flatpak install flathub it.mijorus.gearlever
+yes | sudo flatpak install flathub it.mijorus.gearlever
+yes | flatpak install flathub it.mijorus.gearlever
+flatpak install flathub it.mijorus.gearlever
+c
+y
+c
+y
+c
+y
+c
+cd video
+c
+y
+c
+y
+c
+black
+c
+y
+c
+uv run black src
+c
+uv run pyright .
+c
+uv run ruff check .
+y
+c
+y
+c
+y
+c
+y
+c
+y
+c
+pydantic
+pyright
+y
+c
+pyright
+c
+y
+c
+gitui
+c
+y
+c
+pyright
+c
+y
+c
+y
+c
+pyright
+c
+y
+c
+pyright
+c
+y
+c
+ruff check .
+uv run black
+uv run black .
+c
+y
+c
+y
+c
+y
+c
+y
+c
+pyright
+gemini
+c
+c
+y
+c
+hx
+y
+c
+y
+c
+y
+c
+uv run black .
+c
+y
+c
+uv ruff check .
+uv run ruff check .
+c
+pyright
+c
+y
+c
+uv run --env-file .env main.py
+c
+uv run cleanup.py
+c
+y
+c
+y
+c
+y
+c
+uv run --env-file .env main.py
+c
+y
+c
+uv run cleanup.py
+c
+y
+c
+y
+c
+gitui
+c
+y
+c
+hx
+qc
+c
+uv remove pytest
+uv remove pyyaml
+c
+y
+c
+uv remove pydantic-settings
+c
+y
+c
+uv remove black
+uv remove tool
+c
+uv tool install black
+c
+y
+c
+uv run --env-file .env main.py
+pyright .
+c
+y
+c
+uv run --env-file .env main.py
+c
+black .
+c
+y
+c
+black src
+y
+c
+y
+c
+ruff check .
+c
+y
+ruff check .
+y
+c
+y
+c
+y
+gitui
+giuti
+gitui
+c
+y
+c
+uv lock
+uv sync
+c
+uv run --env-file .env main.py
+c
+y
+c
+uv run cleanup.py
+c
+y
+c
+ch -p
+c
+y
+c
+git reset --soft HEAD~1<\n>git push origin main --force-with-lease<\n>
+c
+ch -p
+y
+c
+gitui
+c
+sudo dnf update 
+c
+flatpak install flathub com.google.Chrome
+y
+c
+z
+c
+cd video
+c
+hx
+c
+y
+c
+y
+c
+uv run --env-file .env main.py
+y
+c
+uv run --env-file .env main.py
+y
+c
+pyright .
+cd ..
+uv run --env-file .env main.py
+y
+c
+uv run --env-file .env main.py
+y
+c
+y
+c
+y
+c
+cd video
+c
+y
+c
+y
+c
+uv run --env-file .env main.py
+y
+c
+y
+c
+y
+c
+y
+c
+uv run --env-file .env main.py
+y
+c
+cd src
+y
+c
+hc
+cd src
+c
+cd ..
+c
+y
+c
+uv run --env-file .env main.py
+c
+y
+c
+y
+c
+gitui
+c
+y
+c
+gemini
+c
+cd ..
+pyright
+c
+uv run --env-file .env main.py
+y
+c
+y
+c
+uv run --env-file .env main.py
+c
+y
+c
+gitui
+c
+uv run --env-file .env main.py
+y
+c
+c
+uv run --env-file .env main.py
+y
+c
+uv run --env-file .env main.py
+y
+c
+uv run cleanup.py
+c
+y
+c
+y
+gitui
+c
+ch -p
+gitui
+git push
+c
+gemini
+y
+c
+z
+c
+cd video
+c
+y
+c
+cd vide
+c
+y
+c
+y
+yes | sudo dnf update
+cd vid
+c
+y
+c
+cd vide
+c
+y
+gitui
+c
+y
+c
+y
+c
+y
+c
+y
+c
+y
+c
+y
+flatpak install flathub org.videolan.VLC
+c
+uv run --env-file .env main.py
+y
+c
+y
+c
+y
+c
+y
+c
+y
+c
+y
+c
+e
+y
+c
+bun create better-t-stack@latest my-better-t-app --yes --frontend svelte --backend convex
+y
+bun dev:setup
+y
+bun dev
+y
+c
+bun dev
+c
+y
+c
+bun create better-t-stack@latest my-better-t-app --yes --backend convex
+c
+y
+c
+bun create better-t-stack@latest my-better-t-app --yes --backend convex
+cd my-better-t-app
+c
+bun dev:setup
+y
+c
+bun dev
+c
+yes | sudo dnf update
+sudo dnf copr enable wezfurlong/wezterm-nightly
+sudo dnf install wezterm
+wezterm
+y
+cd .config/wezterm
+y
+c
+.
+zed
+zed -h
+<\n><\n><\n><\n>
+c
+y
+cd x
+c
+y
+bun -h
+c
+bun x.js
+c
+bun x.js
+y
+c
+hx --health js
+hx --health javascript
+bunx oxlint@latest
+c
+oxlint
+bash
+oxlint
+c
+y
+c
+bunx
+bun
+bun install -g oxlint@latest
+c
+oxlint
+c
+y
+c
+cd x
+oxlint
+c
+y
+c
+hx --health javascript
+y
+hx
+cd
+cd dotfiles
+y
+c
+oxlint -h
+oxlint -f
+y
+c
+y
+c
+oxlint -f
+oxlint -f default
+y
+oxlint -f default x.js
+oxlint -h
+oxlint -f stylish x.js
+y
+c
+y
+cd helix
+c
+y
+c
+cd x
+y
+c
+cd helix
+y
+c
+bun add -D -E @biomejs/biome
+c
+y
+cd
+bun add -D -E @biomejs/biome
+c
+cd helix
+c
+y
+biome server
+bunx biome server
+bunx biome server --help
+y
+ruff server
+ruff server --start
+biome server --start
+bunx biome server --start
+bunx biome server --help
+bunx biome server start
+y
+hx
+y
+c
+y
+c
+y
+c
+bun remove -D -E @biomejs/biome
+bun r biome
+c
+y
+c
+bun r oxlint
+y
+c
+bun remove oxlint
+y
+c
+y
+c
+bun remove oxlint
+y
+bun uninstall oxlint
+oxlint
+y
+bun
+bun unlink oxlint
+c
+y
+c
+bun remove -g oxlint@latest
+c
+y
+c
+x
+c
+hx --health javascript
+c
+y
+cd helix
+c
+y
+hx --health javascript
+npm install -g typescript-language-server typescript
+hx --health javascript
+y
+cd x
+y
+c
+curl -fsSL https://deno.land/x/install/install.sh | sh
+cd
+curl -fsSL https://deno.land/x/install/install.sh | sh
+deno
+bash
+deno
+c
+y
+c
+y
+cd helix
+y
+c
+cd x
+y
+hx --health javascript
+y
+cd he
+y
+deno -h
+bash
+curl -fsSL https://deno.land/install.sh | sh<\n>
+y
+c
+hx
+y
+c
+y
+c
+cd x
+y
+c
+hx --health javascript
+bash
+cd x
+y
+c
+hx --health javascript
+y
+c
+y
+c
+exit
+c
+sudo dnf update -y
+c
+cd x
+c
+y
+c
+bun create better-t-stack@latest edu --yes --frontend tanstack-start native-nativewind --backend convex
+cd edu
+bun dev:setup
+c
+y
+c
+y
+c
+bun dev:setup
+c
+y
+c
+bun dev
+c
+y
+c
+bun create better-t-stack@latest my-better-t-app --yes
+cd
+y
+bun dev
+y
+bun dev
+c
+bun dev
+c
+y
+c
+bun dev:setup
+c
+bun dev:setup
+y
+c
+bun dev
+c
+y
+exit
+c
+cd x
+c
+y
+c
+bun create better-t-stack@latest edu --yes --frontend tanstack-start native-nativewind --backend convex
+cd edu
+c
+bun dev:setup
+y
+c
+bun dev
+c
+y
+bun dev
+c
+c
+y
+c
+x
+c
+x
+c
+cd video
+c
+y
+c
+x
+y
+c
+hx
+c
+y
+c
+hx
+c
+y
+c
+uv run test.py
+overlay use .venv/bin/activate.nu
+c
+which python
+c
+manim -qh test.py
+y
+c
+y
+gitui
+c
+u
+c
+y
+c
+y
+c
+y
+c
+uv run main.py
+y
+c
+uv run --env-file .env main.py
+y
+c
+y
+c
+c
+uv run --env-file .env main.py
+hx
+c
+y
+c
+y
+c
+uv run --env-file .env main.py
+c
+y
+c
+gitui
+mpeg4
+mpeg
+bash
+c
+y
+c
+h
+y
+c
+gitui
+c
+y
+c
+gitui
+c
+y
+c
+gitui
+c
+y
+c
+x run {<\n>  "role": "You are a master instructional designer and curriculum planner.",<\n>  "task": "Transform a user's high-level request into a structured, logical lesson plan composed of distinct scenes. Your plan must be clear, concise, and pedagogically sound.",<\n>  "input": {<\n>    "type": "JSON object",<\n>    "properties": {<\n>      "prompt": "string - the user's learning request",<\n>      "max_duration": "number - maximum duration in seconds"<\n>    }<\n>  },<\n>  "output": {<\n>    "type": "JSON object",<\n>    "requirement": "You MUST respond with a single JSON object that strictly adheres to the planner.output schema. Do not add any commentary or explanation outside of the JSON structure."<\n>  },<\n>  "process": [<\n>    {<\n>      "step": 1,<\n>      "name": "Analyze the Request",<\n>      "description": "Deconstruct the user's prompt to identify the core learning objective."<\n>    },<\n>    {<\n>      "step": 2,<\n>      "name": "Structure the Lesson",<\n>      "description": "Break down the core objective into a sequence of smaller, teachable scenes. Each scene should build upon the last."<\n>    },<\n>    {<\n>      "step": 3,<\n>      "name": "Define Scene Details",<\n>      "description": "For each scene, define a clear title, a description of what it will teach, and the key_concepts involved."<\n>    },<\n>    {<\n>      "step": 4,<\n>      "name": "Allocate Time",<\n>      "description": "Distribute the max_duration across the scenes based on the complexity of the concepts. The sum of scene durations must not exceed the max_duration."<\n>    }<\n>  ],<\n>  "output_schema": {<\n>    "concept": "string",<\n>    "duration": "number",<\n>    "scenes": [<\n>      {<\n>        "scene_no": "number",<\n>        "title": "string",<\n>        "description": "string",<\n>        "key_concepts": "array of strings",<\n>        "duration": "number"<\n>      }<\n>    ]<\n>  },<\n>  "example_input": {<\n>    "prompt": "Partial differentation in calculus",<\n>    "audience": "Jee Students",<\n>    "max_duration": 180<\n>  }<\n>}<\n>
+hx
+c
+x
+v
+c
+e
+y
+c
+y
+c
+y
+c
+x
+c
+gemini
+c
+y
+c
+2
+3
+4
+4 = 5 - 1
+4 + 5
+9+8-2
+9 + 8 - 2
+c
+y
+c
+bun remove -g opencode
+c
+bun install -g opencode-ai
+x
+y
+cd video
+c
+y
+c
+cd video
+y
+c
+y
+c
+y
+c
+uv run --env-file .env main.py
+c
+y
+c
+y
+c
+y
+c
+y
+y
+c
+y
+c
+y
+c
+y
+c
+y
+c
+x run You are an **AI-powered Educational Content Architect**, designed to autonomously generate clear, comprehensive, and well-structured learning modules from a high-level topic.<\n><\n>Your core task is to execute a two-phase process: first, design a pedagogically sound curriculum plan, and second, generate detailed, expert-level content for each component of that plan, ensuring complex topics are explained with exceptional clarity.<\n><\n>### **Phase 1: Instructional Design & Curriculum Planning**<\n><\n>As a **master instructional designer**, you will first deconstruct the user's request to create a structured lesson plan.<\n><\n>  * **Analyze the Request:** Identify the core learning objective from the user's topic.<\n>  * **Structure the Lesson:** Break down the core objective into a logical sequence of smaller, teachable modules. Each module must build upon the last.<\n>  * **Allocate Time:** Distribute the total `max_duration` across the modules based on the complexity of the concepts.<\n><\n>### **Phase 2: Expert Content Generation**<\n><\n>Next, for each module defined in Phase 1, you will act as an **expert technical writer**. Your generated content must be concise, well-structured, and easy to understand, adhering to the following standards:<\n><\n>#### **Content & Formatting Guidelines**<\n><\n>  * **Conceptual Clarity**: Structure every concept for clear understanding and practical application, breaking down complex ideas into simple parts.<\n>  * **Structural Formatting**: The generated `content` string for each section must use `**bold**` for key terms and definitions, `###` for core principles, and nested bullets for step-by-step reasoning to ensure the material is well-organized and easy to follow.<\n>  * **Conciseness**: To ensure clarity and focus, use a maximum of 3-4 bullet points per concept, with 2-3 sentences per point.<\n>  * **Clarify Misconceptions**: Where relevant, explicitly address typical misconceptions to prevent confusion.<\n>  * **Formula Integration**: Seamlessly weave mathematical expressions (using LaTeX) with conceptual explanations.<\n><\n>#### **Critical Requirements for Generated Content**<\n><\n>  * **Application-Oriented**: Connect concepts to practical examples or applications where appropriate.<\n>  * **Easy Reference**: The structure must be scannable and serve as a quick reference.<\n>  * **Logical Progression**: Build from fundamental definitions to advanced applications without gaps.<\n>  * **Conceptual Precision**: Ensure zero ambiguity in definitions and relationships.<\n><\n>-----<\n><\n>### **OUTPUT**<\n><\n>You **MUST** respond with a single JSON object that strictly adheres to the schema below. Do not add any commentary or explanation outside of the JSON structure. The final output integrates the plan from Phase 1 and the detailed content from Phase 2.<\n><\n>#### **Output Schema**<\n><\n>```json<\n>{<\n>  "title": "", // The overall topic from the user input<\n>  "total_duration": , // The max_duration from the input<\n>  "modules": [<\n>    {<\n>      "module_no": ,<\n>      "module_title": "",<\n>      "module_description": "",<\n>      "duration": ,<\n>      "key_concepts": [""],<\n>      "content_sections": [<\n>        {<\n>          "heading": "",<\n>          "key_topics": [""],<\n>          "content": "" // This string MUST follow the 'Content & Formatting Guidelines'<\n>        }<\n>      ]<\n>    }<\n>  ]<\n>}<\n>```<\n><\n>-----<\n><\n>**Begin!**<\n>{<\n>  "topic": "Electrostatics: Coulomb's Law and Electric Fields",<\n>  "max_duration": 60<\n>}<\n>
+c
+gemini -h
+gemini -p You are an **AI-powered Educational Content Architect**, designed to autonomously generate clear, comprehensive, and well-structured learning modules from a high-level topic.<\n><\n>Your core task is to execute a two-phase process: first, design a pedagogically sound curriculum plan, and second, generate detailed, expert-level content for each component of that plan, ensuring complex topics are explained with exceptional clarity.<\n><\n>### **Phase 1: Instructional Design & Curriculum Planning**<\n><\n>As a **master instructional designer**, you will first deconstruct the user's request to create a structured lesson plan.<\n><\n>  * **Analyze the Request:** Identify the core learning objective from the user's topic.<\n>  * **Structure the Lesson:** Break down the core objective into a logical sequence of smaller, teachable modules. Each module must build upon the last.<\n>  * **Allocate Time:** Distribute the total `max_duration` across the modules based on the complexity of the concepts.<\n><\n>### **Phase 2: Expert Content Generation**<\n><\n>Next, for each module defined in Phase 1, you will act as an **expert technical writer**. Your generated content must be concise, well-structured, and easy to understand, adhering to the following standards:<\n><\n>#### **Content & Formatting Guidelines**<\n><\n>  * **Conceptual Clarity**: Structure every concept for clear understanding and practical application, breaking down complex ideas into simple parts.<\n>  * **Structural Formatting**: The generated `content` string for each section must use `**bold**` for key terms and definitions, `###` for core principles, and nested bullets for step-by-step reasoning to ensure the material is well-organized and easy to follow.<\n>  * **Conciseness**: To ensure clarity and focus, use a maximum of 3-4 bullet points per concept, with 2-3 sentences per point.<\n>  * **Clarify Misconceptions**: Where relevant, explicitly address typical misconceptions to prevent confusion.<\n>  * **Formula Integration**: Seamlessly weave mathematical expressions (using LaTeX) with conceptual explanations.<\n><\n>#### **Critical Requirements for Generated Content**<\n><\n>  * **Application-Oriented**: Connect concepts to practical examples or applications where appropriate.<\n>  * **Easy Reference**: The structure must be scannable and serve as a quick reference.<\n>  * **Logical Progression**: Build from fundamental definitions to advanced applications without gaps.<\n>  * **Conceptual Precision**: Ensure zero ambiguity in definitions and relationships.<\n><\n>-----<\n><\n>### **OUTPUT**<\n><\n>You **MUST** respond with a single JSON object that strictly adheres to the schema below. Do not add any commentary or explanation outside of the JSON structure. The final output integrates the plan from Phase 1 and the detailed content from Phase 2.<\n><\n>#### **Output Schema**<\n><\n>```json<\n>{<\n>  "title": "", // The overall topic from the user input<\n>  "total_duration": , // The max_duration from the input<\n>  "modules": [<\n>    {<\n>      "module_no": ,<\n>      "module_title": "",<\n>      "module_description": "",<\n>      "duration": ,<\n>      "key_concepts": [""],<\n>      "content_sections": [<\n>        {<\n>          "heading": "",<\n>          "key_topics": [""],<\n>          "content": "" // This string MUST follow the 'Content & Formatting Guidelines'<\n>        }<\n>      ]<\n>    }<\n>  ]<\n>}<\n>```<\n><\n>-----<\n><\n>**Begin!**<\n>{<\n>  "topic": "Electrostatics: Coulomb's Law and Electric Fields",<\n>  "max_duration": 60<\n>}<\n>
+y
+c
+y
+c
+y
+c
+y
+c
+y
+c
+y
+c
+y
+c
+gemini
+c
+y
+c
+y
+cd video
+c
+y
+c
+y
+c
+y
+c
+y
+gitui
+c
+gitiu
+gitui
+c
+y
+c
+y
+cd video
+c
+y
+c
+gitui
+c
+y
+c
+uv run --env-file .env main.py
+y
+c
+uv run --env-file .env main.py
+y
+c
+y
+c
+uv run --env-file .env main.py
+y
+c
+uv run --env-file .env main.py
+cd ..
+uv run --env-file .env main.py
+y
+pyright
+y
+c
+uv run --env-file .env main.py
+cd ..
+y
+c
+uv run --env-file .env main.py
+c
+gemini
+x
+c
+x run "hi"
+x run "what do you think of ai based lms, would the buisness suceed"
+x run "who are you?"
+exit
+y
+cd gl
+c
+y
+c
+y
+cd glu
+c
+y
+c
+y
+c
+y
+c
+cd doc
+c
+y
+cd x
+c
+y
+c
+y
+c
+uv create pycad
+uv init pycad
+y
+c
+uv add exdxf
+c
+y
+c
+ezdxf
+uv add ezdxf
+c
+y
+uv run main.py
+y
+uv run main.py
+y
+overlay use .venv/bin/activate.nu
+y
+which python
+pyright 
+y
+uv run main.py
+y
+c
+uv run main.py
+uv list
+uv pip list
+c
+uv run main.py
+uv pip list
+y
+c
+uv run main.py
+y
+c
+y
+c
+gitui
+c
+y
+c
+y
+uv run main.py
+yy
+y
+uv run main.py
+y
+c
+hx 
+c
+y
+tar -xf ~/Downloads/flutter_linux_3.32.8-stable.tar.xz -C ~/src
+echo 'export PATH="$HOME/development/flutter/bin:$PATH"' >> ~/.bash_profile
+bash
+flutter
+y
+c
+flutter
+bash
+y
+./flutter
+flutter
+bash
+flutter
+c
+flutter doctor -v
+chrome
+y
+cd x
+cd pyca
+bash
+y
+hx
+c
+cc
+c
+y
+cd x
+c
+y
+c
+js init
+c
+y
+deno ini
+deno init
+c
+y
+c
+y
+c
+y
+c
+x
+npm install -g pnpm
+c
+npm install -g pnpm
+c
+cd x
+c
+y
+c
+npm create @animotion@latest
+y
+pnpm run dev
+c
+y
+c
+y
+c
+y
+hx
+y
+c
+bun install -g animejs
+y
+c
+cd x
+c
+y
+deno run x.js
+y
+deno run x.js
+y
+deno run x.js
+y
+deno run x.js
+c
+y
+deno run x.js
+c
+y
+c
+deno run x.js
+y
+deno run x.js
+c
+deno run x.js
+c
+y
+deno run x.js
+y
+deno run x.js
+y
+deno run x.js
+y
+deno run x.js
+y
+deno run x.js
+y
+deno run x.js
+y
+deno run x.js
+y
+deno run x.js
+y
+deno run x.js
+y
+deno run x.js
+y
+latex
+c
+dvisvgm
+c
+cd x
+c
+x.tex
+hx x.tex
+c
+latex x.tex
+dvisvgm x.dvi
+y
+hx x.dvi
+y
+c
+hx
+c
+hx
+systm
+sys
+sys cpu
+sys
+sys gpu
+sys users
+c
+sudo dnf update -y
+y
+c
+cd
+cd x
+c
+y
+c
+y
+c
+y
+c
+cd x
+c
+y
+hx x.thml
+y
+c
+y
+c
+x
+c
+y
+c
+y
+bun install -g animejs
+c
+y
+which animejs
+npm install animejs
+c
+y
+c
+y
+c
+hx --health html
+superhtml
+sudo dnf install superhtml
+npm install --save vscode-html-languageservice
+hx --health html
+x
+hx --health html
+npm install --g vscode-html-languageservice
+hx --health html
+bash
+hx --health html
+npm uninstall --g vscode-html-languageservice
+npm uninstall --save vscode-html-languageservice
+c
+y
+gitmoji
+c
+nvm uninstall gitmoji
+bash
+c
+y
+c
+hx --health html
+npm install -g vscode-html-language-server
+c
+y
+c
+git clone https://github.com/kristoff-it/superhtml.git
+c
+y
+c
+zig
+c
+dnf install zig
+sudo dnf install zig
+zig
+c
+zig
+zig build
+superhtml
+c
+superhtml
+c
+cd src/superhtml
+c
+y
+c
+sudo dnf install vscode-langservers-extracted
+dnf search vscode-langservers
+npm i -g vscode-langservers-extracted<\n>
+hx --health html
+y
+cd x
+c
+y
+c
+which vscode-html-language-server<\n>which vscode-css-language-server<\n>
+which vscode-html-language-server
+which vscode-css-language-server
+c
+cc
+c
+y
+c
+x
+c
+y
+c
+x
+c
+y
+c
+zellij --version
+c
+cargo list
+cargo --list
+cargo update zellij
+cd
+c
+cargo update zellij
+helix --version
+hx --version
+y
+c
+git clone https://github.com/helix-editor/helix.git
+# Reproducible<\n>cargo install --path helix-term --locked<\n>
+cd helix
+c
+# Reproducible<\n>cargo install --path helix-term --locked<\n>
+c
+cargo install --locked zellij
+c
+cd src/helix
+# Reproducible<\n>cargo install --path helix-term --locked<\n>
+c
+y
+c
+y
+c
+y
+hx
+c
+y
+c
+y
+c
+y
+c
+y
+c
+hx
+c
+y
+c
+y
+c
+y
+c
+cd src/helix
+c
+y
+c
+# Reproducible<\n>cargo install --path helix-term --locked<\n>
+c
+cd
+# Reproducible<\n>cargo install --path src/helix/helix-term --locked<\n>
+hx
+c
+hx --version
+c
+y
+c
+cd x
+c
+y
+c
+cd doc/x
+cd doc
+cd x
+c
+y
+c
+hx x.html
+c
+cd video
+c
+hx
+c
+hx
+c
+y
+cd dotofiles
+cd dot
+cd helix
+y
+c
+y
+c
+y
+c
+x.js
+hx x.js
+c
+y
+c
+cd x
+c
+y
+exit
+cd doc
+c
+y
+c
+bun create x
+c
+y
+c
+bun create
+bun init
+c
+y
+c
+mkdir x
+c
+cd x
+c
+bun init
+c
+y
+c
+y
+c
+bun init
+c
+y
+c
+bun add animejs
+bun add d3js
+bun add d3
+c
+y
+cd x
+c
+y
+c
+hx x.html
+y
+c
+cd x
+c
+y
+c
+bun add svg.js
+y
+4
+3
+2
+3
+34
+hx
+c
+cd x
+c
+u
+c
+y
+c
+y
+c
+y
+cd
+cargo install csvlens
+cargo add duckdb --features bundled
+cd
+cargo install duckdb --features bundled
+curl https://install.duckdb.org | sh
+c
+duckdb
+c
+csvlens
+c
+y
+csvlens Component-Technology-Version-WhyThisisTHEBestChoice.csv
+c
+cd
+c
+ya pack -a wylie102/duckdb
+y
+c
+y
+c
+y
+c
+y
+c
+y
+c
+y
+c
+y
+c
+y
+cd
+c
+ya pack -a Reledia/miller
+y
+c
+ya pack -a Reledia/miller
+y
+c
+y
+c
+yum
+yum install miller
+sudo yum install miller
+y
+c
+gitui
+c
+y
+c
+gitui
+y
+c
+ch -p

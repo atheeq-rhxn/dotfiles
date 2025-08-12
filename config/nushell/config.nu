@@ -18,6 +18,15 @@
 # them for future reference.
 
 $env.config.show_banner = false
+$env.config.keybindings ++= [
+	{
+		name: accept_completion
+		modifier: none
+		keycode: tab
+		mode: [emacs vi_normal vi_insert]
+		event: { send: historyhintcomplete }
+	}
+]
 
 alias c = clear
 alias e = exit
