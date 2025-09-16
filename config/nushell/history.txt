@@ -8530,3 +8530,73 @@ gitui
 c
 y
 c
+git add .
+git commit -m (date now | format date "%Y%m%d%H%M%S")<\n>
+git push
+c
+y
+gitui
+c
+y
+c
+cd real
+c
+y
+c
+y
+c
+y
+c
+overlay use .venv/bin/activate.nu
+c
+y
+c
+gitui
+c
+y
+c
+y
+c
+which python
+c
+cd realearn/server
+overlay use .venv/bin/activate.nu
+which python
+c
+cd realearn/server
+overlay use .venv/bin/activate.nu
+which python
+echo $env.PATH<\n>
+.venv/bin/python --version<\n>
+overlay use activate.nu<\n>
+y
+c
+overlay use activate.nu<\n>
+which python
+c
+y
+c
+overlay use activate.nu<\n>
+overlay use .venv/bin/activate.nu
+which python
+c
+y
+c
+overlay use .venv/bin/activate.nu
+c
+x
+c
+overlay use .venv/bin/activate.nu
+c
+wh
+which python
+c
+overlay use .venv/bin/activate.nu
+which python
+source .venv/bin/activate
+c
+ghostty
+cd realearn/server
+overlay use .venv/bin/activate.nu
+which python
+cd dotfiles
