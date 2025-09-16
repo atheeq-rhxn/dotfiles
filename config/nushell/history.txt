@@ -8600,3 +8600,204 @@ cd realearn/server
 overlay use .venv/bin/activate.nu
 which python
 cd dotfiles
+git add .
+git commit -m (date now | format date "%Y%m%d%H%M%S")<\n>
+git commit -m (date now | format date "%Y%m%d%H%M%S")
+git push
+c
+cd realearn/server
+c
+overlay use .venv/bin/activate.nu
+c
+y
+which python
+python --version
+c
+overlay use .venv/bin/activate.nu
+which python
+c
+ruff server --start
+ruff .
+pyright src
+y
+overlay use .venv/bin/activate.nu
+which python
+c
+y
+c
+ghostty
+c
+y
+c
+y
+cd realearn/server
+c
+y
+helix health --python
+hx health --python
+hx
+hx --health python
+uv add --dev ty
+c
+y
+c
+hx --health python
+y
+y
+c
+hx --health python
+uv add "python-lsp-server[all]"
+hx --health python
+c
+y
+c
+y
+c
+uv remove "python-lsp-server[all]"
+c
+y
+c
+y
+c
+x
+c
+dnf install cmatrix
+sudo dnf install cmatrix
+cmatrix
+c
+cmatrix
+ce
+cmatrix
+hx
+cmatrix
+cd realearn/server
+c
+y
+c
+y
+c
+uv remove --dev ty
+y
+c
+uv remove ty
+overlay use .venv/bin/activate.nu
+uv remove ty
+uv remove --dev ty
+y
+c
+uv add --dev ty
+c
+uv add --dev ty
+uv remove --dev ty
+c
+uv --dev add "python-lsp-server[all]"
+uv add --dev "python-lsp-server[all]"
+c
+y
+c
+uv remove --dev "python-lsp-server[all]"
+uv add --dev "python-lsp-server"
+c
+hx --health python
+c
+y
+c
+y
+c
+cargo update hx
+cd
+cargo update hx
+cargo
+cargo install hx
+c
+y
+c
+git pull
+c
+y
+c
+cargo install --path helix-term --locked
+c
+y
+c
+cargo install --path ~/src/helix/helix-term --locked
+hx
+cd realearn/server
+c
+y
+c
+uv add --dev "python-lsp-server[all]"
+y
+c
+y
+c
+y
+c
+cd
+c
+which ruff
+y
+c
+which
+which ruff
+cd /home/atheeq/.local/bin/
+y
+pipx
+c
+uv tool install ruff@latest
+c
+ruff
+y
+cd realearn/server
+y
+c
+uv tool remove ruff@latest
+uv tool uninstall ruff
+c
+ruff
+hx --health python
+cd realearn/server
+overlay use .venv/bin/activate.nu
+hx --health python
+y
+c
+uv add --dev "python-lsp-server[all]"
+c
+y
+c
+uv tool add ruff
+uv tool install ruff@latest
+c
+y
+cd realearn/server
+ruff format
+y
+c
+y
+c
+hx
+c
+y
+cd dotfiles
+y
+c
+gitui
+c
+y
+cd realearn/server
+y
+cd helix
+c
+hx --health python
+c
+y
+c
+y
+c
+y
+gitui
+c
+y
+c
+gitui
+c
