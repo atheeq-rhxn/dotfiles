@@ -29,6 +29,7 @@ $env.config.keybindings ++= [
 ]
 
 alias c = clear
+alias csv = csvlens
 alias e = exit
 alias x = opencode
 

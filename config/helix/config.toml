@@ -28,3 +28,4 @@ e = [
   ':open %sh{cat /tmp/unique-file}',
   ':redraw',
 ]
+

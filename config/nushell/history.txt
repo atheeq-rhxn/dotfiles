@@ -4136,3 +4136,4397 @@ gitui
 y
 c
 ch -p
+c
+y
+c
+y
+c
+y
+c
+y
+c
+cd
+c
+y
+c
+hx
+qc
+cd
+c
+opencode 
+opencode run hi
+c
+y
+c
+y
+csv Component-Technology-Version-WhyThisisTHEBestChoice.csv
+csv
+to csv
+from csv Component-Technology-Version-WhyThisisTHEBestChoice.csv
+cd downla
+cd downlo
+c
+from csv Component-Technology-Version-WhyThisisTHEBestChoice.csv
+from csv --open Component-Technology-Version-WhyThisisTHEBestChoice.csv
+open Component-Technology-Version-WhyThisisTHEBestChoice.csv
+y
+qc
+c
+y
+c
+csv Component-Technology-Version-WhyThisisTHEBestChoice.csv
+cd down
+csv Component-Technology-Version-WhyThisisTHEBestChoice.csv
+c
+cd x
+y
+hx
+csv x.csv
+open x.csv
+open
+open x.csv
+y
+c
+fzi
+fzf
+c
+cd
+c
+fzf
+y
+hx
+c
+y
+c
+cd
+c
+cd
+c
+y
+flutter create y
+flutter --devices
+flutter --d
+flutter -h
+flutter devices
+flutter emulators
+c
+y
+c
+bun add p5.js
+bun add p5js
+c
+y
+bun run
+bun run dev
+c
+y
+c
+y
+c
+y
+exit
+cd x
+c
+y
+c
+bun run dev
+y
+c
+y
+c
+y
+c
+bun init
+C
+c
+mkdir x
+cd x
+c
+bun init
+bun add p5js
+c
+bun run --hot
+bun run dev
+bun run
+bun run sketch.js
+bun run index.js
+bun run sketch.js
+bun run sketch.js --run
+c
+bun build --watch src/sketch.ts --outdir public<\n>
+c
+y
+c
+bun build --watch src/sketch.ts --outdir public<\n>
+c
+y
+y
+c
+bun build --watch src/sketch.ts --outdir public<\n>
+c
+bun run
+bun build
+c
+y
+c
+bun add p5
+c
+bun build --watch index.ts --outdir ./public
+c
+bun build
+c
+bun build --watch index.ts --outdir ./public
+c
+y
+c
+bun install p5
+c
+y
+exit
+cd realmotion
+c
+y
+c
+y
+c
+y
+exit
+c
+cd realmotion
+c
+bun init
+c
+y
+c
+cd .
+c
+cd ..
+c
+bun add gsap svgjs
+c
+y
+c
+fzf
+hx
+c
+y
+c
+y
+c
+y
+c
+y
+c
+y
+c
+y
+c
+cd ..
+c
+tree
+tree --
+tree --h
+tree -L 1
+cat deno.json
+deno lsp
+deno lsp src/index.ts
+y
+deno lsp --h
+deno lsp --help
+y
+deno lsp
+deno check
+c
+y
+c
+y
+c
+y
+c
+cy
+y
+cd
+c
+cd x
+c
+bun init
+y
+c
+bun init
+bun add animotion
+bun run dev
+y
+cd
+c
+mkdir x
+c
+cd x
+bun create @animotion@latest
+c
+y
+c
+y
+hx
+hx --health svelte
+y
+hx
+y
+c
+cd x
+c
+y
+c
+cd
+cd x
+c
+hx --health svelte
+npm install -g svelte-language-server<\n>
+hx --health svelte
+c
+bun run dev
+c
+y
+c
+cd
+c
+cd x
+bun run dev
+y
+cd
+c
+mkdir x
+c
+cd
+c
+mkdir x
+c
+y
+c
+npm create @animotion@latest
+pnpm run dev
+c
+y
+c
+y
+cd
+c
+mkdir x
+c
+cd x
+c
+npm create @animotion@latest
+c
+curl -fsSL https://raw.githubusercontent.com/ashish0kumar/fzfm/main/fzfm -o ~/.local/bin/fzfm
+curl -fsSL https://raw.githubusercontent.com/ashish0kumar/fzfm/main/fzfm -o ~/.local/bin/fzfm<\n>chmod +x ~/.local/bin/fzfm
+fzfm
+eza
+sudo dnf install eza bat wslview
+c
+y
+c
+fzfm
+c
+y
+c
+fzfm
+c
+bat
+bash
+fzfm
+c
+cd
+c
+y
+c
+mkdir y
+c
+cd y
+c
+bun inti
+bun init
+bun add pixijs
+c
+y
+c
+y
+cd
+c
+cd x
+c
+npm init
+y
+c
+npm create pixi.js@latest
+y
+npm run dev
+vite run dev
+vite
+npm install -g pixi.js
+npm install -g vite
+cd x
+c
+y
+c
+npm run dev
+vite
+npm install<\n>
+vute
+vite
+npm run dev
+c
+y
+hx --health javascript
+y
+cd helix
+c
+y
+hx --health javascript
+c
+hx --health javascript
+c
+y
+cd 
+cd x
+c
+y
+c
+y
+c
+npm install gsap
+c
+y
+c
+y
+c
+rg
+rg "hello"
+c
+rg main
+c
+y
+c
+y
+c
+x
+c
+npm run dev
+x
+cd ..
+c
+y
+c
+bun run dev
+npm run dev
+cd
+c
+y
+c
+cd
+c
+cd x
+c
+npm create pixi.js@latest
+cd xyz
+c
+y
+c
+npm run dev
+npm install -D vite and npm install
+c
+c
+npm run dev
+y
+c
+hx --health javascript
+y
+hx 
+cd helix
+y
+hx --health javascript
+cd xyz
+y
+c
+y
+cd helix
+c
+y
+c
+cd
+cd xyz
+c
+y
+cd
+cd helix
+c
+y
+c
+cd xyz
+c
+y
+hx --health javascript
+c
+y
+c
+npm install -g eslint
+c
+y
+deno format main.ts
+y
+deno format
+deno --h
+deno f
+c
+deno main.ts
+y
+c
+cd he
+c
+y
+c
+y
+c
+y
+x
+cd
+c
+exit
+y
+c
+flutter create cadai
+c
+flutter upgrade
+flatpak uninstall flathub com.google.Chrome
+c
+y
+c
+cd downloads
+c
+flatpak install flathub com.google.Chrome
+y
+c
+y
+c
+sudo dnf update -y
+tar -xzvf android-studio-2025.1.2.12-linux.tar.gz
+c
+y
+c
+npm update
+c
+npm install -g gemini-cli
+gemini
+c
+x
+npm install -g @google/gemini-cli
+c
+3
+gemini
+c
+y
+c
+cd docum
+c
+flutter create cadai
+cd cadai
+flutter doctor -v
+chrome
+bash
+c
+gemini
+c
+x
+c
+y
+gitui
+c
+y
+c
+cd cadai
+c
+y
+c
+hx
+y
+c
+y
+c
+flutter run 
+flutterfire
+y
+c
+cd
+curl -sL https://firebase.tools | bash
+firebase login
+y
+c
+dart pub global activate flutterfire_cli
+y
+c
+cd cadai
+c
+y
+c
+flutterfire configure --project=cadai-3c6b3
+flutterfire
+c
+flutterfire configure --project=cadai-3c6b3
+x
+c
+flutterfire
+cd cadai
+flutter run
+flutter run -d chrome
+c
+flatpak uninstall flathub com.google.Chrome
+sudo dnf install chrome
+sudo dnf install google-chrome
+sudo dnf search google-chrome
+sudo dnf install google-chrome-stable.x86_64
+chrome
+c
+chrome
+c
+flutter doctor -v
+c
+cd cadai
+c
+bash
+c
+fz
+fzf
+c
+cdi
+fzf
+c
+y
+c
+fzf
+hx
+y
+c
+hx
+c
+cd cadai
+c
+y
+c
+flutter pub add flutter_chat_core flutter_chat_ui
+c
+y
+c
+flutter pub add flutter_ai_toolkit
+c
+y
+flutter pub add flutter_ai_toolkit
+y
+c
+flutter pub
+flutter pub get
+flutter pub remove firebase_ai
+y
+flutter pub remove
+y
+c
+flutter pub remove firebase_ai_core
+y
+flutter pub get
+c
+y
+flutter create cadai
+y
+c
+y
+c
+y
+c
+flutter pub get
+y
+flutter pub get
+flutter pub add firebase_core:^3.15.2
+c
+y
+c
+y
+c
+flutter pub get
+c
+y
+c
+flutter pub add firebase_ai
+c
+y
+c
+flutter pub add firebase_ai firebase_ai_core flutter_chat_ui flutter_chat_core
+flutter pub get
+flutter pub add firebase_ai firebase_ai_core flutter_chat_ui flutter_chat_core
+y
+flutter pub get
+flutter pub add firebase_ai firebase_ai_core flutter_chat_ui flutter_chat_core
+flutter pub remove firebase_ai_core
+flutter pub add firebase_ai firebase_ai_core flutter_chat_ui flutter_chat_core
+c
+y
+c
+flutter init
+flutter create .
+c
+y
+c
+y
+c
+flutter pub add firebase_ai firebase_ai_core flutter_chat_ui flutter_chat_core
+flutter pub add firebase_ai firebase_core flutter_chat_ui flutter_chat_core
+y
+c
+flutterfire configure --project=cadai-3c6b3
+flutter run -d chrome
+c
+flutter run -d chrome -v
+c
+flutter run -d chrome
+c
+flutter run -d chrome
+c
+flut
+c
+flutter run -d chrome
+python
+c
+uv pip install --system ezdxf<\n>
+pip install ezdxf
+python
+c
+python
+c
+y
+hx
+c
+which python
+c
+flutter run
+flutterfire configure --project=cadai-3c6b3
+y
+c
+cd
+c
+python3 -m pip install ezdxf<\n>
+cd doc
+c
+python x.py
+y
+c
+y
+c
+cd
+cd src
+cd android
+y
+c
+y
+c
+y
+./studio.sh
+c
+y
+c
+y
+c
+cd cadai
+c
+y
+c
+uv init
+y
+c
+uv add fastapi
+c
+bash
+c
+overlay use .venv/bin/activate.nu
+y
+c
+y
+c
+y
+c
+overlay use .venv/bin/activate.nu
+c
+y
+c
+uv run main.py
+c
+y
+c
+y
+c
+y
+c
+y
+c
+y
+c
+uv run main.py
+c
+y
+c
+uv run main.py
+y
+uv run main.py
+c
+x run "who are you?"
+y
+c
+curl -X POST -H "Content-Type: application/json" \<\n>-d '{"text": "draw a circle with a 100mm radius"}' \<\n>http://127.0.0.1:8000/process
+uv run main.py
+bash
+cd
+c
+bash
+c
+y
+c
+cd downloads
+c
+java -jar caffviewer.jar<\n>
+uv run main.py
+c
+flatpak install flathub org.librecad.librecad
+y
+cd ..
+cd server
+c
+c
+y
+c
+cd server
+c
+y
+c
+flutter run -d chrome
+c
+flutter run
+uv run main.py
+c
+y
+c
+y
+c
+flutter run
+c
+y
+c
+flutter run
+y
+c
+flutter create .
+flutter run 
+c
+y
+c
+flutter run -d linux
+flutter create .
+c
+y
+c
+flutter create client
+y
+c
+y
+c
+flutter run -d linux
+y
+c
+y
+c
+flutter pub add http
+c
+y
+c
+bash
+overlay use .venv/bin/activate.nu
+y
+c
+uv add PyMuPDF
+c
+y
+c
+uv add ezdxf[draw]
+y
+pyright
+y
+pyright
+y
+overlay use .venv/bin/activate.nu
+c
+y
+c
+y
+c
+y
+c
+uv run main.py
+c
+uv run main.py
+c
+flutter run -d linux
+c
+cd client
+c
+cd server
+c
+flutter run -d linux
+y
+c
+y
+c
+flutter run -d linux
+y
+c
+flutter run -d linux
+y
+c
+uv run main.py
+c
+y
+flutter create cadai
+y
+c
+flutter pub add http
+uv run main.py
+cd server
+c
+bash
+overlay use .venv/bin/activate.nu
+y
+dnf search odafc
+pyright main.py
+c
+y
+c
+uv run main.py
+c
+uv run main.py
+c
+y
+c
+uv run main.py
+c
+y
+uv add loguru
+c
+y
+c
+x run "who are you?"
+uv run main.py
+bash
+flutter run -d linux
+c
+y
+c
+cd cadai
+c
+y
+c
+y
+c
+y
+c
+y
+c
+y
+overlay use .venv/bin/activate.nu
+y
+c
+y
+c
+uv run main.py
+c
+y
+c
+y
+c
+y
+hx Screenshot From 2025-07-08 21-00-28.png
+cat Screenshot From 2025-07-08 21-00-28.png
+y
+cat "Screenshot From 2025-07-08 21-00-28.png"
+c
+flutter run -d linux
+uv run main.py
+yu
+c
+cd cadai
+c
+y
+c
+y
+c
+y
+c
+y
+c
+y
+c
+y
+c
+uv add pydantic google-genai
+c
+overlay use .venv/bin/activate.nu
+y
+uv run main.py
+c
+uv run main.py
+c
+pyright main.py
+y
+pyright main.py
+overlay use .venv/bin/activate.nu
+uv run main.py
+pyright main.py
+y
+pyright main.py
+c
+uv run main.py
+c
+uv run --env-file .env main.py
+c
+y
+c
+uv run --env-file .env main.py
+c
+flutter run -d linux
+c
+uv run --env-file .env main.py
+bash
+flutter run -d linux
+c
+hx
+c
+x
+cd pkm
+c
+y
+gitui
+c
+git add .
+date
+time
+datetime
+date time
+date
+date now
+date now -h
+date now "%YYYYMMDDhhmmss"
+date now "%YYYY%MM%DD%hh%mm%ss"
+date now | format  "%YYYY%MM%DD%hh%mm%ss"
+date now | format date  "%YYYY%MM%DD%hh%mm%ss"
+date now | format date  "%YYMMDDhhmmss"
+date now | format date  "%Y%MMDDhhmmss"
+date now | format date  "%Y%m%d%H%M%S"<\n><\n><\n>""
+date now | format date  "%Y%m%d%"
+date now | format date  "%Y%m%d%H"
+date now | format date  "%Y%m%d%H%M%S"
+git commit -m "date now | format date  "%Y%m%d%H%M%S"<\n><\n>"
+git reset --soft HEAD~1
+gitui
+c
+x
+c
+flutter --version
+y
+c
+y
+c
+y
+c
+y
+c
+y
+c
+y
+c
+ouch
+c
+y
+c
+y
+c
+y
+c
+y
+c
+y
+c
+y
+gitui
+c
+y
+c
+sudo dnf search 7z
+y
+sudo dnf install p7zip
+y
+yh
+y
+7z
+bash
+y
+c
+y
+c
+flutter run
+y
+c
+flutter create .
+y
+flutter create .
+flutter run
+c
+flutter run
+flutter devices
+flutter doctor -v
+c
+y
+c
+./studio.sh
+./studio
+c
+y
+c
+cd src/android-studio
+c
+cd bin
+./studio
+y
+c
+./studio
+y
+cd
+c
+cd downloads
+c
+tar -xzvf android-studio-2025.1.2.12-linux.tar.gz
+c
+h
+c
+y
+c
+cd android
+cd bin
+c
+./studio
+c
+y
+c
+y
+c
+y
+qc
+c
+y
+cd
+c
+cd src/android-studio
+y
+c
+./studio.sh
+c
+y
+c
+cd src/android-studio
+c
+y
+c
+cd bin
+c
+./studio.sh
+c
+y
+c
+./studio.sh
+./studio
+c
+cd
+c
+flutter doctor -v
+flutter doctor --android-licences
+flutter doctor --android-licenses
+y
+c
+flutter doctor -v
+dnf search eglinfo
+sudo dnf install egl-utils<\n>
+flutter doctor -v
+c
+cd down
+c
+y
+c
+flutter run
+flutter devices
+flutter run
+c
+y
+c
+./gradelw --h
+y
+c
+y
+c
+y
+c
+flutter run
+y
+c
+flutter run --verbose
+c
+y
+c
+y
+c
+flutter create .
+y
+c
+y
+C
+c
+flutter run --verbose
+c
+y
+c
+y
+c
+y
+c
+flutter run --verbose
+y
+c
+flutter pub add path_provider
+flutter pub add webview_flutter
+y
+c
+y
+c
+flutter run --verbose
+c
+y
+c
+cd
+c
+y
+c
+cd
+y
+c
+y
+c
+y
+c
+y
+c
+git clone https://github.com/sst/opentui.git
+c
+y
+c
+y
+c
+cd
+c
+x.py
+hx x.py
+c
+uv tool install pd
+c
+y
+c
+uv tool uninstall pd
+uv tool install pandas
+c
+y
+uv -g
+uv -h
+uv pip install pandas
+uv pip install pandas --system
+sudp uv pip install pandas --system
+sudo uv pip install pandas --system
+pip install pandas
+c
+python x.py
+y
+c
+python x.py
+y
+c
+pip install pandas
+c
+python
+c
+pandas
+bash
+c
+pip install pandas --global
+y
+c
+uv create pyx
+uv -h
+uv init pyx
+y
+c
+uv add pandas
+overlay use .venv/bin/activate.nu
+c
+uv run x.py
+y
+hx x.html
+hx
+qc
+c
+gemini
+c
+y
+c
+gemini
+c
+npm install -g @google/gemini-cli
+y
+c
+bun gemini.js
+c
+y
+gemini
+c
+cd down
+bun gemini.js
+c
+y
+c
+hi
+c
+y
+c
+texlive
+svg
+c
+y
+c
+hx
+y
+c
+hx x.thml
+hx x.html
+c
+y
+cd
+y
+c
+hx
+c
+y
+c
+git clone https://github.com/atheeq-rhxn/video
+git clone https://github.com/atheeq-rhxn/video.git
+git clone git@github.com:gluoxus/video.git
+c
+y
+c
+gitui
+c
+y
+c
+y
+gitui
+c
+y
+c
+y
+c
+uv run main.py
+c
+y
+uv run main.py
+y
+uv run --env-file .env main.py
+c
+y
+c
+y
+c
+uv run --env-file .env main.py
+c
+y
+c
+uv run --env-file .env main.py
+y
+c
+y
+c
+ls
+clear
+ls
+y
+x
+y
+c
+hx
+y
+c
+hx plan.md
+qc
+c
+fzi
+fzf
+y
+c
+y
+c
+# Create a new directory for your project<\n>mkdir my-search-agent<\n>cd my-search-agent<\n><\n># Initialize a new uv project<\n>uv init
+# Add the Google ADK package<\n>uv add google-adk<\n><\n># Add additional dependencies for environment management<\n>uv add python-dotenv
+touch .env
+# Create the main agent file<\n>touch src/my_search_agent/agent.py
+y
+c
+y
+c
+y
+c
+y
+c
+y
+uv run python run_agent.py
+y
+c
+uv run main.py
+y
+uv run main.py
+y
+c
+uv run main.py
+y
+c
+uv run main.py
+overlay use .venv/bin/activate.nu
+y
+adk
+y
+adk run src.search_agent
+y
+c
+echo "from . import agent" > search_agent/__init__.py
+y
+bash
+c
+uv run adk run search_agent
+y
+c
+uv run adk run search_agent
+y
+c
+y
+c
+cd
+c
+cc
+c
+y
+c
+y
+c
+y
+c
+y
+c
+cd
+y
+c
+y
+c
+cd
+c
+y
+c
+y
+c
+cd
+hx x.html
+qc
+c
+hx x.py
+c
+y
+overlay use .venv/bin/activate.nu
+c
+uv run x.py
+y
+c
+manim -qh x.py
+y
+manim -qh x.py
+y
+c
+y
+c
+git clone https://github.com/mylinuxforwork/dotfiles.git
+c
+git clone https://github.com/mylinuxforwork/dotfiles.git
+y
+c
+y
+c
+y
+c
+y
+c
+cd
+c
+y
+c
+uv init
+c
+y
+c
+y
+c
+uv add google-adk
+c
+overlay use .venv/bin/activate.nu
+c
+mkdir search_agent
+cd search
+cd search_agent
+c
+y
+c
+y
+adk api_server
+c
+y
+c
+adk run search_agent
+overlay use .venv/bin/activate.nu
+adk run search_agent
+y
+c
+ad
+c
+adk run search_agent
+c
+adk api_server
+c
+y
+c
+y
+c
+y
+c
+adk run weather_agent
+y
+c
+adk run weather_agent
+y
+uv add litellm
+adk run weather_agent
+c
+y
+c
+adk run weather_agent
+c
+y
+c
+adk run planner
+y
+c
+adk run planner
+y
+c
+pydantic .
+pyright .
+y
+c
+pyright plan.py
+y
+adk run planner
+y
+c
+adk run planner
+c
+adk run planner
+overlay use .venv/bin/activate.nu
+c
+y
+c
+y
+c
+adk run planner
+y
+c
+adk run planner
+y
+c
+adk run planner
+y
+c
+adk run planner
+hx
+adk run planner
+c
+y
+c
+adk run planner
+y
+c
+y
+c
+y
+c
+adk run LearningPlan
+c
+y
+c
+adk run LearningPlan
+y
+c
+y
+c
+adk run LearningPlan
+hx
+y
+overlay use .venv/bin/activate.nu
+cd ..
+overlay use .venv/bin/activate.nu
+y
+c
+y
+c
+adk run planner
+y
+c
+y
+c
+y
+c
+y
+c
+y
+c
+y
+c
+cd ..
+overlay use .venv/bin/activate.nu
+c
+cd planner
+c
+overlay use .venv/bin/activate.nu
+c
+y
+overlay use .venv/bin/activate.nu
+c
+adk run agent
+c
+adk run agent
+cd ..
+c
+adk run agent
+overlay use .venv/bin/activate.nu
+c
+dnf search eglinfo
+c
+hx
+c
+adk run agent
+y
+c
+cd
+c
+y
+c
+cd hack
+c
+y
+c
+y
+c
+y
+c
+y
+c
+y
+c
+y
+cd ..
+c
+ov
+overlay use .venv/bin/activate.nu
+c
+y
+c
+y
+c
+y
+uv run main.py
+c
+flutter run --verbose
+c
+uv run --env-file .env main.py
+c
+y
+c
+y
+c
+y
+c
+y
+c
+y
+c
+y
+overlay use .venv/bin/activate.nu
+y
+c
+uv run --env-file .env main.py
+c
+overlay use .venv/bin/activate.nu
+c
+y
+c
+y
+c
+y
+c
+cd ..
+c
+overlay use .venv/bin/activate.nu
+y
+c
+y
+c
+uv -h
+uv update
+uv version
+uv upgrade
+uv sync --check
+y
+c
+yes | sudo dnf update
+y
+c
+y
+overlay use .venv/bin/activate.nu
+c
+y
+pyright agent1.py
+c
+y
+cd ..
+overlay use .venv/bin/activate.nu
+c
+y
+c
+y
+c
+y
+pyright agent1.py
+y
+c
+y
+pyright agent1.py
+uv tool upgrade pyright
+y
+y
+c
+y
+c
+overlay use .venv/bin/activate.nu
+c
+y
+c
+pyright agent1.py
+c
+y
+c
+cd ..
+c
+overlay use .venv/bin/activate.nu
+c
+y
+c
+adk run agent
+c
+y
+c
+adk run agents
+y
+c
+adk run agents
+c
+y
+pyright agent.py
+c
+y
+overlay use .venv/bin/activate.nu
+c
+y
+cc
+c
+overlay use .venv/bin/activate.nu
+c
+y
+c
+adk run agents
+y
+uv run agent.py
+y
+uv run --env-file .env agent.py
+y
+c
+uv run --env-file .env agent.py
+c
+y
+uv run --env-file .env agent.py
+y
+x
+c
+y
+c
+uv run --env-file .env agent.py
+c
+y
+c
+adk run agents
+y
+c
+c
+y
+c
+y
+c
+uv run --env-file .env agent3.py
+c
+y
+c
+y
+c
+uv run --env-file .env agent.py
+y
+c
+overlay use .venv/bin/activate.nu
+cd ..
+c
+overlay use .venv/bin/activate.nu
+c
+y
+c
+uv run --env-file .env agent.py
+c
+y
+c
+y
+c
+y
+c
+y
+overlay use .venv/bin/activate.nu
+c
+y
+c
+overlay use .venv/bin/activate.nu
+c
+y
+overlay use .venv/bin/activate.nu
+c
+uv run --env-file .env agent.py
+y
+y
+c
+c
+y
+c
+y
+c
+y
+c
+uv run --env-file .env agent.py
+y
+c
+y
+c
+uv run --env-file .env agent.py
+c
+y
+tree
+y
+c
+uv run --env-file .env agent.py
+y
+c
+uv run --env-file .env agent.py
+y
+c
+cd
+c
+y
+c
+uv run --env-file .env main.py
+y
+uv run --env-file .env src.main.py
+uv run --env-file .env src/.main.py
+uv run --env-file .env src/main.py
+y
+ls
+c
+y
+cd
+c
+y
+c
+uv run --env-file .env main.py
+y
+c
+y
+overlay use .venv/bin/activate.nu
+c
+y
+c
+uv run --env-file .env main.py
+c
+y
+c
+cd
+y
+c
+y
+c
+uv init
+c
+y
+c
+uv add google-adk litellm
+c
+y
+c
+y
+c
+y
+c
+y
+c
+cd realearn
+c
+cd
+cd hack
+c
+y
+c
+overlay use .venv/bin/activate.nu
+c
+y
+uv add loguru
+c
+y
+c
+y
+c
+y
+c
+pyright .
+uv tool upgrade pyright
+c
+pyright .
+y
+pyright pipeline.py
+y
+c
+uv run --env-file .env main.py
+c
+y
+uv run --env-file .env main.py
+y
+c
+y
+c
+uv run --env-file .env main.py
+y
+uv
+c
+uv run --env-file .env main.py
+y
+uv run --env-file .env main.py
+y
+cd re
+c
+y
+overlay use .venv/bin/activate.nu
+c
+y
+c
+y
+c
+cd ..
+c
+uv run --env-file .env main.py
+y
+c
+uv run --env-file .env main.py
+y
+c
+y
+c
+uv run --env-file .env main.py
+y
+uv run --env-file .env main.py
+c
+y
+c
+y
+c
+tree
+y
+c
+uv run --env-file .env main.py
+y
+uv run --env-file .env main.py
+y
+c
+uv run --env-file .env main.py
+cd ..
+tree .
+y
+c
+uv run --env-file .env main.py
+c
+y
+c
+y
+c
+uv run --env-file .env main.py
+y
+c
+uv run --env-file .env main.py
+c
+y
+c
+y
+c
+y
+c
+y
+c
+y
+c
+cd
+c
+cd real
+c
+uv run --env-file .env main.py
+y
+c
+overlay use .venv/bin/activate.nu
+c
+y
+c
+cd real
+c
+y
+overlay use .venv/bin/activate.nu
+c
+y
+c
+uv run --env-file .env main.py
+c
+y
+c
+grep -R "{a}" .<\n>grep -R "{+a+}" .<\n>
+c
+y
+c
+hx
+c
+hx
+y
+c
+y
+c
+uv run --env-file .env main.py
+y
+c
+y
+c
+uv run --env-file .env main.py
+y
+c
+y
+c
+y
+c
+uv run --env-file .env main.py
+uv add manim
+c
+uv run manim checkhealth
+c
+y
+c
+manim -qh IntegrationIntroduction.py
+y
+c
+y
+c
+y
+c
+cd realearn
+c
+y
+c
+cd ..
+c
+overlay use .venv/bin/activate.nu
+c
+cd src
+c
+y
+c
+pyright pipeline.py
+c
+y
+hx
+c
+y
+c
+y
+c
+y
+hx
+c
+y
+c
+y
+c
+y
+c
+y
+c
+y
+c
+y
+c
+overlay use .venv/bin/activate.nu
+c
+y
+c
+y
+c
+cd
+c
+y
+c
+hx
+c
+y
+c
+hx
+c
+y
+c
+y
+c
+y
+c
+hx
+c
+manim -qh x.py
+y
+c
+y
+c
+y
+c
+y
+c
+y
+c
+y
+cy
+c
+y
+c
+uv run --env-file .env main.py
+c
+y
+c
+uv run --env-file .env main.py
+c
+y
+c
+y
+c
+y
+c
+y
+x
+y
+c
+x
+c
+y
+c
+uv add pytest
+c
+y
+c
+uv pytest
+uv run pytest
+git clone https://github.com/remsky/Kokoro-FastAPI.git<\n>cd Kokoro-FastAPI
+c
+y
+c
+y
+c
+y
+c
+./start-cpu.sh
+c
+y
+c
+y
+c
+uv venv
+y
+c
+hx
+y
+c
+overlay use .venv/bin/activate.nu
+c
+y
+c
+y
+c
+overlay use .venv/bin/activate.nu
+c
+y
+c
+y
+c
+y
+c
+x
+uv run
+c
+y
+c
+./start-cpu.sh
+c
+cd src
+cd kokoro
+c
+./start-cpu.sh
+c
+y
+c
+y
+c
+uv run --env-file .env main.py
+c
+y
+c
+y
+c
+uv run --env-file .env main.py
+c
+y
+y
+c
+y
+c
+uv run --env-file .env main.py
+y
+c
+y
+c
+y
+c
+overlay use .venv/bin/activate.nu
+c
+y
+c
+y
+c
+uv run --env-file .env main.py
+c
+./start-cpu.sh
+c
+y
+c
+y
+c
+git add .
+git commit -m "date now | format date  "%Y%m%d%H%M%S""
+c
+y
+gitui
+c
+git reset --soft HEAD~1
+c
+y
+gitui
+c
+git reset --soft HEAD-1
+git reset --soft HEAD--1
+git reset --soft HEAD
+c
+y
+gitui
+c
+y
+c
+y
+c
+git init
+c
+y
+c
+git add .
+c
+git commit -m (date now | format date "%Y%m%d%H%M%S")<\n>
+c
+y
+gitui
+c
+y
+c
+y
+hx
+c
+y
+c
+overlay use .venv/bin/activate.nu
+c
+y
+c
+y
+c
+y
+c
+y
+hx
+c
+u
+c
+y
+c
+uv run --env-file .env test.py
+c
+y
+c
+y
+c
+y
+c
+uv run --env-file .env test.py
+y
+c
+y
+c
+pyright .
+y
+c
+pyright .
+c
+y
+c
+pyright .
+c
+y
+c
+pyright .
+c
+y
+c
+tree .
+y
+c
+pyright .
+c
+cd realearn
+c
+pyright .
+y
+c
+y
+c
+y
+c
+pyright tests
+c
+y
+c
+uv run --env-file .env test.py
+c
+y
+c
+uv run --env-file .env tests/test.py
+y
+c
+uv run --env-file .env tests/test.py
+y
+c
+y
+c
+uv run --env-file .env tests/test.py
+y
+c
+uv run --env-file .env src/tests/test.py
+c
+y
+c
+uv run --env-file .env src/test.py
+c
+y
+c
+y
+c
+y
+cd
+c
+y
+c
+y
+c
+cd realearn
+c
+y
+c
+y
+c
+uv run --env-file .env test.py
+pyright .
+c
+y
+c
+y
+c
+y
+c
+overlay use .venv/bin/activate.nu
+c
+y
+c
+uv run --env-file .env src/test.py
+y
+c
+y
+c
+uv run --env-file .env src/test.py
+uv run --env-file .env test.py
+c
+y
+c
+uv run --env-file .env test.py
+y
+c
+y
+c
+uv run --env-file .env test.py
+uv run --env-file .env src/test.py
+c
+y
+c
+y
+c
+uv run --env-file .env src/test.py
+c
+y
+c
+y
+c
+overlay use .venv/bin/activate.nu
+c
+y
+c
+uv run --env-file .env src/test.py
+c
+y
+c
+y
+c
+y
+c
+uv run --env-file .env src/test.py
+y
+c
+overlay use .venv/bin/activate.nu
+y
+c
+cd realearn
+c
+y
+c
+y
+c
+overlay use .venv/bin/activate.nu
+c
+uv run --env-file .env src/test.py
+c
+y
+c
+y
+c
+y
+c
+uv run --env-file .env src/test.py
+y
+c
+uv run --env-file .env src/test.py
+y
+c
+y
+c
+uv run --env-file .env src/test.py
+y
+c
+overlay use .venv/bin/activate.nu
+c
+y
+c
+uv run --env-file .env src/test.py
+y
+c
+uv run --env-file .env src/test.py
+c
+y
+c
+y
+c
+uv run --env-file .env src/test.py
+c
+y
+c
+y
+c
+y
+c
+uv run --env-file .env src/test.py
+c
+uv run --env-file .env src/test.py
+c
+y
+c
+y
+c
+y
+c
+overlay use .venv/bin/activate.nu
+c
+y
+c
+uv run --env-file .env src/test.py
+c
+y
+c
+uv run --env-file .env src/test.py
+c
+y
+c
+uv run --env-file .env src/test.py
+c
+y
+c
+y
+c
+cd realearn
+c
+y
+c
+uv run --env-file .env src/test.py
+c
+y
+c
+uv run --env-file .env src/test.py
+c
+y
+c
+overlay use .venv/bin/activate.nu
+c
+y
+c
+y
+manim -qh AntiderivativesConcept.py
+y
+c
+uv run --env-file .env src/test.py
+c
+y
+c
+manim -qh AntiderivativesConcept.py
+y
+c
+uv run --env-file .env src/test.py
+c
+y
+c
+uv run --env-file .env src/test.py
+c
+y
+c
+y
+c
+y
+c
+y
+manim -qh AntiderivativesConcept.py
+y
+c
+uv run --env-file .env main.py
+c
+y
+c
+uv run --env-file .env src/test.py
+y
+c
+overlay use .venv/bin/activate.nu
+c
+uv run --env-file .env src/test.py
+c
+y
+c
+y
+c
+cd
+c
+cd re
+c
+y
+c
+y
+c
+cd
+c
+hx
+qe
+y
+./start-cpu.sh
+y
+hx
+y
+c
+overlay use .venv/bin/activate.nu
+c
+y
+c
+y
+c
+y
+c
+uv run --env-file .env src/test.py
+c
+uv run --env-file .env src/test.py
+c
+y
+c
+y
+c
+uv run --env-file .env src/test.py
+c
+y
+c
+uv run --env-file .env src/test.py
+c
+y
+c
+y
+c
+y
+c
+y
+uv run --env-file .env src/test.py
+c
+y
+c
+y
+c
+y
+c
+overlay use .venv/bin/activate.nu
+c
+y
+c
+uv run --env-file .env src/test.py
+c
+y
+c
+y
+c
+y
+c
+./start-cpu.sh
+c
+y
+c
+y
+c
+y
+c
+uv run --env-file .env src/test.py
+c
+uv run --env-file .env src/test.py
+c
+y
+c
+y
+c
+uv run --env-file .env src/test.py
+y
+c
+y
+c
+y
+cd ..
+overlay use .venv/bin/activate.nu
+c
+y
+c
+uv run --env-file .env src/test.py
+c
+y
+c
+cd
+c
+cd rea
+c
+u
+c
+y
+c
+hx
+y
+c
+./start-cpu.sh
+uv run --env-file .env src/test.py
+c
+y
+c
+y
+c
+uv run --env-file .env src/test.py
+c
+y
+c
+uv run --env-file .env src/test.py
+y
+c
+y
+cd
+c
+cd real
+c
+uv run --env-file .env src/test.py
+y
+c
+overlay use .venv/bin/activate.nu
+c
+y
+c
+y
+manim -qh /home/atheeq/realearn/test_output/AntidifferentiationIntro.py
+c
+y
+c
+y
+cd real
+c
+y
+c
+cd ..
+uv run --env-file .env src/test.py
+<\n>c
+y
+c
+c
+y
+c
+y
+c
+uv run --env-file .env src/test.py
+uv run --env-file .env src/test.py
+c
+y
+c
+uv run --env-file .env src/test.py
+y
+c
+y
+c
+y
+c
+uv run --env-file .env src/test.py
+y
+c
+uv run --env-file .env src/test.py
+y
+c
+y
+cd kokoro
+c
+bash
+y
+c
+y
+c
+y
+c
+uv run --env-file .env src/test.py
+c
+y
+overlay use .venv/bin/activate.nu
+c
+y
+c
+uv run --env-file .env main.py
+y
+c
+uv run --env-file .env main.py
+y
+c
+uv run --env-file .env main.py
+y
+c
+uv run --env-file .env main.py
+y
+c
+uv run --env-file .env main.py
+y
+c
+uv run --env-file .env main.py
+y
+uv run --env-file .env main.py
+y
+uc
+uv run --env-file .env main.py
+y
+c
+uv run --env-file .env main.py
+y
+c
+y
+hx
+c
+y
+c
+overlay use .venv/bin/activate.nu
+c
+y
+c
+hx
+manim -qh x.py
+y
+manim -qh x.py
+y
+q
+y
+c
+uv run --env-file .env main.py
+c
+y
+c
+cd real
+c
+y
+c
+y
+c
+y
+c
+y
+c
+ee
+cd real
+c
+manim -qh x.py
+y
+manim -qh x.py
+y
+manim -qh x.py
+y
+overlay use .venv/bin/activate.nu
+y
+c
+manim -qh x.py
+y
+c
+y
+cc
+c
+y
+c
+manim -qh x.py
+y
+c
+y
+c
+y
+c
+cd ..
+c
+overlay use .venv/bin/activate.nu
+c
+uv run --env-file .env main.py
+c
+uv run --env-file .env test.py
+uv run --env-file .env src/test.py
+y
+c
+uv run --env-file .env src/test.py
+y
+c
+uv run --env-file .env src/test.py
+y
+c
+y
+c
+y
+c
+uv run --env-file .env src/test.py
+c
+uv run --env-file .env src/test.py
+y
+y
+cd ..
+uv run --env-file .env src/test.py
+c
+uv run --env-file .env src/test.py
+uv run --env-file .env src/test.py
+y
+c
+uv run --env-file .env src/test.py
+c
+y
+c
+y
+c
+uv run --env-file .env src/test.py
+c
+overlay use .venv/bin/activate.nu
+c
+y
+c
+y
+c
+y
+c
+y
+c
+uv run --env-file .env src/test.py
+y
+c
+y
+y
+manim -qh AntidifferentiationIntroduction.py
+y
+c
+cd real
+c
+y
+c
+overlay use .venv/bin/activate.nu
+c
+y
+c
+uv run --env-file .env src/test.py
+c
+y
+c
+y
+hx
+bash
+y
+c
+uv run --env-file .env src/test.py
+c
+y
+c
+npx create-react-app realearn
+y
+c
+y
+c
+bun init --react
+bun dev
+c
+y
+c
+y
+c
+bun add -D oxlint
+y
+c
+y
+c
+bun run lint
+c
+y
+bun add --dev --exact prettier
+c
+y
+c
+helix health --javascript
+hx -h
+hx --health 
+c
+y
+oxlint app.tsx
+y
+c
+bun remove oxlint prettier
+c
+y
+hx
+y
+c
+y
+c
+y
+c
+cd real
+c
+y
+c
+y
+c
+u
+c
+y
+c
+y
+c
+npm install -g typescript-language-server typescript<\n>
+c
+y
+c
+y
+c
+bun create vite relearn
+c
+y
+c
+bun create better-t-stack@latest realearn --frontend tanstack-router --backend none --runtime none --api none --auth none --database none --orm none --db-setup none --package-manager bun --git --web-deploy none --server-deploy none --install --addons turborepo --examples none
+bun run dev
+cd realearn
+bun run dev
+c
+y
+cd
+c
+y
+c
+y
+c
+y
+c
+bun create better-t-stack@latest my-better-t-app --frontend tanstack-router --backend none --runtime none --api none --auth none --database none --orm none --db-setup none --package-manager bun --git --web-deploy none --server-deploy none --install --addons none --examples none
+bun run dev
+y
+c
+bun run dev
+c
+y
+cd
+c
+y
+c
+y
+c
+cd
+c
+y
+c
+bun create vite realearn
+c
+y
+c
+bun run dev
+c
+y
+c
+bunx --bun biome init
+y
+c
+y
+cd ..
+cd
+c
+y
+c
+bun create better-t-stack@latest realearn --frontend tanstack-router --backend none --runtime none --api none --auth none --database none --orm none --db-setup none --package-manager bun --git --web-deploy none --server-deploy none --install --addons turborepo --examples none
+y
+c
+bun run dev
+c
+y
+c
+y
+cd
+c
+y
+c
+hy
+y
+c
+y
+c
+bun create better-t-stack@latest realearn --frontend tanstack-router --backend none --runtime none --api none --auth none --database none --orm none --db-setup none --package-manager bun --git --web-deploy none --server-deploy none --install --addons turborepo --examples none
+y
+c
+y
+c
+bun run dev
+y
+c
+y
+cd
+c
+y
+c
+y
+c
+y
+c
+x
+y
+c
+y
+c
+bunx shadcn@latest add https://www.shadcn.io/registry/video-player.json
+y
+c
+bunx shadcn@latest add https://www.shadcn.io/registry/video-player.json
+c
+y
+c
+y
+c
+bunx shadcn@latest add https://www.shadcn.io/registry/navbar-05.json
+y
+c
+shadcn@latest add navigation-menu popover avatar badge
+bunx shadcn@latest add navigation-menu popover avatar badge
+y
+c
+bunx shadcn@latest add https://www.shadcn.io/registry/shape-landing-hero.json
+y
+c
+y
+c
+y
+c
+bunx shadcn@latest add utils
+y
+c
+bun run dev
+c
+y
+c
+y
+c
+y
+c
+y
+c
+npx shadcn@latest add card
+bun run dev
+y
+c
+hx
+c
+y
+c
+y
+c
+x
+c
+bun run dev
+c
+bun run dev
+c
+bun run dev
+y
+c
+bun run dev
+hx
+c
+bash
+ce
+y
+c
+y
+c
+cd realearn
+y
+c
+bun run dev
+c
+y
+c
+y
+c
+y
+c
+uv run --env-file .env src/test.py
+y
+c
+y
+c
+x
+uv run --env-file .env src/test.py
+c
+y
+c
+o
+overlay use .venv/bin/activate.nu
+c
+y
+c
+y
+c
+y
+c
+uv run --env-file .env src/test.py
+c
+y
+c
+cd re
+y
+c
+y
+c
+bunx add streamdown
+c
+bun add streamdown
+c
+y
+c
+y
+c
+y
+c
+cd ..
+bunx shadcn@latest add https://www.shadcn.io/registry/list.json
+y
+c
+bun add d3
+y
+c
+y
+c
+y
+c
+y
+c
+y
+c
+x
+y
+c
+y
+c
+y
+c
+y
+c
+x
+c
+y
+c
+hx
+c
+y
+c
+cd
+y
+c
+y
+c
+bun run dev
+c
+bun run dev
+c
+y
+c
+y
+c
+git add .
+git commit -m (date now | format date "%Y%m%d%H%M%S")<\n>
+c
+git remote add origin git@github.com:atheeq-rhxn/realearn.git<\n>git branch -M main<\n>git push -u origin main
+git push -u origin main
+c
+y
+y
+c
+y
+c
+cd generations
+c
+y
+c
+cd real
+y
+c
+ffmpeg -i /home/atheeq/realearn/client/apps/web/public/video.mp4 -t 13 -q:a 0 -map a /home/atheeq/realearn/client/apps/web/public/audio_output.mp3<\n>
+y
+c
+y
+c
+y
+c
+y
+c
+ffmpeg -i /home/atheeq/realearn/client/apps/web/public/video.mp4 -t 30 -c copy /home/atheeq/realearn/client/apps/web/public/video_first30s.mp4<\n>
+y
+c
+cd rea
+cd real
+cd
+c
+cd real
+y
+c
+y
+c
+overlay use .venv/bin/activate.nu
+y
+cd ..
+c
+y
+cd 
+cd real
+c
+y
+c
+y
+c
+gitui
+c
+y
+c
+gitui
+c
+git add .
+git commit -m (date now | format date "%Y%m%d%H%M%S")<\n>
+c
+git push
+git add .
+git commit -m (date now | format date "%Y%m%d%H%M%S")<\n>
+git push
+c
+y
+c
+tree .
+c
+tree ..
+c
+y
+c
+x
+x
+c
+y
+c
+hx
+c
+y
+c
+y
+c
+y
+c
+x
+c
+y
+c
+y
+c
+y
+c
+bun run dev
+c
+y
+c
+y
+c
+y
+c
+x
+c
+y
+c
+y
+c
+x
+c
+y
+c
+y
+c
+y
+c
+bun run dev
+c
+bun run dev
+y
+bun run dev
+c
+bun run dev
+y
+c
+bun run dev
+c
+bun run dev
+y
+c
+bun add -g vercel@latest
+c
+x
+y
+matrix
+c
+y
+c
+y
+c
+y
+c
+y
+c
+y
+c
+y
+c
+y
+c
+cd rea
+y
+c
+y
+cd real
+cd clien
+c
+y
+c
+y
+cd
+c
+y
+c
+y
+c
+bun add 
+bun add reveal.js
+c
+y
+c
+y
+c
+hx
+y
+c
+y
+c
+y
+cd real
+y
+c
+y
+c
+bun add reveal.js
+bun remove reveal.js
+y
+c
+y
+c
+y
+c
+bun add reveal.js
+y
+c
+bun remove reveal.js
+c
+y
+c
+x
+c
+cd real
+cd clien
+y
+c
+y
+c
+x
+c
+y
+c
+y
+c
+bun add reveal.js
+c
+x
+y
+c
+y
+c
+y
+c
+bun add -d @types/reveal.js<\n>
+y
+c
+bun add animotion
+c
+y
+c
+bun create @animotion@latest
+y
+c
+bun remove animotion
+c
+y
+c
+y
+c
+x
+c
+y
+c
+x
+c
+y
+c
+y
+c
+y
+c
+y
+c
+bunx shadcn@latest add radio-group
+c
+x
+c
+y
+c
+y
+c
+hx
+y
+c
+y
+c
+x
+c
+y
+c
+y
+c
+x
+y
+c
+bun run dev
+c
+bun run dev
+y
+c
+bun run dev
+c
+y
+c
+git add .
+git commit -m (date now | format date "%Y%m%d%H%M%S")<\n>
+y
+c
+git push
+c
+x
+y
+overlay use .venv/bin/activate.nu
+y
+c
+y
+c
+manim
+manim -qh x.py
+y
+c
+y
+c
+hx
+y
+cd down
+c
+y
+c
+cd
+c
+hx
+y
+c
+y
+cd
+c
+cd real
+c
+y
+c
+overlay use .venv/bin/activate.nu
+c
+cd kok
+./start-cpu.sh
+c
+manim -qh x.py
+./start-gpu.sh
+c
+y
+c
+y
+c
+y
+c
+manim -qh x.py
+c
+overlay use .venv/bin/activate.nu
+c
+manim -qh x.py
+y
+c
+y
+c
+y
+c
+x
+./start-gpu.sh
+c
+y
+c
+c
+y
+c
+c
+y
+c
+y
+c
+x
+c
+y
+c
+git add .
+git commit -m (date now | format date "%Y%m%d%H%M%S")<\n>
+git push
+c
+bun run dev
+c
+y
+c
+cd downloads
+c
+y
+c
+y
+c
+bash
+c
+./start-gpu.sh
+c
+y
+c
+y
+c
+overlay use .venv/bin/activate.nu
+c
+uv export SSL_CERT_FILE=$(python -m certifi)
+c
+uv add google-adk
+uv add google-adk --active
+c
+y
+c
+uv upgrade google-adk --active
+uv update google-adk --active
+uv
+uv add google-adk --active --upgrade
+c
+y
+c
+uv sync --upgrade<\n>
+uv sync --upgrade --active
+c
+cd real
+c
+y
+c
+uv sync --upgrade<\n>
+uv lock --upgrade<\n>uv sync<\n>
+y
+c
+uv lock --upgrade<\n>uv sync<\n>
+y
+c
+overlay use .venv/bin/activate.nu
+uv lock --upgrade --active
+uv lock --active --upgrade
+uv --active lock
+uv lock --upgrade
+y
+c
+y
+uv sync 
+uv sync --active
+c
+y
+c
+y
+c
+x
+c
+y
+c
+y
+c
+y
+c
+gitui
+git push
+c
+python -m certifi
+uv export SSL_CERT_FILE=$(python -m certifi)
+c
+overlay use .venv/bin/activate.nu
+c
+uv add certifi
+cd realearn
+cd serve
+uv add certifi
+c
+y
+c
+uv export SSL_CERT_FILE=$(python -m certifi)
+overlay use .venv/bin/activate.nu
+c
+uv export SSL_CERT_FILE=$(python -m certifi)
+export SSL_CERT_FILE=$(python -m certifi)<\n>
+y
+c
+y
+c
+y
+c
+git clone --no-checkout https://github.com/google/adk-docs.git<\n>cd adk-docs<\n>git sparse-checkout init --cone<\n>git sparse-checkout set examples/python/snippets/streaming/adk-streaming-ws<\n>git checkout main<\n>cd examples/python/snippets/streaming/adk-streaming-ws/app
+y
+cd
+c
+y
+c
+y
+c
+y
+c
+x
+c
+y
+c
+y
+cd real
+c
+y
+c
+y
+c
+bash
+c
+cd
+c
+cd real
+c
+y
+c
+y
+c
+y
+c
+y
+c
+uv add google-adk --upgrade
+c
+y
+c
+uv run --env-file .env main.py
+c
+y
+c
+y
+c
+y
+c
+y
+c
+y
+c
+uv add fastapi[standard]
+c
+uv add fastapi[standard] --active
+c
+y
+c
+y
+c
+uvicorn main:app --reload
+c
+y
+c
+y
+c
+cd
+y
+c
+x
+c
+y
+c
+hx
+c
+cd realearn
+c
+y
+c
+x
+c
+y
+c
+y
+c
+bun run dev
+c
+cd realearn
+c
+y
+c
+y
+c
+y
+c
+y
+y
+c
+bun run dev
+c
+y
+c
+x
+bun run dev
+c
+y
+c
+y
+c
+y
+c
+y
+c
+y
+c
+gitui
+c
+git add .
+git commit -m (date now | format date "%Y%m%d%H%M%S")<\n>
+c
+git push
+c
+gitui
+c
+y
+c
+x
+bun run dev
+c
+y
+c
+cd real
+c
+y
+c
+y
+c
+bun add plotly.js
+c
+y
+c
+y
+c
+y
+gitui
+c
+y
+c
+bunx shadcn@latest add resizable
+x
+c
+y
+gitui
+c
+y
+c
+gitui
+c
+y
+c
+git add .
+git commit -m (date now | format date "%Y%m%d%H%M%S")<\n>
+git push
+c
+y
+c
+y
+mkdir 317b86d9-03d3-4b7a-97fd-cbd730f0900e
+y
+cd
+cd real
+y
+c
+y
+c
+y
+c
+y
+c
+y
+c
+git add .
+git commit -m (date now | format date "%Y%m%d%H%M%S")<\n>
+git push
+y
+c
+gitui
+c
+git add .
+git commit -m (date now | format date "%Y%m%d%H%M%S")<\n>
+git push
+y
+c
+y
+c
+y
+c
+y
+c
+y
+c
+y
+c
+gitui
+c
+y
+c
+y
+c
+y
+c
+gitui
+c
+y
+c
+git add .
+git commit -m (date now | format date "%Y%m%d%H%M%S")<\n>
+git push
+git add .
+y
+c
+gitui
+c
+y
+c
+git add .
+git commit -m (date now | format date "%Y%m%d%H%M%S")<\n>
+git push
+c
+y
+c
+y
+c
+x
+e
+y
+c
+y
+c
+bun run dev
+c
+y
+c
+bun run dev
+c
+cd real
+c
+y
+c
+bun run dev
+c
+gitui
+c
+y
+c
+y
+c
+y
+c
+git add .
+git commit -m (date now | format date "%Y%m%d%H%M%S")<\n>
+git push
+y
+c
+bun create better-t-stack@latest
+c
+bun create better-t-stack@latest
+c
+y
+c
+y
+c
+cd ..
+y
+c
+npm install -g typescript-language-server typescript<\n>
+y
+c
+y
+c
+y
+c
+y
+c
+y
+c
+bun run dev
+c
+y
+c
+y
+c
+y
+c
+y
+c
+bun create better-t-stack@latest
+c
+bun create better-t-stack@latest
+y
+bunx taze -r
+bunx taze -r -w
+bun i
+c
+bun run dev
+c
+y
+c
+y
+c
+bunx shadcn@latest add https://www.shadcn.io/registry/shape-landing-hero.json
+c
+y
+c
+y
+c
+bun run dev
+c
+y
+c
+y
+c
+y
+c
+cd ..
+y
+c
+y
+c
+y
+c
+cd x/realearn/
+y
+c
+bun run dev
+y
+c
+y
+c
+y
+c
+y
+c
+x
+c
+y
+c
+y
+c
+bunx shadcn@latest add https://www.shadcn.io/registry/shape-landing-hero.json
+yc
+c
+y
+c
+y
+c
+bun create better-t-stack@latest
+y
+c
+cd ..
+cd
+c
+y
+c
+bun create better-t-stack@latest
+y
+c
+bunx taze -r
+bunx taze major -w
+bunx taze major 
+bun taze -r
+bunx taze -r
+bun taze major
+bunx taze major 
+bun i
+bun taze -w
+bunx taze -w
+c
+y
+c
+bun run dev
+c
+y
+c
+y
+c
+bun create better-t-stack@latest
+c
+y
+c
+bun create better-t-stack@latest
+c
+y
+c
+y
+y
+bun run dev
+c
+y
+c
+bun run dev
+c
+y
+c
+bun run dev
+c
+gitui
+c
+y
+c
+y
+c
+y
+c
+y
+c
+y
+c
+y
+c
+uv run --env-file .env src/test.py
+c
+y
+c
+y
+c
+uv run --env-file .env src/test.py
+c
+y
+c
+y
+c
+gitui
+c
+git log
+y
+gitui
+c
+git push
+c
+y
+c
+y
+c
+y
+c
+y
+c
+y
+c
+x
+c
+x
+c
+y
+c
+x
+c
+y
+c
+y
+c
+y
+c
+y
+c
+y
+c
+git add .
+git commit -m (date now | format date "%Y%m%d%H%M%S")<\n>
+git push
+c
+y
+c
+uvicorn main:app --reload
+c
+overlay use .venv/bin/activate.nu
+uvicorn main:app --reload
+c
+y
+c
+uvicorn main:app --reload
+c
+y
+c
+uvicorn main:app --reload
+c
+y
+c
+uvicorn main:app --reload
+c
+y
+c
+git add .
+git commit -m (date now | format date "%Y%m%d%H%M%S")<\n>
+git push
+c
+x
+bun run dev
+y
+c
+hx
+c
+y
+c
+overlay use .venv/bin/activate.nu
+y
+c
+uv run --env-file .env src/test.py
+c
+y
+c
+uv run --env-file .env src/test.py
+c
+y
+c
+uv run --env-file .env src/test.py
+c
+uv run --env-file .env src/test.py --active
+c
+uv run --active --env-file .env src/test.py --active
+y
+c
+x
+cd real
+cd clien
+y
+c
+uvicorn main:app --reload
+overlay use .venv/bin/activate.nu
+uvicorn main:app --reload
+c
+y
+c
+uvicorn main:app --reload
+c
+uvicorn main:app --reload
+c
+bun run dev
+c
+cd real
+cd cli
+c
+bun run dev
+y
+c
+y
+c
+x
+y
+c
+bun add -g vercel
+vc
+c
+y
+c
+vc
+c
+y
+c
+vercel link
+c
+y
+c
+vc link
+c
+y
+c
+cd
+c
+y
+c
+y
+c
+y
+c
+y
+c
+bun run build
+vercel deploy
+vercel --prd
+vercel --prod
+x
+c
+y
+c
+gitui
+c
+y
+c
+y
+c
+y
+cd
+cd realearn
+y
+c
+y
+c
+git add .
+git commit -m (date now | format date "%Y%m%d%H%M%S")<\n>
+git push
+c
+y
+c
+y
+c
+sudo dnf install -y
+sudo dnf update ghostty
+ghostty
+ghostty -v
+ghostty --version
+ghostty --help
+dnf search ghostty
+sudo dnf copr enable scottames/ghostty
+sudo dnf check-update
+yes | sudo dnf update
+c
+sudo dnf install ghostty
+sudo dnf update ghostty
+c
+y
+c
+y
+cd
+c
+y
+c
+overlay use .venv/bin/activate.nu
+c
+y
+c
+y
+c
+manim -qh x.py
+cd kokor
+c
+y
+c
+bash
+c
+bash
+manim -qh x.py
+y
+c
+f
+ffmpeg -i /home/atheeq/realearn/client/apps/web/public/video.mp4 -t 30 -c copy /home/atheeq/realearn/client/apps/web/public/video_first30s.mp4<\n>
+y
+c
+ffmpeg -i IntegrationIntro.mp4 -i output.mp3 \<\n>  -c:v copy -map 0:v:0 -map 1:a:0 \<\n>  -shortest IntegrationFinal.mp4<\n>
+bash
+git commit -m (date now | format date "%Y%m%d%H%M%S")<\n>
+y
+c
+y
+c
+git add .
+git commit -m (date now | format date "%Y%m%d%H%M%S")<\n>
+y
+c
+git push
+y
+c
+y
+c
+y
+c
+manim -qh x.py
+y
+c
+ffmpeg -i IntegrationIntro.mp4 -i output.mp3 \<\n>  -c:v copy -map 0:v:0 -map 1:a:0 \<\n>  -shortest IntegrationFinal.mp4<\n>
+bash
+x
+c
+y
+c
+y
+c
+y
+c
+y
+c
+git add .
+git commit -m (date now | format date "%Y%m%d%H%M%S")<\n>
+git pus
+git push
+c
+wezterm
+c
+wezterm --version
+c
+y
+c
+y
+c
+y
+c
+y
+c
+y
+c
+h
+y
+stow -t ~/.config config<\n>
+c
+y
+c
+y
+c
+y
+c
+cd dotfiles
+c
+gitui
+c
+y
+c

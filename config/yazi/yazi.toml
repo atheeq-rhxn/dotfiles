@@ -1,7 +1,7 @@
 [mgr]
 ratio = [0,1,0]
 title_format = ""
-show_hidden = true
+show_hidden = false
 
 [opener]
 edit = [
