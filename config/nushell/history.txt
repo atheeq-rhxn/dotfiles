@@ -8801,3 +8801,12132 @@ y
 c
 gitui
 c
+git add .
+git commit -m (date now | format date "%Y%m%d%H%M%S")
+git push
+c
+y
+c
+cd realearn/server
+c
+y
+cd gluoxus
+y
+c
+y
+sudo dnf install ghostty
+dnf upgrade ghostty
+sudo dnf update ghostty
+c
+sudo dnf remove ghostty
+sudo dnf install ghostty
+c
+sudo dnf install ghostty
+c
+sudo dnf install ghostty
+c
+sudo dnf install ghostty
+s
+sudo dnf install ghostty
+c
+x
+c
+gitui
+cd dotfiles
+gitui
+c
+y
+d
+c
+y
+c
+y
+x
+c
+y
+c
+y
+c
+x
+c
+y
+c
+/exit
+c
+cd realearn/server
+c
+y
+c
+cd kokoro
+c
+y
+c
+uv add "manim-voiceover[openai]"
+uv add "manim-voiceover[openai]" --prerelease=allow
+uv add "manim-voiceover[openai]" --prerelease=allow --frozen
+c
+y
+c
+uv remove "manim-voiceover[openai]"
+uv add "manim-voiceover[openai]" --prerelease=allow
+uv add "manim-voiceover[openai]" --prerelease=allow --frozen
+c
+uv sync
+uv sync --prerelease=allow
+c
+y
+uv remove "manim-voiceover[openai]"
+uv add "manim-voiceover[all]"
+uv add "manim-voiceover[all]" --prerelease=allow --frozen
+c
+y
+c
+y
+c
+overlay use .venv/bin/activate.nu
+c
+y
+c
+uv add -dev ty
+uv add --dev ty
+uv add --dev ty --prerelease=allow --frozen
+y
+c
+manim -qh x.py
+y
+c
+uv remove "manim-voiceover[all]"
+c
+uv add --dev ty
+c
+y
+c
+uv remove "python-lsp-server[all]"
+uv remove --dev "python-lsp-server[all]"
+uv remove --dev "python-lsp-server"
+uv add --dev "python-lsp-server"
+c
+y
+c
+cd realearn
+y
+c
+uv init
+uv add "manim-voiceover[openai]"
+y
+c
+uv add manim
+c
+y
+c
+y
+c
+uv add "python-lsp-server"
+c
+y
+c
+uv run main.py
+uv add "manim-voiceover[all]"
+c
+uv run main.py
+sudo dnf install sox
+c
+uv run main.py
+uv add pkg_resources
+uv add "manim-voiceover[all]"
+uv add pkg_resources --frozen
+c
+y
+c
+uv run main.py
+y
+c
+uv run main.py
+c
+y
+c
+uv run main.py
+c
+uv add "manim-voiceover[all]"
+c
+y
+c
+x
+cd
+c
+y
+cd
+c
+y
+c
+uv sync
+uv lock --upgrade
+uv sync
+c
+x
+c
+y
+cd e
+cd realearn/server
+y
+c
+y
+c
+cd kokoro
+x
+c
+y
+c
+cd ..
+y
+c
+y
+c
+uv run src/test.py
+y
+c
+uv run src/test.py
+y
+c
+uv run src.test.py
+uv run -m src.test
+c
+y
+c
+y
+c
+x
+y
+c
+uv run -m src.test --wpm
+uv run -m src.test --test-wpm
+c
+y
+c
+y
+c
+y
+c
+uv run -m src.test --test-wpm
+c
+uv run -m src.test
+uv run -m src.test -h
+y
+c
+y
+c
+uv run -m src.test -h
+uv run -m src.test
+y
+c
+y
+c
+uv run -m src.test
+c
+y
+c
+uv run -m src.test
+c
+y
+c
+uv run -m src.test
+c
+y
+c
+uv run -m src.test
+c
+y
+c
+uv run -m src.test
+c
+uv run -m src.test
+c
+x
+c
+y
+c
+uv run -m src.test
+c
+uv run -m src.test
+c
+uv run -m src.test
+c
+y
+c
+uv run --env-file .env src.test.py
+uv run src.test.py
+y
+c
+uv run --env-file .env src.test
+c
+uv run src.test
+uv run src.test.py
+uv run --env-file .env -m src.test
+c
+uv run --env-file .env -m src.test
+y
+c
+uv run --env-file .env -m src.test
+c
+uv run --env-file .env -m src.test
+c
+uv run --env-file .env -m src.test
+y
+c
+uv run --env-file .env -m src.test
+c
+uv run --env-file .env -m src.test
+y
+c
+uv run --env-file .env -m src.test
+y
+uv run --env-file .env -m src.test
+y
+c
+uv run --env-file .env -m src.test
+clear
+uv run --env-file .env -m src.test
+c
+x
+c
+y
+c
+uv run --env-file .env -m src.test
+clear
+y
+c
+y
+c
+uv run --env-file .env -m src.test
+y
+c
+x
+c
+./start-gpu.sh
+c
+flatpak install flathub org.localsend.localsend_app<\n>flatpak run org.localsend.localsend_app
+c
+y
+c
+y
+c
+y
+c
+x
+y
+c
+cd kokoro
+c
+y
+c
+y
+c
+uv run --env-file .env -m src.test
+y
+c
+cd ..
+c
+x
+uv run --env-file .env -m src.test
+y
+cd server
+c
+y
+c
+y
+c
+x
+y
+c
+uv run --env-file .env -m src.test
+y
+c
+y
+c
+x
+c
+e
+y
+c
+x
+y
+c
+uv run --env-file .env -m src.test
+y
+c
+x
+y
+c
+ny
+y
+c
+y
+c
+u
+c
+y
+c
+y
+cd 
+c
+cd server
+y
+c
+y
+c
+y
+c
+x
+exit
+./start-gpu.sh
+c
+y
+c
+cd realearn/server
+gitui
+c
+y
+c
+y
+c
+y
+cd dscrp
+mkdir dscrp
+cd dscrp
+uv init
+y
+c
+x
+c
+y
+cd realearn/server
+c
+y
+c
+y
+c
+x
+c
+y
+c
+y
+c
+y
+c
+y
+c
+y
+c
+git add .
+git commit -m (date now | format date "%Y%m%d%H%M%S")
+x
+c
+y
+c
+c
+y
+c
+bunx shadcn@latest add https://www.shadcn.io/registry/choicebox.json
+y
+c
+bunx shadcn@latest add https://www.shadcn.io/registry/choicebox.json
+c
+y
+c
+x
+hx
+c
+y
+c
+gitui
+c
+y
+c
+y
+c
+bun add @tsparticles/confetti
+bun run dev
+c
+c
+x
+c
+y
+c
+bunx shadcn@latest add progress
+c
+y
+c
+git add .
+git commit -m (date now | format date "%Y%m%d%H%M%S")
+bunx shadcn@latest remove progress
+y
+bunx shadcn@latest remove progress
+y
+bunx shadcn@latest uninstall progress
+bunx remove progress
+git reset --soft HEAD
+git add .
+git commit -m (date now | format date "%Y%m%d%H%M%S")
+c
+gitui
+c
+git push
+c
+y
+c
+cd 
+y
+c
+y
+c
+bun create better-t-stack@latest
+c
+y
+c
+y
+c
+x
+c
+y
+c
+x
+y
+c
+y
+c
+x
+y
+c
+y
+c
+x
+e
+bun run dev
+x
+c
+cd
+c
+cd realearn/server
+c
+y
+c
+cd
+c
+y
+qc
+c
+y
+qc
+c
+y
+cd realearn/client
+bunx shadcn@latest add https://www.shadcn.io/registry/ai.json
+c
+y
+c
+y
+c
+bunx shadcn@latest add https://www.shadcn.io/registry/ai.json
+y
+c
+x
+bun run dev
+c
+c
+y
+c
+cd realearn/client
+c
+y
+c
+y
+c
+y
+c
+x
+y
+c
+gitui
+c
+y
+c
+y
+c
+bunx shadcn@latest add collapsible
+c
+y
+gitui
+c
+y
+gitui
+c
+x
+c
+y
+gitui
+y
+c
+y
+gitui
+y
+c
+y
+c
+y
+c
+x
+bun run dev
+y
+c
+npx shadcn@latest add collapsible
+cc
+c
+bunx shadcn@latest add collapsible
+c
+y
+c
+bunx shadcn@latest add https://www.shadcn.io/registry/editor.json
+c
+y
+c
+y
+cd
+cd realearn/client
+y
+c
+y
+c
+bunx shadcn@latest add https://www.shadcn.io/registry/editor.json
+c
+bun add @milkdown/crepe @milkdown/react @milkdown/kit
+bun run dev
+c
+y
+c
+gitui
+c
+y
+c
+x
+c
+y
+c
+bun run dev
+y
+c
+y
+c
+y
+c
+y
+c
+x
+c
+y
+c
+y
+c
+x
+e
+bun run dev
+y
+cd 
+cd realearn/client
+c
+y
+c
+x
+y
+c
+bunx shadcn@latest add https://www.shadcn.io/registry/ai.json
+c
+bunx shadcn@latest add https://www.shadcn.io/registry/ai.json
+c
+y
+bun run check-types
+y
+c
+bunx shadcn@latest add collapsible
+c
+bun run check-types
+y
+c
+y
+c
+y
+c
+bunx shadcn@latest add carousel
+bunx shadcn@latest add hover-card textarea scroll-area --overwrite
+bun run check-types
+bunx shadcn@latest add code-block --overwrite
+bunx shadcn@latest add https://www.shadcn.io/registry/code-block.json
+bunx shadcn@latest add https://www.shadcn.io/registry/code-block.json --overwrite
+bun run check-types
+y
+c
+bun run check-types
+c
+x
+c
+y
+c
+y
+c
+y
+c
+x
+c
+y
+c
+y
+c
+git add .
+git commit -m (date now | format date "%Y%m%d%H%M%S")
+c
+y
+c
+y
+c
+y
+c
+y
+c
+yc
+cy
+c
+y
+c
+y
+c
+shadcn@latest add tabs
+bunx shadcn@latest add tabs
+c
+y
+c
+y
+c
+bunx shadcn@latest add https://www.shadcn.io/registry/animated-modal.json
+c
+npx shadcn@latest add https://www.shadcn.io/registry/dropzone.json
+c
+bunx shadcn@latest add https://www.shadcn.io/registry/dropzone.json
+c
+bunx shadcn@latest add context-menu
+x
+c
+bun run dev
+c
+cd realearn/client
+c
+y
+c
+y
+c
+git add .
+git commit -m (date now | format date "%Y%m%d%H%M%S")
+c
+y
+c
+x
+y
+c
+bunx shadcn@latest add command
+c
+y
+bun run check-types
+c
+y
+c
+bunx shadcn@latest add https://www.shadcn.io/registry/ai-chatbot.json
+bunx shadcn@latest add command
+c
+u
+c
+y
+c
+bunx shadcn@latest add https://www.shadcn.io/registry/ai-chatbot.json
+bunx shadcn@latest add command
+c
+bunx shadcn@latest add https://www.shadcn.io/registry/ai-chatbot.json
+npx shadcn@latest add https://www.shadcn.io/registry/ai-chatbot.json
+c
+y
+c
+bunx shadcn@latest add https://www.shadcn.io/registry/ai-chatbot.json
+c
+y
+c
+y
+c
+bun add nanoid
+c
+x
+c
+y
+y
+c
+y
+c
+git add .
+git commit -m (date now | format date "%Y%m%d%H%M%S")
+git push
+c
+y
+c
+bun run dev
+c
+y
+c
+git add .
+git commit -m (date now | format date "%Y%m%d%H%M%S")
+git push
+c
+y
+c
+git add .
+git commit -m (date now | format date "%Y%m%d%H%M%S")
+git push
+c
+y
+c
+x
+c
+y
+c
+y
+c
+y
+c
+y
+c
+x
+c
+y
+c
+y
+c
+git add .
+git commit -m (date now | format date "%Y%m%d%H%M%S")
+git push
+c
+bun run dev
+c
+cd realearn/client
+bu
+hx
+y
+c
+x
+y
+c
+y
+c
+y
+c
+y
+c
+git add .
+git commit -m (date now | format date "%Y%m%d%H%M%S")
+git push
+y
+c
+cd realearn/client
+bun run dev
+c
+cd realearn/client
+c
+y
+c
+x
+y
+c
+y
+c
+git add .
+git commit -m (date now | format date "%Y%m%d%H%M%S")
+git push
+bun run dev
+git add .
+git commit -m (date now | format date "%Y%m%d%H%M%S")
+git pu
+git push
+x
+cy
+c
+y
+c
+x
+c
+cd ..
+y
+c
+git add .
+git commit -m (date now | format date "%Y%m%d%H%M%S")
+git push
+y
+cmatrix
+c
+cmatrix
+y
+cmatrix
+hx
+c
+cmatrix
+cmatrix -h
+cmatrix -r
+cmatrix -[ug]
+cmatrix -ug -u 2 -c red
+cmatrix -ugalsdkfjalskdjf -u 2 -c red
+cmatrix ug
+cmatrix -a
+cmatrix -c
+cmatrix -s
+cmatrix -m
+cmatrix -m ug
+y
+c
+x
+y
+c
+bun run dev
+y
+c
+x
+c
+bun start
+pnpm start
+x
+c
+bun install
+bun start
+c
+y
+c
+y
+c
+x
+c
+y
+gitui
+c
+y
+c
+x
+c
+y
+c
+y
+c
+x
+c
+y
+c
+x
+y
+c
+y
+c
+git add .
+git commit -m (date now | format date "%Y%m%d%H%M%S")
+git push
+y
+c
+y
+c
+y
+c
+y
+c
+y
+c
+git add .
+git commit -m (date now | format date "%Y%m%d%H%M%S")
+git push
+c
+y
+c
+y
+c
+y
+c
+y
+c
+y
+c
+y
+c
+bunx shadcn@latest add aspect-ratio
+y
+c
+y
+c
+x
+x
+c
+y
+c
+gitui
+c
+git add .
+git commit -m (date now | format date "%Y%m%d%H%M%S")
+git push
+c
+bun run dev
+c
+y
+c
+cd
+c
+bun install -g @openai/codex@latest
+c
+cd realearn/client
+y
+c
+y
+c
+bun run dev
+x
+c
+y
+c
+y
+c
+git add .
+git commit -m (date now | format date "%Y%m%d%H%M%S")
+git push
+y
+c
+cd
+c
+cd realearn/client
+y
+x
+c
+bun run dev
+c
+y
+c
+y
+c
+y
+c
+fzi
+bash
+fz
+fzf
+c
+y
+c
+cd
+cd cadai
+c
+y
+c
+cd realearn/server
+y
+c
+flutter run --verbose
+c
+uv run --env-file .env main.py
+c
+cmatrix
+cma
+cmatrix
+c
+cd realearn/client
+c
+y
+c
+x
+c
+y
+c
+bunx shadcn@latest add https://www.shadcn.io/registry/bar-chart-06.json
+x
+c
+y
+c
+c
+y
+c
+x
+y
+c
+bunx shadcn@latest add https://www.shadcn.io/registry/bar-chart-04.json
+hx
+c
+y
+c
+git add .
+git commit -m (date now | format date "%Y%m%d%H%M%S")
+git push
+cd realearn/client
+y
+c
+y
+c
+y
+c
+x
+c
+cd realearn/client
+c
+git add .
+git commit -m (date now | format date "%Y%m%d%H%M%S")
+git push
+bun run dev
+cd realearn/client
+c
+y
+c
+y
+c
+y
+c
+git add .
+git commit -m (date now | format date "%Y%m%d%H%M%S")
+git push
+cd realearn/client
+c
+bun run dev
+bunx @turbo/codemod@latest update
+y
+c
+y
+gitui
+c
+y
+c
+y
+c
+x
+c
+y
+c
+x
+cd realearn/client
+c
+gitui
+c
+bun run dev
+c
+y
+c
+uv run --env-file .env -m src.test
+c
+uv run --env-file .env main.py
+c
+y
+c
+uv run --env-file .env main.py
+c
+uv run --env-file .env -m src.test
+c
+y
+c
+overlay use .venv/bin/activate.nu
+c
+uv run --env-file .env -m src.test
+c
+y
+c
+manim -qh /home/atheeq/realearn/server/outputs/module_01/IntegrationConcept.py
+y
+c
+y
+c
+x
+c
+cd kokoro
+c
+y
+c
+uv run --env-file .env -m src.test
+c
+uv run --env-file .env -m src.test
+c
+uv run --env-file .env -m src.test
+c
+uv run --env-file .env -m src.test
+c
+sudo dnf install ffmpeg ffmpeg-libs<\n>
+ffmpeg -encoders | grep mov_text<\n>
+sudo dnf install \<\n>  https://download1.rpmfusion.org/free/fedora/rpmfusion-free-release-$(rpm -E %fedora).noarch.rpm \<\n>  https://download1.rpmfusion.org/nonfree/fedora/rpmfusion-nonfree-release-$(rpm -E %fedora).noarch.rpm<\n>
+bash
+c
+x
+c
+y
+c
+x
+c
+y
+c
+y
+c
+y
+c
+y
+c
+y
+c
+y
+c
+y
+c
+uv run --env-file .env -m src.test
+c
+uv run --env-file .env -m src.test
+c
+y
+c
+y
+c
+y
+c
+uv run --env-file .env -m main.py
+y
+c
+uv run --env-file .env main.py
+y
+c
+c
+uv run --env-file .env -m src.test
+c
+./start-gpu.sh
+c
+x
+c
+cd realearn/server
+c
+y
+c
+x
+c
+y
+c
+which opencode
+opencode serve
+c
+hx
+y
+c
+x
+c
+overlay use .venv/bin/activate.nu
+c
+which python
+c
+y
+c
+y
+c
+uv run --env-file .env -m src.test
+c
+y
+c
+x
+c
+sudo dnf update -y
+c
+cd realearn/server
+c
+y
+c
+cd realearn/server
+c
+y
+c
+y
+c
+overlay use .venv/bin/activate.nu
+c
+y
+c
+y
+c
+x
+c
+x
+y
+c
+cd kokoro
+y
+c
+cd realearn/server
+uv run --env-file .env main.py
+c
+y
+c
+y
+c
+manim -qh /home/atheeq/realearn/server/generations/70a6296d-0de2-40c2-80d6-f64f30757c17/modules/module_01/subsection_02/IndefiniteIntegrals.py
+y
+cd realearn/server
+manim -qh /home/atheeq/realearn/server/generations/70a6296d-0de2-40c2-80d6-f64f30757c17/modules/module_01/subsection_02/IndefiniteIntegrals.py
+y
+c
+y
+c
+uv run --env-file .env main.py
+y
+cd realearn/server
+c
+c
+x
+c
+cd realearn/server
+c
+y
+c
+x
+c
+overlay use .venv/bin/activate.nu
+c
+y
+c
+y
+c
+x
+./start-gpu.sh
+cd kokoro
+y
+cd
+c
+cd realearn/server
+c
+y
+c
+uv run --env-file .env -m src.test
+c
+y
+c
+manim -qh /home/atheeq/realearn/server/outputs/module_01/IndefiniteIntegrals.py
+y
+c
+y
+c
+uv run --env-file .env -m src.test
+c
+y
+c
+y
+uv run --env-file .env -m src.test
+c
+y
+c
+manim -qh /home/atheeq/realearn/server/outputs/module_01/AntiDifferentiationExplanation.py
+uv run --env-file .env -m src.test
+y
+c
+y
+c
+y
+c
+overlay use .venv/bin/activate.nu
+uv run --env-file .env -m src.test
+c
+y
+c
+manim -ql /home/atheeq/realearn/server/outputs/module_01/IntegrationExplanation.py
+c
+overlay use .venv/bin/activate.nu
+manim -ql /home/atheeq/realearn/server/outputs/module_01/IntegrationExplanation.py
+y
+c
+manim -ql /home/atheeq/realearn/server/outputs/module_01/IntegrationExplanation.py
+c
+y
+c
+manim -ql /home/atheeq/realearn/server/generations/6e97a79f-2b2f-4e31-84fd-98c585f7f093/modules/module_01/subsection_02/IndefiniteIntegral.py
+y
+c
+uv run --env-file .env -m src.test
+y
+uv run --env-file .env -m src.test
+y
+uv run --env-file .env -m src.test
+c
+y
+c
+y
+c
+c
+y
+c
+x
+uv run --env-file .env -m src.test
+c
+y
+c
+uv run --env-file .env -m src.test
+y
+y
+c
+uv run --env-file .env -m src.test
+x
+./start-gpu.sh
+c
+x
+c
+x
+c
+cd realearn/server
+c
+y
+c
+cd kokoro
+c
+y
+c
+y
+c
+y
+c
+overlay use .venv/bin/activate.nu
+c
+uv run --env-file .env -m src.test
+c
+y
+c
+y
+manim -ql /home/atheeq/realearn/server/outputs/module_01/IntegrationExplanation.py
+c
+y
+c
+y
+c
+uv run --env-file .env -m src.test
+c
+y
+c
+uv run --env-file .env -m src.test
+c
+y
+c
+manim -ql /home/atheeq/realearn/server/outputs/module_01/IntegrationConcept.py
+c
+y
+c
+y
+c
+uv run --env-file .env -m src.test
+c
+y
+uv run --env-file .env -m src.test
+c
+c
+y
+c
+uv run --env-file .env -m src.test
+c
+y
+c
+uv run --env-file .env -m src.test
+c
+uv run --env-file .env -m src.test
+c
+uv run --env-file .env -m src.test
+c
+y
+c
+y
+c
+y
+c
+y
+c
+y
+c
+y
+c
+x
+overlay use .venv/bin/activate.nu
+c
+uv run --env-file .env -m src.test
+c
+y
+c
+uv run --env-file .env -m src.test
+y
+c
+uv run --env-file .env -m src.test
+c
+y
+c
+y
+c
+y
+cd
+c
+uv run --env-file .env -m src.test
+c
+y
+cd realearn/server
+c
+y
+c
+y
+c
+y
+c
+x
+c
+y
+uv run --env-file .env -m src.test
+c
+uv run --env-file .env -m src.test
+c
+uv run --env-file .env -m src.test
+y
+c
+y
+c
+overlay use .venv/bin/activate.nu
+c
+ghostty
+c
+sudo dnf install ghostty
+c
+y
+c
+y
+c
+y
+c
+y
+c
+d
+c
+cd realearn/server
+c
+y
+c
+y
+c
+y
+c
+overlay use .venv/bin/activate.nu
+c
+y
+c
+x
+c
+y
+c
+y
+c
+y
+c
+cd ..
+c
+uv run --env-file .env -m src.test
+y
+c
+c
+y
+c
+uv run --env-file .env -m src.test
+c
+y
+c
+cd ..
+c
+y
+cd
+cd realearn/server
+c
+uv run --env-file .env -m src.test
+c
+y
+c
+y
+c
+uv run --env-file .env -m src.test
+c
+uv run --env-file .env -m src.test
+c
+y
+c
+y
+c
+uv run --env-file .env -m src.test
+c
+uv run --env-file .env -m src.test
+c
+cd realearn/client
+c
+bun run dev
+c
+y
+c
+y
+c
+y
+gitui
+y
+c
+y
+gitui
+c
+cd realearn/client
+c
+git add .
+git commit -m (date now | format date "%Y%m%d%H%M%S")
+c
+y
+c
+y
+c
+uv run --env-file .env -m src.test
+c
+uv run --env-file .env -m src.test
+c
+y
+c
+uv run --env-file .env -m src.test
+c
+y
+c
+y
+c
+uv run --env-file .env -m src.test
+c
+uv run --env-file .env -m src.test
+c
+u
+c
+uv run --env-file .env -m src.test
+cd realearn/server
+c
+cd realearn/client
+c
+uv run --env-file .env -m src.test
+c
+uv run --env-file .env -m src.test
+y
+c
+c 
+y
+c
+y
+c
+y
+c
+uv run --env-file .env -m src.test
+c
+y
+c
+y
+c
+git push
+c
+y
+c
+cd
+c
+uv run --env-file .env -m src.test
+c
+uv run --env-file .env -m src.test
+c
+y
+c
+y
+c
+y
+c
+y
+c
+uv run --env-file .env -m src.test
+c
+y
+c
+uv run --env-file .env -m src.test
+y
+c
+c
+uv run --env-file .env -m src.test
+c
+y
+c
+cd realearn/client
+cd realearn/server
+c
+y
+c
+y
+c
+manim -ql /home/atheeq/realearn/server/outputs/module_01/IntegrationBigPicture.py
+y
+c
+uv run --env-file .env -m src.test
+y
+c
+cd ..
+c
+cd ..
+c
+manim -ql /home/atheeq/realearn/server/outputs/module_01/IntegrationBigPicture.py
+c
+y
+c
+y
+c
+y
+c
+uv run --env-file .env -m src.test
+c
+y
+c
+manim -ql /home/atheeq/realearn/server/outputs/module_01/IntegrationIntro.py
+y
+c
+c
+y
+c
+manim -qh /home/atheeq/realearn/server/outputs/module_01/IntegrationIntro.py
+y
+c
+manim -qh /home/atheeq/realearn/server/outputs/module_01/IntegrationIntro.py
+y
+c
+y
+c
+y
+c
+uv run --env-file .env -m src.test
+c
+y
+c
+y
+uv run --env-file .env -m src.test
+c
+uv run --env-file .env -m src.test
+y
+cd ..
+c
+y
+c
+manim -ql /home/atheeq/realearn/server/outputs/module_01/IntegrationIntroduction.py
+c
+uv run --env-file .env -m src.test
+c
+y
+c
+uv run --env-file .env -m src.test
+c
+y
+c
+y
+c
+uv update
+uv sync --upgrade<\n>
+uv lock --upgrade
+c
+y
+uv run --env-file .env -m src.test
+c
+overlay use .venv/bin/activate.nu
+c
+y
+c
+y
+c
+hx
+c
+y
+c
+cd ..
+c
+y
+c
+cd kokoro
+c
+uv run --env-file .env -m src.test
+c
+y
+c
+y
+c
+y
+c
+uv run --env-file .env -m src.test
+c
+y
+c
+hx
+y
+c
+hx
+grep
+grep -R "{subsection}"
+grep subsection
+c
+hx
+qc
+c
+V
+grep -r "subsection" src/ --exclude-dir=outputs -<\n>-exclude-dir=generations
+c
+bash
+c
+hx
+c
+uv run --env-file .env -m src.test
+c
+uv run --env-file .env -m src.test
+c
+y
+c
+uv run --env-file .env -m src.test
+c
+uv run --env-file .env -m src.test
+c
+y
+c
+y
+c
+uv run --env-file .env -m src.test
+c
+y
+c
+y
+c
+cd ..
+c
+y
+c
+uv run --env-file .env -m src.test
+c
+y
+c
+y
+c
+y
+c
+uv run --env-file .env -m src.test
+c
+y
+c
+uv run --env-file .env -m src.test
+y
+c
+y
+c
+y
+c
+c
+uv run --env-file .env -m src.test
+c
+y
+c
+y
+c
+uv run --env-file .env -m src.test
+c
+y
+c
+uv run --env-file .env -m src.test
+c
+y
+c
+y
+c
+uv run --env-file .env -m src.test
+c
+y
+c
+y
+manim -qh /home/atheeq/realearn/server/outputs/module_01/IntegrationExplanation.py
+y
+c
+y
+c
+y
+c
+uv run --env-file .env -m src.test
+c
+y
+manim -qh /home/atheeq/realearn/server/outputs/module_01/IntegrationExplanation.py
+y
+manim -qh /home/atheeq/realearn/server/outputs/module_01/IntegrationExplanation.py
+c
+y
+manim -qh /home/atheeq/realearn/server/outputs/module_01/IntegrationExplanation.py
+y
+manim -qh /home/atheeq/realearn/server/outputs/module_01/IntegrationExplanation.py
+y
+c
+manim -qh /home/atheeq/realearn/server/outputs/module_01/IntegrationExplanation.py
+y
+c
+manim -qh /home/atheeq/realearn/server/outputs/module_01/IntegrationExplanation.py
+y
+manim -qh /home/atheeq/realearn/server/outputs/module_01/IntegrationExplanation.py
+y
+c
+manim -qh /home/atheeq/realearn/server/outputs/module_01/IntegrationExplanation.py
+y
+c
+manim -qh /home/atheeq/realearn/server/outputs/module_01/IntegrationExplanation.py
+c
+y
+c
+c
+y
+c
+y
+c
+manim -qh /home/atheeq/realearn/server/outputs/module_01/IntegrationConcept.py
+y
+manim -qh /home/atheeq/realearn/server/outputs/module_01/IntegrationConcept.py
+uv run --env-file .env -m src.test
+c
+y
+c
+manim -qh /home/atheeq/realearn/server/outputs/module_01/IntegrationConcept.py
+c
+y
+c
+uv run --env-file .env main.py
+c
+y
+c
+y
+c
+uv run --env-file .env -m src.test
+y
+c
+y
+c
+y
+c
+uv run --env-file .env -m src.test
+c
+y
+c
+y
+c
+y
+c
+uv run --env-file .env main.py
+c
+./start-gpu.sh
+c
+x
+bun run dev
+y
+cd realearn/server
+c
+y
+c
+y
+c
+y
+c
+uv init server
+c
+y
+c
+x
+c
+overlay use .venv/bin/activate.nu
+c
+y
+c
+y
+c
+uv run --env-file .env main.py
+c
+y
+c
+uv run --env-file .env main.py
+c
+y
+c
+uv run --env-file .env main.py
+c
+y
+cd kokoro
+c
+uv run --env-file .env main.py
+c
+x
+c
+y
+./start-gpu.sh
+c
+y
+c
+c
+y
+c
+y
+c
+git add .
+git commit -m (date now | format date "%Y%m%d%H%M%S")
+c
+y
+c
+y
+c
+y
+c
+git init
+c
+git add .
+git commit -m (date now | format date "%Y%m%d%H%M%S")
+c
+x
+bash
+y
+c
+cd realearn/server
+c
+y
+c
+uv init sersdfas
+y
+c
+git add .
+git commit -m (date now | format date "%Y%m%d%H%M%S")
+y
+c
+git init
+c
+git add .
+git commit -m (date now | format date "%Y%m%d%H%M%S")
+c
+y
+gitui
+y
+c
+git init
+git add .
+git commit -m (date now | format date "%Y%m%d%H%M%S")
+c
+y
+gitui
+c
+y
+c
+git remote add origin git@github.com:atheeq-rhxn/realearn_server.git<\n>git branch -M main<\n>git push -u origin main
+c
+y
+c
+uv init --app
+y
+c
+uv init --app
+c
+y
+c
+uv add fastapi --extra standard
+c
+y
+c
+y
+c
+curl https://realearn-server.onrender.com/health
+curl -X POST https://realearn-server.onrender.com/generate_wiki -H "Content-Type: application/json" -d '{"prompt": "Explain llm inference", "max_duration": 30}'
+y
+curl https://realearn-server.onrender.com/health
+curl https://realearn.onrender.com/health
+x
+c
+curl -X PUT https://ad82tmeygqjvsvzm.public.blob.vercel-storage.com/test.txt  -H "Authorization: Bearer<\n>YOUR_VERCEL_BLOB_TOKEN"  -H "Content-Type: text/plain"  -d "Hello, this is a test text file."<\n>
+curl -X PUT https://ad82tmeygqjvsvzm.public.blob.vercel-storage.com/test.txt  -H "Authorization: Bearer<\n>vercel_blob_rw_Ad82tmEyGqjvsVZM_JXaYzmYky5VqRx3Xwr0UaoFUuhCfmK"  -H "Content-Type: text/plain"  -d "Hello, this is a test text<\n>file."
+c
+x
+c
+x
+e
+y
+cd realearn/server
+c
+y
+cd realearn/client
+c
+y
+c
+y
+c
+y
+c
+y
+c
+x
+gitui
+c
+gitui
+c
+cd realearn/s
+c
+x
+curl -X PUT -H "Authorization: Bearer vercel_blob_rw_Ad82tmEyGqjvsVZM_JXaYzmYky5VqRx3Xwr0UaoFUuhCfmK" -d "test"<\n>https://ad82tmeygqjvsvzm.public.blob.vercel-storage.com/test.txt
+c
+bash
+c
+cd realearn/
+c
+cd realearn/server
+c
+./script.sh
+c
+y
+c
+y
+c
+y
+c
+git add .
+git commit -m (date now | format date "%Y%m%d%H%M%S")
+git push
+hx
+c
+curl https://realearn-server.onrender.com/health
+y
+c
+npx shadcn@latest add skeleton
+c
+bun run dev
+c
+bunx shadcn@latest add skeleton
+c
+x
+c
+cd realearn/client
+c
+curl https://realearn-server.onrender.com/health
+c
+y
+cd realearn/s
+c
+y
+c
+y
+c
+y
+./script.sh
+c
+x
+c
+y
+c
+cd kokoro
+c
+y
+uv run --env-file .env main.py
+c
+x
+c
+y
+c
+uv run --env-file .env main.py
+c
+uv run --env-file .env main.py
+c
+uv run --env-file .env main.py
+./start-gpu.sh
+x
+x
+bun run dev
+c
+cd outputs
+c
+yes | sudo dnf update
+c
+sudo dnf install ghostty
+c
+yes | sudo dnf update
+y
+c
+cd realearn/client
+c
+y
+c
+gitui
+c
+y
+c
+x
+c
+x
+c
+y
+c
+y
+c
+cd realearn/server
+c
+y
+c
+x
+y
+c
+./script.sh
+c
+y
+c
+cd kokoro
+c
+y
+c
+y
+c
+y
+c
+git remote add origin git@github.com:realearn-ai/client.git<\n>git branch -M main<\n>git push -u origin main
+git remote replace origin
+git remote remove origin
+git remote add origin git@github.com:realearn-ai/client.git<\n>git branch -M main<\n>git push -u origin main
+git remove origin
+git remote remove origin
+y
+c
+git remote remove origin
+c
+git remote remove origin
+c
+git remote add origin git@github.com:realearn-ai/client.git<\n>git branch -M main<\n>git push -u origin main
+git remote add origin git@github.com:realearn-ai/client.git<\n>git branch -M main<\n>git push -u origin main --force
+git push --force
+git remote add origin git@github.com:realearn-ai/client.git<\n>git branch -M main<\n>git push -u origin main
+git branch -M main<\n>git push -u origin main
+c
+y
+c
+git remote remove origin
+c
+git remote add origin git@github.com:realearn-ai/server.git<\n>git branch -M main<\n>git push -u origin main
+c
+y
+c
+git add .
+git commit -m (date now | format date "%Y%m%d%H%M%S")
+y
+c
+git add .
+git commit -m (date now | format date "%Y%m%d%H%M%S")
+c
+y
+c
+git add .
+git commit -m (date now | format date "%Y%m%d%H%M%S")
+git push
+y
+c
+y
+c
+uvicorn main:app --host 0.0.0.0 --port $PORT
+c
+hx
+y
+c
+y
+c
+c
+y
+c
+gitui
+y
+c
+y
+c
+gitui
+c
+git add .
+git commit -m (date now | format date "%Y%m%d%H%M%S")
+git push
+y
+c
+c
+y
+c
+cd
+c
+uvicorn main:app --host 0.0.0.0 --port $PORT
+c
+y
+c
+curl -fsSL https://raw.githubusercontent.com/render-oss/cli/refs/heads/main/bin/install.sh | sh
+render login
+c
+render list services
+render
+render services
+c
+y
+c
+cd
+c
+x
+c
+cd realearn/server
+c
+hx
+x
+c
+x
+c
+y
+c
+cd realearn/client
+c
+y
+c
+bash
+c
+cd realearn/client
+c
+y
+c
+x
+y
+c
+y
+c
+y
+cd realearn/client
+c
+y
+c
+y
+cd realearn/server
+c
+x
+overlay use .venv/bin/activate.nu
+c
+y
+c
+cd kokoro
+c
+x
+c
+hx
+c
+hx
+• Cloud Platforms: Deploy via integrations like DigitalOcean App Platform, AWS ECS/Fargate, or Google Cloud Run using Docker<\n>images.<\n>hx
+hx
+c
+y
+c
+cd
+c
+y
+c
+y
+c
+cd kokoro
+c
+gitui
+c
+curl https://realearn-tts.up.railway.app/health
+hx
+c
+x
+c
+./start-gpu.sh
+c
+bun run dev
+c
+x
+c
+x
+c
+x
+c
+cd realearn/server
+c
+y
+gitui
+c
+git add .
+git commit -m (date now | format date "%Y%m%d%H%M%S")
+y
+gitui
+c
+y
+c
+y
+c
+y
+c
+cd realearn/server
+y
+c
+y
+c
+cd realearn/cl
+c
+y
+cd realearn/server
+y
+c
+y
+cd realearn/client
+c
+y
+c
+cd realearn/client
+cd realearn/server
+c
+y
+c
+cd realearn/server
+c
+y
+c
+y
+cd
+c
+cd realearn/client
+y
+c
+uv run --env-file .env main.py
+c
+bun run dev
+c
+x
+x
+c
+y
+c
+cd realearn/server
+c
+de
+c
+cd realearn/client
+c
+cd realearn/client
+c
+y
+c
+ps aux | grep chrome<\n>
+bun run dev
+c
+hx
+c
+y
+c
+y
+c
+gitui
+c
+hx
+c
+y
+c
+yu
+c
+y
+c
+y
+c
+y
+c
+y
+c
+echo "# accountability" >> README.md<\n>git init<\n>git add README.md<\n>git commit -m "first commit"<\n>git branch -M main<\n>git remote add origin git@github.com:atheeq-rhxn/accountability.git<\n>git push -u origin main
+y
+c
+bash
+c
+git commit -m (date now | format date "%Y%m%d%H%M%S")
+git push
+cd realearn/server
+c
+y
+c
+cd realearn/client
+c
+y
+c
+y
+c
+hx
+c
+x
+c
+y
+y
+c
+y
+c
+y
+c
+y
+c
+y
+c
+y
+c
+x
+c
+y
+c
+y
+c
+y
+x
+c
+y
+gitui
+c
+y
+gitui
+c
+y
+c
+y
+c
+y
+c
+y
+c
+x
+uv run --env-file .env main.py
+c
+bash
+c
+uv run --env-file .env main.py
+c
+y
+c
+c
+y
+c
+uv run --env-file .env main.py
+c
+y
+c
+uv run --env-file .env main.py
+c
+y
+c
+y
+c
+y
+c
+hx
+cd
+c
+cd realearn/server
+c
+uv run --env-file .env main.py
+c
+uv run --env-file .env main.py
+c
+uv run --env-file .env main.py
+uv
+uv run --env-file .env main.py
+y
+c
+y
+uv run --env-file .env main.py
+c
+uv run --env-file .env main.py
+c
+uv run --env-file .env main.py
+bash
+c
+cd realearn/client
+c
+y
+c
+y
+gitui
+c
+cd realearn/server
+c
+uv run --env-file .env main.py
+c
+y
+c
+bun run dev
+b
+uv run --env-file .env main.py
+c
+uv run --env-file .env main.py
+c
+y
+c
+uv run --env-file .env main.py
+c
+y
+uv run --env-file .env main.py
+c
+y
+c
+git add .
+git commit -m (date now | format date "%Y%m%d%H%M%S")
+gitui
+git push
+c
+y
+c
+y
+c
+bash
+x
+bun run dev
+cd realearn/client
+c
+uv run --env-file .env main.py
+c
+y
+c
+x
+y
+cd realearn/se
+c
+y
+c
+y
+c
+uv run --env-file .env main.py
+c
+y
+c
+cd kokoro
+c
+uv run --env-file .env main.py
+c
+y
+c
+uv run --env-file .env main.py
+c
+y
+c
+uv run --env-file .env main.py
+c
+y
+c
+cd ..
+c
+y
+c
+y
+c
+y
+c
+./start-gpu.sh
+c
+cd realearn/client
+c
+y
+c
+y
+cd realearn/server
+c
+y
+c
+o
+overlay use .venv/bin/activate.nu
+c
+y
+c
+cd realearn/client
+c
+y
+c
+cd realearn/server
+c
+x
+c
+overlay use .venv/bin/activate.nu
+c
+y
+y
+c
+x
+x
+x
+cd realearn/server
+c
+y
+c
+y
+cd realearn/client
+c
+y
+c
+x
+c
+uv run --env-file .env main.py
+c
+y
+c
+vercel
+vercel --list
+c
+cd
+c
+y
+c
+y
+c
+git add origin
+git remote add origin git@github.com:atheeq-rhxn/tts.git
+git remote remove origin
+git remote add origin git@github.com:atheeq-rhxn/tts.git
+git pull
+git checkout main<\n>
+git pull
+c
+git pull --force
+c
+y
+c
+vercel build
+c
+vercel
+c
+y
+c
+vercel
+c
+vercel build
+overlay use .venv/bin/activate.nu
+vercel build
+x
+c
+cd realearn/tts
+c
+overlay use .venv/bin/activate.nu
+which python
+python --version
+c
+which python
+python --version
+vercel build
+y
+c
+y
+c
+x
+c
+bun run dev
+c
+cd realearn/client
+c
+y
+c
+y
+c
+gitui
+c
+y
+c
+cd server
+c
+y
+c
+cd client
+c
+y
+c
+y
+cd server
+c
+x
+c
+y
+c
+cd ..
+c
+y
+c
+uv run --env-file .env main.py
+c
+uv run --env-file .env main.py
+Hy
+c
+y
+c
+uv run --env-file .env main.py
+y
+c
+cd ..
+c
+y
+c
+uv run --env-file .env main.py
+c
+uv run --env-file .env main.py
+c
+y
+c
+uv run --env-file .env main.py
+c
+y
+c
+y
+c
+curl -X POST http://localhost:8000/chat -H "Content-Type: application/json" -d '{"message":<\n>"Hello"}'
+curl -X POST http://localhost:8000/chat -H "Content-Type: application/json" -d '{"message": "What did I say first?",<\n>"session_id": "abc123"}'
+uv run --env-file .env main.py
+y
+uv run --env-file .env main.py
+c
+y
+c
+u
+c
+curl -X POST http://localhost:8000/chat -H "Content-Type: application/json" -d '{"message":<\n>"Hello"}'
+uv run --env-file .env main.py
+c
+y
+c
+curl -X POST http://localhost:8000/chat -H "Content-Type: application/json" -d '{"message":<\n>"Hello"}'
+uv run --env-file .env main.py
+c
+uv run --env-file .env main.py
+c
+uv run --env-file .env main.py
+y
+c
+bash
+c
+y
+c
+y
+c
+y
+c
+y
+c
+uv run --env-file .env main.py
+y
+c
+curl -X POST "http://localhost:8000/chat" -H "Content-Type: application/json" -d '{"message": "Hello", "session_id": ""}' -N
+bash
+y
+uv run --env-file .env test_streaming.py
+y
+uv run --env-file .env test_streaming.py
+curl -X POST "http://localhost:8000/chat" -H "Content-Type: application/json" -d '{"message": "Hello", "session_id": ""}' -N
+uv run --env-file .env main.py
+c
+curl -X POST "http://localhost:8000/chat" -H "Content-Type: application/json" -d '{"message": "Hello"}' -N
+curl -X POST "http://localhost:8000/chat" -H "Content-Type: application/json" -d '{"message": "Hello", "session_id": ""}' -N
+curl -X POST "http://localhost:8000/chat" -H "Content-Type: application/json" -d '{"message": "write a long story about 500 words", "session_id": ""}' -N
+c
+y
+c
+curl -X POST "http://localhost:8000/chat" -H "Content-Type: application/json" -d '{"message": "write a long story about 500 words", "session_id": ""}' -N
+uv run --env-file .env main.py
+c
+uv run --env-file .env main.py
+c
+curl -X POST "http://localhost:8000/chat" -H "Content-Type: application/json" -d '{"message": "write a long story about 500 words", "session_id": ""}' -N
+uv run --env-file .env main.py
+c
+c
+uv run --env-file .env main.py
+c
+uv run --env-file .env main.py
+bun run dev
+c
+uv run --env-file .env main.py
+c
+x
+x
+c
+y
+c
+bash
+c
+y
+c
+y
+c
+y
+c
+uv run --env-file .env main.py
+u
+uv run --env-file .env main.py
+c
+y
+c
+y
+c
+curl -X POST "http://localhost:8000/chat" -H "Content-Type: application/json" -d '{"message": "write a long story about 500 words", "session_id": ""}' -N
+y
+c
+y
+c
+curl -X POST http://localhost:8000/chat  -H "Content-Type: application/json"  -d '{"message": "Hello, how are you?",<\n>"session_id": "test123"}'
+uv run --env-file .env main.py
+c
+bash
+uv run --env-file .env main.py
+x
+c
+cd server
+c
+y
+gc
+c
+y
+c
+curl -N http://localhost:8000/chat -H "Content-Type: application/json" -d '{"message": "Tell a story"}'
+x
+c
+uv run --env-file .env main.py
+uv run --env-file .env main.py
+c
+c
+c
+uv run --env-file .env main.py
+c
+y
+c
+uv run --env-file .env main.py
+y
+c
+cd realearn/client
+y
+c
+x
+c
+x
+c
+y
+c
+y
+git add .
+git commit -m (date now | format date "%Y%m%d%H%M%S")
+c
+x
+cd realearn/server
+c
+y
+c
+y
+c
+y
+c
+ruff check .
+y
+c
+ruff check .
+ruff check . --fix
+ruff format
+c
+y
+c
+cd ..
+c
+uv add mem0ai
+c
+uv sync --upgrade<\n>
+c
+uv run --env-file .env main.py
+c
+cd realearn/client
+c
+y
+c
+c
+uv run --env-file .env main.py
+cy
+c
+y
+c
+uv run --env-file .env main.py
+c
+y
+c
+uv run --env-file .env main.py
+c
+bash
+c
+y
+c
+hx
+c
+y
+c
+Tool use with function calling is unsupported
+c
+cd realearn
+docker
+git clone https://github.com/ItzCrazyKns/Perplexica.git
+c
+uv run --env-file .env main.py
+cd realearn/client
+c
+bu
+c
+cd realearn/server
+c
+cd tts
+./start-gpu.sh
+c
+cd kokoro
+uv run --env-file .env main.py
+c
+y
+c
+y
+cd ..
+c
+cd ..
+c
+uv run --env-file .env main.py
+c
+x
+y
+cd
+c
+y
+c
+curl -X POST "http://localhost:8880/dev/speech"   -H "Content-Type: application/json"   -d '{<\n>    "model": "kokoro",<\n>    "input": "hi how are you?",<\n>    "voice": "af_heart",<\n>    "speed": 1.0,<\n>    "response_format": "mp3",<\n>    "stream": false<\n>  }'<\n>
+y
+c
+uv run --env-file .env main.py
+c
+x
+c
+uv run --env-file .env main.py
+c
+bash
+c
+y
+c
+x
+c
+uv run --env-file .env main.py
+c
+y
+c
+y
+c
+y
+c
+uv run --env-file .env main.py
+c
+y
+c
+y
+c
+uv run --env-file .env main.py
+c
+y
+c
+overlay use .venv/bin/activate.nu
+c
+uv run --env-file .env main.py
+c
+x
+c
+y
+c
+cd ..
+c
+cd realearn/client
+c
+y
+cd realearn/server
+c
+uv run --env-file .env main.py
+c
+y
+c
+git remote remove origin
+git remote add origin git@github.com:atheeq-rhxn/server.git<\n>git branch -M main<\n>git push -u origin main
+c
+git remote add origin git@github.com:atheeq-rhxn/realearn-server.git<\n>git branch -M main<\n>git push -u origin main
+git remote remove origin
+git remote add origin git@github.com:atheeq-rhxn/realearn-server.git<\n>git branch -M main<\n>git push -u origin main
+c
+git remote add origin git@github.com:atheeq-rhxn/realearn-server.git<\n>git branch -M main<\n>git push -u origin main
+git remote remove origin
+c
+git remote add origin git@github.com:atheeq-rhxn/realearn-server.git<\n>git branch -M main<\n>git push -u origin main
+c
+y
+c
+y
+c
+git add .
+git clone https://github.com/ItzCrazyKns/Perplexica.git
+c
+git commit -m (date now | format date "%Y%m%d%H%M%S")
+git push
+c
+y
+c
+cd realearn/client
+c
+y
+c
+y
+gitui
+c
+y
+c
+git add .
+git commit -m (date now | format date "%Y%m%d%H%M%S")
+git push
+y
+bun dev
+c
+y
+git add .
+git commit -m (date now | format date "%Y%m%d%H%M%S")
+git push
+c
+y
+c
+git add .
+git commit -m (date now | format date "%Y%m%d%H%M%S")
+git push
+y
+c
+git add .
+git commit -m (date now | format date "%Y%m%d%H%M%S")
+git push
+git remote add origin git@github.com:atheeq-rhxn/realearn.git
+git remote remove origin
+git remote add origin git@github.com:atheeq-rhxn/realearn.git
+git push
+git branch -M main<\n>git push -u origin main
+c
+y
+c
+x
+cd realearn/client
+c
+x
+c
+git add .
+git commit -m (date now | format date "%Y%m%d%H%M%S")
+git push
+c
+cd realearn/server
+c
+x
+cd kokoro
+c
+uv run --env-file .env main.py
+c
+y
+c
+y
+c
+y
+cd
+c
+cd tts
+y
+c
+vercel build
+x
+c
+overlay use .venv/bin/activate.nu
+c
+vercel build
+c
+x
+vercel 
+c
+vercel --h
+vercel --help
+vercel dev
+c
+x
+c
+y
+c
+vercel
+c
+y
+c
+gitui
+c
+vercel
+cd tts
+c
+vercel
+c
+overlay use .venv/bin/activate.nu
+c
+vercel
+c
+gitiu
+gitui
+c
+y
+gitui
+c
+git add .
+git commit -m (date now | format date "%Y%m%d%H%M%S")
+git push
+y
+c
+git add .
+git commit -m (date now | format date "%Y%m%d%H%M%S")
+git push
+cd realearn
+c
+y
+gitui
+c
+y
+gitui
+c
+git add .
+git commit -m (date now | format date "%Y%m%d%H%M%S")
+git push
+c
+y
+c
+hx
+c
+y
+c
+x
+cd opencode
+c
+y
+c
+x
+y
+c
+cd realearn
+c
+u
+c
+y
+c
+x
+cd realearn
+c
+y
+c
+y
+c
+y
+c
+git clone https://github.com/AtticusZeller/fastapi_supabase_template.git
+c
+y
+c
+y
+c
+y
+c
+y
+c
+y
+c
+x
+cd api
+c
+y
+c
+y
+git add .
+y
+gitui
+c
+y
+c
+x
+c
+y
+c
+y
+c
+git add .
+git clone https://github.com/AtticusZeller/fastapi_supabase_template.git
+c
+git commit -m (date now | format date "%Y%m%d%H%M%S")
+c
+git push
+x
+cd client
+c
+c
+x
+c
+cd 
+cd client
+c
+y
+c
+x
+c
+y
+c
+cd api
+cd
+cd realearn/api
+c
+y
+c
+y
+c
+x
+x
+overlay use .venv/bin/activate.nu
+c
+y
+c
+uv run --env-file .env main.py
+x
+uv run --env-file .env main.py
+c
+bash
+c
+uv run --env-file .env main.py
+c
+y
+c
+uv run --env-file .env main.py
+y
+c
+y
+c
+uv run --env-file .env main.py
+c
+bash
+c
+y
+c
+uv run --env-file ../.env python -m alembic upgrade head
+uv run --env-file .env python -m alembic upgrade head
+uv run --env-file .env main.py
+uv run --env-file .env main.py
+y
+c
+curl -X GET http://localhost:8000/health
+c
+cd ..
+c
+y
+c
+by
+c
+bash
+c
+y
+c
+y
+c
+cd kokoro
+c
+y
+c
+./start-gpu.sh
+c
+y
+gitui
+c
+git reset --hard HEAD
+c
+y
+gitui
+git reset --hard
+c
+y
+gitui
+c
+cd kokoro
+y
+c
+y
+c
+./start-gpu.sh
+c
+cd api
+y
+c
+uv run --env-file .env main.py
+uv run --env-file .env main.py
+c
+c
+bash
+c
+uv run --env-file .env main.py
+c
+uv run --env-file .env main.py
+c
+uv run --env-file .env main.py
+c
+uv run --env-file .env main.py
+c
+uv run --env-file .env main.py
+c
+x
+uv run --env-file .env main.py
+c
+uv run --env-file .env main.py
+c
+y
+c
+cd ..
+c
+uv run --env-file .env main.py
+c
+y
+c
+x
+c
+bash
+c
+y
+c
+git add .
+git commit -m (date now | format date "%Y%m%d%H%M%S")
+c
+ty
+overlay use .venv/bin/activate.nu
+ty
+ty check
+c
+y
+gitui
+y
+c
+y
+c
+y
+c
+uv add --dev "ty"
+c
+y
+c
+uv sync --upgrade
+uv lock --upgrade
+c
+y
+c
+y
+gitui
+c
+uv run --env-file .env main.py
+c
+y
+c
+uv run --env-file .env main.py
+c
+uv run --env-file .env main.py
+uv run --env-file .env main.py
+c
+uv
+c
+uv run --env-file .env main.py
+c
+uv run --env-file .env main.py
+c
+y
+c
+y
+c
+y
+ruff --check
+ruff . check
+ruff check .
+c
+ruff check .
+ruff check . --fix
+ruff check .
+ruff format
+ruff check .
+y
+c
+ruff check .
+y
+c
+y
+c
+y
+uv run --env-file -m alembic
+y
+c
+y
+c
+cd realearn/api
+c
+y
+c
+y
+c
+y
+c
+y
+c
+uv run --env-file -m alembic
+uv run --env-file .env main.py
+c
+y
+c
+y
+c
+ruff check . --fix
+c
+ruff check . --fix
+c
+y
+c
+ruff check .
+ruff check . --fix
+c
+uv run --env-file .env main.py
+c
+c
+y
+c
+y
+c
+git add .
+git commit -m (date now | format date "%Y%m%d%H%M%S")
+git push
+c
+y
+c
+y
+c
+y
+hx
+c
+y
+c
+git clone https://github.com/AtticusZeller/fastapi_supabase_template.git
+y
+c
+y
+c
+y
+c
+y
+c
+bash
+y
+y
+c
+y
+c
+y
+c
+y
+c
+y
+c
+x
+xe
+uv run --env-file .env main.py
+c
+x
+bun dev
+./start-gpu.sh
+cd realearn/api
+c
+y
+c
+overlay use .venv/bin/activate.nu
+alembic
+c
+uv run alembic
+c
+alembic
+uv run -m alembic
+uv run --env-file .env -m alembic
+x
+c
+uv run --env-file .env -m alembic current
+y
+c
+c
+uv run --env-file .env -m alembic current
+x
+uv run --env-file .env -m alembic upgrade head<\n>
+y
+c
+uv run --env-file .env -m alembic revision --autogenerate -m  (date now | format date "%Y%m%d%H%M%S")<\n>
+uv run --env-file .env -m alembic history<\n>
+c
+x
+c
+uv run --env-file .env -m alembic history<\n>
+c
+y
+c
+uv run --env-file .env main.py
+c
+cd tts
+bash
+y
+c
+y
+c
+uv run --env-file .env main.py
+c
+uv run --env-file .env main.py
+c
+cd realearn/api
+c
+y
+c
+git add .
+c
+git commit -m (date now | format date "%Y%m%d%H%M%S")
+c
+git push
+c
+git push
+cd realearn/client
+y
+c
+y
+c
+y
+c
+y
+c
+y
+c
+x
+c
+y
+c
+git add .
+git commit -m (date now | format date "%Y%m%d%H%M%S")
+git push
+y
+c
+git add .
+git commit -m (date now | format date "%Y%m%d%H%M%S")
+git push
+y
+c
+cd ..
+c
+git add .
+git commit -m (date now | format date "%Y%m%d%H%M%S")
+git push
+y
+c
+hx
+c
+y
+cd
+c
+y
+c
+cd ..
+c
+y
+c
+bun dev
+c
+cd realearn/client
+c
+y
+c
+y
+c
+y
+c
+x
+y
+git pull --force
+y
+c
+y
+c
+y
+gitui
+c
+y
+c
+git add .
+git commit -m (date now | format date "%Y%m%d%H%M%S")
+git push
+git pull --force
+c
+y
+c
+git pull --force
+c
+y
+c
+y
+git pull --force
+c
+y
+c
+git clone https://github.com/atheeq-rhxn/realearn.git
+c
+git clone https://github.com/atheeq-rhxn/realearn.git
+gh
+c
+sudo dnf install dnf5-plugins<\n>sudo dnf config-manager addrepo --from-repofile=https://cli.github.com/packages/rpm/gh-cli.repo<\n>sudo dnf install gh --repo gh-cli
+c
+y
+c
+x
+cd realearn
+gh repo clone atheeq-rhxn/realearn
+gh auth login
+c
+gh repo clone atheeq-rhxn/realearn
+c
+y
+c
+y
+c
+git add .
+git commit -m (date now | format date "%Y%m%d%H%M%S")
+y
+c
+verce
+c
+vercel
+c
+y
+c
+gitui
+git add .
+git commit -m (date now | format date "%Y%m%d%H%M%S")
+git push --force
+cd realearn-api
+cd api
+y
+c
+y
+gitui
+c
+git push --force
+c
+y
+c
+y
+c
+y
+c
+y
+cd client
+c
+y
+c
+y
+c
+x
+c
+cd realearn/api
+c
+y
+c
+bun install @supabase/supabase-js @supabase/auth-ui-react @supabase/auth-ui-shared
+y
+c
+y
+c
+bun create better-t-stack@latest
+y
+c
+ls
+hx
+y
+c
+c
+y
+cd realearn/api
+y
+c
+y
+c
+y
+c
+cd
+c
+cd realearn
+c
+bu
+c
+bun create better-t-stack@latest
+y
+c
+y
+c
+uv run --env-file .env main.py
+c
+uv run --env-file .env main.py
+c
+y
+yh
+y
+c
+uv run --env-file .env main.py
+y
+cd realearn/api
+c
+uv run --env-file .env main.py
+y
+c
+y
+c
+uv run --env-file .env main.py
+cd realearn/api
+x
+c
+bash
+c
+uv run --env-file .env -m alembic upgrade head<\n>
+y
+c
+uv run --env-file .env -m alembic revision --autogenerate -m "description"<\n>
+uv run --env-file .env main.py
+c
+y
+c
+y
+c
+y
+c
+curl -X POST "http://localhost:8000/api/v1/auth/signup" -H "Content-Type: application/json" -d<\n>'{"email":"test@example.com","password":"password123","full_name":"Test User"}'
+curl -X POST "http://localhost:8000/api/v1/auth/signup" \<\n>  -H "Content-Type: application/json" \<\n>  -d '{"email":"test@example.com","password":"password123","full_name":"Test User"}'<\n>
+bash
+y
+c
+uv run --env-file .env main.py
+y
+c
+y
+c
+git clone https://github.com/atheeq-rhxn/realearn-api.git
+c
+gh
+c
+curl -X POST "http://localhost:8000/api/v1/auth/signup" -H "Content-Type: application/json" -d<\n>'{"email":"test@example.com","password":"password123","full_name":"Test User"}'
+gh repo clone atheeq-rhxn/realearn-api
+c
+y
+c
+y
+c
+y
+c
+y
+gitui
+c
+y
+c
+y
+c
+x
+c
+y
+c
+y
+c
+x
+c
+x
+c
+x
+c
+uv run --env-file .env uvicorn main:app --reload
+uvicord
+uvicorn
+c
+x
+y
+c
+bash
+bun dev
+x
+ss -tulpn | grep :8000
+bash
+c
+y
+c
+y
+c
+y
+c
+hx
+c
+x
+y
+c
+x
+c
+gitui
+c
+x
+uv run --env-file .env main.py
+c
+y
+c
+bash
+c
+cd realearn/client
+c
+x
+c
+cd realearn/client
+c
+y
+c
+uv run --env-file .env main.py
+c
+y
+c
+uv run --env-file .env main.py
+y
+c
+uv run --env-file .env main.py
+y
+c
+cd realearn/api
+c
+uv run --env-file .env main.py
+c
+c
+y
+c
+x
+c
+uv run --env-file .env main.py
+c
+y
+c
+x
+c
+uv run --env-file .env main.py
+c
+uv run --env-file .env -m alembic current<\n>
+uv run --env-file .env -m alembic upgrade head<\n>
+uv run --env-file .env -m alembic stamp 2a00a6969223<\n>
+uv run --env-file .env -m alembic upgrade head<\n>
+c
+uv run --env-file .env -m alembic revision --autogenerate -m (date now | format date "%Y%m%d%H%M%S")
+cd realearn/api
+uv run --env-file .env -m alembic revision --autogenerate -m (date now | format date "%Y%m%d%H%M%S")
+c
+uv run --env-file .env -m alembic history<\n>
+cd realearn/api
+uv run --env-file .env -m alembic history<\n>
+c
+y
+c
+uv run --env-file .env -m alembic history<\n>
+c
+uv run --env-file .env main.py
+c
+y
+c
+uv run --env-file .env -m alembic history<\n>
+uv run --env-file .env main.py
+c
+uv run --env-file .env -m alembic upgrade head
+uv run --env-file .env main.py
+c
+cd tts
+uv run --env-file .env main.py
+c
+hx
+c
+y
+c
+cd client
+c
+uv run --env-file .env main.py
+c
+uv run --env-file .env main.py
+c
+x
+c
+uv run --env-file .env main.py
+c
+uv run --env-file .env -m alembic upgrade head
+uv run --env-file .env -m alembic revision --autogenerate -m (date now | format date "%Y%m%d%H%M%S")
+c
+uv run --env-file .env main.py
+c
+y
+c
+uv run --env-file .env -m alembic current<\n>
+uv run --env-file .env -m alembic upgrade head<\n>
+x
+y
+c
+x
+./start-gpu.sh
+c
+y
+c
+y
+c
+y
+c
+uv run --env-file .env main.py
+c
+uv run --env-file .env main.py
+c
+x
+x
+c
+y
+c
+x
+c
+y
+c
+y
+c
+y
+cd
+c
+y
+c
+curl -X GET "http://localhost:8000/api/v1/spaces" -H "Authorization: Bearer<\n>eyJhbGciOiJIUzI1NiIsImtpZCI6IkZYTUhyT1E5bHZaQnRTS1AiLCJ0eXAiOiJKV1QifQ.<\n>eyJpc3MiOiJodHRwczovL2FwYmZqa2NqYnR0eHhzeG9ieWRzLnN1cGFiYXNlLmNvL2F1dGgvdjEiLCJzdWIiOiI1MDU0YjIwMy04ZTdjLTQyYzAtYmY2OS04MDg5NWQ1MDQzMmQiLCJhdWQiOiJhdXRoZW50aWNhdGVkIiwiZXhwIjoxNzU5NzU2NTg0LCJpYXQiOjE3NTk3NTI5ODQsImVtYWlsIjoiYXRoZWVxLnJoeG5AZ21haWwuY29tIiwicGhvbmUiOiIiLCJhcHBfbWV0YWRhdGEiOnsicHJvdmlkZXIiOiJlbWFpbCIsInByb3ZpZGVycyI6WyJlbWFpbCJdfSwidXNlcl9tZXRhZGF0YSI6eyJlbWFpbCI6ImF0aGVlcS5yaHhuQGdtYWlsLmNvbSIsImVtYWlsX3ZlcmlmaWVkIjp0cnVlLCJwaG9uZV92ZXJpZmllZCI6ZmFsc2UsInN1YiI6IjUwNTRiMjAzLThlN2MtNDJjMC1iZjY5LTgwODk1ZDUwNDMyZCJ9LCJyb2xlIjoiYXV0aGVudGljYXRlZCIsImFhbCI6ImFhbDEiLCJhbXIiOlt7Im1ldGhvZCI6InBhc3N3b3JkIiwidGltZXN0YW1wIjoxNzU5NzUyOTg0fV0sInNlc3Npb25faWQiOiI0OTc3ZmNlYy01NzNmLTQzYzQtYTAzMS01NzNhMDYwYTEyYjgiLCJpc19hbm9ueW1vdXMiOmZhbHNlfQ.<\n>NQa48VJ0C2SQki6dhWQXq6Nw5IEgOxQxquvCGz6zo7Q"
+c
+curl -X GET "http://localhost:8000/api/v1/spaces" -H "Authorization: Bearer eyJhbGciOiJIUzI1NiIsImtpZCI6IkZYTUhyT1E5bHZaQnRTS1AiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJodHRwczovL2FwYmZqa2NqYnR0eHhzeG9ieWRzLnN1cGFiYXNlLmNvL2F1dGgvdjEiLCJzdWIiOiI1MDU0YjIwMy04ZTdjLTQyYzAtYmY2OS04MDg5NWQ1MDQzMmQiLCJhdWQiOiJhdXRoZW50aWNhdGVkIiwiZXhwIjoxNzU5NzU2NTg0LCJpYXQiOjE3NTk3NTI5ODQsImVtYWlsIjoiYXRoZWVxLnJoeG5AZ21haWwuY29tIiwicGhvbmUiOiIiLCJhcHBfbWV0YWRhdGEiOnsicHJvdmlkZXIiOiJlbWFpbCIsInByb3ZpZGVycyI6WyJlbWFpbCJdfSwidXNlcl9tZXRhZGF0YSI6eyJlbWFpbCI6ImF0aGVlcS5yaHhuQGdtYWlsLmNvbSIsImVtYWlsX3ZlcmlmaWVkIjp0cnVlLCJwaG9uZV92ZXJpZmllZCI6ZmFsc2UsInN1YiI6IjUwNTRiMjAzLThlN2MtNDJjMC1iZjY5LTgwODk1ZDUwNDMyZCJ9LCJyb2xlIjoiYXV0aGVudGljYXRlZCIsImFhbCI6ImFhbDEiLCJhbXIiOlt7Im1ldGhvZCI6InBhc3N3b3JkIiwidGltZXN0YW1wIjoxNzU5NzUyOTg0fV0sInNlc3Npb25faWQiOiI0OTc3ZmNlYy01NzNmLTQzYzQtYTAzMS01NzNhMDYwYTEyYjgiLCJpc19hbm9ueW1vdXMiOmZhbHNlfQ.NQa48VJ0C2SQki6dhWQXq6Nw5IEgOxQxquvCGz6zo7Q"<\n>
+c
+cd realearn/client
+c
+y
+c
+cd
+y
+c
+x
+x
+c
+bash
+y
+c
+x
+x
+c
+x
+c
+uv run --env-file .env main.py
+c
+uv run --env-file .env main.py
+c
+y
+c
+y
+c
+x
+cd ..
+c
+uv run --env-file .env main.py
+c
+cd realearn/client
+c
+y
+c
+y
+c
+y
+c
+y
+c
+y
+c
+y
+cd realearn/client
+c
+y
+c
+git add .
+git clone https://github.com/atheeq-rhxn/realearn-api.git
+c
+git commit -m (date now | format date "%Y%m%d%H%M%S")
+gitui
+c
+git add .
+y
+git add .
+git commit -m (date now | format date "%Y%m%d%H%M%S")
+c
+y
+c
+y
+c
+cd
+c
+y
+c
+x
+uv run --env-file .env main.py
+x
+c
+y
+c
+y
+c
+uv run --env-file .env main.py
+c
+uv run --env-file .env main.py
+c
+uv run --env-file .env main.py
+c
+uv run --env-file .env main.py
+c
+uv run --env-file .env main.py
+c
+uv run --env-file .env main.py
+c
+uv run --env-file .env main.py
+x
+gitui
+c
+hx
+c
+uv run --env-file .env main.py
+c
+x
+c
+gitui
+c
+x
+y
+c
+gitui
+c
+uv run --env-file .env main.py
+c
+y
+c
+gitui
+c
+bash
+c
+cd realearn/client
+c
+gitui
+c
+y
+gitui
+c
+gitui
+c
+y
+c
+y
+gitui
+c
+gitui
+c
+y
+gitui
+c
+y
+c
+e
+y
+c
+x
+x
+y
+c
+./start-gpu.sh
+c
+x
+c
+x
+c
+x
+c
+x
+c
+x
+c
+x
+bun dev
+y
+c
+y
+c
+yy
+c
+y
+c
+y
+c
+y
+c
+cd realearn/api_1
+c
+u
+c
+uv run --env-file .env main.py
+c
+y
+c
+y
+c
+y
+c
+y
+c
+uv run --env-file .env main.py
+c
+x
+c
+uv run --env-file .env main.py
+x
+c
+y
+hx
+y
+c
+y
+c
+git add .
+git commit -m (date now | format date "%Y%m%d%H%M%S")
+c
+uv run --env-file .env main.py
+c
+uv run --env-file .env main.py
+c
+y
+c
+uv run --env-file .env main.py
+c
+uv run --env-file .env main.py
+c
+uv run --env-file .env main.py
+c
+x
+uv run --env-file .env main.py
+c
+x
+uv run --env-file .env main.py
+c
+uv run --env-file .env main.py
+c
+uv run --env-file .env main.py
+c
+uv run --env-file .env main.py
+c
+bun dev
+c
+bun build
+bun dev
+c
+bun dev
+uv run --env-file .env main.py
+c
+y
+c
+gitui
+c
+bun dev
+c
+x
+c
+bun dev
+c
+y
+c
+bash
+c
+y
+c
+y
+c
+y
+c
+y
+c
+git add .
+git commit -m (date now | format date "%Y%m%d%H%M%S")
+uv run --env-file .env main.py
+c
+x
+c
+y
+c
+uv run --env-file .env main.py
+c
+uv run --env-file .env main.py
+c
+uv run --env-file .env main.py
+c
+uv run --env-file .env main.py
+c
+uv run --env-file .env main.py
+c
+uv run --env-file .env main.py
+c
+uv run --env-file .env main.py
+c
+uv run --env-file .env main.py
+c
+uv run --env-file .env main.py
+c
+uv run --env-file .env main.py
+c
+y
+c
+cd tts
+c
+uv run --env-file .env main.py
+c
+uv
+uv run --env-file .env main.py
+c
+uv run --env-file .env main.py
+c
+uv run --env-file .env main.py
+c
+x
+c
+git add .
+git commit -m (date now | format date "%Y%m%d%H%M%S")
+c
+y
+c
+git add .
+git commit -m (date now | format date "%Y%m%d%H%M%S")
+c
+y
+c
+y
+c
+cd realearn/client_1
+y
+c
+x
+c
+y
+c
+y
+c
+y
+c
+./start-gpu.sh
+c
+cd realearn/client_1
+c
+x
+c
+y
+c
+x
+c
+cd realearn/api_1
+c
+y
+c
+cd tts
+c
+y
+c
+git add .
+git commit -m (date now | format date "%Y%m%d%H%M%S")
+c
+y
+c
+git add .
+git c
+c
+git commit -m (date now | format date "%Y%m%d%H%M%S")
+c
+y
+c
+y
+c
+uv run --env-file .env main.py
+c
+uv run --env-file .env main.py
+c
+x
+c
+uv run --env-file .env main.py
+c
+uv run --env-file .env main.py
+c
+x
+c
+y
+git add .
+git commit -m (date now | format date "%Y%m%d%H%M%S")
+c
+y
+c
+git add .
+c
+git commit -m (date now | format date "%Y%m%d%H%M%S")
+c
+x
+c
+uv run --env-file .env main.py
+c
+x
+c
+./start-gpu.sh
+c
+bash
+bash
+bash
+x
+c
+x
+c
+y
+c
+x
+c
+x
+c
+y
+c
+y
+c
+y
+cd
+c
+cd api
+c
+y
+c
+uv run --env-file .env main.py
+c
+cd
+c
+y
+c
+y
+c
+y
+c
+cd realearn/client_1
+cd realearn/client
+c
+y
+c
+y
+c
+y
+c
+git push
+c
+y
+c
+git push
+c
+y
+c
+y
+c
+uv run --env-file .env main.py
+c
+x
+cd
+c
+bun dev
+c
+y
+c
+y
+c
+y
+c
+uv run --env-file .env main.py
+c
+y
+c
+bun dev
+c
+x
+x
+y
+c
+cd ..
+c
+y
+c
+x
+uv run --env-file .env main.py
+c
+y
+c
+y
+c
+cd ..
+c
+cd ..
+uv run --env-file .env main.py
+c
+y
+c
+y
+c
+y
+x
+y
+c
+y
+uv run --env-file .env main.py
+c
+uv run --env-file .env main.py
+c
+x
+y
+c
+y
+c
+uv run --env-file .env main.py
+bun dev
+c
+c
+y
+c
+y
+c
+git add .
+git commit -m (date now | format date "%Y%m%d%H%M%S")
+git push
+y
+c
+git add .
+git commit -m (date now | format date "%Y%m%d%H%M%S")
+git push
+x
+c
+x
+y
+c
+y
+c
+cd realearn/client
+c
+y
+gitui
+c
+git add .
+git commit -m (date now | format date "%Y%m%d%H%M%S")
+git push
+y
+c
+c
+bun dev
+c
+bun dev
+cd realearn/api
+c
+uv run --env-file .env main.py
+c
+overlay use .venv/bin/activate.nu
+uvicorn
+c
+uv add uvicorn
+c
+cd api
+c
+uv run --env-file .env uvicorn main:app --reload
+uv add uvicorn
+uv run --env-file .env uvicorn main:app --reload
+uvicorn
+overlay use .venv/bin/activate.nu
+uvicorn
+ec
+c
+cd api
+uvicorn
+uv run --env-file .env uvicorn main:app --reload
+uv remove uvicorn
+c
+uv add uvicorn
+uv run uvicorn
+uv add uvicorn<\n>
+uv run uvicorn main:app --reload<\n>
+uv run which uvicorn<\n>
+uv run python -m uvicorn main:app --reload<\n>
+c
+cd realearn
+y
+c
+cd client
+c
+cd api
+c
+y
+c
+y
+c
+y
+c
+x
+c
+x
+y
+c
+x
+x
+c
+x
+x --help
+opencode auth
+opencode auth logout
+x
+c
+x auth login
+x
+c
+y
+cd api
+c
+x
+cd api
+c
+y
+c
+y
+c
+y
+c
+x
+y
+c
+y
+c
+gitui
+c
+git add .
+git commit -m (date now | format date "%Y%m%d%H%M%S")
+c
+y
+c
+y
+c
+y
+c
+y
+c
+uv remove litellm
+y
+c
+uv add litellm
+uv sync --upgrade
+uv lock --upgrade
+c
+overlay use .venv/bin/activate.nu
+c
+y
+c
+uv run --env-file .env -m uvicorn main:app --reload
+c
+bun dev
+x
+x
+cd client
+c
+cd api
+c
+y
+c
+y
+c
+y
+cd api
+c
+uv run --env-file .env -m uvicorn main:app --reload
+c
+uv run --env-file .env -m uvicorn main:app --reload
+c
+uv run --env-file .env -m uvicorn main:app --reload
+c
+uv run --env-file .env -m uvicorn main:app --reload
+c
+y
+c
+y
+c
+y
+c
+y
+c
+y
+c
+uv run --env-file .env -m uvicorn main:app --reload
+c
+uv run -m uvicorn main:app --reload --host 0.0.0.0 --port 8000
+c
+uv run -m uvicorn main:app --reload --host 0.0.0.0 --port 8000
+c
+uv run -m uvicorn main:app --reload --host 0.0.0.0 --port 8000
+pkill -f "uvicorn main:app"
+v
+c
+uv run -m uvicorn main:app --reload --host 0.0.0.0 --port 8000
+c
+y
+gitui
+c
+./start-gpu.sh
+c
+y
+c
+uv run -m uvicorn main:app --reload --host 0.0.0.0 --port 8000
+c
+x
+c
+y
+c
+gitui
+c
+uv sync --upgrade
+c
+uv lock --upgrade
+c
+y
+c
+uv run --env-file .env -m alembic upgrade head
+c
+y
+c
+uv run -m uvicorn main:app --reload --host 0.0.0.0 --port 8000
+c
+y
+gitui
+c
+uv run -m uvicorn main:app --reload --host 0.0.0.0 --port 8000
+c
+y
+c
+y
+c
+gitui
+c
+hxx
+hx
+c
+hx
+c
+cd config
+y
+x
+y
+x
+c
+y
+x
+c
+opencode create agent
+c
+opencode agent create
+c
+opencode agent create
+c
+y
+c
+x
+y
+c
+x
+c
+y
+c
+x
+c
+hy
+c
+y
+c
+opencode subagent create
+c
+opencode agent create
+c
+cd doc
+c
+y
+c
+opencode agent create
+c
+y
+c
+opencode agent create
+c
+y
+c
+y
+c
+x
+c
+y
+c
+x
+c
+y
+c
+opencode agent create
+c
+opencode agent create
+c
+opencode agent create
+y
+c
+x
+c
+opencode agent create
+c
+c
+y
+c
+x
+c
+y
+c
+x
+y
+c
+opencode agent create
+y
+c
+y
+x
+c
+opencode agent create
+c
+y
+y
+c
+c
+y
+c
+y
+c
+x
+c
+opencode agent create
+c
+y
+c
+y
+c
+x
+x
+c
+x
+x
+c
+y
+cd
+c
+cd doc
+c
+bun create better-t-stack@latest
+y
+c
+bun create better-t-stack@latest
+c
+y
+c
+y
+c
+hx
+x
+y
+c
+y
+c
+x
+y
+c
+x
+y
+c
+y
+c
+y
+x
+e
+cd realearn
+y
+c
+y
+c
+git clone https://github.com/vercel-labs/ai-sdk-preview-python-streaming.git
+c
+x
+c
+y
+c
+y
+c
+y
+c
+y
+gitui
+c
+y
+cd realearn
+c
+y
+c
+uv run --env-file .env -m alembic upgrade head
+y
+cdc
+cd
+cd realearn
+y
+c
+uv run --env-file .env -m alembic upgrade head
+y
+c
+x
+c
+y
+c
+y
+gitui
+c
+y
+c
+x
+y
+c
+git add .
+git clone https://github.com/vercel-labs/ai-sdk-preview-python-streaming.git
+c
+git commit -m (date now | format date "%Y%m%d%H%M%S")
+bun dev
+git push
+c
+y
+gitui
+c
+git remote add origin git@github.com:atheeq-rhxn/realearn-api.git
+git remote remove origin
+git remote add origin git@github.com:atheeq-rhxn/realearn-api.git
+git push
+git push --set-upstream origin main
+git push --force
+git push --set-upstream origin main --force
+x
+c
+y
+c
+y
+c
+git add .
+git commit -m (date now | format date "%Y%m%d%H%M%S")
+git push --set-upstream origin main --force
+c
+uv
+uv build
+c
+y
+c
+uv sync --upgrade
+uv lock --upgrade
+git add .
+git commit -m (date now | format date "%Y%m%d%H%M%S")
+git push
+y
+x
+c
+uv lock --upgrade
+uv sync --upgrade
+c
+y
+c
+y
+c
+git add .
+git commit -m (date now | format date "%Y%m%d%H%M%S")
+git push
+c
+vercel
+x
+c
+vercel
+bun i vercel@latest
+c
+cd
+c
+bun i vercel@latest
+c
+y
+c
+vercel
+c
+git add .
+git commit -m (date now | format date "%Y%m%d%H%M%S")
+git push
+y
+c
+y
+c
+y
+gitui
+c
+git pull
+c
+git pull --force
+c
+y
+c
+y
+c
+git remote -v
+bun i vercel@latest -g
+c
+y
+c
+y
+c
+gitui
+git add .
+git commit -m (date now | format date "%Y%m%d%H%M%S")
+git push
+y
+c
+y
+c
+x
+c
+x
+c
+y
+ruff check .
+opencode agent create
+c
+opencode agent create
+c
+overlay use .venv/bin/activate.nu
+c
+ruff check .
+c
+y
+c
+y
+c
+x
+ruff format
+x
+ruff format .
+c
+c
+y
+c
+uv run --env-file .env -m alembic upgrade head<\n>
+uv run --env-file .env -m alembic revision --autogenerate -m (date now | format date "%Y%m%d%H%M%S")<\n>
+c
+uv run --env-file .env -m alembic history<\n>
+y
+c
+y
+c
+git add .
+git commit -m (date now | format date "%Y%m%d%H%M%S")
+gitui
+c
+y
+c
+y
+c
+x
+c
+ruff check .
+ruff check . --fix
+ruff format .
+c
+y
+c
+git add .
+git commit -m (date now | format date "%Y%m%d%H%M%S")
+c
+git push
+c
+x
+c
+git add .
+git commit -m (date now | format date "%Y%m%d%H%M%S")
+git push
+x
+c
+y
+git add .
+git commit -m (date now | format date "%Y%m%d%H%M%S")
+git push
+c
+y
+c
+y
+c
+x
+c
+git a
+git add .
+git commit -m (date now | format date "%Y%m%d%H%M%S")
+git push
+c
+x
+c
+y
+c
+y
+c
+y
+c
+uv init --help
+uv init -p 3.12
+y
+c
+uv init vapi -p 3.12
+y
+c
+uv add alembic certifi "fastapi[standard]" google-adk gotrue loguru manim psycopg2-binary pydantic-settings sqlmodel supabase uvicorn<\n>
+c
+uv add alembic certifi "fastapi[standard]" google-adk gotrue loguru manim psycopg2-binary pydantic-settings sqlmodel supabase uvicorn<\n>
+c
+y
+c
+y
+c
+uv run --env-file .env -m uvicorn main:app --reload
+y
+c
+uv run --env-file .env -m uvicorn main:app --reload
+kill uvicorn
+c
+uv run --env-file .env -m uvicorn main:app --reload
+bash
+c
+y
+c
+y
+c
+x
+y
+c
+uv run --env-file .env -m uvicorn main:app --reload
+cc
+x
+y
+gitui
+c
+y
+bun dev
+c
+git add .
+gitui
+c
+git commit -m (date now | format date "%Y%m%d%H%M%S")
+c
+git push
+y
+c
+y
+c
+y
+uv run --env-file .env -m uvicorn main:app --reload
+c
+x
+c
+git add .
+git commit -m (date now | format date "%Y%m%d%H%M%S")
+git push --force
+c
+y
+gitui
+c
+y
+c
+y
+c
+git add .
+y
+gitui
+git push --force
+y
+git add .
+git commit -m (date now | format date "%Y%m%d%H%M%S")
+git push
+y
+c
+y
+c
+cd
+c
+y
+c
+x
+c
+git add .
+git commit -m (date now | format date "%Y%m%d%H%M%S")
+git push
+x
+y
+c
+git add .
+git commit -m (date now | format date "%Y%m%d%H%M%S")
+git push
+y
+c
+y
+c
+x
+c
+git add .
+git commit -m (date now | format date "%Y%m%d%H%M%S")
+git push
+x
+y
+c
+git add .
+git commit -m (date now | format date "%Y%m%d%H%M%S")
+git push
+c
+cd
+c
+y
+c
+x
+c
+git add .
+git commit -m (date now | format date "%Y%m%d%H%M%S")
+git push
+y
+c
+y
+c
+git push --force
+y
+c
+bun dev
+x
+c
+y
+c
+y
+c
+x
+c
+git add .
+git commit -m (date now | format date "%Y%m%d%H%M%S")
+git push
+x
+c
+y
+git add .
+git commit -m (date now | format date "%Y%m%d%H%M%S")
+git push
+c
+cd realearn
+c
+y
+c
+y
+c
+y
+c
+cd
+c
+bun i @google/gemini-cli -g
+c
+gemini
+c
+npm uninstall -g @google/gemini-cli 
+npm uninstall @google/gemini-cli -g
+npm uninstall @google/gemini-cli
+y
+c
+npm uninstall @google/gemini-cli
+c
+npm i
+c
+y
+npm install -g @google/gemini-cli@latest
+gemini
+c
+y
+c
+hx
+c
+x
+c
+git add .
+git commit -m (date now | format date "%Y%m%d%H%M%S")
+git push
+y
+c
+git add .
+git commit -m (date now | format date "%Y%m%d%H%M%S")
+git push
+x
+y
+c
+y
+hx
+c
+x
+c
+y
+c
+y
+x
+cd
+cd xyz
+h
+hx
+c
+hx
+c
+y
+c
+y
+c
+y
+x
+y
+cd xyz
+c
+y
+bun create better-t-stack@latest my-better-t-app --frontend tanstack-router native-nativewind --backend convex --runtime none --api none --auth clerk --payments none --database none --orm none --db-setup none --package-manager bun --git --web-deploy none --server-deploy none --no-install --addons tauri turborepo ultracite --examples todo
+c
+y
+c
+y
+c
+y
+c
+y
+c
+bun dev
+c
+y
+bun dev
+c
+y
+bun run dev
+y
+c
+cd
+c
+y
+c
+bun create better-t-stack@latest my-better-t-app --frontend tanstack-router native-nativewind --backend convex --runtime none --api none --auth better-auth --payments none --database none --orm none --db-setup none --package-manager bun --git --web-deploy none --server-deploy none --install --addons tauri turborepo ultracite --examples todo
+c
+y
+bun create better-t-stack@latest my-better-t-app --frontend tanstack-router native-nativewind --backend convex --runtime none --api none --auth better-auth --payments none --database none --orm none --db-setup none --package-manager bun --git --web-deploy none --server-deploy none --install --addons turborepo ultracite --examples todo
+c
+y
+c
+bun run dev:setup
+y
+c
+y
+c
+bun run dev:setup
+c
+bun run dev:setup
+c
+y
+c
+y
+c
+bun run dev
+c
+y
+c
+y
+c
+x
+bun run dev
+c
+y
+c
+hx
+c
+bun run dev
+c
+cd packages/backend && bunx convex env set SITE_URL http://localhost:3001<\n>
+bash
+c
+y
+c
+cd xyz/test
+y
+c
+bunx convex env set GOOGLE_CLIENT_ID 590608914377-dhgu3rhh2dl7gmi1es4jv40opranr16o.apps.googleusercontent.com
+y
+bun run dev
+c
+bun run dev
+c
+bun run dev
+c
+y
+c
+bun run dev
+c
+bun run dev
+c
+bun run dev
+c
+y
+c
+bun run dev
+c
+y
+c
+bun run dev
+c
+bun run dev
+c
+bun run dev
+c
+y
+c
+bun run dev
+c
+y
+c
+y
+c
+y
+gitui
+c
+y
+cd
+c
+y
+c
+y
+c
+c
+cd
+c
+y
+c
+bun run dev
+bun create better-t-stack@latest x --frontend tanstack-router native-nativewind --backend convex --runtime none --api none --auth better-auth --payments none --database none --orm none --db-setup none --package-manager bun --git --web-deploy none --server-deploy none --install --addons turborepo ultracite --examples todo
+bun run dev:setup
+y
+c
+bun run dev:setup
+c
+bun create better-t-stack@latest homies --frontend tanstack-router native-nativewind --backend convex --runtime none --api none --auth better-auth --payments none --database none --orm none --db-setup none --package-manager bun --git --web-deploy none --server-deploy none --install --addons turborepo ultracite --examples todo
+y
+c
+y
+c
+y
+c
+y
+c
+y
+bun run dev:setup
+c
+bun run dev:setup
+gitui
+c
+y
+gitui
+c
+y
+c
+y
+x
+c
+y
+c
+y
+c
+y
+c
+y
+c
+y
+c
+y
+c
+y
+gitui
+c
+gitui
+c
+git add .
+git commit -m (date now | format date "%Y%m%d%H%M%S")
+git push
+git remote add origin git@github.com:atheeq-rhxn/homies.git<\n>git branch -M main<\n>git push -u origin main
+y
+c
+y
+c
+y
+bun run dev
+c
+x
+c
+x
+hx
+y
+c
+y
+c
+cd
+c
+bun create better-t-stack@latest mono --frontend tanstack-router native-nativewind --backend convex --runtime none --api none --auth better-auth --payments polar --database none --orm none --db-setup none --package-manager bun --git --web-deploy none --server-deploy none --install --addons turborepo ultracite --examples todo
+c
+y
+c
+y
+c
+bun create better-t-stack@latest
+c
+y
+c
+bun run dev:setup
+c
+y
+c
+y
+c
+bun run dev:setup
+c
+gitui
+c
+y
+bun run dev
+c
+bun run dev
+c
+bun dev
+c
+y
+c
+y
+bunx convex env list
+y
+c
+y
+c
+bun create better-t-stack@latest
+hx
+bun dev
+c
+y
+gitui
+y
+y
+c
+c
+bun run dev:setup
+y
+c
+y
+gitui
+c
+y
+c
+bun dev
+c
+y
+c
+y
+c
+bun create better-t-stack@latest
+c
+bun create better-t-stack@latest
+c
+y
+c
+bun create better-t-stack@latest
+c
+y
+c
+bun run dev
+x
+c
+y
+gitui
+c
+bun run dev
+c
+c
+y
+c
+y
+c
+bun run dev
+x
+c
+bun create better-t-stack@latest
+c
+b
+c
+bun create better-t-stack@latest
+bun run dev:setup
+bun dev
+y
+c
+bun
+bun update
+c
+y
+bun update
+bun update tailwindcss
+y
+c
+bun dev
+c
+y
+c
+bun create better-t-stack@latest my-better-t-app --frontend tanstack-router native-nativewind --backend convex --runtime none --api none --auth better-auth --payments none --database none --orm none --db-setup none --package-manager bun --git --web-deploy none --server-deploy none --install --addons turborepo ultracite --examples todo
+bun dev:setup
+gitui
+y
+c
+y
+cd
+c
+x
+cd
+c
+bun create better-t-stack@latest
+bun dev:setup
+y
+c
+bun dev:setup
+x
+y
+c
+cd mono
+bun dev:setup
+hx
+x
+y
+c
+y
+c
+y
+c
+bun dev
+c
+y
+c
+git init
+git add .
+gh
+ch
+c
+y
+c
+y
+git commit -m (date now | format date "%Y%m%d%H%M%S")
+c
+git remote add origin git@github.com:atheeq-rhxn/mono.git<\n>git branch -M main<\n>git push -u origin main
+git remote add origin git@github.com:atheeq-rhxn/mono.git<\n>git branch -M main<\n>git push -u origin main --force
+git push -u origin main --force
+gitui
+c
+c
+y
+cd
+c
+y
+c
+y
+c
+y
+cd
+c
+flutter create .
+y
+c
+flutter create .
+y
+hc
+c
+y
+c
+y
+c
+flutter pub get
+y
+c
+y
+c
+y
+c
+hx
+x
+c
+y
+c
+x
+c
+y
+hx
+qc
+c
+y
+c
+hx
+c
+y
+c
+gitui
+c
+git add .
+c
+git add .
+git commit -m (date now | format date "%Y%m%d%H%M%S")
+git push
+y
+c
+hx
+y
+c
+y
+c
+git add .
+git commit -m (date now | format date "%Y%m%d%H%M%S")
+git push
+y
+c
+hx
+c
+jq
+c
+jq tasks.json
+jq 'tasks.json'
+jq
+jq -h
+jq - tasks.json
+jq .tasks.json
+c
+jq -c tasks.json
+jq -h
+jq -c .tasks.json
+c
+y
+jq -c tasks.json
+jq -c "{"field": "value"}"
+x
+jq '.' -c tasks.json
+jq '.' tasks.json
+nu
+nu -h
+nu tasks.json
+c
+nu tasks.json
+ls
+y
+cd yazi
+y
+c
+y
+cd projects
+cd
+cd projects
+c
+y
+c
+y
+c
+hx
+y
+c
+y
+c
+y
+gitui
+c
+git add .
+git commit -m (date now | format date "%Y%m%d%H%M%S")
+git push
+c
+x
+c
+y
+c
+flutter upgrade
+dart upgrade
+exit
+cd projects
+y
+c
+flutter create monitx
+c
+hx
+c
+y
+hx
+c
+x
+c
+x
+c
+y
+c
+y
+c
+y
+c
+x
+c
+y
+c
+x
+c
+y
+cd
+c
+y
+c
+flutter run --verbose
+c
+y
+c
+flutter run --verbose
+c
+flutter create .
+c
+gitui
+c
+y
+c
+hx
+c
+y
+c
+y
+cd
+cd projects/credible
+c
+y
+c
+flutter create monitx
+c
+cd monitx
+y
+c
+x
+c
+git add .
+git init
+git add .
+git commit -m "🎉 Initial commit"
+c
+x
+c
+cd monitx
+y
+gitui
+c
+cd monitx
+c
+y
+c
+flutter run --verbose
+c
+cd monitx
+c
+flutter run --verbose
+y
+c
+x
+y
+c
+y
+x
+c
+y
+cd
+c
+cd projects/credible
+y
+c
+flutter create monitx
+flutter run --verbose
+y
+c
+y
+c
+flutter run --verbose
+c
+gemini
+c
+y
+c
+x
+c
+y
+c
+flutter run --verbose
+c
+flutter run --verbose
+c
+flutter run --verbose
+c
+flutter run --verbose
+c
+flutter run --verbose
+c
+flutter run --verbose
+flutter run
+flutter devices
+flutter emulators
+flutter emulators --launch x
+c
+flutter emulators --launch x
+flutter run --verbose
+y
+c
+y
+c
+flutter clean
+flutter pub get
+flutter run --verbose
+x
+qc
+c
+x
+gitui
+git init
+y
+gitui
+c
+y
+flutter create monitx
+cd monitx
+git init
+git add .
+git commit -m "🎉 Initial commit"
+c
+y
+cd monitx
+cd
+c
+cd monitx
+c
+gitui
+c
+x
+c
+git add .
+git commit -m "date now | format date  "%Y%m%d%H%M%S""
+c
+flutter devices
+c
+y
+c
+flutter run --verbose
+c
+flutter run --verbose
+c
+flutter run --verbose
+c
+y
+c
+flutter pub get
+c
+y
+c
+hx
+c
+flutter run --verbose
+c
+flutter run --verbose
+c
+flutter run --verbose
+c
+y
+c
+x
+flutter run --verbose
+c
+flutter run --verbose
+c
+y
+c
+flutter run --verbose
+c
+flutter run --verbose
+y
+x
+uv add psycopg
+c
+y
+c
+y
+c
+y
+c
+y
+c
+uv add --dev "ty"
+c
+y
+uv remove ty
+uv remove --dev "ty"
+c
+uv update
+uv sync --upgrade
+uv lock --upgrade
+c
+y
+c
+y
+cd
+cd projects/credible
+y
+c
+y
+c
+y
+c
+git init
+c
+git add .
+git commit -m "🎉 Initial commit"
+c
+y
+c
+git remote add origin git@github.com:atheeq-rhxn/fastapi-supabase-template.git<\n>git branch -M main<\n>git push -u origin main
+x
+cd
+c
+cd projects
+y
+c
+y
+cdc
+c
+dc
+cd
+c
+ce
+x
+x
+y
+c
+y
+c
+gitui
+c
+bun create better-t-stack@latest mono --frontend tanstack-router native-nativewind --backend convex --runtime none --api none --auth better-auth --payments none --database none --orm none --db-setup none --package-manager bun --no-git --web-deploy none --server-deploy none --install --addons turborepo ultracite --examples todo
+y
+y
+c
+bun i
+c
+x
+c
+bun i
+c
+y
+gitui
+c
+cd mono
+bun i
+bun update 
+bun update --all
+y
+bun update @types/react
+bun i
+c
+bun i --all
+c
+y
+c
+gitui
+c
+y
+c
+y
+c
+y
+cd 
+cd projects
+c
+bun create better-t-stack@latest mono --frontend tanstack-router native-nativewind --backend convex --runtime none --api none --auth better-auth --payments polar --database none --orm none --db-setup none --package-manager bun --git --web-deploy none --server-deploy none --install --addons husky ruler tauri turborepo ultracite --examples todo
+bun update @types/react @polar-sh/sdk react react-dom
+y
+bun update @types/react @polar-sh/sdk react react-dom
+bun i
+hx
+c
+bun update
+y
+c
+y
+cd
+c
+cd projects
+c
+cd projects
+c
+bun create better-t-stack@latest mono --frontend tanstack-router native-nativewind --backend convex --runtime none --api none --auth better-auth --payments polar --database none --orm none --db-setup none --package-manager bun --git --web-deploy none --server-deploy none --install --addons husky tauri turborepo ultracite --examples todo
+cd mono
+bun update @types/react @polar-sh/sdk react react-dom
+hx
+y
+bun i
+gitui
+y
+c
+x
+c
+y
+c
+bun dev:setup
+y
+hx
+y
+x
+y
+c
+y
+c
+c
+gitui
+c
+y
+c
+bun run desktop:dev
+c
+bun dev
+bun run desktop:dev
+sudo dnf install webkit2gtk4.1-devel libappindicator-gtk3-devel librsvg2-devel<\n>
+c
+x
+c
+bun dev
+c
+bun desktop:dev
+c
+y
+c
+y
+c
+y
+bunx convex env set BETTER_AUTH_SECRET=$(openssl rand -base64 32)
+bun desktop:dev
+c
+bun dev
+c
+bun desktop:dev
+c
+y
+c
+y
+c
+bun dev
+c
+bun desktop:dev
+c
+y
+bunx convex env set SITE_URL http://localhost:3001
+c
+bun dev
+c
+y
+c
+bun desktop:dev
+c
+y
+c
+y
+c
+gitui
+c
+y
+c
+y
+c
+bun update tailwindcss
+c
+bun update tailwindcss
+c
+bun dev
+bun update nativewind
+y
+c
+bun dev
+c
+bun update @polar-sh/sdk @types/react nativewind react react-dom tailwindcss turbo @biomejs/biome ultracite husky lint-staged @expo/vector-icons @react-navigation/bottom-tabs @react-navigation/drawer @react-navigation/native @tanstack/react-form @tanstack/react-query expo expo-constants expo-crypto expo-linking expo-navigation-bar expo-router expo-secure-store expo-splash-screen expo-status-bar expo-system-ui expo-web-browser react-native react-native-gesture-handler react-native-reanimated react-native-safe-area-context react-native-screens react-native-web react-native-worklets convex @mono/backend better-auth @better-auth/expo @convex-dev/better-auth @babel/core typescript @hookform/resolvers radix-ui @tailwindcss/vite @tanstack/react-router class-variance-authority clsx lucide-react next-themes sonner tailwind-merge tw-animate-css zod @polar-sh/better-auth @tanstack/react-router-devtools @tanstack/router-plugin @types/node @types/react-dom @vitejs/plugin-react postcss vite @tauri-apps/cli<\n>
+c
+y
+giui
+gitui
+c
+y
+c
+bun dev
+bun install nativewind react-native-reanimated react-native-safe-area-context@5.4.0<\n>bun install --dev tailwindcss@^3.4.17 prettier-plugin-tailwindcss@^0.5.11
+bun dev
+c
+gitui
+c
+bun dev
+gitui
+c
+bun i
+bun dev
+c
+bun update @types/react @polar-sh/sdk react react-dom
+c
+y
+gitui
+c
+gitui
+x
+c
+bun update @types/react @polar-sh/sdk react react-dom
+bun dev
+c
+y
+gitui
+y
+gitui
+c
+y
+bunx convex env set SITE_URL https://watchful-ptarmigan-492.convex.site
+y
+c
+y
+c
+y
+gitui
+c
+y
+c
+bun dev
+c
+bun dev
+c
+y
+c
+bun x convex env set SITE_URL http://localhost:3000
+y
+c
+y
+c
+gitui
+c
+x
+c
+x
+c
+bun dev
+c
+y
+c
+bunx convex env set BETTER_AUTH_SECRET=$(openssl rand -base64 32)
+bun dev
+c
+y
+gitui
+c
+y
+bunx convex env set SITE_URL http://localhost:3001
+c
+bun dev
+c
+bun dev
+c
+y
+c
+hy
+c
+y
+c
+y
+c
+bun dev
+c
+bun dev
+c
+y
+c
+y
+c
+x
+gitui
+c
+y
+c
+y
+c
+gitui
+y
+c
+bun update @convex-dev/better-auth
+bun dev
+c
+gitui
+x
+c
+y
+c
+git clone https://github.com/get-convex/better-auth.git
+c
+x
+c
+y
+c
+gitui
+bun dev
+c
+bun update typescript
+c
+gitui
+c
+y
+c
+gitui
+y
+bun desktop:dev
+y
+y
+c
+bun update typescript
+bun desktop:dev
+flutter emulators --launch x
+gitui
+c
+x
+y
+bun update nativewind
+y
+c
+y
+c
+bun create better-t-stack@latest mono --frontend tanstack-router native-nativewind --backend convex --runtime none --api none --auth better-auth --payments polar --database none --orm none --db-setup none --package-manager bun --git --web-deploy none --server-deploy none --install --addons husky tauri turborepo ultracite --examples todo
+c
+y
+gitui
+bun dev
+c
+bun dev
+c
+bun i
+y
+bun i
+y
+bun i
+y
+bun i
+y
+c
+y
+gitui
+c
+bun i
+c
+c
+bun dev
+c
+y
+c
+bun create better-t-stack@latest mono --frontend tanstack-router native-nativewind --backend convex --runtime none --api none --auth better-auth --payments polar --database none --orm none --db-setup none --package-manager bun --git --web-deploy none --server-deploy none --install --addons husky tauri turborepo ultracite --examples todo
+c
+y
+bun dev:setup
+c
+y
+c
+y
+c
+bunx convex env set BETTER_AUTH_SECRET=$(openssl rand -base64 32)<\n>
+y
+bunx convex env set BETTER_AUTH_SECRET=$(openssl rand -base64 32)<\n>
+bunx convex env set SITE_URL http://localhost:3001<\n>
+y
+c
+gitui
+c
+bun desktop:dev
+y
+c
+bun dev
+c
+bun dev
+c
+gitui
+c
+bun desktop:dev
+c
+bun dev
+c
+y
+bunx convex env set BETTER_AUTH_SECRET=$(openssl rand -base64 32)<\n>
+x
+c
+cd projects
+cd x/mono
+c
+bun dev
+c
+y
+c
+y
+c
+bunx convex env set BETTER_AUTH_SECRET=$(openssl rand -base64 32)<\n>
+y
+c
+y
+c
+y
+c
+x
+bun update @convex-dev/better-auth
+y
+c
+y
+c
+y
+bunx convex dev
+c
+bun update @convex-dev/better-auth
+bunx convex dev
+bun update @convex-dev/better-auth
+c
+y
+c
+bun dev
+c
+c
+cd projects
+cd x/mono
+c
+y
+gitui
+c
+y
+c
+bun des
+x
+c
+y
+bun update typescript
+bun update typescript
+bun dev
+c
+bun desktop:dev
+c
+y
+c
+gitui
+c
+y
+c
+bun update typescript
+c
+bun update typescript
+c
+bun update typescript
+bun update typescript
+c
+y
+c
+y
+gitui
+c
+bun dev
+c
+y
+gitui
+c
+gitui
+c
+y
+c
+git add .
+c
+gitui
+ch
+c
+git push
+y
+c
+x
+c
+y
+y
+c
+x
+c
+gitui
+c
+y
+cd
+c
+cd mono
+c
+y
+c
+x
+cd
+c
+sudo dnf update -y
+c
+sudo dnf update ghostty
+c
+y
+cd
+c
+hx
+c
+cd mono
+c
+y
+c
+y
+c
+y
+c
+y
+c
+x
+x
+cd projects
+cd mono
+c
+y
+c
+bun create better-t-stack@latest mono --frontend tanstack-router native-nativewind --backend convex --runtime none --api none --auth better-auth --payments polar --database none --orm none --db-setup none --package-manager bun --git --web-deploy none --server-deploy none --install --addons husky tauri turborepo ultracite --examples todo
+bun dev:setup
+cd mono
+bun dev:setup
+y
+c
+y
+c
+gitui
+c
+y
+gitui
+c
+bun dev
+c
+y
+c
+y
+c
+hx
+c
+git clone https://github.com/polarsource/polar-adapters.git
+y
+git clone https://github.com/get-convex/polar.git
+y
+c
+hx
+c
+y
+c
+y
+c
+y
+c
+y
+c
+bun dev
+c
+gitui
+c
+y
+c
+y
+c
+gitui
+bun dev
+c
+y
+y
+c
+bash
+c
+cd projects
+bun create better-t-stack@latest my-better-t-app --frontend tanstack-start --backend self --runtime none --api trpc --auth better-auth --payments polar --database sqlite --orm drizzle --db-setup none --package-manager bun --git --web-deploy none --server-deploy none --install --addons turborepo --examples none
+y
+bun dev
+c
+bun run db:push
+y
+c
+bun dev
+c
+y
+gitui
+c
+bun dev
+c
+y
+git clone https://github.com/get-convex/polar.git
+c
+x
+bun dev
+c
+bun run db:studio
+sudo dnf update wezterm
+c
+y
+git clone https://github.com/atheeq-rhxn/mono.git
+gh repo clone atheeq-rhxn/mono
+c
+x
+c
+y
+cd
+c
+y
+c
+opencode -h
+opencode --help
+c
+y
+gitui
+c
+x
+c
+x
+c
+y
+c
+y
+c
+bunx create-expo-module android-monitoring
+c
+gitui
+c
+y
+c
+y
+c
+y
+gitui
+c
+cd
+c
+$ cargo install --locked serie
+cargo install --locked serie
+serie
+y
+serie
+c
+y
+c
+bunx create-expo-module monitoring
+y
+c
+y
+c
+bun run open:android
+studio
+y
+c
+cd projects
+cd mono
+y
+c
+/home/atheeq/src/android-studio/bin/studio packages/monitoring/example/android<\n>
+expo
+bunx expo
+y
+gitui
+y
+git branchs
+git list branch
+git rev-list
+c
+y
+c
+git
+gitui
+c
+y
+c
+y
+c
+y
+c
+bun run open:android
+bun run android
+bunx expo run:android
+y
+c
+cd dotfiles
+y
+c
+y
+c
+bunx expo run:android
+bash
+y
+bun run build
+c
+y
+c
+y
+c
+bunx expo run:android
+set ANDROID_HOME=/home/atheeq/src/android-studio/bin/studio
+which ANDROID_HOME
+y
+bash
+c
+cd
+c
+y
+x
+echo 'export ANDROID_HOME=/home/atheeq/Android/Sdk' >> ~/.bashrc
+y
+echo 'export ANDROID_HOME=/home/atheeq/Android/Sdk' >> ~/.bashrc
+y
+bash
+c
+y
+c
+x
+which ANDROID_HOME
+cd
+c
+which ANDROID_HOME
+c
+cd projects
+cd credible/mono
+y
+c
+y
+c
+bunx expo run:android
+bun run build
+x
+x
+cd credible/mono
+y
+c
+y
+c
+bunx expo run:android
+x
+y
+c
+y
+bunx expo run:android
+c
+y
+gitui
+y
+c
+bunx expo run:android
+c
+bunx expo run:android
+c
+y
+cd
+cd credible/mono
+y
+gitui
+c
+y
+c
+x
+c
+bunx create-expo-module monitoring
+cd monitoring
+bunx run open:android
+y
+c
+gitui
+c
+y
+gitui
+c
+c
+y
+c
+y
+c
+bunx expo run:android
+c
+y
+c
+bunx create-expo-module monitoring
+y
+c
+y
+ls
+c
+cd monitoring
+y
+c
+bunx expo run:android
+bunx expo run:android
+android
+flutter emulators --launch x
+c
+bunx expo run:android
+c
+y
+gitui
+c
+y
+c
+x
+c
+y
+c
+x
+c
+git add .
+ch
+gitui
+c
+git push
+c
+y
+c
+x
+c
+y
+gitui
+git reset --hard
+gitui
+c
+y
+gitui
+c
+y
+c
+bunx create-expo-module monitoring-mobile
+cd monitoring-mobile
+cd example
+y
+git add .
+ch
+git push
+git push --force
+c
+y
+c
+y
+c
+y
+c
+y
+x
+c
+y
+c
+y
+c
+y
+c
+y
+c
+bun run build
+c
+expo-module build
+c
+bunx expo-module build
+c
+x
+y
+c
+bunx expo-module build
+c
+hx
+y
+c
+hx
+c
+x
+y
+c
+y
+c
+flutter emulators --launch x
+c
+x
+cd credible/mono
+c
+y
+c
+y
+bunx expo run:android
+c
+y
+c
+y
+c
+c
+y
+c
+bun install
+c
+bun run build
+c
+bun run open:android
+y
+c
+bunx expo run:android
+bun install
+bun dev
+bun expo start
+c
+y
+c
+bun run build
+cd packages/monitoring-mobile/example
+bunx expo start --clear
+rm -rf node_modules
+bun install
+# From packages/monitoring-mobile/<\n>bun run build<\n><\n># From packages/monitoring-mobile/example/<\n>rm -rf node_modules package-lock.json yarn.lock<\n>bun install<\n>npx expo start --clear
+bun run build
+y
+bun run build
+c
+cd packages/monitoring-mobile/example
+rm -rf node_modules package-lock.json yarn.lock<\n>bun install<\n>npx expo start --clear
+bunx expo start
+pkill -f "metro"<\n>pkill -f "expo"
+bunx expo start --clear<\n>
+sudo sysctl -w fs.inotify.max_user_watches=524288<\n>
+y
+c
+bunx expo start --clear<\n>
+c
+bunx expo start --clear<\n>
+bunx expo start
+c
+bunx expo start
+x
+flutter emulators --launch x
+c
+cd packages/monitoring-mobile/example
+c
+bunx expo start
+c
+x
+cd mono
+y
+c
+bunx expo start
+c
+bunx expo start
+cd packages/monitoring-mobile/example
+bunx expo start
+c
+bunx expo start
+bunx expo run:android
+y
+bun install
+c
+bun install
+flutter emulators --launch x
+c
+cd packages/monitoring-mobile/example
+c
+y
+c
+y
+c
+y
+c
+bun install
+y
+c
+y
+c
+bunx
+bunx expo run:android
+y
+bunx expo run:android
+y
+rm -rf node_modules bun.lock
+c
+bun i --force
+bunx expo run:android
+c
+y
+./gradelw clean
+y
+./gradelw clean
+y
+./gradlew clean
+c
+y
+c
+bun i --force
+c
+y
+bunx expo run:android
+c
+cd apps/native && rm -rf node_modules && bun install<\n>
+rm -rf node_modules bun.lock
+bun i --force
+c
+bunx expo run:android
+y
+c
+bunx expo run:android<\n>
+c
+y
+c
+cd apps/native
+y
+cd apps/native<\n>bunx expo run:android<\n>
+y
+c
+bun update @types/react @polar-sh/sdk react react-dom
+bun update reactnative
+y
+bun update react-native
+c
+bun i --force
+c
+bunx expo run:android<\n>
+bunx run open:android
+c
+gitui
+c
+y
+./gradlew clean
+c
+y
+c
+bunx expo run:android<\n>
+y
+c
+x
+f
+flutter emulators --launch x
+bunx expo run:android<\n>
+c
+bunx expo run:android<\n>
+c
+y
+gitui
+y
+gitui
+y
+gitui
+c
+git add .
+ch
+git push
+y
+c
+y
+c
+bun dev
+x
+y
+c
+y
+c
+y
+c
+y
+bun dev
+y
+gitui
+c
+y
+c
+bun dev
+bun
+bun upgrade
+bun --v
+bun --version
+c
+bun dev
+x
+c
+bun upgrade tailwindcss
+bun update tailwindcss
+bun dev:native
+bun dev
+c
+y
+c
+y
+bun dev
+c
+y
+y
+c
+y
+c
+bun dev
+c
+bun dev
+c
+y
+c
+bun dev
+c
+bun dev
+c
+bun dev
+c
+y
+c
+bun dev
+c
+y
+bun dev
+c
+gitui
+c
+x
+c
+cd mono
+y
+c
+y
+c
+bun dev
+c
+y
+gitui
+c
+y
+bun i --force
+bunx expo run:android<\n>
+y
+c
+bun dev
+c
+gitui
+c
+x
+c
+bun dev
+c
+y
+flutter emulators --launch x
+c
+bunx expo start
+c
+y
+gitui
+y
+gitui
+c
+y
+c
+y
+c
+y
+c
+gitui
+c
+y
+c
+y
+c
+x
+c
+x
+c
+x
+x
+c
+y
+c
+y
+flutter emulators --launch x
+bunx expo start
+c
+x
+c
+y
+c
+c
+y
+c
+y
+c
+bun run build
+c
+bunx expo start --clear<\n>
+c
+y
+gitui
+y
+bunx expo start
+c
+bunx expo start
+c
+y
+hx
+c
+y
+bunx expo start
+c
+bunx expo run:android<\n>
+c
+bunx expo run:android<\n>c
+y
+c
+y
+x
+cd
+c
+cd mono
+y
+expo start
+bunx expo start
+c
+bunx expo run:android
+c
+y
+c
+y
+c
+y
+flutter emulators --launch x
+bun expo start
+c
+y
+ls
+y
+c
+y
+c
+y
+c
+y
+c
+y
+gitui
+y
+gitui
+c
+x
+c
+gitui
+c
+y
+c
+x
+c
+x
+c
+cd dotfiles
+cd opencode
+cd dotfiles
+y
+c
+x
+c
+y
+c
+gitui
+c
+y
+c
+y
+c
+y
+c
+y
+c
+y
+c
+bunx create-expo-module@latest monitoring
+bunx create-expo-module@latest monitoring --local
+y
+c
+y
+cd
+c
+cd credible/mono
+y
+c
+mkdir monitoring
+cd monitoring
+bunx create-expo-module@latest monitoring --local
+y
+cd 
+cd mono
+y
+c
+bunx create-expo-module@latest monitoring --local
+c
+y
+c
+y
+c
+y
+c
+cp -r packages/monitoring-mobile/android/* packages/monitoring/android/
+y
+cd ..
+cp -r packages/monitoring-mobile/android/* packages/monitoring/android/
+y
+c
+y
+c
+yh
+c
+y
+c
+y
+c
+bun dev
+y
+bun
+c
+bun dev
+bun run dev
+turbo dev
+y
+c
+bun dev
+y
+c
+bun i --force
+bun dev
+c
+y
+c
+y
+c
+bun dev
+c
+y
+c
+y
+c
+bun dev
+c
+y
+c
+bunx create-expo-module@latest monitoring --local
+c
+y
+x
+c
+y
+c
+x
+y
+c
+c
+y
+c
+y
+c
+y
+c
+y
+c
+y
+c
+x
+c
+y
+c
+x
+c
+x
+c
+y
+gitui
+lazygit
+sudo dnf copr enable dejan/lazygit<\n>sudo dnf install lazygit
+lazygit
+gitui
+c
+ch
+c
+x
+c
+ch
+c
+y
+lazygit
+git logs
+git log
+gitui
+c
+y
+c
+y
+c
+u
+c
+y
+c
+y
+c
+y
+gitui
+c
+y
+gitui
+c
+y
+gitui
+c
+gitui
+c
+gitui
+c
+y
+c
+x
+c
+y
+cd
+c
+npm install -g @anthropic-ai/claude-code
+claude
+c
+y
+c
+gemini
+c
+y
+gemini --version
+c
+gitui
+c
+y
+c
+y
+c
+bunx create-expo-module@latest monitoring --local
+c
+y
+c
+y
+c
+x
+c
+flutter emulators --launch x
+c
+y
+c
+y
+c
+bunx expo run:android
+y
+bun dev native
+c
+bun dev:native
+c
+y
+c
+y
+c
+bun dev:native
+c
+y
+c
+flutter emulators --launch x
+bunx expo start
+c
+y
+gitui
+c
+y
+c
+y
+gitui
+c
+y
+c
+y
+gitui
+c
+y
+c
+y
+c
+y
+c
+bun run check
+bun run check --write
+bun run check --write .
+bun run check --unsafe
+c
+y
+cd
+cd projects
+y
+c
+y
+gitui
+c
+gitui
+c
+y
+x
+c
+y
+x
+c
+y
+c
+y
+c
+bun build
+bun run build
+c
+y
+gitui
+c
+gitui
+bun run build
+y
+gitui
+y
+bun i --force
+c
+bun run build
+c
+y
+gitui
+c
+y
+c
+bun i --force
+c
+y
+c
+bun run build
+x
+gitui
+x
+c
+y
+bun run build
+bun build
+c
+y
+bun build
+c
+y
+bun run build
+gitui
+c
+y
+gitui
+c
+bun i --force
+y
+c
+gitui
+c
+y
+c
+y
+cd
+c
+cd mono
+y
+gitui
+c
+y
+gitui
+c
+y
+gitui
+y
+gitui
+c
+y
+c
+x
+y
+c
+bunx create-expo-module@latest monitoring --local
+y
+c
+bun build
+y
+bun build
+y
+bun run build
+c
+y
+c
+y
+c
+y
+c
+x
+c
+gemini
+c
+gitui
+c
+gemini
+x
+c
+y
+c
+gitui
+lazygit
+c
+gemini]
+y
+bunx create-expo-module@latest monitoring --local
+y
+c
+x
+c
+gitui
+c
+y
+c
+bun init
+x
+c
+y
+c
+x
+c
+y
+c
+x
+y
+c
+y
+c
+y
+c
+y
+c
+y
+c
+y
+bun i --force
+c
+y
+gitui
+c
+y
+c
+bun dev
+c
+y
+flutter emulators --launch x
+f
+flutter emulators --launch x
+y
+x
+gemini
+c
+y
+gitui
+c
+y
+c
+y
+gitui
+y
+c
+bun dev
+c
+y
+bun dev
+c
+cd
+c
+sudo dnf install java-21-openjdk-devel
+bun dev
+c
+bun dev
+c
+y
+c
+bunx expo run:android --clear
+bunx expo run:android
+c
+y
+c
+gemin
+c
+y
+c
+bun i --force
+c
+turbo build
+bun run build
+bun clean
+turbo clean
+bunx turbo clean
+bunx turbo build
+cd apps/native/android && ./gradlew clean
+cd apps/native/android and ./gradlew clean
+cd apps/native/android
+./gradlew clean
+c
+y
+c
+bunx expo run:android
+bunx expo prebuild --clean
+bunx expo run:android
+c
+bunx expo run:android
+c
+y
+hx
+c
+./gradlew app:assembleDebug -x lint -x test --configure-on-demand --build-cache -PreactNativeDevServerPort=8081 -PreactNativeArchitectures=x86_64,arm64-v8a --stacktrace<\n>
+git logs
+y
+c
+git logs
+git log
+c
+git push
+y
+gitui
+c
+git logs
+git log
+c
+gitui
+c
+y
+gitui
+c
+gitui
+git add .
+ch
+cd projects/credible/mono
+y
+gitui
+c
+git add .
+ch
+c
+y
+x
+c
+y
+c
+y
+c
+gitui
+c
+y
+c
+x
+c
+cd projects/credible/mono
+ch
+git push
+c
+y
+c
+y
+cd projects/credible/mono
+c
+gitui
+c
+ch
+c
+git push
+cd projects/credible/mono
+c
+gitui
+c
+bun dev
+c
+bun dev
+cc
+c
+bun dev
+c
+y
+c
+bunx expo run:android
+bun expo start
+c
+x
+cd projects/credible/mono
+bun dev
+c
+bun dev
+x
+c
+cd projects/credible/mono
+gitui
+c
+git add .
+ch
+c
+y
+c
+x
+c
+x
+c
+y
+c
+cd projects/credible/mono
+c
+x
+lsof -ti:8081 | xargs kill -9
+bun dev
+c
+bun dev
+c
+bun dev
+c
+y
+c
+bunx expo run:android
+c
+gitui
+c
+x
+gitui
+c
+y
+cd projects/credible/mono
+c
+gitui
+y
+c
+bun dev
+bun dev
+c
+c
+gitui
+c
+git add .
+gitui
+c
+ch
+c
+x
+c
+gitui
+c
+bun dev
+c
+y
+c
+cd native
+y
+c
+bunx expo run:android
+c
+y
+x
+c
+flutter emulators --launch x
+bun dev
+c
+y
+c
+cd ..
+cd..
+cd ..
+c
+y
+gitui
+c
+y
+c
+gitui
+c
+y
+gitui
+y
+gitui
+y
+gitui
+c
+y
+gitui
+c
+gitui
+c
+gitui
+c
+bun dev
+c
+y
+gitui
+y
+c
+y
+gitui
+git
+gitui
+y
+git branch main
+git checkout main<\n>
+y
+gitui
+y
+gitui
+y
+gitui
+y
+c
+y
+c
+y
+gitui
+c
+y
+c
+gh repo clone atheeq-rhxn/mono
+c
+y
+c
+gitui
+c
+y
+c
+y
+c
+cd
+c
+y
+x
+c
+y
+c
+y
+c
+y
+cd
+c
+cd projects/mono
+c
+y
+c
+y
+c
+y
+c
+y
+c
+y
+c
+y
+c
+y
+c
+x
+x
+c
+y
+gitui
+c
+y
+c
+y
+yc
+c
+yc
+c
+y
+c
+y
+c
+cd ..
+c
+bun dev
+c
+bun dev
+c
+y
+c
+y
+c
+y
+cd
+c
+x
+y
+c
+cd
+c
+x
+y
+c
+gitui
+c
+y
+sudo dnf install gearlever
+y
+c
+gitui
+c
+gitu
+c
+gitu
+gitui
+c
+pkill -f "metro"<\n>pkill -f "expo"
+bun dev
+c
+c
+y
+c
+y
+c
+bun dev
+c
+y
+c
+gitui
+c
+x
+c
+bun check
+c
+bun check
+bun check --fix
+c
+y
+c
+y
+c
+y
+gitui
+bun dev
+c
+x
+c
+cd projects/mono
+gitui
+c
+y
+c
+y
+c
+bunx expo run:android
+exit
+gitui
+c
+gitui
+c
+ch
+c
+gitui
+c
+git push
+c
+x
+hx
+cd projects/mono
+c
+y
+c
+bunx expo prebuild --clean
+c
+y
+./gradlew clean
+exit
+x
+y
+c
+y
+c
+gitui
+c
+bun dev
+y
+c
+y
+c
+gitui
+c
+y
+c
+x
+c
+y
+c
+y
+c
+bun run build
+c
+y
+bunx expo prebuild --clean
+c
+y
+gitui
+c
+bunx expo prebuild --clean
+c
+bun dev
+c
+flutter emulators --launch x
+y
+c
+y
+c
+y
+c
+y
+c
+bunx expo run:android
+yh
+c
+y
+c
+y
+c
+y
+c
+y
+c
+x
+bunx expo run:android
+c
+x
+c
+y
+c
+cd apps/native/android<\n>./gradlew :mono-monitoring:kaptDebugKotlin --stacktrace --info
+y
+cd
+cd /home/atheeq/projects/mono/apps/native/android<\n>./gradlew clean<\n>
+y
+c
+./gradlew clean
+y
+x
+bunx expo run:android
+cd
+c
+cd /home/atheeq/projects/mono/apps/native/android<\n>./gradlew :mono-monitoring:kspDebugKotlin --stacktrace --info
+y
+c
+bunx expo run:android
+c
+cy
+c
+cd /home/atheeq/projects/mono/apps/native/android<\n>./gradlew :mono-monitoring:kspDebugKotlin --stacktrace --info
+y
+c
+cd /home/atheeq/projects/mono/apps/native/android<\n>./gradlew :mono-monitoring:kspDebugKotlin --stacktrace --info
+c
+y
+c
+x
+flutter emulators --launch x
+c
+y
+c
+bunx expo run:android
+/export
+bunx convex dev
+c
+c
+gemini
+bunx convex dev
+c
+cd
+c
+zellij web --create-token
+c
+ls
+cd projects
+c
+y
+c
+cd projects
+y
+c
+hell yeah
+buddy
+cd projects
+cd mono
+c
+u
+c
+y
+c
+y
+c
+bunx expo r
+c
+y
+bunx expo run:android
+y
+gitu
+gitui
+c
+gitui
+c
+x
+bunx expo run:android
+y
+c
+y
+gitui
+c
+y
+c
+bunx expo run:android
+y
+c
+cd apps/native/android<\n>./gradlew :mono-monitoring:kaptDebugKotlin --stacktrace --info
+c
+y
+c
+y
+c
+y
+c
+cd apps/native/android<\n>./gradlew :mono-monitoring:kaptDebugKotlin --stacktrace --info
+c
+y
+c
+cd apps/native/android<\n>./gradlew :mono-monitoring:kaptDebugKotlin --stacktrace --info
+y
+cd
+c
+y
+cd projects/mono
+c
+y
+c
+flutter emulators --launch x
+bunx expo run:android
+c
+bunx expo run:android
+c
+bunx expo run:android
+y
+c
+y
+gitui
+y
+c
+ch
+c
+x
+c
+x
+c
+ch
+c
+y
+c
+y
+c
+bunx expo run:android
+c
+y
+c
+bunx expo run:android
+c
+y
+gitui
+c
+y
+c
+y
+bunx expo run:android
+c
+y
+cd projects/mono
+cd
+cd projects/mono
+c
+gitui
+c
+y
+c
+flutter emulators --launch x
+gitui
+c
+y
+c
+bunx expo run:android
+c
+y
+c
+y
+gitui
+y
+c
+y
+c
+bunx expo run:android
+c
+bunx expo run:android
+c
+y
+gitui
+c
+y
+gitui
+c
+y
+gitui
+c
+gitui
+c
+y
+c
+y
+c
+x
+c
+ch
+c
+y
+c
+git
+c
+y
+c
+y
+c
+cd projects/mono
+c
+y
+x
+c
+gitui
+c
+bun dev
+c
+bun i --force
+c
+y
+c
+gitui
+c
+y
+gitui
+c
+y
+c
+y
+bun dev
+c
+gitui
+c
+y
+gitui
+c
+x
+c
+gemini
+c
+bun dev
+c
+y
+cc
+c
+curl
+curl --help
+c
+cd projects/mono
+c
+gitui
+c
+bun i --force
+c
+gemini
+c
+y
+c
+y
+c
+bun i --force
+c
+bun dev
+c
+x
+c
+y
+c
+y
+c
+bun create better-t-stack@latest mono --frontend tanstack-router native-nativewind --backend convex --runtime none --api none --auth better-auth --payments none --database none --orm none --db-setup none --package-manager bun --git --web-deploy none --server-deploy none --install --addons husky tauri turborepo ultracite --examples todo
+y
+c
+y
+c
+gitui
+c
+bun dev
+c
+gitui
+c
+y
+bunx expo install --fix
+bunx c
+c
+y
+c
+bun check
+c
+y
+c
+bun check
+y
+c
+y
+c
+bun check
+x
+c
+bun upgrade --all
+bun update
+y
+c
+bun dev
+c
+bun dev
+c
+bun i --force
+c
+bun i --force
+c
+gitui
+c
+c
+y
+gitui
+c
+y
+c
+y
+c
+x
+c
+y
+c
+x
+bun dev
+y
+c
+y
+c
+bun dev
+c
+y
+c
+bunx expo run:android
+c
+x
+Y
+C
+y
+c
+y
+gitui
+c
+git add .
+c
+y
+x
+c
+x
+c
+ch
+c
+git push
+c
+y
+c
+y
+c
+x
+c
+bunx expo start
+c
+y
+c
+bun dev
+c
+y
+c
+y
+c
+x
+bun install -g @expo/eas-cli
+c
+bun tool install -g eas-cli
+bun
+c
+npm install --global eas-cli
+c
+y
+c
+y
+c
+y
+c
+eas build
+c
+x
+y
+c
+git log
+c
+y
+c
+y
+c
+cd
+c
+cd dotfiles
+y
+c
+cd dotfiles
+y
+c
+# Clone the repository<\n>git clone https://github.com/abenz1267/walker.git<\n>cd walker<\n><\n># Build with Cargo<\n>cargo build --release<\n><\n># Run Walker<\n>./target/release/walker
+c
+y
+c
+git clone https://github.com/abenz1267/walker.git
+cargo build --help
+c
+cd
+cargo build /home/atheeq/src/walker
+y
+c
+x
+c
+x
+c
+cd .target
+cargo build --manifest-path walker/Cargo.toml
+y
+c
+x
+sudo dnf install gtk4 gtk4-layer-shell protobuf-compiler cairo poppler-glib<\n>
+cd
+c
+sudo dnf install gtk4 gtk4-layer-shell protobuf-compiler cairo poppler-glib<\n>
+c
+cd
+c
+cargo build --manifest-path walker/Cargo.toml
+c
+y
+c
+cargo build --manifest-path ~/src/walker/Cargo.toml
+which gtk4
+c
+cargo build --manifest-path ~/src/walker/Cargo.toml
+sudo dnf install gtk4-devel graphene-devel
+c
+sudo dnf install gtk4-devel graphene-devel
+c
+cargo build --manifest-path ~/src/walker/Cargo.toml
+elephatn
+elephant
+c
+cd src
+c
+https://github.com/jkuldev/convex_flutter.git
+git clone https://github.com/jkuldev/convex_flutter.git
+y
+c
+y
+c
+flutter pub get
+c
+y
+c
+hx
+c
+y
+c
+y
+c
+y
+cd
+cd src/convex
+c
+y
+c
+git clone https://github.com/get-convex/convex-rs.git
+c
+x
+c
+y
+c
+cd
+c
+cd src
+c
+x
+c
+mkdir
+mkdir x
+cd x
+git clone https://github.com/fzyzcjy/flutter_rust_bridge.git
+x
+c
+y
+cd
+c
+y
+c
+cd frb_example/pure_dart && ../../frb_internal generate-internal-frb-example-pure-dart
+bash
+c
+gitui
+c
+cd
+c
+frb_internal generate-internal-frb-example-pure-dart<\n>
+bash
+c
+cd src
+y
+gitui
+y
+gitui
+c
+cd
+y
+c
+uv init
+c
+uv add random
+y
+c
+y
+cd
+c
+y
+c
+mkdir x
+c
+cd x
+c
+uv init
+uv add random
+c
+y
+c
+uv run main.py
+y
+uv run main.py
+c
+y
+uv run main.py
+y
+c
+x
+y
+c
+y
+c
+x
+c
+y
+c
+cd
+c
+y
+c
+hx
+qc
+c
+y
+c
+git clone git@github.com:atheeq-rhxn/mangowc-web.git
+c
+y
+c
+x
+y
+bun create better-t-stack@latest mangowc-web --frontend next --backend none --runtime none --api none --auth none --payments none --database none --orm none --db-setup none --package-manager bun --git --web-deploy none --server-deploy none --install --addons biome turborepo --examples none
+y
+cd
+cd mangowc
+y
+c
+y
+c
+bun dev
+c
+y
+bun dev
+c
+y
+gitu
+gitui
+c
+bu i --force
+bun i --force
+cd
+c
+y
+c
+bun update react react-dom
+x
+y
+c
+bun dev
+c
+bun dev
+c
+bun dev
+c
+y
+c
+bunx create-better-t-stack add --addons fumadocs
+c
+gitui
+c
+y
+c
+y
+c
+bun create better-t-stack@latest mangowc-web --frontend next --backend none --runtime none --api none --auth none --payments none --database none --orm none --db-setup none --package-manager bun --git --web-deploy none --server-deploy none --install --addons biome fumadocs turborepo --examples none
+c
+y
+c
+x
+y
+c
+y
+c
+y
+c
+bunx create-better-t-stack add --addons fumadocs
+c
+bun dev
+c
+bun dev
+c
+bun dev
+c
+bun dev
+c
+y
+c
+bun create better-t-stack@latest mangowc-web --frontend next --backend none --runtime none --api none --auth none --payments none --database none --orm none --db-setup none --package-manager bun --git --web-deploy none --server-deploy none --install --addons biome fumadocs turborepo --examples none
+c
+y
+c
+gitui
+bun dev
+c
+y
+c
+gitui
+c
+ch
+c
+y
+c
+y
+gitui
+c
+bun dev
+y
+c
+y
+c
+x
+c
+gitui
+c
+y
+c
+y
+c
+y
+c
+y
+c
+gitui
+c
+y
+c
+gitui
+y
+c
+gitui
+y
+gitui
+c
+git reset --hard
+git reset --hard ~2
+git reset --hard
+git reset ~2
+git reset
+git reset -help
+y
+gitui
+c
+x
+c
+gitu
+c
+gitui
+c
+y
+c
+gitui
+c
+y
+c
+c
+y
+bun i --force
+c
+y
+c
+y
+c
+bun i --force
+c
+y
+c
+gitui
+c
+bun dev
+c
+y
+c
+y
+c
+git reset --hard HEAD~1
+c
+y
+c
+gitui
+c
+y
+c
+y
+c
+gitui
+c
+y
+c
+git init
+git add .
+ch
+c
+git remote add origin git@github.com:atheeq-rhxn/mangowc-web.git<\n>git branch -M main<\n>git push -u origin main
+git push --force
+git push -u origin main --force
+c
+y
+c
+git init
+git add .
+y
+gitui
+c
+gitui
+c
+y
+c
+x
+c
+y
+c
+x
+c
+y
+c
+y
+c
+x
+c
+y
+c
+y
+c
+git add .
+git commit -m "🎉 Initial commit"
+c
+git add origin 
+c
+git remote add origin git@github.com:atheeq-rhxn/mangowc-web.git<\n>git branch -M main<\n>git push -u origin main --force
+c
+y
+c
+x
+y
+c
+y
+hx
+c
+y
+c
+y
+c
+gitui
+c
+y
+c
+y
+c
+x
+c
+gitui
+c
+y
+c
+gitiu
+gitui
+c
+y
+git init
+git remote add origin git@github.com:atheeq-rhxn/mangowc-web.git<\n>git branch -M main<\n>git push -u origin main --force
+git push -u origin main --force
+y
+c
+y
+c
+git init
+git add .
+git commit -m "🎉 Initial commit"
+git remote add origin git@github.com:atheeq-rhxn/mangowc-web.git<\n>git branch -M main<\n>git push -u origin main --force
+c
+x
+c
+git push
+y
+c
+git add .
+git init
+c
+git add .
+git commit -m "🎉 Initial commit"
+git remote add origin git@github.com:atheeq-rhxn/mangowc-web.git<\n>git branch -M main<\n>git push -u origin main --force
+x
+x
+c
+y
+c
+git init
+git add .
+git commit -m "🎉 Initial commit"
+git remote add origin git@github.com:atheeq-rhxn/mangowc-web.git<\n>git branch -M main<\n>git push -u origin main --force
+c
+bun dev
+y
+bun i --force
+c
+bun dev
+pkill 3001
+bun dev
+c
+bun dev
+bun dev
+x
+c
+bun dev
+c
+vercel
+x
+c
+x
+c
+y
+c
+git init
+git add .
+git commit -m "🎉 Initial commit"
+git remote add origin git@github.com:atheeq-rhxn/mangowc-web.git<\n>git branch -M main<\n>git push -u origin main --force
+cd
+cd projects/
+c
+y
+c
+bun dev
+c
+y
+cd
+c
+cd
+c
+cd projects/mangowc-web
+c
+y
+c
+y
+c
+bun run 
+c
+bun run build
+c
+gitui
+c
+gitui
+c
+x
+c
+bun i --force
+c
+y
+c
+x
+c
+ch
+git push
+c
+x
+c
+y
+c
+x
+c
+ch
+git push
+c
+y
+c
+gitui
+c
+vercel
+bu i update vercel@latest
+y
+c
+bun dev
+bun i update vercel@latest
+c
+vercel
+x
+c
+y
+c
+vercel
+c
+y
+c
+cd downloads
+c
+y
+c
+y
+c
+./Kiro
+./kiro
+c
+y
+c
+y
+./kiro
+sudo ./kiro
+sudo ./kiro --user-data-dir
+sudo ./kiro --user-data-dir --no-sandbox
+c
+y
+x
+c
+cd
+c
+cd mangowc-web
+y
+c
+gitui
+c
+gitui
+x
+c
+ch
+git log
+ch
+c
+git push
+c
+x
+cd
+y
+c
+cd
+c
+cd mangowc-web
+c
+./kiro
+cd mangowc-web
+c
+x
+c
+x
+c
+x
+c
+cd kiro
+y
+c
+sudo ./kiro
+sudo ./kiro --user-data-dir --no-sandbox
+c
+cd mangowc-web
+c
+gitui
+c
+x
+c
+y
+y
+c
+x
+c
+x
+c
+x
+c
+y
+c
+convert
+c
+bun build
+bun run build
+c
+bun run build
+bun dev
+c
+gitui
+c
+ch
+git push
+c
+x
+c
+y
+c
+cd
+cd mangowc-web
+c
+x
+y
+c
+y
+c
+y
+git log
+c
+y
+git log
+y
+gitui
+c
+y
+c
+bunx create-better-t-stack@latest
+c
+bun create better-t-stack@latest mangowc-web --frontend next --backend none --runtime none --api none --auth none --payments none --database none --orm none --db-setup none --package-manager bun --git --web-deploy none --server-deploy none --install --addons biome fumadocs pwa turborepo --examples none
+cd mangowc-web
+y
+bunx taze -r
+bunx taze major -w
+bunx taze -r -w
+bun i -f
+bun taze -r
+bun taze
+bunx taze -r
+c
+bun dev
+pkill 3001
+bun dev
+y
+bun dev
+c
+y
+gitui
+c
+bun i -f
+c
+bun dev
+c
+y
+c
+bunx create fumadocs-app
+c
+bunx create-fumadocs-app
+cd test
+bun dev
+c
+y
+cd
+cd projects/x
+y
+c
+bun create better-t-stack@latest mangowc-web --frontend next --backend none --runtime none --api none --auth none --payments none --database none --orm none --db-setup none --package-manager bun --git --web-deploy none --server-deploy none --install --addons biome fumadocs pwa turborepo --examples none
+c
+y
+c
+y
+c
+gitui
+c
+bun dev
+c
+bunx taze -r -w
+bun i -f
+bun update 
+bun update -h
+bun upgrade
+c
+bun i -f
+bunx taze -r
+c
+y
+c
+x
+c
+x
+cd projects/x
+cd mangowc-web
+c
+y
+c
+x
+c
+bun dev
+x
+c
+y
+c
+c
+bun dev
+c
+bun i -f
+bun dev
+c
+y
+c
+y
+c
+y
+c
+y
+c
+y
+c
+gitui
+c
+y
+c
+gitui
+c
+bunx taze -r -w
+c
+bun i -f
+c
+bunx taze -r -w
+c
+y
+c
+y
+c
+y
+c
+x
+c
+y
+c
+cd kiro
+c
+cd kiro
+c
+sudo ./kiro --user-data-dir --no-sandbox
+c
+sudo ./kiro --user-data-dir --no-sandbox
+c
+sudo
+sudo -l
+sudo dnf update wezterm
+c
+y
+c
+bun create better-t-stack@latest mangowc --frontend next --backend none --runtime none --api none --auth none --payments none --database none --orm none --db-setup none --package-manager bun --git --web-deploy none --server-deploy none --install --addons ultracite fumadocs pwa turborepo --examples none
+bunx taze -r -w
+y
+c
+bunx taze -r -w
+bun i -f
+c
+ch
+c
+y
+cd
+cd projects/x
+c
+cd mangowc-web
+c
+y
+gigtui
+gitui
+c
+ch
+c
+gemini
+c
+gemini --version
+c
+y
+c
+y
+c
+bun dev
+c
+gemini
+c
+y
+cd mangowc-web
+y
+gitui
+c
+y
+c
+y
+c
+y
+c
+cd
+c
+y
+gitui
+c
+y
+c
+y
+gitui
+c
+y
+c
+y
+c
+y
+ls
+tree
+y
+c
+y
+tree public
+y
+create
+coc
+yc
+c
+y
+c
+y
+c
+y
+y
+ec
+c
+y
+c
+magick
+c
+y
+c
+y
+c
+ggitui
+c
+gitui
+c
+y
+c
+bun dev
+bun run dev
+c
+y
+c
+bun init
+bun dev
+c
+y
+cd
+cd projects
+c
+bunx create-fumadocs-app
+cd fumadocs
+c
+bun dev
+c
+y
+c
+gitui
+c
+git add .
+git commit -m (date now | format date "%Y%m%d%H%M%S")
+c
+y
+c
+y
+c
+gitui
+c
+bun create better-t-stack@latest mangowc --frontend next --backend none --runtime none --api none --auth none --payments none --database none --orm none --db-setup none --package-manager bun --git --web-deploy none --server-deploy none --install --addons ultracite fumadocs pwa turborepo --examples none
+c
+bun create better-t-stack@latest mangowc --frontend next --backend none --runtime none --api none --auth none --payments none --database none --orm none --db-setup none --package-manager bun --git --web-deploy none --server-deploy none --install --addons biome fumadocs pwa turborepo --examples none
+c
+y
+c
+y
+c
+gitui
+c
+x
+c
+gitu
+c
+gitui
+c
+y
+c
+x
+c
+y
+c
+ch
+c
+git push
+c
+x
+c
+y
+c
+y
+c
+y
+c
+gitui
+c
+ch
+c
+y
+gitui
+c
+ch
+c
+git add .
+git commit -m (date now | format date "%Y%m%d%H%M%S")
+y
+gitui
+c
+git push
+gitui
+git log
+c
+y
+c
+y
+c
+hx
+c
+x
+y
+c
+gitui
+c
+x
+c
+y
+c
+gitui
+c
+bun dev
+x
+c
+y
+gitui
+c
+bun dev
+c
+c
+y
+c
+cd
+c
+cd projects/mangowc-web
+c
+y
+gitui
+c
+y
+x
+c
+gitui
+c
+bun dev
+c
+ch
+git push
+c
+x
+c
+x
+c
+y
+c
+gitui
+c
+y
+c
+gitui
+c
+y
+gitui
+c
+y
+gitui
+x
+c
+y
+gitui
+y
+c
+gitui
+c
+y
+c
+y
+gitui
+c
+cd
+cd projects
+bun create better-t-stack@latest mangowc --frontend next --backend none --runtime none --api none --auth none --payments none --database none --orm none --db-setup none --package-manager bun --git --web-deploy none --server-deploy none --install --addons biome fumadocs pwa turborepo --examples none
+c
+y
+c
+y
+gitui
+c
+y
+c
+bunx taze -r -w
+bun i -f
+bunx taze -r
+c
+gitui
+c
+vercel -h
+c
+y
+c
+x
+c
+y
+c
+y
+c
+echo "# mangowc-docs" >> README.md<\n>git init<\n>git add README.md<\n>git commit -m "first commit"<\n>git branch -M main<\n>git remote add origin git@github.com:atheeq-rhxn/mangowc-docs.git<\n>git push -u origin main
+c
+y
+gitui
+c
+git log
+git reset --hard HEAD~1
+y
+c
+git add .
+git init
+git add .
+git commit -m "🎉 Initial commit"
+git remote add origin git@github.com:atheeq-rhxn/mangowc-docs.git<\n>git branch -M main<\n>git push -u origin main --force
+c
+y
+c
+git reset --hard HEAD~1
+y
+git add .
+git commit -m "🎉 Initial commit"
+git remote add origin git@github.com:atheeq-rhxn/mangowc-docs.git<\n>git branch -M main<\n>git push -u origin main --force
+git push -u origin main --force
+c
+y
+cd
+cd projects/mangowc-web
+y
+c
+bunx create-fumadocs-app
+c
+y
+c
+c
+bunx create-fumadocs-app
+gitui
+c
+y
+c
+bun i -f
+c
+c
+bun dev
+c
+gitui
+c
+y
+c
+bun dev
+c
+y
+c
+bun dev
+y
+bun dev
+c
+x
+c
+y
+c
+y
+c
+x
+c
+y
+c
+gitui
+y
+gitui
+c
+y
+c
+y
+c
+x
+y
+c
+y
+c
+bun dev
+c
+y
+c
+bun dev
+c
+x
+c
+bun dev
+c
+bun dev
+c
+y
+bun dev
+c
+y
+c
+y
+c
+x
+y
+c
+bun dev
+c
+bun dev
+c
+y
+gitui
+c
+y
+x
+c
+x
+c
+gitui
+c
+biome 
+bun check
+biome
+bun check
+c
+bun dev
+c
+y
+c
+y
+c
+ch
+c
+vercel
+c
+x
+c
+git push
+y
+c
+c
+y
+c
+gh repo clone atheeq-rhxn/mangowc-docs
+y
+c
+git init
+c
+git add .
+git commit -m "🎉 Initial commit"
+git remote add origin git@github.com:atheeq-rhxn/mangowc-docs.git<\n>git branch -M main<\n>git push -u origin main --force
+c
+y
+c
+gitui
+c
+y
+c
+y
+c
+gitui
+c
+y
+git reset --hard HEAD~2
+c
+y
+gitui
+git reset --hard HEAD~3
+gitui
+y
+c
+y
+gitui
+c
+y
+c
+gh repo clone atheeq-rhxn/mangowc-web
+c
+y
+c
+y
+c
+x
+c
+y
+gitui
+c
+y
+c
+bun i
+c
+bun build
+bun run build
+bun i -f
+y
+bun i -f
+y
+bun run build
+y
+c
+y
+bun add next-themes
+y
+bun run build
+c
+x
+c
+bun dev
+y
+c
+y
+c
+y
+c
+git init
+x
+c
+bunx create-fumadocs-app
+c
+y
+cd
+cd projects
+c
+bunx create-fumadocs-app
+c
+y
+c
+bun dev
+c
+x
+c
+bun dev
+c
+bun dev
+c
+y
+c
+y
+c
+git init
+c
+git add .
+git commit -m "🎉 Initial commit"
+git remote add origin git@github.com:atheeq-rhxn/mangowc-docs.git<\n>git branch -M main<\n>git push -u origin main --force
+c
+x
+c
+x
+c
+y
+gitui
+c
+y
+c
+gitui
+c
+y
+c
+y
+c
+git add .
+git init
+git add .
+git commit -m "🎉 Initial commit"
+git remote add origin git@github.com:atheeq-rhxn/mangowc-docs.git<\n>git branch -M main<\n>git push -u origin main --force
+c
+y
+c
+y
+c
+git init
+c
+git add .
+git commit -m "🎉 Initial commit"
+c
+git remote add origin git@github.com:atheeq-rhxn/mangowc-docs.git<\n>git branch -M main<\n>git push -u origin main --force
+c
+t
+c
+y
+c
+gitui
+c
+x
+hx
+c
+y
+c
+x
+c
+bun dev
+c
+y
+c
+x
+c
+ch
+c
+git reset --hard HEAD~1
+y
+c
+x
+c
+y
+c
+ch
+x
+ch
+c
+git push
+c
+y
+ch
+c
+y
+c
+./sync-docs
+./sync-docs.sh
+y
+./home/atheeq/projects/mangowc-web/sync_docs.sh
+c
+y
+c
+x
+c
+x
+c
+git submodule update --remote --merge<\n>git add apps/web/content/docs<\n>git commit -m "📝 docs: sync latest mangowc-docs"<\n>
+c
+gitui
+c
+y
+git reset --hard HEAD~1
+c
+gitui
+c
+y
+c
+gitui
+c
+bash
+c
+y
+c
+#!/bin/bash<\n>set -e<\n><\n>echo "📝 docs: Setting up mangowc-docs as a submodule..."<\n><\n># Define paths<\n>SUBMODULE_PATH="apps/web/content/docs"<\n>SUBMODULE_URL="https://github.com/atheeq-rhxn/mangowc-docs.git"<\n>SUBMODULE_BRANCH="main"<\n><\n># Add the submodule if it doesn’t exist<\n>if [ ! -d "$SUBMODULE_PATH/.git" ]; then<\n>  echo "→ Adding submodule..."<\n>  git submodule add -b $SUBMODULE_BRANCH --depth=1 $SUBMODULE_URL $SUBMODULE_PATH<\n>else<\n>  echo "→ Submodule already exists, skipping add."<\n>fi<\n><\n># Enter submodule<\n>cd $SUBMODULE_PATH<\n><\n># Enable sparse checkout for only content/docs<\n>echo "→ Configuring sparse checkout..."<\n>git sparse-checkout init --cone<\n>git sparse-checkout set content/docs<\n><\n>cd ../../../../<\n><\n># Ensure .gitmodules is correct<\n>echo "→ Ensuring .gitmodules branch config..."<\n>git config -f .gitmodules submodule."$SUBMODULE_PATH".branch $SUBMODULE_BRANCH<\n><\n># Auto-update config<\n>echo "→ Enabling auto-update on git pull..."<\n>git config submodule.recurse true<\n>git config fetch.recurseSubmodules on-demand<\n><\n># Stage and commit<\n>echo "→ Committing setup..."<\n>git add .gitmodules $SUBMODULE_PATH<\n>git commit -m "📝 docs: setup mangowc-docs submodule" || echo "No changes to commit."<\n><\n>echo "✅ Done! Submodule ready and tracking $SUBMODULE_BRANCH from $SUBMODULE_URL"<\n>
+bash
+c
+y
+gitui
+y
+c
+gitui
+c
+y
+cd projects/mangowc-web
+c
+y
+c
+y
+c
+y
+c
+gitui
+c
+y
+c
+y
+x
+c
+y
+c
+x
+c
+y
+c
+bunx create-fumadocs-app
+y
+c
+bun i -f
+c
+bun dev
+c
+x
+c
+y
+c
+x
+c
+ch
+c
+ch
+x
+c
+ch
+c
+git push
+y
+c
+y
+c
+gitui
+y
+c
+y
+c
+y
+c
+git add .
+git init
+git add .
+git commit -m "🎉 Initial commit"
+git remote add origin git@github.com:atheeq-rhxn/mangowc-docs.git<\n>git branch -M main<\n>git push -u origin main --force
+c
+y
+c
+y
+c
+y
+c
+y
+c
+y
+c
+gitui
+c
+y
+c
+y
+gitui
+c
+gitui
+c
+git reset --hard HEAD~2
+c
+y
+c
+gitui
+c
+bun dev
+c
+bun i -f
+c
+bunx taze -r
+bunx taze -r -w
+bun i -f
+bun run build
+c
+ch
+c
+git push -u origin main --force
+c
+y
+c
+x
+c
+y
+c
+bun dev
+c
+bun i -f
+bunx taze -r -w
+bun i -f
+bun run build
+git add .
+gitui
+c
+ch
+c
+x
+c
+y
+c
+bun dev
+c
+x
+c
+y
+c
+y
+c
+y
+c
+bun dev
+c
+x
+y
+c
+y
+c
+gitui
+c
+x
+c
+y
+c
+gitui
+c
+bun run build
+c
+bun dev
+c
+y
+c
+ch
+c
+git push
+c
+y
+c
+bun dev
+bun dev
+c
+y
+c
+bun dev
+c
+bun dev
+c
+ch
+git push
+gitui
+c
+git reset --hard HEAD~1
+c
+y
+c
+ch
+git push -u origin main --force
+c
+u
+c
+y
+gitui
+c
+gitui
+c
+y
+c
+y
+c
+y
+c
+y
+hc
+c
+y
+c
+bun init
+y
+bun i
+y
+c
+bunx taze -r -w
+bunx run undefined i
+c
+bun i
+c
+y
+bun dev
+c
+bun dev
+c
+y
+c
+y
+c
+bun dev
+c
+bun dev
+c
+y
+gitui
+c
+y
+c
+y
+c
+gitui
+c
+x
+c
+y
+c
+y
+c
+y
+c
+y
+c
+bun dev
+c
+bun i
+y
+c
+bun i
+c
+bun dev
+c
+y
+c
+y
+cd
+cd projects
+c
+x
+git clone --depth 1 https:github.com/fuma-nama/fumadocs.git
+c
+git clone --depth 1 https://github.com/fuma-nama/fumadocs.git
+c
+y
+c
+y
+c
+y
+gitui
+c
+x
+c
+bun i
+c
+bun dev
+c
+bun run build
+bun dev
+bun dev --concurrency 36
+c
+y
+c
+y
+c
+y
+gitui
+c
+y
+gitui
+ch
+c
+y
+c
+y
+x
+c
+y
+c
+ch
+c
+bun dev
+c
+y
+gitui
+c
+y
+gitui
+c
+gitui
+c
+y
+c
+x
+gitui
+c
+y
+c
+y
+c
+y
+c
+gitui
+c
+gitui
+c
+bun dev
+c
+bun build
+bun run build
+x
+c
+x
+c
+y
+c
+gitui
+c
+y
+c
+ch
+c
+git push -u origin main --force
+c
+git logs
+git log
+c
+bun dev
+c
+y
+git log
+c
+y
+c
+ch
+x
+cd
+c
+x
+ch
+c
+git push
+c
+y
+c
+bun run build
+ch
+c
+ch
+c
+git add .
+gitui
+c
+x
+c
+bun run build
+c
+gitui
+c
+x
+c
+ch
+c
+ch
+c
+git push
+c
+cd projects/mangowc-web
+c
+ch
+c
+x
+c
+x
+c
+gitui
+ch
+c
+git push
+x
+cd projects/mangowc-web
+c
+y
+c
+y
+c
+y
+c
+gitui
+c
+ch
+c
+y
+c
+y
+c
+x
+c
+gitui
+c
+gitui
+c
+y
+c
+bunx shadcn@latest add https://tweakcn.com/r/themes/darkmatter.json
+c
+y
+c
+y
+gitui
+y
+gitui
+c
+y
+gitui
+c
+y
+x
+c
+gitui
+c
+ch
+c
+x
+c
+ch
+git push
+c
+y
+c
+bun dev
+c
+y
+c
+bun dev
+c
+x
+x
+cd projects/mangowc-web
+c
+y
+x
+y
+c
+gitui
+c
+y
+c
+bunx shadcn@latest add https://www.shadcn.io/registry/apple-cards-carousel.json
+y
+c
+bun run build
+c
+y
+c
+y
+c
+gitui
+c
+y
+c
+bun run build
+c
+bun dev
+c
+gitui
+c
+y
+c
+bun dev
+c
+bun run build
+x
+c
+c
+x
+c
+y
+c
+x
+c
+gitui
+c
+y
+gitui
+c
+y
+c
+y
+c
+gitui
+c
+ch
+c
+x
+c
+ch
+c
+git push
+c
+gitui
+c
+y
+gitui
+c
+x
+y
+c
+bun de
+y
+c
+bunx shadcn@latest add drawer
+npx shadcn@latest add drawer
+bunx shadcn@latest add drawer
+bunx --bun shadcn@latest add drawer
+cd
+c
+bunx --bun shadcn@latest add drawer<\n>
+c
+y
+c
+cd projects/mangowc-web
+y
+c
+bunx --bun shadcn@latest add drawer<\n>
+y
+c
+bunx --bun shadcn@latest add drawer<\n>
+bunx shadcn@latest add drawer
+gitui
+c
+y
+c
+y
+gitui
+c
+bun dev
+bun dev
+c
+c
+bun dev
+y
+y
+c
+y
+c
+bun dev
+c
+gitui
+bun dev
+c
+bun run build
+c
+ch
+c
+git push
+x
+y
+c
+y
+c
+y
+c
+bash
+c
+y
+bun dev:native
+c
+y
+c
+gitui
+c
+y
+c
+ch
+c
+y
+c
+gitui
+c
+ch
+c
+y
+c
+gitui
+c
+x
+c
+ch
+c
+x
+x
+x
+c
+y
+c
+y
+c
+y
+c
+x
+c
+y
+c
+x
+c
+y
+c
+x
+c
+gitui
+c
+x
+c
+y
+x
+c
+y
+c
+y
+c
+x
+c
+y
+gitui
+c
+ch
+c
+git push
+y
+cd projects
+c
+y
+gitui
+c
+y
+c
+cd projects/mangowc-web
+c
+x
+c
+y
+c
+git reset --hard HEAD~1
+c
+gitui
+c
+y
+c
+gitui
+c
+x
+c
+ch
+c
+hx
+c
+ch
+git reset --hard SOFT~1
+ch
+c
+git push -u origin main --force
+y
+gitui
+c
+x
+cd projects/mangowc-web
+y
+c
+git reset --soft HEAD~1
+c
+y
+c
+bun run build
+c
+gitui
+c
+x
+c
+y
+gitui
+c
+ch
+git push -u origin main --force
+c
+y
+c
+y
+cd projects/mangowc-web
+y
+c
+y
+c
+hx
+c
+y
+c
+gitui
+y
+c
+y
+gitui
+c
+y
+x
+c
+ny
+y
+gitui
+y
+gitui
+c
+y
+c
+y
+c
+x
+bun dev
+c
+y
+cd projects/mangowc-web
+gitui
+c
+gitui
+c
+y
+gitui
+c
+x
+c
+ch
+c
+gitui
+c
+y
+c
+y
+c
+bunx shadcn@latest add https://tweakcn.com/r/themes/darkmatter.json
+gitui
+c
+bun dev
+c
+y
+gitui
+c
+y
+c
+gitui
+c
+y
+c
+y
+c
+y
+c
+hx 
+y
+gitui
+c
+y
+c
+y
+gitui
+y
+c
+y
+c
+y
+c
+bunx shadcn@latest add https://tweakcn.com/r/themes/darkmatter.json
+y
+c
+bunx shadcn@latest add https://tweakcn.com/r/themes/darkmatter.json
+c
+y
+c
+gitui
+c
+y
+gitui
+c
+y
+c
+bunx shadcn@latest add https://www.shadcn.io/registry/apple-cards-carousel.json
+gitui
+c
+y
+c
+gitui
+bunx shadcn@latest add card
+gitui
+c
+y
+c
+bun run build
+c
+gitui
+c
+y
+c
+y
+gitui
+c
+y
+c
+ch
+c
+oklch
+x
+c
+cd
+c
+cargo install pastel
+x
+gitui
+c
+pastel
+x
+c
+y
+c
+gitui
+c
+bun dev
+c
+bun run build
+y
+c
+y
+gitui
+c
+y
+c
+bunx @fumadocs/cli customise
+y
+gitui
+c
+bun i -f
+c
+y
+c
+y
+c
+bun x @fumadocs/cli
+bun x @fumadocs/cli add tabs
+c
+gitui
+c
+y
+c
+x
+c
+x
+c
+x
+c
+bun dev
+c
+bun dev
+c
+gitui
+c
+y
+c
+bun dev
+c
+bun dev
+c
+gitui
+c
+y
+c
+y
+c
+ch
+c
+x
+c
+y
+c
+gitui
+c
+x
+c
+ch
+gitui
+y
+c
+git reset --soft HEAD~1
+c
+x
+c
+y
+c
+ch
+git push
+y
+c
+bun dev
+c
+x
+c
+y
+gitui
+c
+y
+bun dev
+cc
+c
+ch
+c
+git push
+y
+c
+x
+c
+ch
+c
+git push
+git log
+c
+gitui
+c
+gitui
+c
+x
+y
+c
+y
+c
+y
+c
+y
+x
+gitui
+c
+bun dev
+c
+y
+c
+y
+c
+x
+c
+y
+c
+bun dev
+c
+y
+gitui
+c
+y
+c
+gitui
+c
+y
+c
+y
+c
+bun dev
+c
+gitui
+c
+y
+git clone https://github.com/DreamMaoMao/mangowc.wiki.git
+c
+y
+c
+gitui
+c
+x
+c
+opencode create agent
+x
+c
+opencode agent create
+c
+hx
+c
+y
+c
+bun dev
+c
+y
+c
+y
+gitui
+c
+y
+c
+bun dev
+c
+gitui
+c
+bun run build
+y
+c
+c
+gitui
+c
+y
+c
+x
+c
+y
+c
+y
+c
+y
+c
+git clone https://github.com/DreamMaoMao/mangowc.wiki.git
+c
+y
+c
+bun dev
+c
+bun dev
+c
+y
+c
+bun dev
+c
+y
+c
+y
+c
+y
+c
+y
+c
+x
+c
+bun dev
+c
+y
+c
+x
+y
+c
+gitui
+c
+y
+c
+bun dev
+c
+hx
+c
+y
+c
+y
+c
+y
+bun dev
+c
+y
+c
+x
+c
+y
+c
+x
+c
+y
+c
+y
+c
+hx
+y
+c
+hx
+q
+c
+x
+c
+y
+c
+y
+c
+x
+c
+y
+c
+y
+x
+c
+x
+c
+y
+c
+y
+cd projects/mangowc-web
+y
+c
+x
+c
+x
+c
+y
+c
+y
+c
+y
+c
+gitui
+c
+x
+c
+bun dev
+c
+bun dev
+c
+y
+c
+y
+c
+bun dev
+c
+y
+c
+gitui
+c
+bun dev
+c
+y
+c
+y
+c
+bun dev
+c
+bun dev
+c
+bun dev
+c
+bun dev
+c
+bun dev
+c
+bun dev
+c
+bun dev
+c
+bun dev
+c
+y
+c
+bun dev
+c
+y
+c
+y
+c
+bun dev
+c
+y
+c
+y
+c
+y
+c
+x
+c
+y
+c
+pkill zen
+c
+x
+c
+sudo dnf update
+c
+ghostty --version
+python --version
+c
+go 
+c
+ruby
+c
+java --version
+x
+c
+sudo dnf install -y glibc wayland wayland-protocols libinput libdrm libxkbcommon pixman git meson ninja libdisplay-info libliftoff<\n>hwdata seatd pcre2
+sudo dnf install -y wayland-devel wayland-protocols-devel meson<\n>
+c
+meson
+c
+sudo dnf update -y
+x
+sudo dnf update ghostty wezterm
+y
+c
+https://github.com/lorenseanstewart/kanban-comparison.git
+git clone https://github.com/lorenseanstewart/kanban-comparison.git
+y
+cc
+c
+bun i
+c
+y
+c
+hx
+c
+hx
+c
+cd kanban-analog && bun install<\n>cd ../kanban-htmx && bun install<\n>cd ../kanban-marko && bun install<\n>cd ../kanban-nextjs && bun install<\n>cd ../kanban-nuxt && bun install<\n>cd ../kanban-qwikcity && bun install<\n>cd ../kanban-solidstart && bun install<\n>cd ../kanban-sveltekit && bun install<\n>cd ../kanban-tanstack && bun install<\n>cd ../kanban-tanstack-solid && bun install<\n>
+x
+c
+gitui
+c
+./script.sh
+c
+y
+c
+./script.sh
+y
+c
+bun run build:all
+y
+c
+bun run measure:all
+hx
+c
+y
+c
+y
+c
+x
+bun dev
+c
+sudo dnf update ghostty wezterm
+c
+wezterm --version
+c
+y
+c
+y
+c
+y
+c
+x
+bun dev
+c]
+c
+y
+c
+y
+c
+gitui
+c
+y
+gitui
+y
+gitui
+c
+y
+c
+y
+c
+bun create better-t-stack@latest mangowc-web --frontend tanstack-router --backend none --runtime none --api none --auth none --payments none --database none --orm none --db-setup none --package-manager bun --no-git --web-deploy none --server-deploy none --install --addons biome fumadocs turborepo --examples none
+c
+bun create better-t-stack@latest mangowc-web --frontend tanstack-start --backend none --runtime none --api none --auth none --payments none --database none --orm none --db-setup none --package-manager bun --no-git --web-deploy none --server-deploy none --install --addons biome fumadocs turborepo --examples none
+y
+y
+c
+y
+c
+y
+cd
+bun dev
+c
+cd ..
+c
+x
+cd
+bun create better-t-stack@latest mangowc-web --frontend tanstack-router --backend none --runtime none --api none --auth none --payments none --database none --orm none --db-setup none --package-manager bun --no-git --web-deploy none --server-deploy none --install --addons biome fumadocs turborepo --examples none
+c
+y
+c
+bun create better-t-stack@latest mangowc-web --frontend tanstack-router --backend none --runtime none --api none --auth none --payments none --database none --orm none --db-setup none --package-manager bun --no-git --web-deploy none --server-deploy none --install --addons biome fumadocs turborepo --examples none
+c
+y
+c
+y
+c
+x
+y
+cd
+c
+fzi
+fzfi
+fzf
+c
+cdi
+c
+y
+c
+x
+c
+gitui
+c
+ch
+c
+y
+gitui
+y
+c
+gitui
+c
+ch
+c
+bun dev
+c
+bun dev
+c
+ch
+c
+y
+c
+gitui
+c
+ch
+c
+git push
+c
+bun dev
+c
+x
+y
+c
+git pull
+gitui
+git pull --force
+git log
+c
+gitui
+c
+y
+c
+cd
+c
+cd src
+c
+cargo build --h
+cargo build --help
+git clone https://github.com/abenz1267/walker.git
+c
+y
+gitui
+c
+cargo build --manifest-path ~/src/walker/Cargo.toml --release
+c
+cd
+c
+cargo build --release
+c
+cargo build --manifest-path ~/src/walker/Cargo.toml --release
+sudo dnf install gtk4-devel gtk4-layer-shell-devel pkgconf-pkg-config<\n>
+c
+cargo build --manifest-path ~/src/walker/Cargo.toml --release
+c
+sudo dnf install gtk4-devel gtk4-layer-shell-devel pkgconf-pkg-config<\n>
+sudo dnf install \<\n>    gtk4-devel \<\n>    gtk4-layer-shell-devel \<\n>    cairo-devel \<\n>    poppler-glib-devel \<\n>    protobuf-compiler \<\n>    protobuf-devel \<\n>    pkgconf-pkg-config \<\n>    make \<\n>    git \<\n>    rust cargo<\n>
+c
+bash
+cargo build --manifest-path ~/src/walker/Cargo.toml --release
+walker
+c
+./target/release/walker
+y
+c
+./target/release/walker
+walker --gapplication-service
+c
+walker --gapplication-service
+c
+walker
+c
+y
+c
+y
+cd
+c
+y
+c
+cargo build --release
+./target/release/walker
+./target/release/walker --gapplication-service &<\n>
+./target/release/walker<\n>
+cargo
+walker
+c
+sudo dnf copr enable errornointernet/walker<\n>sudo dnf install walker
+c
+walker
+waler
+walker
+walker --gapplication-service
+c
+go
+c
+walker --gapplication-service
+walker
+sudo dnf install go
+c
+sudo dnf install go
+go
+c
+go
+c
+y
+c
+git clone https://github.com/abenz1267/elephant<\n>cd elephant
+c
+go mod download<\n>go build -o elephant cmd/elephant.go
+c
+elephant
+y
+c
+y
+c
+y
+c
+cd cmd/elephant<\n>go install elephant.go
+elephant
+c
+<\n># Create configuration directories<\n>mkdir -p ~/.config/elephant/providers<\n><\n># Build and install a provider (example: desktop applications)<\n>cd internal/providers/desktopapplications<\n>go build -buildmode=plugin<\n>cp desktopapplications.so ~/.config/elephant/providers/
+cd src/walker
+./target/release/walker
+walker
+nc -U /run/user/1000/walker/walker.sock
+c
+nc
+nc -U /run/user/1000/walker/walker.sock
+c
+walker
+hx
+cd
+c
+mkdir -p ~/.local/share/applications<\n>hx ~/.local/share/applications/walker.desktop<\n>
+walker --gapplication-service
+c
+walker
+hx
+bash
+bash
+walker
+c
+y
+c
+cd /etc/systemd/system/elephant.service
+hx /etc/systemd/system/elephant.service
+qc
+c
+sudo systemctl daemon-reload && sudo systemctl enable elephant && sudo systemctl start elephant
+bash
+sudo systemctl daemon-reload && sudo systemctl enable elephant && sudo systemctl start elephant<\n>
+hx ~/.config/systemd/user/elephant.service
+c
+x
+bash
+c
+elephant
+c
+walker --gapplication-service
+c
+bash
+gsettings set org.gnome.settings-daemon.plugins.media-keys custom-keybindings "['/org/gnome/settings-daemon/plugins/media-keys/custom-keybindings/walker/']"<\n>
+gsettings set org.gnome.settings-daemon.plugins.media-keys.custom-keybinding:/org/gnome/settings-daemon/plugins/media-keys/custom-keybindings/walker/ name 'Walker'<\n>
+gsettings set org.gnome.settings-daemon.plugins.media-keys.custom-keybinding:/org/gnome/settings-daemon/plugins/media-keys/custom-keybindings/walker/ command 'nc -U /run/user/1000/walker/walker.sock'<\n>
+gsettings set org.gnome.settings-daemon.plugins.media-keys.custom-keybinding:/org/gnome/settings-daemon/plugins/media-keys/custom-keybindings/walker/ binding 'Alt+F'<\n>
+nc -U /run/user/1000/walker/walker.sock
+walker --gapplication-service
+c
+gsettings set org.gnome.settings-daemon.plugins.media-keys custom-keybindings "[]"
+gsettings reset org.gnome.settings-daemon.plugins.media-keys.<\n>custom-keybinding:/org/gnome/settings-daemon/plugins/media-keys/custom-keybindings/walker/ name
+gsettings reset org.gnome.settings-daemon.plugins.media-keys.custom-keybinding:/org/gnome/settings-daemon/plugins/media-keys/custom-keybindings/walker/ name
+gsettings reset org.gnome.settings-daemon.plugins.media-keys.custom-keybinding:/org/gnome/settings-daemon/plugins/media-keys/custom-keybindings/walker/ command
+gsettings reset org.gnome.settings-daemon.plugins.media-keys.custom-keybinding:/org/gnome/settings-daemon/plugins/media-keys/custom-keybindings/walker/ binding
+killall gnome-settings-daemon; gnome-settings-daemon &
+c
+x
+c
+hx
+hx ~/.config/systemd/user/walker.service
+c
+cd
+c
+systemctl --user enable walker && systemctl --user start walker
+walker --gapplication-service
+c
+walker --gapplication-service
+systemctl --user stop walker<\n>
+systemctl --user stop elephant
+elephant
+c
+el
+walker
+walker --debug
+walker --help
+walker
+elephant
+c
+walker --gapplication-service
+c
+systemctl --user restart elephant
+systemctl --user restart walker<\n>
+c
+sudo dnf install keyviz
+bash
+cd src
+https://github.com/mulaRahul/keyviz.git
+git clone https://github.com/mulaRahul/keyviz.git
+c
+git clone https://github.com/mulaRahul/keyviz.git
+c
+x
+c
+git clone https://github.com/mulaRahul/keyviz.git
+y
+c
+bun dev
+c
+y
+gitui
+bun dev
+c
+y
+c
+y
+c
+flutter build --release keywiz
+flutter build --release linux
+flutter build linux --realease
+y
+flutter --version
+y
+c
+flutter build linux --release
+y
+./keywiz
+y
+.keywiz
+y
+c
+flutter run --desktop
+x
+c
+flutter run
+c
+cd
+c
+y
+rpm -i keywiz
+rpm -i .keywiz
+sudo dnf install libayatana-appindicator3-devel
+flutter run 
+c
+y
+c
+flutter run 
+y
+flutter clean
+flutter run 
+y
+c
+flutter pub get
+y
+flutter clean
+flutter pub get
+y
+c
+flutter pub get
+flutter pub upgraade
+flutter pub upgrade
+flutter run
+y
+c
+y
+rpm -i keyviz-2.0.0a3-linux.rpm
+y
+c
+cd
+c
+sudo dnf install gtk3 glib2 cairo pango atk systemd mpv
+y
+c
+rpm -i keyviz-2.0.0a3-linux.rpm
+sudo dnf install clang cmake ninja-build pkgconfig gtk3-devel libX11-devel libXext-devel libXrender-devel libXinerama-devel libXi-devel libXrandr-devel libXcursor-devel libXdamage-devel libXfixes-devel libXcomposite-devel libXss-devel libXtst-devel libxrandr-devel libasound2-devel libdrm-devel libxkbcommon-devel libatspi2.0-devel libblkid-devel liblzma-devel
+sudo dnf install libXScrnSaver-devel alsa-lib-devel at-spi2-core-devel xz-devel
+rpm -i keyviz-2.0.0a3-linux.rpm
+y
+c
+flutter run
+x
+c
+y
+c
+c
+cd src/walker
+./target/release/walker
+./target/release/walker --debug
+./target/release/walker --help
+./target/release/walker --verbose
+./target/release/walker 
+bash
+walker --gapplication-service
+walker
+c
+walker
+sudo dnf uninstall walker
+sudo dnf remove walker
+c
+sudo dnf remove walker
+c
+sudo dnf install walker
+elephant enable service
+c
+elephant service enable
+elephant service disable
+c
+sudo dnf remove walker
+sudo dnf install walker
+c
+elephant service enable
+c
+hx
+c
+hx ~/.config/systemd/user/walker.service
+c
+walker --gapplication-service
+x
+cd do
+cd doc
+c
+y
+c
+y
+c
+y
+c
+x
+x
+systemctl status walker
+y
+cd
+c
+systemctl --user enable walker.service
+systemctl --user start walker.service
+journalctl --user -u walker.service
+c
+systemctl --user stop walker.service
+journalctl --user -u walker.service
+c
+systemctl --user daemon--reload
+systemctl --user daemon-reload
+journalctl --user -u walker.service
+walker --gapplication-service
+c
+y
+c
+walker --version
+elephant version
+y
+c
+cd
+c
+sudo dnf install elephant
+c
+sudo dnf remove elephant
+c
+y
+c
+cd src
+cd elephant
+y
+c
+y
+c
+git pull
+c
+cd cmd/elephant<\n>go install elephant.go<\n>
+y
+c
+elephant
+mkdir -p ~/.config/elephant/providers
+bash
+elephant
+c
+elephant
+c
+cd
+y
+c
+qc
+c
+y
+c
+systemctl --user disable elephant.service
+rm ~/.config/systemd/user/elephant.service
+systemctl --user daemon-reload
+c
+elephant
+c
+y
+c
+cd cmd/elephant<\n>go install elephant.go<\n>
+c
+bash
+x
+c
+elephant
+c
+# Clone the repository<\n>git clone https://github.com/abenz1267/elephant<\n>cd elephant<\n><\n># Build and install the main binary<\n>cd cmd/elephant<\n>go install elephant.go<\n><\n># Create configuration directories<\n>mkdir -p ~/.config/elephant/providers<\n><\n># Build and install a provider (example: desktop applications)<\n>cd internal/providers/desktopapplications<\n>go build -buildmode=plugin<\n>cp desktopapplications.so ~/.config/elephant/providers/
+walker
+c
+walker --gapplication-service
+walker
+bash
+elephant
+y
+c
+walker --gapplication-service
+elephant
+walker
+c
+systemctl --user status elephant
+c
+x
+cd .config/systemcl
+cd .config/systemd
+y
+c
+elephant
+c
+cd ~/src/elephant && ./elephant service enable
+bash
+systemctl --user status elephant
+systemctl --user start elephant
+systemctl --user status elephant
+c
+y
+c
+systemctl --user daemon-reload
+systemctl --user restart elephant
+systemctl --user status elephant
+c
+walker --gapplication-service
+c
+walker
+x
+walker
+c
+y
+c
+elephant
+c
+sudo cp ~/src/elephant/elephant /usr/local/bin/elephant
+sudo chmod +x /usr/local/bin/elephant
+which elephant
+c
+y
+elephant
+c
+systemctl --user daemon-reload
+systemctl --user restart elephant
+c
+walker
+c
+systemctl --user status walker
+y
+bash
+systemctl --user status walker
+journalctl --user -u elephant --no-pager -n 20
+y
+c
+bash
+systemctl --user status walker
+y
+sudo dnf remove walker
+c
+y
+git pull
+c
+cargo build --release
+./target/release/walker
+c
+walker
+c
+./target/release/walker
+c
+x
+x
+c
+y
+sudo make
+y
+cargo install --path .
+walker
+y
+c
+sudo make
+y
+c
+bash
+y
+files
+c
+y
+c
+elephant listproviders
+c
+y
+c
+x
+walker
+sudo rm -rf /etc/xdg/elephant/providers/
+systemctl --user restart elephant
+systemctl --user status elephant
+bash
+y
+c
+cd
+c
+sudo dnf install gcc libudev-devel libgbm-devel libxkbcommon-devel wayland-devel libinput-devel dbus-devel systemd-devel libseat-devel pipewire-devel pango-devel cairo-gobject-devel clang libdisplay-info-devel
+c
+sudo dnf copr enable yalter/niri-git
+echo "priority=1" | sudo tee -a /etc/yum.repos.d/_copr:copr.fedorainfracloud.org:yalter:niri-git.repo
+x
+sudo dnf install niri
+c
+y
+c
+y
+c
+sudo dnf remove niri
+c
+y
+c
+x
+c
+y
+c
+x
+c
+y
+cd
+c
+y
+cd
+c
+bun install -g opencode-ai
+c
+bun install -g opencode-ai
+c
+bu update opencode-ai
+bun update -g opencode-ai
+bun install -g opencode-ai
+c
+x
+c
+bun uninstall -g opencode-ai
+c
+bun install -g opencode-ai
+c
+bun add -g opencode-ai
+ce
+bun add -g opencode-ai
+y
+c
+ccd
+cd
+c
+opencode
+x
+c
+cd projects/mangowc-web
+c
+x
+c
+opencode
+c
+y
+cd
+c
+y
+c
+cd
+c
+y
+c
+y
+gitui
+c
+y
+c
+gitui
+c
+y
+gitui
+c
+x
+libre
+c
+y
+hx Assg-1.odt
+y
+hx assg1.ott
+y
+c
+hx
+c
+y
+c
+y
+c
+y
+x
+c
+libreoffice 
+y
+c
+y
+c
+y
+c
+gitui
+c
+flutter run
+c
+flutter emulators --launch x
+flutter run
+flutter run --verbose
+gemini extensions install https://github.com/gemini-cli-extensions/flutter
+c
+which gemini
+bun add -g @google/gemini-cli@latest
+which gemini
+gemini --version
+y
+cd  /home/atheeq/.nvm/versions/node/v22.17.0/bin/
+y
+which gemini
+gemini --version
+c
+x
+gemini
+c
+y
+c
+c
+flutter run
+gemini
+c
+c
+cd
+c
+hx
+c
+hx
+qc
+mcp
+c
+/mcp
+y
+c
+x
+c
+hx
+c
+y
+c
+y
+c
+y
+c
+y
+bash combine.sh
+y
+c
+y
+c
+bash combine.sh
+y
+c
+uv run /home/atheeq/Documents/assignment/customize_excel.py
+c
+y
+c
+y
+c
+x
+c
+y
+./delete_excel.sh
+c
+y
+c
+y
+bash convert_excel_to_pdf.sh
+c
+uv run /home/atheeq/Documents/assignment/customize_excel.py
+y
+c
+y
+uv run /home/atheeq/Documents/assignment/customize_excel.py
+./convert_excel_to_pdf.sh
+y
+./convert_excel_to_pdf.sh
+c
+y
+c
+y
+c
+x
+c
+y
+c
+y
+c
+uv run generate_docs.py
+y
+uv run generate_docs.py
+c
+y
+c
+y
+c
+y
+y
+uv run generate_docs.py
+y
+uv run generate_docs.py
+y
+uv run generate_docs.py
+y
+./script.sh
+c
+uv run generate_docs.py
+y
+c
+hx
+c
+y
+c
+uv run generate_docs.py
+y
+c
+./script.sh
+y
+y
+uv run generate_docs.py
+./script.sh
+c
+uv run generate_docs.py
+./script.sh
+c
+y
+uv run generate_docs.py
+c
+y
+c
+y
+c
+y
+x
+uv run generate_docs.py
+y
+c
+y
+c
+y
+./script.sh
+./combine.sh
+y
+x
+y
+c
+x
+y
+c
+y
+c
+y
+c
+uv run generate_docs.py
+y
+c
+y
+./script.sh
+y
+./process.sh
+y
+c
+y
+c
+x
+y
+cd
+x
+y
+c
+y
+y
+sudo dnf update ghostty wezterm
+cd
+c
+cd mangowc-web
+y
+gitu
+gitui
+c
+y
+c
+y
+cd mangowc-web
+y
+gitui
+y
+gitui
+c
+y
+c
+y
+c
+x
+y
+c
+ch
+c
+ch
+git push
+cd src
+c
+git clone https://github.com/LadybirdBrowser/ladybird.git --depth 1
+y
+gitui
+c
+y
+c
+x
+bun update -g opencode-ai
+c
+y
+c
+x
+c
+y
+c
+y
+c
+y
+git clone https://github.com/zed-industries/zed.git --depth 1
+y
+c
+y
+cd assignments
+y
+c
+y
+x
+x
+cd
+cd src/pj/ladybird
+c
+y
+cd
+y
+c
+y
+convert
+magick
+c
+y
+./combine_pdfs.sh
+c
+y
+./combine_pdfs.sh
+x
+y
+c
+y
+x
+y
+c
+y
+gitui
+x
+y
+y
+gitui
+c
+hx
+cc
+c
+gitui
+c
+y
+cd ..
+c
+y
+x
+gitui
+c
+y
+gitui
+c
+y
+cd
+c
+y
+c
+gitui
+y
+gitui
+c
+y
+gitui
+c
+y
+cd src
+cd
+cd src
+y
+c
+git pull -f
+c
+./kiro
+y
+c
+bun i
+bun run dev
+bun dev
+c
+y
+c
+y
+c
+y
+bun run src/examples/index.ts<\n>
+bun run build<\n>
+c
+bun install @opentui/core<\n>
+bun run src/examples/index.ts<\n>
+bun run build<\n>
+c
+y
+zig
+zig -h
+y
+gitui
+c

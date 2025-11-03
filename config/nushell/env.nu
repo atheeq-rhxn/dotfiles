@@ -18,3 +18,5 @@
 # them for future reference.
  
 zoxide init --cmd cd nushell | save -f ~/.zoxide.nu
+
+$env.ANDROID_HOME = "/home/atheeq/Android/Sdk"

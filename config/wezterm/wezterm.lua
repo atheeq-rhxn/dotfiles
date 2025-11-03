@@ -12,6 +12,10 @@ local config = {}
 
 if wezterm.config_builder then config = wezterm.config_builder() end
 
+config.front_end = "WebGpu"
+config.max_fps = 120
+config.animation_fps = 120
+config.cursor_blink_rate = 250
 config.default_prog = { "/home/atheeq/.cargo/bin/zellij" }
 config.enable_tab_bar = false
 config.window_close_confirmation = "NeverPrompt"
