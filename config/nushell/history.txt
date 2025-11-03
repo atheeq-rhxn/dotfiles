@@ -20930,3 +20930,24 @@ zig -h
 y
 gitui
 c
+git add .
+git commit -m (date now | format date "%Y%m%d%H%M%S")
+git push
+c
+y
+gitui
+c
+y
+gitui
+c
+y
+gitui
+y
+c
+gitui
+c
+gitui
+c
+y
+gitui
+c
