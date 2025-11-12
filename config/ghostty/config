@@ -1,8 +1,6 @@
-fullscreen = true
-theme = Catppuccin Mocha
+theme = noctalia
 font-family = JetBrains Mono
 font-size = 14
-background-opacity = 0.7
 mouse-hide-while-typing = true
-gtk-titlebar = false
-command = ~/.cargo/bin/zellij
+confirm-close-surface = false
+command = zellij

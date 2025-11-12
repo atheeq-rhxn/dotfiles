@@ -1,0 +1,10 @@
+[Unit]
+Description=Walker Service
+After=graphical.target elephant.service
+
+[Service]
+ExecStart=walker --gapplication-service
+Restart=on-failure
+
+[Install]
+WantedBy=default.target
