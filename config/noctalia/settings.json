@@ -1,6 +1,5 @@
 {
     "appLauncher": {
-        "backgroundOpacity": 1,
         "customLaunchPrefix": "runapp",
         "customLaunchPrefixEnabled": true,
         "enableClipboardHistory": false,
@@ -16,6 +15,7 @@
         "mprisBlacklist": [
         ],
         "preferredPlayer": "",
+        "visualizerQuality": "high",
         "visualizerType": "linear",
         "volumeOverdrive": false,
         "volumeStep": 5
@@ -36,13 +36,14 @@
             "center": [
                 {
                     "characterCount": 2,
-                    "hideUnoccupied": false,
+                    "hideUnoccupied": true,
                     "id": "Workspace",
                     "labelMode": "index"
                 }
             ],
             "left": [
                 {
+                    "colorizeDistroLogo": false,
                     "customIconPath": "",
                     "icon": "",
                     "id": "ControlCenter",
@@ -86,29 +87,11 @@
             ],
             "right": [
                 {
-                    "blacklist": [
-                    ],
-                    "colorizeIcons": false,
-                    "drawerEnabled": true,
-                    "favorites": [
-                    ],
-                    "id": "Tray"
-                },
-                {
                     "id": "ScreenRecorder"
                 },
                 {
                     "displayMode": "onhover",
-                    "id": "Battery",
-                    "warningThreshold": 20
-                },
-                {
-                    "displayMode": "onhover",
-                    "id": "Volume"
-                },
-                {
-                    "displayMode": "onhover",
-                    "id": "Brightness"
+                    "id": "WiFi"
                 },
                 {
                     "displayMode": "onhover",
@@ -116,7 +99,16 @@
                 },
                 {
                     "displayMode": "onhover",
-                    "id": "WiFi"
+                    "id": "Brightness"
+                },
+                {
+                    "displayMode": "onhover",
+                    "id": "Volume"
+                },
+                {
+                    "displayMode": "alwaysShow",
+                    "id": "Battery",
+                    "warningThreshold": 30
                 },
                 {
                     "customFont": "",
@@ -267,7 +259,7 @@
     "notifications": {
         "backgroundOpacity": 1,
         "criticalUrgencyDuration": 15,
-        "doNotDisturb": false,
+        "enableKeyboardLayoutToast": true,
         "enabled": true,
         "location": "top_right",
         "lowUrgencyDuration": 3,
@@ -279,6 +271,7 @@
     },
     "osd": {
         "autoHideMs": 2000,
+        "backgroundOpacity": 1,
         "enabled": true,
         "location": "top_right",
         "monitors": [
@@ -293,21 +286,60 @@
         "frameRate": 60,
         "quality": "very_high",
         "showCursor": true,
-        "videoCodec": "hevc",
+        "videoCodec": "h264",
         "videoSource": "portal"
     },
-    "settingsVersion": 20,
+    "sessionMenu": {
+        "countdownDuration": 10000,
+        "enableCountdown": true,
+        "position": "center",
+        "powerOptions": [
+            {
+                "action": "lock",
+                "enabled": true
+            },
+            {
+                "action": "suspend",
+                "enabled": true
+            },
+            {
+                "action": "reboot",
+                "enabled": true
+            },
+            {
+                "action": "logout",
+                "enabled": true
+            },
+            {
+                "action": "shutdown",
+                "enabled": true
+            },
+            {
+                "action": "hibernate",
+                "enabled": true
+            }
+        ],
+        "showHeader": true
+    },
+    "settingsVersion": 22,
     "setupCompleted": true,
+    "systemMonitor": {
+        "cpuCriticalThreshold": 90,
+        "cpuWarningThreshold": 80,
+        "criticalColor": "",
+        "diskCriticalThreshold": 90,
+        "diskWarningThreshold": 80,
+        "memCriticalThreshold": 90,
+        "memWarningThreshold": 80,
+        "tempCriticalThreshold": 90,
+        "tempWarningThreshold": 80,
+        "useCustomColors": false,
+        "warningColor": ""
+    },
     "templates": {
         "alacritty": false,
         "code": false,
         "discord": false,
-        "discord_armcord": false,
-        "discord_dorion": false,
-        "discord_equibop": false,
-        "discord_lightcord": false,
-        "discord_vesktop": false,
-        "discord_webcord": false,
         "enableUserTemplates": true,
         "foot": false,
         "fuzzel": false,
@@ -317,6 +349,7 @@
         "kitty": false,
         "pywalfox": false,
         "qt": true,
+        "spicetify": false,
         "vicinae": false,
         "walker": true,
         "wezterm": false
@@ -326,17 +359,19 @@
         "fontDefaultScale": 1,
         "fontFixed": "JetBrains Mono",
         "fontFixedScale": 1,
+        "panelBackgroundOpacity": 1,
         "panelsAttachedToBar": false,
         "settingsPanelAttachToBar": false,
         "tooltipsEnabled": true
     },
     "wallpaper": {
         "defaultWallpaper": "/home/atheeq/.config/quickshell/noctalia-shell/Assets/Wallpaper/noctalia.png",
-        "directory": "/home/atheeq/dotfiles/wallpapers",
+        "directory": "/home/atheeq/Pictures/Wallpapers",
         "enableMultiMonitorDirectories": false,
         "enabled": true,
         "fillColor": "#000000",
         "fillMode": "crop",
+        "hideWallpaperFilenames": false,
         "monitors": [
             {
                 "directory": "/home/atheeq/dotfiles/wallpapers",
