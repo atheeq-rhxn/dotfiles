@@ -1,13 +1,13 @@
 {
     "appLauncher": {
-        "customLaunchPrefix": "runapp",
+        "customLaunchPrefix": "",
         "customLaunchPrefixEnabled": true,
         "enableClipboardHistory": false,
         "pinnedExecs": [
         ],
         "position": "center",
         "sortByMostUsed": true,
-        "terminalCommand": "xterm -e",
+        "terminalCommand": "ghostty -e",
         "useApp2Unit": false
     },
     "audio": {
