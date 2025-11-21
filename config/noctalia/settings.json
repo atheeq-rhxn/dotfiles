@@ -102,6 +102,9 @@
         "enableDdcSupport": false,
         "enforceMinimum": false
     },
+    "changelog": {
+        "lastSeenVersion": ""
+    },
     "colorSchemes": {
         "darkMode": true,
         "generateTemplatesForPredefined": true,
@@ -338,7 +341,7 @@
     },
     "wallpaper": {
         "defaultWallpaper": "/home/atheeq/.config/quickshell/noctalia-shell/Assets/Wallpaper/noctalia.png",
-        "directory": "/home/atheeq/Pictures/Wallpapers",
+        "directory": "/home/atheeq/dotfiles/wallpapers",
         "enableMultiMonitorDirectories": false,
         "enabled": true,
         "fillColor": "#000000",
