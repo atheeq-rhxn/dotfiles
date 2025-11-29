@@ -18,9 +18,3 @@ wl-clip-persist --clipboard regular --reconnect-tries 0 >/dev/null 2>&1 &
 
 # Permission authentication
 /usr/lib/xfce-polkit/xfce-polkit >/dev/null 2>&1 &
-
-# elephant
-elephant >/dev/null 2>&1 &
-
-# walker
-walker --gapplication-service

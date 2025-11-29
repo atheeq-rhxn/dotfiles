@@ -2,13 +2,15 @@
     "appLauncher": {
         "customLaunchPrefix": "",
         "customLaunchPrefixEnabled": true,
-        "enableClipboardHistory": false,
+        "enableClipPreview": true,
+        "enableClipboardHistory": true,
         "pinnedExecs": [
         ],
         "position": "center",
         "sortByMostUsed": true,
         "terminalCommand": "ghostty -e",
-        "useApp2Unit": false
+        "useApp2Unit": false,
+        "viewMode": "list"
     },
     "audio": {
         "cavaFrameRate": 60,
@@ -38,6 +40,7 @@
             "center": [
                 {
                     "characterCount": 2,
+                    "followFocusedScreen": false,
                     "hideUnoccupied": true,
                     "id": "Workspace",
                     "labelMode": "index"
@@ -70,6 +73,13 @@
             ],
             "right": [
                 {
+                    "colorizeIcons": false,
+                    "hideMode": "hidden",
+                    "id": "Taskbar",
+                    "onlyActiveWorkspaces": true,
+                    "onlySameOutput": true
+                },
+                {
                     "displayMode": "alwaysShow",
                     "id": "Battery",
                     "warningThreshold": 20
@@ -101,6 +111,26 @@
         "brightnessStep": 5,
         "enableDdcSupport": false,
         "enforceMinimum": false
+    },
+    "calendar": {
+        "cards": [
+            {
+                "enabled": true,
+                "id": "banner-card"
+            },
+            {
+                "enabled": true,
+                "id": "calendar-card"
+            },
+            {
+                "enabled": true,
+                "id": "timer-card"
+            },
+            {
+                "enabled": true,
+                "id": "weather-card"
+            }
+        ]
     },
     "changelog": {
         "lastSeenVersion": ""
@@ -181,6 +211,7 @@
         "onlySameOutput": true,
         "pinnedApps": [
         ],
+        "radiusRatio": 0.1,
         "size": 1
     },
     "general": {
@@ -189,7 +220,7 @@
         "animationSpeed": 1,
         "avatarImage": "/home/atheeq/dotfiles/pfp.png",
         "compactLockScreen": false,
-        "dimmerOpacity": 0.01,
+        "dimmerOpacity": 0,
         "enableShadows": false,
         "forceBlackScreenCorners": false,
         "language": "",
@@ -200,6 +231,7 @@
         "shadowDirection": "left",
         "shadowOffsetX": -3,
         "shadowOffsetY": 0,
+        "showHibernateOnLockScreen": false,
         "showScreenCorners": false
     },
     "hooks": {
@@ -225,7 +257,7 @@
     "nightLight": {
         "autoSchedule": true,
         "dayTemp": "6500",
-        "enabled": true,
+        "enabled": false,
         "forced": false,
         "manualSunrise": "06:30",
         "manualSunset": "18:30",
@@ -248,6 +280,11 @@
         "autoHideMs": 2000,
         "backgroundOpacity": 1,
         "enabled": true,
+        "enabledTypes": [
+            0,
+            1,
+            2
+        ],
         "location": "top_right",
         "monitors": [
         ],
@@ -271,48 +308,59 @@
         "powerOptions": [
             {
                 "action": "lock",
+                "countdownEnabled": true,
                 "enabled": true
             },
             {
                 "action": "suspend",
+                "countdownEnabled": true,
                 "enabled": true
             },
             {
                 "action": "reboot",
+                "countdownEnabled": true,
                 "enabled": true
             },
             {
                 "action": "logout",
+                "countdownEnabled": true,
                 "enabled": true
             },
             {
                 "action": "shutdown",
+                "countdownEnabled": true,
                 "enabled": true
             },
             {
                 "action": "hibernate",
+                "countdownEnabled": true,
                 "enabled": true
             }
         ],
         "showHeader": true
     },
-    "settingsVersion": 23,
-    "setupCompleted": true,
+    "settingsVersion": 25,
     "systemMonitor": {
         "cpuCriticalThreshold": 90,
+        "cpuPollingInterval": 3000,
         "cpuWarningThreshold": 80,
         "criticalColor": "",
         "diskCriticalThreshold": 90,
+        "diskPollingInterval": 3000,
         "diskWarningThreshold": 80,
         "memCriticalThreshold": 90,
+        "memPollingInterval": 3000,
         "memWarningThreshold": 80,
+        "networkPollingInterval": 3000,
         "tempCriticalThreshold": 90,
+        "tempPollingInterval": 3000,
         "tempWarningThreshold": 80,
         "useCustomColors": false,
         "warningColor": ""
     },
     "templates": {
         "alacritty": false,
+        "cava": false,
         "code": false,
         "discord": true,
         "enableUserTemplates": true,
@@ -325,6 +373,7 @@
         "pywalfox": false,
         "qt": true,
         "spicetify": false,
+        "telegram": false,
         "vicinae": false,
         "walker": true,
         "wezterm": false
