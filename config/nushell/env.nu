@@ -16,4 +16,7 @@
 #
 # You can remove these comments if you want or leave
 # them for future reference.
+$env.ANDROID_HOME = "/home/atheeq/Android/Sdk"
+$env.EDITOR = "hx"
+
 zoxide init --cmd cd nushell | save -f ~/.zoxide.nu

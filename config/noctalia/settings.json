@@ -7,6 +7,7 @@
         "pinnedExecs": [
         ],
         "position": "center",
+        "showCategories": true,
         "sortByMostUsed": true,
         "terminalCommand": "ghostty -e",
         "useApp2Unit": false,
@@ -24,32 +25,40 @@
         "volumeStep": 5
     },
     "bar": {
-        "backgroundOpacity": 0,
         "capsuleOpacity": 1,
         "density": "default",
         "exclusive": true,
         "floating": true,
         "marginHorizontal": 0.25,
-        "marginVertical": 0.1,
+        "marginVertical": 0,
         "monitors": [
         ],
         "outerCorners": false,
         "position": "top",
         "showCapsule": false,
+        "transparent": true,
         "widgets": {
             "center": [
                 {
                     "characterCount": 2,
+                    "colorizeIcons": false,
                     "followFocusedScreen": false,
                     "hideUnoccupied": true,
                     "id": "Workspace",
-                    "labelMode": "index"
+                    "labelMode": "index",
+                    "showApplications": false,
+                    "showLabelsOnlyWhenOccupied": true
+                },
+                {
+                    "id": "ScreenRecorder"
                 }
             ],
             "left": [
                 {
                     "colorizeDistroLogo": false,
+                    "colorizeSystemIcon": "none",
                     "customIconPath": "",
+                    "enableColorization": false,
                     "icon": "",
                     "id": "ControlCenter",
                     "useDistroLogo": false
@@ -60,6 +69,7 @@
                     "showCpuTemp": true,
                     "showCpuUsage": true,
                     "showDiskUsage": false,
+                    "showGpuTemp": false,
                     "showMemoryAsPercent": false,
                     "showMemoryUsage": true,
                     "showNetworkStats": false,
@@ -76,12 +86,33 @@
                     "colorizeIcons": false,
                     "hideMode": "hidden",
                     "id": "Taskbar",
+                    "maxTaskbarWidth": 40,
                     "onlyActiveWorkspaces": true,
-                    "onlySameOutput": true
+                    "onlySameOutput": true,
+                    "showPinnedApps": true,
+                    "showTitle": false,
+                    "smartWidth": true,
+                    "titleWidth": 120
                 },
                 {
+                    "blacklist": [
+                    ],
+                    "colorizeIcons": false,
+                    "drawerEnabled": true,
+                    "hidePassive": false,
+                    "id": "Tray",
+                    "pinned": [
+                    ]
+                },
+                {
+                    "id": "plugin:mangowc-layout-switcher"
+                },
+                {
+                    "deviceNativePath": "",
                     "displayMode": "alwaysShow",
                     "id": "Battery",
+                    "showNoctaliaPerformance": false,
+                    "showPowerProfiles": false,
                     "warningThreshold": 20
                 },
                 {
@@ -116,24 +147,21 @@
         "cards": [
             {
                 "enabled": true,
-                "id": "banner-card"
+                "id": "calendar-header-card"
             },
             {
                 "enabled": true,
-                "id": "calendar-card"
+                "id": "calendar-month-card"
             },
             {
                 "enabled": true,
                 "id": "timer-card"
             },
             {
-                "enabled": true,
+                "enabled": false,
                 "id": "weather-card"
             }
         ]
-    },
-    "changelog": {
-        "lastSeenVersion": ""
     },
     "colorSchemes": {
         "darkMode": true,
@@ -200,18 +228,31 @@
             ]
         }
     },
+    "desktopWidgets": {
+        "editMode": false,
+        "enabled": false,
+        "monitorWidgets": [
+            {
+                "name": "eDP-1",
+                "widgets": [
+                ]
+            }
+        ]
+    },
     "dock": {
         "backgroundOpacity": 1,
         "colorizeIcons": false,
+        "deadOpacity": 0.6,
         "displayMode": "auto_hide",
-        "enabled": true,
+        "enabled": false,
         "floatingRatio": 1,
+        "inactiveIndicators": false,
         "monitors": [
         ],
         "onlySameOutput": true,
         "pinnedApps": [
         ],
-        "radiusRatio": 0.1,
+        "pinnedStatic": false,
         "size": 1
     },
     "general": {
@@ -219,20 +260,23 @@
         "animationDisabled": false,
         "animationSpeed": 1,
         "avatarImage": "/home/atheeq/dotfiles/pfp.png",
+        "boxRadiusRatio": 1,
         "compactLockScreen": false,
         "dimmerOpacity": 0,
         "enableShadows": false,
         "forceBlackScreenCorners": false,
+        "iRadiusRatio": 1,
         "language": "",
         "lockOnSuspend": true,
         "radiusRatio": 1,
         "scaleRatio": 0.9,
         "screenRadiusRatio": 1,
-        "shadowDirection": "left",
-        "shadowOffsetX": -3,
+        "shadowDirection": "center",
+        "shadowOffsetX": 0,
         "shadowOffsetY": 0,
         "showHibernateOnLockScreen": false,
-        "showScreenCorners": false
+        "showScreenCorners": false,
+        "showSessionButtonsOnLockScreen": true
     },
     "hooks": {
         "darkModeChange": "",
@@ -257,7 +301,7 @@
     "nightLight": {
         "autoSchedule": true,
         "dayTemp": "6500",
-        "enabled": false,
+        "enabled": true,
         "forced": false,
         "manualSunrise": "06:30",
         "manualSunset": "18:30",
@@ -274,7 +318,16 @@
         ],
         "normalUrgencyDuration": 8,
         "overlayLayer": true,
-        "respectExpireTimeout": false
+        "respectExpireTimeout": false,
+        "sounds": {
+            "criticalSoundFile": "",
+            "enabled": false,
+            "excludedApps": "discord,firefox,chrome,chromium,edge",
+            "lowSoundFile": "",
+            "normalSoundFile": "",
+            "separateSounds": false,
+            "volume": 0.5
+        }
     },
     "osd": {
         "autoHideMs": 2000,
@@ -339,30 +392,35 @@
         ],
         "showHeader": true
     },
-    "settingsVersion": 25,
+    "settingsVersion": 30,
     "systemMonitor": {
         "cpuCriticalThreshold": 90,
         "cpuPollingInterval": 3000,
         "cpuWarningThreshold": 80,
-        "criticalColor": "",
+        "criticalColor": "#f7768e",
         "diskCriticalThreshold": 90,
         "diskPollingInterval": 3000,
         "diskWarningThreshold": 80,
+        "enableNvidiaGpu": false,
+        "gpuCriticalThreshold": 90,
+        "gpuPollingInterval": 3000,
+        "gpuWarningThreshold": 80,
         "memCriticalThreshold": 90,
         "memPollingInterval": 3000,
         "memWarningThreshold": 80,
         "networkPollingInterval": 3000,
-        "tempCriticalThreshold": 90,
+        "tempCriticalThreshold": 100,
         "tempPollingInterval": 3000,
         "tempWarningThreshold": 80,
         "useCustomColors": false,
-        "warningColor": ""
+        "warningColor": "#9ece6a"
     },
     "templates": {
         "alacritty": false,
         "cava": false,
         "code": false,
         "discord": true,
+        "emacs": false,
         "enableUserTemplates": true,
         "foot": false,
         "fuzzel": false,
@@ -370,13 +428,16 @@
         "gtk": true,
         "kcolorscheme": true,
         "kitty": false,
+        "niri": false,
         "pywalfox": false,
         "qt": true,
         "spicetify": false,
         "telegram": false,
         "vicinae": false,
-        "walker": true,
-        "wezterm": false
+        "walker": false,
+        "wezterm": false,
+        "yazi": true,
+        "zed": false
     },
     "ui": {
         "fontDefault": "Roboto",
@@ -385,23 +446,17 @@
         "fontFixedScale": 1,
         "panelBackgroundOpacity": 1,
         "panelsAttachedToBar": false,
-        "settingsPanelAttachToBar": false,
+        "settingsPanelMode": "centered",
         "tooltipsEnabled": true
     },
     "wallpaper": {
-        "defaultWallpaper": "/home/atheeq/.config/quickshell/noctalia-shell/Assets/Wallpaper/noctalia.png",
         "directory": "/home/atheeq/dotfiles/wallpapers",
         "enableMultiMonitorDirectories": false,
         "enabled": true,
         "fillColor": "#000000",
         "fillMode": "crop",
         "hideWallpaperFilenames": false,
-        "monitors": [
-            {
-                "directory": "/home/atheeq/dotfiles/wallpapers",
-                "name": "eDP-1",
-                "wallpaper": "/home/atheeq/dotfiles/wallpapers/solid_black.png"
-            }
+        "monitorDirectories": [
         ],
         "overviewEnabled": false,
         "panelPosition": "follow_bar",
