@@ -56,3 +56,5 @@ export NVM_DIR="$HOME/.nvm"
 [ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"  # This loads nvm bash_completion
 export PATH=$PATH:/home/atheeq/Downloads/zig-x86_64-linux-0.16.0-dev.234+32a1aabff
 export ANDROID_HOME=/home/atheeq/Android/Sdk
+export PATH=$PATH:/home/atheeq/src/flutter/bin
+export NOCTALIA_DEBUG=1

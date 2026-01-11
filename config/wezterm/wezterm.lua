@@ -2,7 +2,7 @@ local wezterm = require("wezterm")
 
 local config = {}
 
-config.default_prog = { "zellij" }
+config.default_prog = { "zellij'" }
 config.enable_tab_bar = false
 config.window_close_confirmation = "NeverPrompt"
 config.window_background_opacity = 0.7
