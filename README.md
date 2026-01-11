@@ -25,11 +25,8 @@ Install the following software before setting up:
    cd ~/.dotfiles
    ```
 
-2. Create symlinks for configuration files:
+2. Use Stow to create symlinks:
    ```bash
-   # Config directory
-   ln -sf ~/.dotfiles/config/* ~/.config/
-
-   # Home directory files
-   ln -sf ~/.dotfiles/home/.bashrc ~/.bashrc
+   stow -t ~/.config config
+   stow -t ~ home
    ```
