@@ -12,7 +12,7 @@
       "enabled": true,
     },
   },
-  "disable_ai": true,
+  "disable_ai": false,
   "soft_wrap": "editor_width",
   "minimap": {
     "show": "never",
@@ -33,6 +33,6 @@
   "theme": {
     "mode": "system",
     "light": "One Light",
-    "dark": "Catppuccin Espresso (Blur)",
+    "dark": "Catppuccin Mocha (Blur) [Light]",
   },
 }

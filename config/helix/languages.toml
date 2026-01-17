@@ -1,3 +1,7 @@
+[[language]]
+name = "kotlin"
+language-servers = [ "kotlin-lsp" ] 
+
 # [language-server]
 # oxfmt = { command = "oxfmt", args = ["--lsp"] }
 
