@@ -129,17 +129,6 @@
                 {
                     "colorName": "error",
                     "id": "SessionMenu"
-                },
-                {
-                    "defaultSettings": {
-                        "completedCount": 0,
-                        "count": 0,
-                        "showBackground": true,
-                        "showCompleted": true,
-                        "todos": [
-                        ]
-                    },
-                    "id": "plugin:todo"
                 }
             ]
         }
