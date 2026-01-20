@@ -25,6 +25,7 @@
         ],
         "preferredPlayer": "",
         "visualizerType": "linear",
+        "volumeFeedback": false,
         "volumeOverdrive": false,
         "volumeStep": 5
     },
@@ -41,6 +42,8 @@
         ],
         "outerCorners": true,
         "position": "top",
+        "screenOverrides": [
+        ],
         "showCapsule": false,
         "showOutline": false,
         "useSeparateOpacity": true,
@@ -74,6 +77,7 @@
                     "showMemoryAsPercent": false,
                     "showMemoryUsage": true,
                     "showNetworkStats": false,
+                    "showSwapUsage": false,
                     "useMonospaceFont": true,
                     "usePrimaryColor": false
                 },
@@ -111,6 +115,7 @@
                 {
                     "deviceNativePath": "",
                     "displayMode": "onhover",
+                    "hideIfIdle": false,
                     "hideIfNotDetected": true,
                     "id": "Battery",
                     "showNoctaliaPerformance": false,
@@ -175,9 +180,9 @@
     },
     "colorSchemes": {
         "darkMode": true,
+        "generationMethod": "material",
         "manualSunrise": "06:30",
         "manualSunset": "18:30",
-        "matugenSchemeType": "scheme-fruit-salad",
         "predefinedScheme": "Tokyo Night",
         "schedulingMode": "off",
         "useWallpaperColors": false
@@ -271,11 +276,13 @@
         "boxRadiusRatio": 1,
         "compactLockScreen": false,
         "dimmerOpacity": 0.3,
+        "enableLockScreenCountdown": true,
         "enableShadows": false,
         "forceBlackScreenCorners": false,
         "iRadiusRatio": 1,
         "language": "",
         "lockOnSuspend": true,
+        "lockScreenCountdownDuration": 10000,
         "radiusRatio": 1,
         "scaleRatio": 1,
         "screenRadiusRatio": 1,
@@ -438,6 +445,8 @@
         "memPollingInterval": 3000,
         "memWarningThreshold": 80,
         "networkPollingInterval": 3000,
+        "swapCriticalThreshold": 90,
+        "swapWarningThreshold": 80,
         "tempCriticalThreshold": 90,
         "tempPollingInterval": 3000,
         "tempWarningThreshold": 80,
@@ -447,7 +456,7 @@
     "templates": {
         "activeTemplates": [
         ],
-        "enableUserTemplates": false
+        "enableUserTheming": false
     },
     "ui": {
         "bluetoothDetailsViewMode": "grid",
