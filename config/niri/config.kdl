@@ -9,7 +9,7 @@
 input {
     keyboard {
         xkb {
-            options "caps:swapescape"
+            options "caps:escape"
             // You can set rules, model, layout, variant and options.
             // For more information, see xkeyboard-config(7).
 
@@ -345,8 +345,8 @@ window-rule {
 
 // Example: enable rounded corners for all windows.
 // (This example rule is commented out with a "/-" in front.)
-/-window-rule {
-    geometry-corner-radius 12
+window-rule {
+    geometry-corner-radius 20
     clip-to-geometry true
 }
 
@@ -380,7 +380,8 @@ binds {
     // Example volume keys mappings for PipeWire & WirePlumber.
     // The allow-when-locked=true property makes them work even when the session is locked.
     // Using spawn-sh allows to pass multiple arguments together with the command.
-    XF86AudioRaiseVolume allow-when-locked=true { spawn-sh "wpctl set-volume @DEFAULT_AUDIO_SINK@ 0.1+"; }
+    // "-l 1.0" limits the volume to 100%.
+    XF86AudioRaiseVolume allow-when-locked=true { spawn-sh "wpctl set-volume @DEFAULT_AUDIO_SINK@ 0.1+ -l 1.0"; }
     XF86AudioLowerVolume allow-when-locked=true { spawn-sh "wpctl set-volume @DEFAULT_AUDIO_SINK@ 0.1-"; }
     XF86AudioMute        allow-when-locked=true { spawn-sh "wpctl set-mute @DEFAULT_AUDIO_SINK@ toggle"; }
     XF86AudioMicMute     allow-when-locked=true { spawn-sh "wpctl set-mute @DEFAULT_AUDIO_SOURCE@ toggle"; }
@@ -563,6 +564,12 @@ binds {
     Mod+F { maximize-column; }
     Mod+Shift+F { fullscreen-window; }
 
+    // While maximize-column leaves gaps and borders around the window,
+    // maximize-window-to-edges doesn't: the window expands to the edges of the screen.
+    // This bind corresponds to normal window maximizing,
+    // e.g. by double-clicking on the titlebar.
+    Mod+M { maximize-window-to-edges; }
+
     // Expand the focused column to space not taken up by other fully visible columns.
     // Makes the column "fill the rest of the space".
     Mod+Ctrl+F { expand-column-to-available-width; }
@@ -626,27 +633,3 @@ binds {
     // moving the mouse or pressing any other key.
     Mod+Shift+P { power-off-monitors; }
 }
-
-
-// noctalia
-
-window-rule {
-  // Rounded corners for a modern look.
-  geometry-corner-radius 20
-
-  // Clips window contents to the rounded corner boundaries.
-  clip-to-geometry true
-}
-
-debug {
-  // Allows notification actions and window activation from Noctalia.
-  honor-xdg-activation-with-invalid-serial
-}
-
-
-// Set the overview wallpaper on the backdrop.
-layer-rule {
-  match namespace="^noctalia-overview*"
-  place-within-backdrop true
-}
-include "./noctalia.kdl"

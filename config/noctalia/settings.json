@@ -38,6 +38,7 @@
         "autoShowDelay": 150,
         "backgroundOpacity": 0,
         "barType": "simple",
+        "capsuleColorKey": "none",
         "capsuleOpacity": 1,
         "density": "default",
         "displayMode": "always_visible",
@@ -83,6 +84,7 @@
                 {
                     "compactMode": false,
                     "diskPath": "/",
+                    "iconColor": "none",
                     "id": "SystemMonitor",
                     "showCpuFreq": false,
                     "showCpuTemp": true,
@@ -96,12 +98,13 @@
                     "showMemoryUsage": true,
                     "showNetworkStats": false,
                     "showSwapUsage": false,
-                    "useMonospaceFont": true,
-                    "usePrimaryColor": false
+                    "textColor": "none",
+                    "useMonospaceFont": true
                 },
                 {
                     "hideWhenZero": false,
                     "hideWhenZeroUnread": false,
+                    "iconColor": "none",
                     "id": "NotificationHistory",
                     "showUnreadBadge": true,
                     "unreadBadgeColor": "primary"
@@ -116,6 +119,7 @@
                 {
                     "blacklist": [
                     ],
+                    "chevronColor": "none",
                     "colorizeIcons": false,
                     "drawerEnabled": true,
                     "hidePassive": false,
@@ -144,11 +148,15 @@
                 },
                 {
                     "displayMode": "onhover",
-                    "id": "Network"
+                    "iconColor": "none",
+                    "id": "Network",
+                    "textColor": "none"
                 },
                 {
                     "displayMode": "onhover",
-                    "id": "Bluetooth"
+                    "iconColor": "none",
+                    "id": "Bluetooth",
+                    "textColor": "none"
                 },
                 {
                     "deviceNativePath": "",
@@ -157,20 +165,19 @@
                     "hideIfNotDetected": true,
                     "id": "Battery",
                     "showNoctaliaPerformance": false,
-                    "showPowerProfiles": false,
-                    "warningThreshold": 30
+                    "showPowerProfiles": false
                 },
                 {
+                    "clockColor": "none",
                     "customFont": "",
                     "formatHorizontal": "h:mm AP",
                     "formatVertical": "h mm AP",
                     "id": "Clock",
                     "tooltipFormat": "h:mm AP",
-                    "useCustomFont": false,
-                    "usePrimaryColor": true
+                    "useCustomFont": false
                 },
                 {
-                    "colorName": "error",
+                    "iconColor": "error",
                     "id": "SessionMenu"
                 }
             ]
@@ -296,6 +303,8 @@
         "autoStartAuth": false,
         "avatarImage": "/home/atheeq/dotfiles/pfp.png",
         "boxRadiusRatio": 1,
+        "clockFormat": "hh\\nmm",
+        "clockStyle": "custom",
         "compactLockScreen": false,
         "dimmerOpacity": 0.3,
         "enableLockScreenCountdown": true,
@@ -362,6 +371,7 @@
     "notifications": {
         "backgroundOpacity": 1,
         "criticalUrgencyDuration": 15,
+        "enableBatteryToast": true,
         "enableKeyboardLayoutToast": true,
         "enableMediaToast": false,
         "enabled": true,
@@ -402,6 +412,9 @@
         ],
         "overlayLayer": true
     },
+    "plugins": {
+        "autoUpdate": false
+    },
     "sessionMenu": {
         "countdownDuration": 10000,
         "enableCountdown": true,
@@ -413,44 +426,52 @@
                 "action": "lock",
                 "command": "",
                 "countdownEnabled": true,
-                "enabled": true
+                "enabled": true,
+                "keybind": ""
             },
             {
                 "action": "suspend",
                 "command": "",
                 "countdownEnabled": true,
-                "enabled": true
+                "enabled": true,
+                "keybind": ""
             },
             {
                 "action": "hibernate",
                 "command": "",
                 "countdownEnabled": true,
-                "enabled": true
+                "enabled": true,
+                "keybind": ""
             },
             {
                 "action": "reboot",
                 "command": "",
                 "countdownEnabled": true,
-                "enabled": true
+                "enabled": true,
+                "keybind": ""
             },
             {
                 "action": "logout",
                 "command": "",
                 "countdownEnabled": true,
-                "enabled": true
+                "enabled": true,
+                "keybind": ""
             },
             {
                 "action": "shutdown",
                 "command": "",
                 "countdownEnabled": true,
-                "enabled": true
+                "enabled": true,
+                "keybind": ""
             }
         ],
         "showHeader": true,
         "showNumberLabels": true
     },
-    "settingsVersion": 47,
+    "settingsVersion": 49,
     "systemMonitor": {
+        "batteryCriticalThreshold": 5,
+        "batteryWarningThreshold": 20,
         "cpuCriticalThreshold": 90,
         "cpuPollingInterval": 1000,
         "cpuWarningThreshold": 80,
