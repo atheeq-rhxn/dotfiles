@@ -36,12 +36,12 @@
     "bar": {
         "autoHideDelay": 500,
         "autoShowDelay": 150,
-        "backgroundOpacity": 0,
-        "barType": "simple",
+        "backgroundOpacity": 1,
+        "barType": "framed",
         "capsuleColorKey": "none",
         "capsuleOpacity": 1,
         "density": "default",
-        "displayMode": "always_visible",
+        "displayMode": "auto_hide",
         "floating": false,
         "frameRadius": 12,
         "frameThickness": 8,
@@ -56,7 +56,7 @@
         ],
         "showCapsule": false,
         "showOutline": false,
-        "useSeparateOpacity": true,
+        "useSeparateOpacity": false,
         "widgets": {
             "center": [
                 {
@@ -74,7 +74,7 @@
                     "occupiedColor": "secondary",
                     "pillSize": 0.6,
                     "reverseScroll": false,
-                    "showApplications": true,
+                    "showApplications": false,
                     "showBadge": true,
                     "showLabelsOnlyWhenOccupied": true,
                     "unfocusedIconsOpacity": 1
@@ -126,25 +126,6 @@
                     "id": "Tray",
                     "pinned": [
                     ]
-                },
-                {
-                    "defaultSettings": {
-                        "completedCount": 0,
-                        "count": 0,
-                        "current_page_id": 0,
-                        "isExpanded": false,
-                        "pages": [
-                            {
-                                "id": 0,
-                                "name": "General"
-                            }
-                        ],
-                        "showBackground": true,
-                        "showCompleted": true,
-                        "todos": [
-                        ]
-                    },
-                    "id": "plugin:todo"
                 },
                 {
                     "displayMode": "onhover",
@@ -283,7 +264,7 @@
         "colorizeIcons": false,
         "deadOpacity": 0.6,
         "displayMode": "auto_hide",
-        "enabled": false,
+        "enabled": true,
         "floatingRatio": 1,
         "inactiveIndicators": false,
         "monitors": [
