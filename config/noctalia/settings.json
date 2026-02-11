@@ -6,12 +6,14 @@
         "clipboardWrapText": true,
         "customLaunchPrefix": "",
         "customLaunchPrefixEnabled": false,
+        "density": "default",
         "enableClipPreview": true,
         "enableClipboardHistory": true,
         "enableSettingsSearch": true,
         "enableWindowsSearch": true,
         "iconMode": "tabler",
         "ignoreMouseInput": false,
+        "overviewLayer": true,
         "pinnedApps": [
         ],
         "position": "center",
@@ -44,7 +46,7 @@
         "displayMode": "auto_hide",
         "floating": false,
         "frameRadius": 12,
-        "frameThickness": 8,
+        "frameThickness": 12,
         "hideOnOverview": false,
         "marginHorizontal": 5,
         "marginVertical": 5,
@@ -108,11 +110,6 @@
                     "id": "NotificationHistory",
                     "showUnreadBadge": true,
                     "unreadBadgeColor": "primary"
-                },
-                {
-                    "defaultSettings": {
-                    },
-                    "id": "plugin:mangowc-layout-switcher"
                 }
             ],
             "right": [
@@ -160,6 +157,11 @@
                 {
                     "iconColor": "error",
                     "id": "SessionMenu"
+                },
+                {
+                    "defaultSettings": {
+                    },
+                    "id": "plugin:mangowc-layout-switcher"
                 }
             ]
         }
@@ -292,9 +294,38 @@
         "enableShadows": false,
         "forceBlackScreenCorners": false,
         "iRadiusRatio": 1,
+        "keybinds": {
+            "keyDown": [
+                "Down",
+                "J"
+            ],
+            "keyEnter": [
+                "Return"
+            ],
+            "keyEscape": [
+                "Esc"
+            ],
+            "keyLeft": [
+                "Left",
+                "L"
+            ],
+            "keyRight": [
+                "Right",
+                "H"
+            ],
+            "keyUp": [
+                "Up",
+                "K"
+            ]
+        },
         "language": "",
         "lockOnSuspend": true,
+        "lockScreenAnimations": false,
+        "lockScreenBlur": 0,
         "lockScreenCountdownDuration": 10000,
+        "lockScreenMonitors": [
+        ],
+        "lockScreenTint": 0,
         "radiusRatio": 1,
         "scaleRatio": 1,
         "screenRadiusRatio": 1,
@@ -449,7 +480,7 @@
         "showHeader": true,
         "showNumberLabels": true
     },
-    "settingsVersion": 49,
+    "settingsVersion": 51,
     "systemMonitor": {
         "batteryCriticalThreshold": 5,
         "batteryWarningThreshold": 20,
@@ -509,7 +540,9 @@
         "hideWallpaperFilenames": false,
         "monitorDirectories": [
         ],
+        "overviewBlur": 0.4,
         "overviewEnabled": false,
+        "overviewTint": 0.6,
         "panelPosition": "follow_bar",
         "randomIntervalSec": 300,
         "setWallpaperOnAllMonitors": true,
