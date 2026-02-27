@@ -23,6 +23,10 @@
     "bindings": {
       "alt-h": "workspace::ToggleLeftDock",
       "alt-e": "task::Rerun",
+      "ctrl-h": ["workspace::ActivatePaneInDirection", "Left"],
+      "ctrl-l": ["workspace::ActivatePaneInDirection", "Right"],
+      "ctrl-k": ["workspace::ActivatePaneInDirection", "Up"],
+      "ctrl-j": ["workspace::ActivatePaneInDirection", "Down"],
     },
   },
 ]

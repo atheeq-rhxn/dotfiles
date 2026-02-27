@@ -18,7 +18,7 @@
         "pinnedApps": [
         ],
         "position": "center",
-        "screenshotAnnotationTool": "satty --filename",
+        "screenshotAnnotationTool": "satty -f -",
         "showCategories": true,
         "showIconBackground": true,
         "sortByMostUsed": true,
@@ -33,6 +33,7 @@
         "preferredPlayer": "",
         "visualizerType": "linear",
         "volumeFeedback": false,
+        "volumeFeedbackSoundFile": "",
         "volumeOverdrive": false,
         "volumeStep": 5
     },
@@ -43,9 +44,11 @@
         "barType": "floating",
         "capsuleColorKey": "none",
         "capsuleOpacity": 1,
+        "contentPadding": 0,
         "density": "compact",
         "displayMode": "always_visible",
         "floating": true,
+        "fontScale": 1,
         "frameRadius": 12,
         "frameThickness": 12,
         "hideOnOverview": false,
@@ -58,8 +61,10 @@
         "screenOverrides": [
         ],
         "showCapsule": false,
+        "showOnWorkspaceSwitch": true,
         "showOutline": false,
         "useSeparateOpacity": true,
+        "widgetSpacing": 6,
         "widgets": {
             "center": [
                 {
@@ -73,9 +78,9 @@
                     "hideUnoccupied": true,
                     "iconScale": 0.9,
                     "id": "Workspace",
-                    "labelMode": "none",
+                    "labelMode": "index",
                     "occupiedColor": "secondary",
-                    "pillSize": 0.6,
+                    "pillSize": 0.75,
                     "showApplications": true,
                     "showBadge": true,
                     "showLabelsOnlyWhenOccupied": true,
@@ -111,6 +116,17 @@
                     "id": "NotificationHistory",
                     "showUnreadBadge": true,
                     "unreadBadgeColor": "primary"
+                },
+                {
+                    "defaultSettings": {
+                        "activeColor": "primary",
+                        "enableToast": true,
+                        "hideInactive": false,
+                        "iconSpacing": 4,
+                        "inactiveColor": "none",
+                        "removeMargins": false
+                    },
+                    "id": "plugin:privacy-indicator"
                 },
                 {
                     "defaultSettings": {
@@ -168,6 +184,8 @@
         }
     },
     "brightness": {
+        "backlightDeviceMappings": [
+        ],
         "brightnessStep": 5,
         "enableDdcSupport": false,
         "enforceMinimum": false
@@ -259,7 +277,8 @@
         "enabled": false,
         "gridSnap": false,
         "monitorWidgets": [
-        ]
+        ],
+        "overviewEnabled": true
     },
     "dock": {
         "animationSpeed": 1,
@@ -268,9 +287,15 @@
         "deadOpacity": 0.6,
         "displayMode": "auto_hide",
         "dockType": "floating",
-        "enabled": false,
+        "enabled": true,
         "floatingRatio": 1,
+        "groupApps": false,
+        "groupClickAction": "cycle",
+        "groupContextMenuMode": "extended",
+        "groupIndicatorStyle": "dots",
         "inactiveIndicators": false,
+        "launcherIconColor": "none",
+        "launcherPosition": "end",
         "monitors": [
         ],
         "onlySameOutput": true,
@@ -279,6 +304,7 @@
         "pinnedStatic": false,
         "position": "bottom",
         "showFrameIndicator": true,
+        "showLauncherIcon": false,
         "sitOnFrame": false,
         "size": 1
     },
@@ -333,6 +359,7 @@
         "lockScreenMonitors": [
         ],
         "lockScreenTint": 0,
+        "passwordChars": false,
         "radiusRatio": 1,
         "reverseScroll": false,
         "scaleRatio": 1,
@@ -378,6 +405,7 @@
         "bluetoothRssiPollIntervalMs": 10000,
         "bluetoothRssiPollingEnabled": false,
         "disableDiscoverability": false,
+        "networkPanelView": "wifi",
         "wifiDetailsViewMode": "grid",
         "wifiEnabled": true
     },
@@ -397,7 +425,7 @@
         "density": "default",
         "enableBatteryToast": true,
         "enableKeyboardLayoutToast": true,
-        "enableMarkdown": false,
+        "enableMarkdown": true,
         "enableMediaToast": false,
         "enabled": true,
         "location": "top_right",
@@ -414,11 +442,11 @@
         },
         "sounds": {
             "criticalSoundFile": "",
-            "enabled": false,
+            "enabled": true,
             "excludedApps": "discord,firefox,chrome,chromium,edge",
             "lowSoundFile": "",
             "normalSoundFile": "",
-            "separateSounds": false,
+            "separateSounds": true,
             "volume": 0.5
         }
     },
@@ -519,23 +547,24 @@
     },
     "templates": {
         "activeTemplates": [
+            {
+                "enabled": true,
+                "id": "mango"
+            }
         ],
         "enableUserTheming": false
     },
     "ui": {
-        "bluetoothDetailsViewMode": "grid",
-        "bluetoothHideUnnamedDevices": false,
         "boxBorderEnabled": false,
         "fontDefault": "Open Sans",
         "fontDefaultScale": 1,
         "fontFixed": "JetBrains Mono",
         "fontFixedScale": 1,
-        "networkPanelView": "wifi",
         "panelBackgroundOpacity": 1,
         "panelsAttachedToBar": false,
         "settingsPanelMode": "centered",
-        "tooltipsEnabled": true,
-        "wifiDetailsViewMode": "grid"
+        "settingsPanelSideBarCardStyle": false,
+        "tooltipsEnabled": true
     },
     "wallpaper": {
         "automationEnabled": false,
