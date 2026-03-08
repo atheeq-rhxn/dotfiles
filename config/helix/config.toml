@@ -28,3 +28,4 @@ e = [
   ':open %sh{cat /tmp/unique-file}',
   ':redraw',
 ]
+g = [":new", ":sh zellij run -fc -x 0 -y 0 --height 100%% --width 100%% -- gitui", ":buffer-close!", ":redraw"]

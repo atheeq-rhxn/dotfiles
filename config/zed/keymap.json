@@ -22,7 +22,9 @@
     "context": "Workspace",
     "bindings": {
       "alt-h": "workspace::ToggleLeftDock",
-      "alt-e": "task::Rerun",
+      "alt-l": "workspace::ToggleRightDock",
+      "alt-r": "task::Rerun",
+      "alt-e": "project_panel::ToggleFocus",
     },
   },
 ]

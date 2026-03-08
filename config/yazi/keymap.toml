@@ -1,29 +1,31 @@
-[[mgr.prepend_keymap]]
-on   = "l"
-run  = "plugin smart-enter"
-desc = "Enter the child directory, or open the file"
+theme = "catppuccin_mocha"
 
-[[mgr.prepend_keymap]]
-on   = "P"
-run  = "plugin toggle-pane max-preview"
-desc = "Maximize or restore the preview pane"
+[editor]
+line-number = "relative"
+end-of-line-diagnostics = "hint"
 
-[[mgr.prepend_keymap]]
-on   = [ "c", "m" ]
-run  = "plugin chmod"
-desc = "Chmod on selected files"
+[editor.inline-diagnostics]
+cursor-line = "error"
 
-[[manager.keymap]]
-on = ["R", "d"]
-run = "plugin sudo -- remove"
-desc = "sudo trash"
+[keys.normal.space.w]
+a = ":wa"
+[keys.normal.space.q]
+f = ":q!"
 
-[[mgr.prepend_keymap]]
-on = "u"
-run = "plugin restore"
-desc = "Restore last deleted files/folders"
+[editor.soft-wrap]
+enable = true
 
-[[mgr.prepend_keymap]]
-on = ["C"]
-run = "plugin ouch"
-desc = "Compress with ouch"
+[editor.indent-guides]
+render = true
+character = "▏"
+skip-levels = 1
+
+[keys.normal.space]
+e = [
+  ':sh rm -f /tmp/unique-file',
+  ':insert-output yazi "%{buffer_name}" --chooser-file=/tmp/unique-file',
+  ':insert-output echo "\x1b[?1049h\x1b[?2004h" > /dev/tty',
+  ':open %sh{cat /tmp/unique-file}',
+  ':redraw',
+]
+g = [":new", ":sh zellij run -fc -x 0 -y 0 --height 100%% --width 100%% -- gitui", ":buffer-close!", ":redraw"]
