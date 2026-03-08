@@ -9,11 +9,6 @@ rev = "1962818"
 hash = "6fa6a05a81c98dd000fbca3cca6e9682"
 
 [[plugin.deps]]
-use = "yazi-rs/plugins:toggle-pane"
-rev = "1962818"
-hash = "4c0260feb50ea2437380690ffc241da7"
-
-[[plugin.deps]]
 use = "yazi-rs/plugins:no-status"
 rev = "1962818"
 hash = "3e023d31f29201efdac2a6ae35fedb78"
