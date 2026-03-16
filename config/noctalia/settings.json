@@ -41,13 +41,14 @@
         "autoHideDelay": 500,
         "autoShowDelay": 150,
         "backgroundOpacity": 0,
-        "barType": "floating",
+        "barType": "simple",
         "capsuleColorKey": "none",
         "capsuleOpacity": 1,
         "contentPadding": 0,
         "density": "mini",
         "displayMode": "always_visible",
-        "floating": true,
+        "enableExclusionZoneInset": true,
+        "floating": false,
         "fontScale": 1,
         "frameRadius": 12,
         "frameThickness": 12,
@@ -92,6 +93,7 @@
                     "occupiedColor": "secondary",
                     "pillSize": 0.75,
                     "showApplications": true,
+                    "showApplicationsHover": false,
                     "showBadge": true,
                     "showLabelsOnlyWhenOccupied": true,
                     "unfocusedIconsOpacity": 1
@@ -127,15 +129,6 @@
                     "id": "NotificationHistory",
                     "showUnreadBadge": true,
                     "unreadBadgeColor": "primary"
-                },
-                {
-                    "defaultSettings": {
-                        "compactMode": false,
-                        "defaultDuration": 0,
-                        "iconColor": "none",
-                        "textColor": "none"
-                    },
-                    "id": "plugin:timer"
                 },
                 {
                     "defaultSettings": {
@@ -296,6 +289,7 @@
     "desktopWidgets": {
         "enabled": false,
         "gridSnap": false,
+        "gridSnapScale": false,
         "monitorWidgets": [
         ],
         "overviewEnabled": true
@@ -306,7 +300,7 @@
         "colorizeIcons": false,
         "deadOpacity": 0.6,
         "displayMode": "auto_hide",
-        "dockType": "floating",
+        "dockType": "static",
         "enabled": true,
         "floatingRatio": 1,
         "groupApps": false,
@@ -325,8 +319,7 @@
         "pinnedApps": [
             "app.zen_browser.zen",
             "com.mitchellh.ghostty",
-            "dev.zed.Zed",
-            "Legcord"
+            "dev.zed.Zed"
         ],
         "pinnedStatic": false,
         "position": "bottom",
@@ -618,9 +611,11 @@
         "fontFixedScale": 1,
         "panelBackgroundOpacity": 1,
         "panelsAttachedToBar": false,
+        "scrollbarAlwaysVisible": true,
         "settingsPanelMode": "centered",
         "settingsPanelSideBarCardStyle": false,
-        "tooltipsEnabled": true
+        "tooltipsEnabled": true,
+        "translucentWidgets": false
     },
     "wallpaper": {
         "automationEnabled": false,

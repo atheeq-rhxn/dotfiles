@@ -1,4 +1,44 @@
 {
+  "title_bar": {
+    "show_branch_icon": true
+  },
+  "tabs": {
+    "file_icons": true
+  },
+  "show_wrap_guides": true,
+  "allow_rewrap": "anywhere",
+  "soft_wrap": "editor_width",
+  "agent_buffer_font_size": 20.0,
+  "agent_ui_font_size": 20.0,
+  "agent": {
+    "dock": "left",
+    "tool_permissions": {
+      "tools": {
+        "terminal": {
+          "always_allow": [
+            {
+              "pattern": "^find\\b"
+            },
+            {
+              "pattern": "^grep\\b"
+            },
+            {
+              "pattern": "^cat\\b"
+            }
+          ]
+        }
+      }
+    },
+    "default_profile": "write",
+    "default_model": {
+      "provider": "zed.dev",
+      "model": "claude-sonnet-4-6",
+      "enable_thinking": true,
+      "effort": "high"
+    },
+    "favorite_models": [],
+    "model_parameters": []
+  },
   "extend_comment_on_newline": false,
   "autosave": {
     "after_delay": {
@@ -30,7 +70,7 @@
     "dark": "Catppuccin Mocha (Blur) [Light]",
   },
   "helix_mode": true,
-  "disable_ai": true,
+  "disable_ai": false,
   "icon_theme": {
     "light": "Catppuccin Mocha",
     "dark": "Catppuccin Mocha",
